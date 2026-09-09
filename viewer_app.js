@@ -31,12 +31,11 @@ const predicates = {
   stickers: file => file.category === '贴纸分享',
   activities: file => file.category === '活动',
   travel: file => file.category === '旅行记录',
-  timeline: file => Boolean(pictureDate(file)),
   other: file => ['其他图片', '图片缓存', '待分类'].includes(file.category),
   screenshots: file => file.path.startsWith('screenshots/') || sourcesOf(file).some(source => (source.path || '').startsWith('screenshots/'))
 };
 const titles = {all:'全部图片', postcards:'明信片', collections:'图鉴与收藏', inventory:'道具资料', stickers:'贴纸分享',
-  activities:'活动图片', travel:'旅行汇总', timeline:'图片日期时间线', other:'其他图片', screenshots:'补充截图'};
+  activities:'活动图片', travel:'旅行汇总', other:'其他图片', screenshots:'补充截图'};
 let view = files.some(predicates.postcards) ? 'postcards' : 'all';
 let visible = [], active = 0;
 $('device').textContent = `${manifest.device_model || '型号待确认'} · Android ${manifest.os_version || '待确认'} · 游戏 ${manifest.game_version || '待确认'}`;
@@ -45,23 +44,10 @@ $('image-count').textContent = files.length;
 $('screen-count').textContent = files.filter(predicates.screenshots).length;
 $('size').textContent = sizeText(files.reduce((size, file) => size + file.file_size, 0));
 $('day').textContent = manifest.backup_time.slice(0, 10);
-$('verified-at').textContent = '校验时间：' + displayDate(verification.checked_at) + '。此处显示生成页面时的结果；后续变化需要重新校验。';
-const checkMap = new Map(verification.checks.map(check => [check.path, check.ok]));
-for (const file of files) {
-  const tr = element('tr'), path = element('td', undefined, 'path');
-  path.append(link(file.path, file.path));
-  tr.append(path);
-  for (const value of [sizeText(file.file_size), file.sha256, checkMap.get(file.path) ? '通过' : '失败']) {
-    const cell = element('td');
-    cell.append(element('code', value));
-    tr.append(cell);
-  }
-  $('files-body').append(tr);
-}
 const captions = [...new Set(files.map(file => meta(file).caption).filter(Boolean))];
 const profile = element('table');
 for (const [label, value] of [['游戏', manifest.game_name], ['版本', manifest.game_version], ['UID', '未取得'], ['账号昵称', '未确认'],
-  ['图片署名（OCR，字段含义未确认）', captions.join('、') || '未确认'], ['设备', manifest.device_model], ['备份日期', displayDate(manifest.backup_time)]]) {
+  ['图片署名', captions.join('、') || '未确认'], ['设备', manifest.device_model], ['备份日期', displayDate(manifest.backup_time)]]) {
   const tr = element('tr');
   tr.append(element('td', label), element('td', value || '未确认'));
   profile.append(tr);
@@ -165,7 +151,7 @@ function selectView(next) {
   view = next;
   document.querySelectorAll('nav button[data-view]').forEach(button => button.setAttribute('aria-current', String(button.dataset.view === view)));
   $('media-view').hidden = !predicates[view];
-  for (const name of ['profile', 'map', 'files']) $(name + '-view').hidden = view !== name;
+  $('profile-view').hidden = view !== 'profile';
   if ($('resources-view')) $('resources-view').hidden = view !== 'resources';
   $('search').value = ''; $('kind-filter').value = ''; $('year-filter').value = '';
   if (predicates[view]) render();
