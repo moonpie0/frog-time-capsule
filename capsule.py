@@ -572,7 +572,14 @@ class Capsule:
         checks = self.verify()
         (self.root / "reports/manual-checklist.md").write_text(MANUAL_CHECKLIST, encoding="utf-8")
         from viewer_template import render_viewer, render_report
-        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks), encoding="utf-8")
+        catalog = read_json(self.root / "parsed/resource-catalog.json", None)
+        resource_checks = None
+        if catalog:
+            from resource_catalog import verify_catalog, render_catalog
+            resource_checks = verify_catalog(self.root, catalog)
+            write_json(self.root / "reports/resource-integrity.json", resource_checks)
+            (self.root / "viewer/resources.html").write_text(render_catalog(catalog, resource_checks), encoding="utf-8")
+        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks, catalog, resource_checks), encoding="utf-8")
         (self.root / "reports/backup-report.html").write_text(render_report(self.manifest, rows, checks), encoding="utf-8")
         self.log(f"离线档案已生成：{self.root / 'viewer/index.html'}")
 

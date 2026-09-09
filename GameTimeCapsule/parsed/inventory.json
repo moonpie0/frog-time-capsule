@@ -57,7 +57,13 @@
         "classification_evidence": "reports/contact-sheets/contact-02.png",
         "date_evidence": "reports/date-proofs/dates-02.png"
       },
-      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+      "description": "森之国度的食物\n前往未知的世界",
+      "description_status": "visually_reviewed",
+      "related_resources": [
+        "goods_96_png"
+      ],
+      "resource_match_status": "visually_reviewed"
     },
     {
       "sha256": "4967a4c57bc9bb59958d470b99d356c0729a4973b7eaea9f30f7a27048a90fc7",
@@ -113,7 +119,13 @@
         "classification_evidence": "reports/contact-sheets/contact-02.png",
         "date_evidence": "reports/date-proofs/dates-02.png"
       },
-      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+      "description": "来自森之国度的信物\n与猫猫同行或许有好事发生",
+      "description_status": "visually_reviewed",
+      "related_resources": [
+        "goods_97_png"
+      ],
+      "resource_match_status": "visually_reviewed"
     },
     {
       "sha256": "f76d6d7252deb1321086dbab7df17814193ccb841412f7b8809edcf852a0dd14",
@@ -169,7 +181,13 @@
         "classification_evidence": "reports/contact-sheets/contact-02.png",
         "date_evidence": "reports/date-proofs/dates-02.png"
       },
-      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+      "description": "来自森之国度的信物\n与猫猫同行或许有好事发生",
+      "description_status": "visually_reviewed",
+      "related_resources": [
+        "goods_97_png"
+      ],
+      "resource_match_status": "visually_reviewed"
     }
   ],
   "notes": "仅图片证据。日期是图片上的印刷日期，不等于已取得游戏数据库中的完整旅行或收藏记录。"

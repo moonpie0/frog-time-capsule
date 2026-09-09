@@ -1,0 +1,41 @@
+{
+  "reviewed_at": "2026-09-09T11:58:43+08:00",
+  "changes": [
+    {
+      "image_sha256": "5f5adaa2eb17467415c4bea0d55b618689f61d91c213c22463060cc0e8908df3",
+      "resource_key": "collection_1001_png",
+      "annotation_source": "original_image_visual_review"
+    },
+    {
+      "image_sha256": "4967a4c57bc9bb59958d470b99d356c0729a4973b7eaea9f30f7a27048a90fc7",
+      "resource_key": "goods_97_png",
+      "annotation_source": "original_image_visual_review"
+    },
+    {
+      "image_sha256": "f76d6d7252deb1321086dbab7df17814193ccb841412f7b8809edcf852a0dd14",
+      "resource_key": "goods_97_png",
+      "annotation_source": "original_image_visual_review"
+    },
+    {
+      "image_sha256": "9b4c2769d750f9774738a97f4e3adcb6ddf69e6d89abf38162122d507c50a3e8",
+      "resource_key": "goods_96_png",
+      "annotation_source": "original_image_visual_review"
+    },
+    {
+      "image_sha256": "9eb970d31fa086779f6e56a0b88e2de766736416b4f2577c0baadb758336c8a8",
+      "displayed_date": "2024-08-13",
+      "annotation_source": "original_image_visual_review"
+    },
+    {
+      "image_sha256": "0aa0dd11f0febe970ccc195b0926c711005692c324630449caa02bf672da6334",
+      "displayed_date": "2024-08-13",
+      "annotation_source": "original_image_visual_review"
+    },
+    {
+      "image_sha256": "04e37e29ec8e69a1f4e3d1b5f359b05a6910dc7d6ba368343fc949fa485f1a4b",
+      "displayed_date": "2024-08-13",
+      "annotation_source": "original_image_visual_review"
+    }
+  ],
+  "notes": "仅核对图片可见文字和图像对应关系。未由分享图推断当前拥有数量；未解密配置。"
+}

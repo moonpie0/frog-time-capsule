@@ -3025,7 +3025,13 @@
           "classification_evidence": "reports/contact-sheets/contact-02.png",
           "date_evidence": "reports/date-proofs/dates-02.png"
         },
-        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+        "description": "森之国度的食物\n前往未知的世界",
+        "description_status": "visually_reviewed",
+        "related_resources": [
+          "goods_96_png"
+        ],
+        "resource_match_status": "visually_reviewed"
       }
     },
     {
@@ -3089,7 +3095,13 @@
           "classification_evidence": "reports/contact-sheets/contact-02.png",
           "date_evidence": "reports/date-proofs/dates-02.png"
         },
-        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+        "description": "来自森之国度的信物\n与猫猫同行或许有好事发生",
+        "description_status": "visually_reviewed",
+        "related_resources": [
+          "goods_97_png"
+        ],
+        "resource_match_status": "visually_reviewed"
       }
     },
     {
@@ -3153,7 +3165,13 @@
           "classification_evidence": "reports/contact-sheets/contact-02.png",
           "date_evidence": "reports/date-proofs/dates-02.png"
         },
-        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+        "description": "来自森之国度的信物\n与猫猫同行或许有好事发生",
+        "description_status": "visually_reviewed",
+        "related_resources": [
+          "goods_97_png"
+        ],
+        "resource_match_status": "visually_reviewed"
       }
     },
     {
@@ -3194,8 +3212,8 @@
         "category": "收藏",
         "subcategory": "收藏",
         "classification_status": "visually_reviewed",
-        "displayed_date": null,
-        "date_status": "not_confirmed",
+        "displayed_date": "2024-08-13",
+        "date_status": "visually_reviewed",
         "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
         "location": null,
         "location_status": "not_visible_or_unconfirmed",
@@ -3258,8 +3276,8 @@
         "category": "收藏",
         "subcategory": "收藏",
         "classification_status": "visually_reviewed",
-        "displayed_date": null,
-        "date_status": "not_confirmed",
+        "displayed_date": "2024-08-13",
+        "date_status": "visually_reviewed",
         "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
         "location": null,
         "location_status": "not_visible_or_unconfirmed",
@@ -3322,8 +3340,8 @@
         "category": "收藏",
         "subcategory": "收藏",
         "classification_status": "visually_reviewed",
-        "displayed_date": null,
-        "date_status": "not_confirmed",
+        "displayed_date": "2024-08-13",
+        "date_status": "visually_reviewed",
         "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
         "location": null,
         "location_status": "not_visible_or_unconfirmed",
@@ -5622,15 +5640,15 @@
       ],
       "category_source": "visually_reviewed",
       "content": {
-        "title": "收藏",
+        "title": "江西省博物馆 · 收藏分享",
         "category": "收藏",
         "subcategory": "收藏",
         "classification_status": "visually_reviewed",
         "displayed_date": null,
         "date_status": "not_confirmed",
         "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
-        "location": null,
-        "location_status": "not_visible_or_unconfirmed",
+        "location": "江西省博物馆",
+        "location_status": "visually_reviewed",
         "caption": null,
         "caption_status": "not_confirmed",
         "unknown_field_caption_role": null,
@@ -5649,7 +5667,11 @@
           "classification_evidence": "reports/contact-sheets/contact-03.png",
           "date_evidence": "reports/date-proofs/dates-03.png"
         },
-        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+        "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+        "related_resources": [
+          "collection_1001_png"
+        ],
+        "resource_match_status": "visually_reviewed"
       }
     },
     {
@@ -13143,7 +13165,7 @@
   "device_model": "23049RAD8C",
   "os_version": "14",
   "game_version": "1.0.20",
-  "updated_at": "2026-09-09T10:06:47+08:00",
+  "updated_at": "2026-09-09T12:13:26+08:00",
   "last_backup_attempt": {
     "time": "2026-09-09T08:43:40+08:00",
     "eligible_images": 405,

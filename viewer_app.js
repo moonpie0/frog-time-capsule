@@ -72,7 +72,7 @@ for (const year of [...new Set(files.map(file => pictureDate(file).slice(0, 4)).
 }
 function searchable(file) {
   const data = meta(file);
-  return [file.path, data.title, data.location, data.caption, data.displayed_date, data.ocr_text,
+  return [file.path, data.title, data.location, data.caption, data.displayed_date, data.ocr_text, data.description,
     ...sourcesOf(file).map(source => source.data_source)].filter(Boolean).join('\n').toLowerCase();
 }
 function render() {
@@ -128,6 +128,18 @@ function show(index) {
   ];
   for (const [label, value] of fields) list.append(element('dt', label), element('dd', value));
   info.append(list, link('打开原图', file.path));
+  if (data.description) info.append(element('h3', '图片说明'), element('p', data.description));
+  for (const resource of data.related_resources || []) {
+    const related = element('a', '查看对应资源图像');
+    related.href = '#resource-' + encodeURIComponent(resource);
+    related.onclick = event => {
+      if (!window.openCatalogResource) return;
+      event.preventDefault();
+      $('lightbox').close();
+      window.openCatalogResource(resource);
+    };
+    info.append(related);
+  }
   if (file.content) info.append(link('图片信息 JSON', 'parsed/image-metadata/' + file.sha256 + '.json'));
   if (data.ocr_file) info.append(link('OCR 原始结果', data.ocr_file));
   info.append(element('p', '图片日期仅表示图中文字，不推断为出发、收件或服务器时间。', 'muted'));
@@ -151,15 +163,19 @@ function show(index) {
 }
 function selectView(next) {
   view = next;
-  document.querySelectorAll('nav button').forEach(button => button.setAttribute('aria-current', String(button.dataset.view === view)));
+  document.querySelectorAll('nav button[data-view]').forEach(button => button.setAttribute('aria-current', String(button.dataset.view === view)));
   $('media-view').hidden = !predicates[view];
   for (const name of ['profile', 'map', 'files']) $(name + '-view').hidden = view !== name;
+  if ($('resources-view')) $('resources-view').hidden = view !== 'resources';
   $('search').value = ''; $('kind-filter').value = ''; $('year-filter').value = '';
   if (predicates[view]) render();
 }
-document.querySelectorAll('nav button').forEach(button => {
+document.querySelectorAll('nav button[data-view]').forEach(button => {
   if (predicates[button.dataset.view]) button.append(element('span', String(files.filter(predicates[button.dataset.view]).length)));
-  button.onclick = () => selectView(button.dataset.view);
+  button.onclick = () => {
+    selectView(button.dataset.view);
+    history.replaceState(null, '', button.dataset.view === 'resources' ? '#resources' : '#view-' + button.dataset.view);
+  };
 });
 $('search').oninput = render;
 for (const id of ['sort', 'kind-filter', 'year-filter']) $(id).onchange = render;
@@ -171,3 +187,17 @@ $('lightbox').addEventListener('keydown', event => {
   }
 });
 selectView(view);
+function openLinkedPhoto() {
+  if (!location.hash.startsWith('#photo-')) return;
+  openPhotoBySha(location.hash.slice(7));
+}
+function openPhotoBySha(sha) {
+  if (!files.some(file => file.sha256 === sha)) return;
+  selectView('all');
+  const index = visible.findIndex(file => file.sha256 === sha);
+  if (index >= 0) show(index);
+  history.replaceState(null, '', '#photo-' + sha);
+}
+window.openPhotoBySha = openPhotoBySha;
+window.addEventListener('hashchange', openLinkedPhoto);
+openLinkedPhoto();

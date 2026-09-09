@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:06:47+08:00",
+  "updated_at": "2026-09-09T12:13:26+08:00",
   "categories": {
     "明信片": 176,
     "活动": 7,
@@ -11,7 +11,7 @@
     "贴纸分享": 12
   },
   "records": 206,
-  "displayed_dates": 176,
-  "locations": 48,
+  "displayed_dates": 179,
+  "locations": 49,
   "ocr_unverified_note": "OCR 原文保留识别错误；核对值与 OCR 值分开记录。"
 }

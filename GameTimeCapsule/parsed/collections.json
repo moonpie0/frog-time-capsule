@@ -90,8 +90,8 @@
       "category": "收藏",
       "subcategory": "收藏",
       "classification_status": "visually_reviewed",
-      "displayed_date": null,
-      "date_status": "not_confirmed",
+      "displayed_date": "2024-08-13",
+      "date_status": "visually_reviewed",
       "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
       "location": null,
       "location_status": "not_visible_or_unconfirmed",
@@ -146,8 +146,8 @@
       "category": "收藏",
       "subcategory": "收藏",
       "classification_status": "visually_reviewed",
-      "displayed_date": null,
-      "date_status": "not_confirmed",
+      "displayed_date": "2024-08-13",
+      "date_status": "visually_reviewed",
       "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
       "location": null,
       "location_status": "not_visible_or_unconfirmed",
@@ -202,8 +202,8 @@
       "category": "收藏",
       "subcategory": "收藏",
       "classification_status": "visually_reviewed",
-      "displayed_date": null,
-      "date_status": "not_confirmed",
+      "displayed_date": "2024-08-13",
+      "date_status": "visually_reviewed",
       "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
       "location": null,
       "location_status": "not_visible_or_unconfirmed",
@@ -254,15 +254,15 @@
           "category": "图片缓存"
         }
       ],
-      "title": "收藏",
+      "title": "江西省博物馆 · 收藏分享",
       "category": "收藏",
       "subcategory": "收藏",
       "classification_status": "visually_reviewed",
       "displayed_date": null,
       "date_status": "not_confirmed",
       "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
-      "location": null,
-      "location_status": "not_visible_or_unconfirmed",
+      "location": "江西省博物馆",
+      "location_status": "visually_reviewed",
       "caption": null,
       "caption_status": "not_confirmed",
       "unknown_field_caption_role": null,
@@ -281,7 +281,11 @@
         "classification_evidence": "reports/contact-sheets/contact-03.png",
         "date_evidence": "reports/date-proofs/dates-03.png"
       },
-      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。",
+      "related_resources": [
+        "collection_1001_png"
+      ],
+      "resource_match_status": "visually_reviewed"
     },
     {
       "sha256": "a2161093486476e60dbafcea76851a49290203d3c5d7b3b0f5841adf00d7b234",

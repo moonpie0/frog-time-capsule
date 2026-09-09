@@ -2372,6 +2372,174 @@
       "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
     },
     {
+      "sha256": "9eb970d31fa086779f6e56a0b88e2de766736416b4f2577c0baadb758336c8a8",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 603653,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+          "source_modified_at": "2024-08-13T02:54:08+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/33bf24187222956e12055b48db4237cb.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/33bf24187222956e12055b48db4237cb.jpg",
+          "source_modified_at": "2024-08-13T02:54:08+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "收藏",
+      "category": "收藏",
+      "subcategory": "收藏",
+      "classification_status": "visually_reviewed",
+      "displayed_date": "2024-08-13",
+      "date_status": "visually_reviewed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行然\n20四8邝3",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/9eb970d31fa086779f6e56a0b88e2de766736416b4f2577c0baadb758336c8a8.json",
+      "review": {
+        "number": 50,
+        "category": "收藏",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "0aa0dd11f0febe970ccc195b0926c711005692c324630449caa02bf672da6334",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 600644,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+          "source_modified_at": "2024-08-13T02:54:15+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/87a573374dbf25b9a73d5b42ee98fb8d.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/87a573374dbf25b9a73d5b42ee98fb8d.jpg",
+          "source_modified_at": "2024-08-13T02:54:15+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "收藏",
+      "category": "收藏",
+      "subcategory": "收藏",
+      "classification_status": "visually_reviewed",
+      "displayed_date": "2024-08-13",
+      "date_status": "visually_reviewed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行然\n20四8邝3",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/0aa0dd11f0febe970ccc195b0926c711005692c324630449caa02bf672da6334.json",
+      "review": {
+        "number": 51,
+        "category": "收藏",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "04e37e29ec8e69a1f4e3d1b5f359b05a6910dc7d6ba368343fc949fa485f1a4b",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 596934,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+          "source_modified_at": "2024-08-13T02:54:20+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a662f7508a90abec9da70081f84ab3ae.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a662f7508a90abec9da70081f84ab3ae.jpg",
+          "source_modified_at": "2024-08-13T02:54:20+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "收藏",
+      "category": "收藏",
+      "subcategory": "收藏",
+      "classification_status": "visually_reviewed",
+      "displayed_date": "2024-08-13",
+      "date_status": "visually_reviewed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行砉然\n20四8邝3",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/04e37e29ec8e69a1f4e3d1b5f359b05a6910dc7d6ba368343fc949fa485f1a4b.json",
+      "review": {
+        "number": 52,
+        "category": "收藏",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
       "sha256": "bf25eb034a973e6243d4cee3f2df5de28b37e98cad66ff08f24d9c77b98b12d0",
       "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/618f0a9d4adcc5c682aee8b15997b393.jpg",
       "image": {

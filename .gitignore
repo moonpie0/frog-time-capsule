@@ -1,0 +1,8 @@
+# Local system-backup inspection must never be published with the photo viewer.
+/_local_backup_audit/
+/inspect_miui_backup.py
+/inspect_game_program.py
+/miui_audit_report.py
+/test_miui_inventory.py
+*.bak
+__pycache__/

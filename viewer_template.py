@@ -43,7 +43,7 @@ def table(rows):
     return '<div class="table-scroll"><table class="data-table"><thead><tr>' + ''.join('<th>' + h + '</th>' for h in headings) + '</tr></thead><tbody>' + ''.join('<tr>' + ''.join('<td class="path">' + html.escape(str(row[k])) + '</td>' for k in keys) + '</tr>' for row in rows) + '</tbody></table></div>'
 
 
-def render_viewer(manifest, rows, checks):
+def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None):
     body = """
 <div class="shell"><aside class="sidebar"><p class="brand">游戏时光胶囊</p><div class="muted">个人游戏纪念档案</div><span class="status">部分保存</span>
 <nav aria-label="档案视图"><button data-view="postcards" aria-current="true">明信片</button><button data-view="collections">图鉴与收藏</button><button data-view="inventory">道具资料</button><button data-view="stickers">贴纸分享</button><button data-view="activities">活动图片</button><button data-view="travel">旅行汇总</button><button data-view="timeline">图片日期时间线</button><button data-view="other">其他图片</button><button data-view="all">全部图片</button><button data-view="screenshots">补充截图</button><button data-view="profile">我的资料</button><button data-view="map">数据地图</button><button data-view="files">原件与校验</button></nav>
@@ -57,9 +57,21 @@ def render_viewer(manifest, rows, checks):
 <section id="files-view" class="section" hidden><h2>原件与 SHA-256 校验</h2><p class="muted" id="verified-at"></p><div class="table-scroll"><table class="file-table"><thead><tr><th>原始文件</th><th>大小</th><th>SHA-256</th><th>最近校验</th></tr></thead><tbody id="files-body"></tbody></table></div></section>
 </main></div><dialog id="lightbox"><div class="light-head"><strong id="light-title"></strong><button class="icon" id="prev" aria-label="上一张" title="上一张">&#8592;</button><button class="icon" id="next" aria-label="下一张" title="下一张">&#8594;</button><button class="icon" id="close" aria-label="关闭" title="关闭">&#215;</button></div><div class="light-layout"><img class="light-image" id="light-image" alt=""><aside class="light-info" id="light-info"></aside></div></dialog>
 """.replace("__MAP__", table(rows))
+    if catalog:
+        from resource_catalog import catalog_panel, catalog_dialog
+        count = sum(not item.get("hidden_reason") for item in catalog["items"])
+        button = f'<button data-view="resources">资源图鉴<span>{count}</span></button>'
+        body = body.replace('<button data-view="inventory">', button + '<button data-view="inventory">')
+        body = body.replace('<section id="profile-view"', catalog_panel(hidden=True) + '<section id="profile-view"')
+        body += catalog_dialog()
     script = "const manifest=" + safe_json(manifest) + ";const verification=" + safe_json(checks) + ";\n"
     script += Path(__file__).with_name("viewer_app.js").read_text(encoding="utf-8")
-    return document("旅行青蛙 · 个人时光胶囊", body, script)
+    page_style = ""
+    if catalog:
+        from resource_catalog import catalog_script, CATALOG_STYLE
+        script += "\n" + catalog_script(catalog, catalog_checks)
+        page_style = CATALOG_STYLE
+    return document("旅行青蛙 · 个人时光胶囊", body, script).replace("</style>", page_style + "</style>")
 
 
 def render_report(manifest, rows, checks):
