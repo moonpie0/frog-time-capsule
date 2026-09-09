@@ -1,0 +1,1038 @@
+{
+  "checked_at": "2026-09-09T10:06:48+08:00",
+  "passed": 206,
+  "failed": 0,
+  "untracked_files": [],
+  "checks": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6e2f1d1762de14aa9747c8c42823a650.jpg",
+      "ok": true,
+      "actual_sha256": "86bfdbd61f0b68052a961c4532a472e4869ea584df5a2e798e2008abd5f1822d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/65749ad30e311a3c1c392e034c8378b7.jpg",
+      "ok": true,
+      "actual_sha256": "3aa8753aa2d0316db3af801982669871e68174040baf0c0ce7f0e3c2ca48cfd1"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a950dc7807948e517c8585dc3b87ec45.jpg",
+      "ok": true,
+      "actual_sha256": "fc8861857b5af6c35730604d37536f2bdd11b3bb150248769add3db5e03cd3db"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/06642caf69a022962aabeaafa69b0e46.jpg",
+      "ok": true,
+      "actual_sha256": "9a23bb501b652179f40d6aa73515095ef21386387f4ee7b715877ea36fd23cb3"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c366e252d1e02b0d9d50d57cce7e63b2.jpg",
+      "ok": true,
+      "actual_sha256": "b3fbd1080eda2c4981d29eac481198b673b6238b17868dadda87ba7e06381dd5"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7450f9d87f05f354533c4c5e03b53cda.jpg",
+      "ok": true,
+      "actual_sha256": "e8cfe8c433b65c35c0dd4a4a945a33fcb19d4a95d371b63676b6820a5ff87e25"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7163e8f814457606183f9536ff90a086.jpg",
+      "ok": true,
+      "actual_sha256": "6cc2bfbf855fa1e430c7125f69012f3e8059459416099417c2e6708bf2c9c483"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/24bebc253ac13af26e9fcb1cb49e2d96.jpg",
+      "ok": true,
+      "actual_sha256": "a66cb6f37a7f4239b01df8940ebaa3519199a5a4f1c5e9e41042d4ff67b32347"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5e1ae676b75330d8a0a8a78f44a78917.jpg",
+      "ok": true,
+      "actual_sha256": "cc16b63a5b71e70c10cd1bada35c3465c83ade2522a160e1b885e09a77f4eb72"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a04bf8bb714e0f31038b0121e8f2ee56.jpg",
+      "ok": true,
+      "actual_sha256": "2892c2186a928ce5a24b8c94d5a178f1eac913bf880c5313a6c8e5633685e878"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/dc11e73577ff2acf1d045304ccc7327c.jpg",
+      "ok": true,
+      "actual_sha256": "1efed7ed3455a412f632405a6d0dc8495f742c605827507f658e1be0c3fa6a3a"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/de638ae911c3b9e734a2c8e9f1f5f87e.jpg",
+      "ok": true,
+      "actual_sha256": "54eb6bd35111026782e68db8db4219313fd74a1270bb67a0225d4bd2faacd4ad"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c8cb1e283af8e83d08032775865d3d45.jpg",
+      "ok": true,
+      "actual_sha256": "23a9dfd7c9cedfd92e73b932b9abebea812c840025c7f390876e4d6b5588c537"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/424d0879418a182af43c84a494448d6e.jpg",
+      "ok": true,
+      "actual_sha256": "5290c6bf9eb7d1a65e7348b5d5762f172255da7282de65a7d0593150aab394c0"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b74f7de2b2bf29cf3ef916bf0b261421.jpg",
+      "ok": true,
+      "actual_sha256": "d456d8b1613e6288102c40e4a67fb042fe3e66a602b64d00eb073f65ffa8f2f3"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2262f774fdc81630ea5403d746a58836.jpg",
+      "ok": true,
+      "actual_sha256": "5e942bf2e0e09a3d411a2fb2b82c406f6fa602e845a044c14a2c55598d68e08e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/790ceeb8c52aab5cb49657871e4488d2.jpg",
+      "ok": true,
+      "actual_sha256": "d97c81ff81bcbec63b1018784587beab8a78cd919a9170a142cba5f8708a6788"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/68372d324d2c9502ee96a6b9937f05a2.jpg",
+      "ok": true,
+      "actual_sha256": "73f11eda3c4da849383dfa0e5264f7384d097a123915abd2d488b0ade47cb933"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/55a6515075a047ae0a55d965001bd58b.jpg",
+      "ok": true,
+      "actual_sha256": "67c243e0b9d9b757d077c544e1b68a4c1fe260727309d69b9311a135faa54c4d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/4aec75258cd46ed046307f4f754ff7ee.jpg",
+      "ok": true,
+      "actual_sha256": "1f15a04af4a9f699afe7be3f043dc706e319d487a7057c0cd470ffe559e75eb2"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b07fc45e1a67d4a9fbc0e5d5ad35af02.jpg",
+      "ok": true,
+      "actual_sha256": "fbb113905843edd8097cc953cd19fb4caf20060b2ceda6fee19cc30a6a6c3c5c"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/61ae3533515c7f80f2b7e801c7896b27.jpg",
+      "ok": true,
+      "actual_sha256": "612a3106ff8fef748cacfce1fd9c592b2631e5c6936d9b0611327a987f77a250"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d7a44b2174cda5e0196af3419f865cea.jpg",
+      "ok": true,
+      "actual_sha256": "e1a80a4f6adde41c85ad8d7019ffa31bfa078369ff7524a2e9ada7b09b80ba89"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b2cbeb12468ef4c424734c23209f2952.jpg",
+      "ok": true,
+      "actual_sha256": "6c14fa1ea35db73cdefbbfb4b8058971257930776b57b5c9fce2eb2c99725ea0"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/31194fa2494878647e6883b2fe5d0a7a.jpg",
+      "ok": true,
+      "actual_sha256": "97c059c5c7810553ad820a31e93d75eef6732c2f3cdb748d0b0ff3bdf430d443"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+      "ok": true,
+      "actual_sha256": "7a9f3fc179b0509c969d684243c4de3e0a4995b0f9eafa7a2444390af52e8ee7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9372b56a416877875c6b5b47310f46ee.jpg",
+      "ok": true,
+      "actual_sha256": "e574529b6ce6e6896ba20d15b09441bdec525f565d00ce16a1042f6021e8c60d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/515ab65cc8f34f73e5626937453b9a32.jpg",
+      "ok": true,
+      "actual_sha256": "95d542468868b97e7096f5f4c51d655921b49cb44555e73c0fb94c29efd9a792"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0dd7b53e05611ddc991a184c4c5e3169.jpg",
+      "ok": true,
+      "actual_sha256": "43990252de3910eabb70af679f0ad0531bf88e3848d0c47da802a548660c6f45"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/3fa8eeadf814aeecb89eb192849796a5.jpg",
+      "ok": true,
+      "actual_sha256": "c0c74e6dc6b601e44657c11c3812b33871bd7075289bdd3f645a61a245234106"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/26af8ab01a99d25d31baf71387b91a02.jpg",
+      "ok": true,
+      "actual_sha256": "bec6455608a3a5185ba92366e1eb6b9cc4fbe342f3dc7455e075791d40837c16"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/70ade529ba288886b57a818d3b87ffea.jpg",
+      "ok": true,
+      "actual_sha256": "009ad5484a6361551dbb4f51628719e49fa14dd2fa6dc05be9ff7b419cba43d7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/45641c12a47b9ff6f2651c89a8a20a6c.jpg",
+      "ok": true,
+      "actual_sha256": "5f9003f6f3e44e9c651ce1d4b780b5935b0152c74207e9ed52c89fe78a2e7cb4"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/44c1293c856821db875d532b8b505b3a.jpg",
+      "ok": true,
+      "actual_sha256": "1d9c40f1860fb1061b168f4c2774b1f81ef2a1468dfbee9ce74e8dc1239d1424"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a88f2100d77d9f59c60dcc61a3979bf5.jpg",
+      "ok": true,
+      "actual_sha256": "af38074ebb3f07647d160b45a77af9b0e85732fdf05006187bf161baf4f97099"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c44e71107597aeb2140c7684d9747a11.jpg",
+      "ok": true,
+      "actual_sha256": "3bf6614a2fbe1431d1cfe3ea25e3a283a7b0dbc090216a8e1770a3fd43882769"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5a9cf580765fd130012ac60fe4f991d8.jpg",
+      "ok": true,
+      "actual_sha256": "7045af7c33fdd3039c8c26f9eb272fb8855eab751e5e48fe89fa8225c37ff309"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/3a3bcabb127a59876a3e2fc2af85a325.jpg",
+      "ok": true,
+      "actual_sha256": "6aec71f65ba5c3e171b746de378d8f948d0d2eda63cfd454f0e142f1aac2d607"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1fe8b8d324e195c458f72ebfe895c071.jpg",
+      "ok": true,
+      "actual_sha256": "8691af62fbca7c4db46be9b0f8ba93ae9559f1e0c87ae141af9478e73dc6818c"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f1c975703694e36862c1ddc42b23d748.jpg",
+      "ok": true,
+      "actual_sha256": "45272a77eedfdf4231bb29d161774738e47e8add3e191ada5c7089541e55b390"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f942e2a92b7b751b06ade00b1a084e17.jpg",
+      "ok": true,
+      "actual_sha256": "a7413dc73b8378adb27e75684c1d0e80f757d24f8418f0d80836d4448d3ee1c8"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/09c7f31a0167cd98e49e19b597be57b7.jpg",
+      "ok": true,
+      "actual_sha256": "61b38755d84d0d6c6ee8eeffd17ded29c316e09e239a666c13556e89233a25dc"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2e9044f3a733195e17004c037f2a9bf0.jpg",
+      "ok": true,
+      "actual_sha256": "3eee97bb6fb28282a012a2779059992a91468ff7d27e2cc5cd2874c454e689ee"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d907f3b04774c2c55ae1abffda93430f.jpg",
+      "ok": true,
+      "actual_sha256": "5b43b8a54ebacdec0d24c9d04e53f2be85d74817d2d47bb4b3ba20d2d666f36d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f6a1da9a8eccad1c1eb981047d8bf8d0.jpg",
+      "ok": true,
+      "actual_sha256": "cf2a1ff68ee3fb1fec38a25ea070c57c5802ffbd868267e05ea3028bcab4a531"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/433bec98979280fa6d8d5c4ecbc64fe0.jpg",
+      "ok": true,
+      "actual_sha256": "6b77d43ac2b6330defe5fc4266631b06de79218cf3a4ecad06103e1c27d603ef"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/8f8f34429932a4d07e35d2e061c6d99a.jpg",
+      "ok": true,
+      "actual_sha256": "9b4c2769d750f9774738a97f4e3adcb6ddf69e6d89abf38162122d507c50a3e8"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1b55ec690f0c2ae356091c8a35f303e9.jpg",
+      "ok": true,
+      "actual_sha256": "4967a4c57bc9bb59958d470b99d356c0729a4973b7eaea9f30f7a27048a90fc7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2e407b95e4cf91c96f0d1c49364402da.jpg",
+      "ok": true,
+      "actual_sha256": "f76d6d7252deb1321086dbab7df17814193ccb841412f7b8809edcf852a0dd14"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+      "ok": true,
+      "actual_sha256": "9eb970d31fa086779f6e56a0b88e2de766736416b4f2577c0baadb758336c8a8"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+      "ok": true,
+      "actual_sha256": "0aa0dd11f0febe970ccc195b0926c711005692c324630449caa02bf672da6334"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+      "ok": true,
+      "actual_sha256": "04e37e29ec8e69a1f4e3d1b5f359b05a6910dc7d6ba368343fc949fa485f1a4b"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/618f0a9d4adcc5c682aee8b15997b393.jpg",
+      "ok": true,
+      "actual_sha256": "bf25eb034a973e6243d4cee3f2df5de28b37e98cad66ff08f24d9c77b98b12d0"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1a9d64ba8434a0105ddaad601b15d511.jpg",
+      "ok": true,
+      "actual_sha256": "8b283d5fbc1d5a71f1318d6e48aa27d18e21cd7a0d5e25e85b36cab798ef2e2d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0926e37eee37f3441e69c419b41f5dcc.jpg",
+      "ok": true,
+      "actual_sha256": "991c4c4b541445208bb8d65efbc7b3d099b41ae1a575849e32591c0b9ad4ffb7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e726598eae75d2df8241911a76d35817.jpg",
+      "ok": true,
+      "actual_sha256": "6fcc90bca4f2832a3061161e3ac18a1e16d6256afa4abe4fc48f0f19a786d74d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ea84b5b2ce7dc1a14385cac71a5ebe9d.jpg",
+      "ok": true,
+      "actual_sha256": "694608cfc8e81acbc3f43b74c15623b736b7dde0027b1501b94d21b3f59a3a93"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/8463b3ed028ad645d1a1796d1470cdbd.jpg",
+      "ok": true,
+      "actual_sha256": "e1e198e582e6b78dfc5d9567c8e85d3638213abc295e84fd58af1142b91a107d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/594a5134f2e6a6f0c20f5db486245ef4.jpg",
+      "ok": true,
+      "actual_sha256": "0407d5bf97826944e715a60c1cad645c8d489d9f2735441d12fc73546646442d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b2df971ee1e5f942fd5f049c3a5eb99a.jpg",
+      "ok": true,
+      "actual_sha256": "083e360378488aa343d0e9ef399c1ec7eda60f1d2183adbef9eacdea6120f84e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/10a3a9abafa5c0de954b7bef13f327ca.jpg",
+      "ok": true,
+      "actual_sha256": "a223bc37bb1deac40fa74f79c0d9b3890f7cc90398da89989a9279fb6e5e4669"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/89895bb887d6adbdadf6fee2920300c0.jpg",
+      "ok": true,
+      "actual_sha256": "e0816951cb7252e000597ed70789f370bf9f48a51534603de14d1eb19f13e999"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/365db0aff0d2e3e5cc052365f8077973.jpg",
+      "ok": true,
+      "actual_sha256": "c0b4a4bf138bcb1bec668a6c0037a4fcfaf9b1f0fb30fe3d6494da670149a0d4"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9b51b4690fe0806a6b1e4602bdda6447.jpg",
+      "ok": true,
+      "actual_sha256": "3760bafa5bd8101514ed445a185baa7d9f89d9b97cf321d231cef90d6e57bd08"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/95b66462bc8832e8f4a4844777234661.jpg",
+      "ok": true,
+      "actual_sha256": "845ef3dc2b416b94b9fbd624348f5ab44e94d7d532c55bbe08e9b40c3bb7ec4b"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5d626635b0a1fe3b286dab9cef8db035.jpg",
+      "ok": true,
+      "actual_sha256": "c663a860497bf202e44a886348e493ced881a5f704cc43d51c0d897a2ca4bed2"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/46686141e63b91b084d6c96aa268c1a7.jpg",
+      "ok": true,
+      "actual_sha256": "0455444ac505b90123e338f9b23231c93f66e464840c2f52758ca156b9d8c6ca"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/332c8ee39a55d7dc652fcdbdf7b72daa.jpg",
+      "ok": true,
+      "actual_sha256": "a7dbaa855cdd63fe301acf67ad1a940befbbda991fdfa5a300c1cc2c27d3b3c6"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7f40dd22b57d39bcfdf891ded39399ad.jpg",
+      "ok": true,
+      "actual_sha256": "302e89c5c419c8b4e66e66072a2e2c4d21e7dc31cf662a244917d03bdfbcbdce"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1666a25844193dcefd37a22aadff47c5.jpg",
+      "ok": true,
+      "actual_sha256": "300f63e04e88c276b96fd49cad1e46be5818d177fc966bc7b9930973930921d8"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/cc8da714869513731922d21efb10271b.jpg",
+      "ok": true,
+      "actual_sha256": "f9ee49661751c73e7b24a4e6b751cad3317ffbeca378331fd7b009c75413a76b"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c7fdda52f17125077ad5e782012fdffc.jpg",
+      "ok": true,
+      "actual_sha256": "b53667389b0c335936e1c4440cab3c89aceae80ece737fdb4b3c981da8500b8f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c36ffa6a316ea2dd3b78a387d60b0bad.jpg",
+      "ok": true,
+      "actual_sha256": "0013fa654f5c6727f56e107d33349dc7e43230bc2c24b2a87a26d2ce11fd96dd"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/62401a219d2c4803376fd9434225b1bf.jpg",
+      "ok": true,
+      "actual_sha256": "a3e7e66d334c74e9b7adefe9f5a67daab6e477f746b1f4e027cf87503f0288aa"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5bfcdb0aa0fb73901fe0aa077c3ead24.jpg",
+      "ok": true,
+      "actual_sha256": "eb5ae19fa54980be6afcce454c6125e26065a804a23019601ec35b935597e33e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/bd7120ea2e803e35be06e420831615fd.jpg",
+      "ok": true,
+      "actual_sha256": "df6e99d479a06423b1c8dd60d5f6cc8380c009b49da270c1609628a200ef9439"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b3417fa5d80cd5d10adb1be675700ba7.jpg",
+      "ok": true,
+      "actual_sha256": "23bd27cc3ba5389dd8038888980209c9a073fd1099ded658c9014f74011d262d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1d0e48d57dbefbe1f0ea57b76448f021.jpg",
+      "ok": true,
+      "actual_sha256": "53a121e3ab3520c99e68cf221dc0d6ac716b8fa668a259025cca462f34f8d289"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9ca792880b1e25b1b9f06a6d16fceeb4.jpg",
+      "ok": true,
+      "actual_sha256": "01728ac79ed95ec641d8cd0463f8868f0947e04b7746da2b785482c5cb2d31e3"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ca39cdc9354ae3aa635d8a2349931c1f.jpg",
+      "ok": true,
+      "actual_sha256": "8ad049c3c0f85bb03f85df7c8e8c703342c6f620e5001fd7ac6cec79fbb17dd7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9f899cb180609e0bd369d649044fa9d0.jpg",
+      "ok": true,
+      "actual_sha256": "5ac9e805ff68cef1fb9a8112551c13ee5027b57da50445dc96beef0c199bf449"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b6a0aafaf33b489fca469d900435940d.jpg",
+      "ok": true,
+      "actual_sha256": "0f0b79b20bcccb301c6222480d9603bf80736e38d574c853cba7a5c74e89c144"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/78648c71c0dbe2498146f81931c13244.jpg",
+      "ok": true,
+      "actual_sha256": "a74d9531b338cfe60d9964e83d312a196d00636862fe74983163dd3a635ff49b"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/350114a0e0816616bac658b335865ea2.jpg",
+      "ok": true,
+      "actual_sha256": "ab8f146e1c33a4ab91bb63ead2f73ccd0cd3be6387f4207c847ceb1693218d57"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/95d424a1f5e90bf2cfb9d1713a7136ad.jpg",
+      "ok": true,
+      "actual_sha256": "577248e9c4d8f7854dbd393cb43a5e0ed3370c733e94f6f016c88dd7eda8a7b1"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/aa309b7b9d4bb63431170635bc7a58da.jpg",
+      "ok": true,
+      "actual_sha256": "72cffaad2c9df67a8676ee007404af840664ce522adfcafd664062349698a9d2"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/90412da3aa80f4028f7f6aa13885744c.jpg",
+      "ok": true,
+      "actual_sha256": "99eea99377cac772f9c70f43222021bdc9d6c4e799503807c2fcc62e48c15fd9"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/033aa1fcfbaeddc2f2c46bc9d2fe1f69.jpg",
+      "ok": true,
+      "actual_sha256": "5f5adaa2eb17467415c4bea0d55b618689f61d91c213c22463060cc0e8908df3"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/991ef26b51ea489e49d1fcb63414c063.jpg",
+      "ok": true,
+      "actual_sha256": "fae4c255c43471423537111b8cc297f943b17078c093fc64aeeb7268968e7b44"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/3bde31b0e76886ab0edeeca4ad4a9cdc.jpg",
+      "ok": true,
+      "actual_sha256": "1cb0ba3cc355ebbf9c6b7f86d202463237af8087435894842813c2f0861063d1"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a92c0b96faf2ed7da55a04fef54854c8.jpg",
+      "ok": true,
+      "actual_sha256": "2efdcaf252135b4f46b0c30da11f03c1d42137f7608bd217a3a011124e6d8bea"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/107fa80840b05d8fe7f18f7c1fd0a464.jpg",
+      "ok": true,
+      "actual_sha256": "915de5a97538f8fc95d662683570c2f70d3f77e8fb602a802eb91017c21d7220"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/bd7944740f1de526543b8d8c0c00e5cb.jpg",
+      "ok": true,
+      "actual_sha256": "ac1ca797e377356a6d36c045d09bc3cd1322d9e90f70ae09b5ad039680c0dddd"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2b36757a6d732b06294aa5ff93acb58d.jpg",
+      "ok": true,
+      "actual_sha256": "85bbd6cc441c3987741e09da9f7cdcbc35d44432c891036a6665728dd340f4b1"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c401bae213ca208a57c4d755588fb444.jpg",
+      "ok": true,
+      "actual_sha256": "025ebbe48d4e497bf8db2c0227fc8a286ec82817fe87405a7c110a83d6104f0f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ee83a692276a312499e257e961d4e27b.jpg",
+      "ok": true,
+      "actual_sha256": "176c9c2c654db94913171d5a8e8a01e54efb67858403c30cf823feb570cb14c0"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/61f6cd1610f6ec3ee12f400282cc7ca0.jpg",
+      "ok": true,
+      "actual_sha256": "f119183f741c72ea516d9dabc304f2ae1bbde8a88c681a661d67ababf6649b90"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c7dce26905731f316c5642363faf155a.jpg",
+      "ok": true,
+      "actual_sha256": "b923e29015dcf366a274961fe2f9615c23e0054e514a4feb0e0d5e67690be1f7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/da8e6f1e55a8e7a14180c3cbd1f419ef.jpg",
+      "ok": true,
+      "actual_sha256": "cba7ad315a008e62e1772d01d806f6b681e7792db127e6edd8a48246cc712ef2"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/40f9bbfe2692ee361c7decafc10337cd.jpg",
+      "ok": true,
+      "actual_sha256": "52ad96f679b0d3abf7f123cc12db84c86fcdb9fa2c04798d78245672364a4a27"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2fb181c55aa2eefb8a921c9200a5ef53.jpg",
+      "ok": true,
+      "actual_sha256": "ac967950a17812cc1275bdd216ceef76e910be42dac773bbd8eea7d43c863add"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f9d7ca84d884011b556ef9492da698ad.jpg",
+      "ok": true,
+      "actual_sha256": "d0c8e1d3ca6d01aecdae5690cadfda27801b921c9d47146c8bf0fc67f63692b8"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+      "ok": true,
+      "actual_sha256": "59ebfe53e716cf879a3abe881e8d483550cb8e60591a798a1497ce826fba6993"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a0c751e713bb13b58b717c06fc2e7c9c.jpg",
+      "ok": true,
+      "actual_sha256": "d1c0a6a61ed0fa9b3baa3a54da0bae2f4fe84626b032f911e9e0589f0b3be631"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/33269a7996dd842b0b5f2cacc97332cf.jpg",
+      "ok": true,
+      "actual_sha256": "c3118c8e855dbb4c28fd423590200d0921ccffce406347265244918edd58b3ec"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e76547d99bdcd984539258638d5d2446.jpg",
+      "ok": true,
+      "actual_sha256": "b3099eebdcbfc798579e7ca279a1f95f0ce706264c30a997e4f2ba8e9d9f0fc7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9ef4b77fc096cb0ae12bad003775120e.jpg",
+      "ok": true,
+      "actual_sha256": "880b7546156f151dc2e2d617b5f61acfcd9cbce3008e6b7880651a627d95e56f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2f27808c2d0099e646489f954a0b382f.jpg",
+      "ok": true,
+      "actual_sha256": "4c63a6b0ca26935d743b4a45b9dd0517c618bfc2bac238feb6567b3af348cf9a"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a8d0e95a5b598dc6f7f1cd21a02f56b5.jpg",
+      "ok": true,
+      "actual_sha256": "c6816d6fd86d2173d6dfc2d3fd6a7e4e4b471f2e6d9b8cdecd5251c6f490890d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/dce4199cca841d90acc57efd98e3107a.jpg",
+      "ok": true,
+      "actual_sha256": "8f1392d3cba42b8625c52515d28eaa41331e2bd732055a7d558be02069adb0ab"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/45f1d8bb34bc420890dcd8378fd1b1af.jpg",
+      "ok": true,
+      "actual_sha256": "a660bec539253c2b7593e8bd200b5cb35bdb1d4eb0e42d3578ada147a83aec2f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/4889e676fab8246d80297693b425cbdd.jpg",
+      "ok": true,
+      "actual_sha256": "a2161093486476e60dbafcea76851a49290203d3c5d7b3b0f5841adf00d7b234"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/148477ce9dcffbdef8e6652e592450a7.jpg",
+      "ok": true,
+      "actual_sha256": "f4104c282481f1f187a5d76996ef07183e704b63b6f480437b8f3af745d9874e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/125d0df132dc489c38e1c408d5ea4013.jpg",
+      "ok": true,
+      "actual_sha256": "2d1d1261b5f549be72d2ec8e7046a03bc2d462ba4da77d202be4ad597d39e82c"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9bc461360b5d098f4033c003697008bb.jpg",
+      "ok": true,
+      "actual_sha256": "3c15c3470bf2bf0aafe258866974190ed1222f133909c97d86a899bf53cbb05e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/18ebceca59821c145d9084de6ae096ec.jpg",
+      "ok": true,
+      "actual_sha256": "b30935bc1d2bc10d77af29e6cb6824d7988c46888c7de40d7ecfdfff88d08375"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a4df060677cc6d9575a073e6a6e3b237.jpg",
+      "ok": true,
+      "actual_sha256": "45dbd9ace0d99b586e2640f242f40e7c5b08fd5022d8b0acdae2ff4261632550"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6ff067d3eb722266453e6cd4734ef9d5.jpg",
+      "ok": true,
+      "actual_sha256": "36a697780bc3624dbcd80bf11ad02f15ebfae92cbcce86afe9c68086d5c776e6"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0b5e032d0a3d769fb7dbfe2458e8bf97.jpg",
+      "ok": true,
+      "actual_sha256": "68974fa7d4df5754da0e81531f02681d376bfb093983f5af088c81d33008f342"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/60e33d58abb918004cf93cce811917c5.jpg",
+      "ok": true,
+      "actual_sha256": "60a0cb1be3f7bacac2660c7208c19474866c52c5582dfd6b631db30ce4590cf3"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/99f2d8e01bf75f6edbd26999e60eceae.jpg",
+      "ok": true,
+      "actual_sha256": "a52b8d0e23be5fc7ebd1a666299b5074afef6f3ed75ea27e43f12c84e5f041c6"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1f0695dfe57e18e9cda00d3df9c38d10.jpg",
+      "ok": true,
+      "actual_sha256": "38d9ce4af904fa09fb749400336d0c8b1d14e612e02d88ff860ca94d573f07f0"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/45085f133b5f48353e3f0cc87b9e8afc.jpg",
+      "ok": true,
+      "actual_sha256": "7d9d5f89427cad7d720c39953e530d161422bff66038da7b7fbae2733f9925ad"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0292e8aa599647652762058df8af89d4.jpg",
+      "ok": true,
+      "actual_sha256": "31782ef64cb9c9021e00f22ef90a65258e30f404d8078106ba2a2d92291bc0bb"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b0bac989997a158dd22553e9dbc582ed.jpg",
+      "ok": true,
+      "actual_sha256": "de8cd767bcb858bf5ea8acad16e0cf943657ef5d7c7eb20ba5a3c313dd51aa25"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/19dfcae297097aa2fcb6c778a716bed1.jpg",
+      "ok": true,
+      "actual_sha256": "4f6f01a6e33b1cc7253be40475052b59a7e646332996afc94e200676513d4e01"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d8faf8daacdeae3d0593a5c9d7914851.jpg",
+      "ok": true,
+      "actual_sha256": "6c952b7108691f0cf1d298e3cf0cce21a7700f5d3616c2e6fbb69b68fc8db8b4"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/472b2c09a96c65272616da82a377c521.jpg",
+      "ok": true,
+      "actual_sha256": "946ea3b037d6d2c0fd85e999d89a75c2492b3577ed18538a4aceccb160405881"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b90b47c9abaf1b4ed730145541368771.jpg",
+      "ok": true,
+      "actual_sha256": "55f035774c58cc6a82137b99c74dff429143ac1248f8e9ed2ee5e899f878bd00"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2c6961838a20cc91d8b8601935e5dcaf.jpg",
+      "ok": true,
+      "actual_sha256": "d78111fdbaa41917f0e7e5c40cd3af275478bd66558d200eedc80d927884ded4"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2b920f724fe6a30dd1ca3fa560b4118f.jpg",
+      "ok": true,
+      "actual_sha256": "f0584c5ddb1eb52fa1c6a52094efd8800fd2da498646eb78026258694e4fe2d5"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/785ef5d9737fed47ab2a11d75f17d082.jpg",
+      "ok": true,
+      "actual_sha256": "5151a50cc4dcef690d49c4a9944dd47dbc50bdfa48955cc1a29b238acad5db8b"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b3ec4cdeeb36368d84b5a766b2331868.jpg",
+      "ok": true,
+      "actual_sha256": "9eb08611005207d4b5b265c21cc49bb667860708f4f3944bb46a9e738862ef3d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1d29b2df59d9ef78f8de7954b92ce04d.jpg",
+      "ok": true,
+      "actual_sha256": "5980b24641c6ab2c2895328a49237252b3af0d8233677b9ac5a3cc060de5b339"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ba0a78937f3c027fc3080e690dabad95.jpg",
+      "ok": true,
+      "actual_sha256": "13b9be21f554977a0dc2225a0ef2ccac87970ab0a4e9f4f736a81aca0442664d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/95d8b6d7c86aa29e9a35ada4847abe01.jpg",
+      "ok": true,
+      "actual_sha256": "bff0104cb796e27828d1fcd27eaf8e1b6dda24cdaba8b763331061ec8c978dc5"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9f9cc6781808d8cb90007d3600f7929a.jpg",
+      "ok": true,
+      "actual_sha256": "519247a48a5bd1436f204a630e21237ac4fd31a297ea776d42a16a01b79f5966"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/cf53ed18e96ee2e87ed4bdc4d148b662.jpg",
+      "ok": true,
+      "actual_sha256": "30e801f80c5c27e6b2126494ba01f6fcc2d79415bfc0e4a953a9f30de70418e9"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/cf95fd715baf9c43b9077148a09e01a6.jpg",
+      "ok": true,
+      "actual_sha256": "65dfb464e5462a314337cea1c4e18c773fb6148f7afc2246982cf7f563973d99"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/214b2248c596e77b4a3630e4107eefb7.jpg",
+      "ok": true,
+      "actual_sha256": "dabb2a82d792cb4890b977f74098d3f136d5ca33d3f4914604dd6b5ea81b8ebb"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/4fe7a897df4c81f0132ff5cf7fc091df.jpg",
+      "ok": true,
+      "actual_sha256": "9feab71bbf55e392c0353ebdf6d117962f02e844ddec8559bff6039ef98ce97f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/42e85bf20b38a0749456e726ff4a2dab.jpg",
+      "ok": true,
+      "actual_sha256": "9dcc893ec2baa5dff55eabaf3e237b3d120cbae1f4a9da5d5d30d7f79c15ab1c"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ff10d66c3aad80826df27343dcaae27e.jpg",
+      "ok": true,
+      "actual_sha256": "5f1d32e61119df7bda83c61ecc082d300b14bbb0fd77b1e49a997f55fba50aca"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/44e3aba93fc9457f4737af5c0b387aee.jpg",
+      "ok": true,
+      "actual_sha256": "dd120e0df1bb7af5ee3fcb1b6bb9f2ca05d701d56922236b8f7e308410da4d84"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/71b1ca641d2ea25992567791f3340faa.jpg",
+      "ok": true,
+      "actual_sha256": "0d903c76caf7b83288e58b2401f6c9305115f96249cbc385850280ae1268bbaf"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/201fae3e3891e802df745d3509eb5a98.jpg",
+      "ok": true,
+      "actual_sha256": "5ff06796f93805894f03b9900e78b421c5604a3358579aa3b954182b65a0b7ba"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7c77337e6a2cb3e940fc8e2ef9150175.jpg",
+      "ok": true,
+      "actual_sha256": "360513a26e4d71244d6e75e0046357c85c7f2233178f4f6c450768b122d61f33"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a0d5f3fe01408388f6e9a9c8f41355b6.jpg",
+      "ok": true,
+      "actual_sha256": "6bad82c5fa2a0a9d65f263eb4bcd08b442d71e08b404e93ddabd3c7dca93cf93"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/58534ba1e3dbe10cf63db64cc62cc945.jpg",
+      "ok": true,
+      "actual_sha256": "9732d8f9b4a68b13a9074f6fc4319c4a1a3abc035ae3f4d841c9a5e4dc1349c0"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f91d873f6ec313a065cd9b677ad39e91.jpg",
+      "ok": true,
+      "actual_sha256": "ce87baef3ecb7d189b020d6708d7c5f85295d72bddae2f60742aaf86b949f56a"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/eed1ae4d86ce1f35d1348315971bb0f8.jpg",
+      "ok": true,
+      "actual_sha256": "c6f3081e9d59a6fffdde016247cb6ce14efb6e7a0e439487a4625601b9d91809"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/14f45b97ff79ef21c03a84a6cc7b5ba2.jpg",
+      "ok": true,
+      "actual_sha256": "584e8460216b992d030ecb2052badf83e5cafc315678a61f3e3844631ccc3b4c"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7085a1b9777b519307ba7c95f121e7ae.jpg",
+      "ok": true,
+      "actual_sha256": "58362581a0bd18577214b3d0e671f145730b327c62004bbdff801cb35cd83d29"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1086ff3a9d0e3fa8df5b465d4022e94c.jpg",
+      "ok": true,
+      "actual_sha256": "912049d5a0bc24fe02b3ccb32135458cfc7b37880d6e616b4dd53c842e3e4f54"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2e3c27f21d35bf9814a95d9ecf7ea653.jpg",
+      "ok": true,
+      "actual_sha256": "7f1689beb0d9b279f677f61ea1e8ba4142f0e2a5f8d799f7b30c016f1f9f0012"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fff29ee009916ef6583cfd09f94adc41.jpg",
+      "ok": true,
+      "actual_sha256": "23973f1af0bdf7b064d72c2184c0cd48cc9d45467356617cca49ba1b7fcb5708"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+      "ok": true,
+      "actual_sha256": "f6f20595125b1d92f6cd5db586a0bb5abee589f5e8d3a840f6efa6a6fc2c568e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/21f54c72ed32ca3c0f5c7cef67af78cd.jpg",
+      "ok": true,
+      "actual_sha256": "ab6e35b2ebda8cbc93dde08e21d0e45fd835fbbfb5a0101ac1d356e6b4f5be98"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a8a8a929b0933d1680ffcdd323a49c26.jpg",
+      "ok": true,
+      "actual_sha256": "3106f86a0518d983785ed3baff6afd793a6b8bd101535ca61e183a3526186fa7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1ad9707b79f7a18b153d36f826e69b99.jpg",
+      "ok": true,
+      "actual_sha256": "42f268783723f2a2a9e45195a231bbf66bd6e7778d3b48eeb36969f7ec3848c1"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1363443a27151ea98f2786fbc8a6fc1f.jpg",
+      "ok": true,
+      "actual_sha256": "7a0f964697ea6986ad49eb3870306cdb5d723ff969c14ca27406bcf056b68a79"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e9b01e82041d5c56ff1868fe7dceaa46.jpg",
+      "ok": true,
+      "actual_sha256": "fbb410f4269c99c86b51f37bc16b14a79fcbc6704a38f7771841bfea5cfeef7b"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/30e29539c832c7861ab7c9b438500c1b.jpg",
+      "ok": true,
+      "actual_sha256": "a0ed78fd5d13b26cec13dc0b29bc4fba487db270ae4c0a8892a653a26d675bc9"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/174fe6a22c305607e3e69d0ecf2f96a6.jpg",
+      "ok": true,
+      "actual_sha256": "7915a994360b952a1d968a5c716b48ad0a47fd4791cd171a542766e3ebe60a42"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7f894f5822451b453cc128b43f194014.jpg",
+      "ok": true,
+      "actual_sha256": "5ce2714cc17a2b4e720f21f060df637bcc395232b66f2010800fb362bde2bc11"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/41e965162d596dab996b43dff6550fb8.jpg",
+      "ok": true,
+      "actual_sha256": "6bc843b5493d65ba7fc834cb20ae1e7b0632976ece62929da7db12b86f485ba5"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7a7874d416692ffca5b3da267f6c6daf.jpg",
+      "ok": true,
+      "actual_sha256": "600490e701dbe746e36ccafa3394eb23e1a82c9a070cfd4768aa72b0df35f117"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f4b5d3ff9d04224228011d5e31b1c42f.jpg",
+      "ok": true,
+      "actual_sha256": "a0faaf2815e05bcaffd4e0a792282de34a463698c0fa92dd0c2391786961e0f9"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6ea31028658e3538b288370d1c3affc1.jpg",
+      "ok": true,
+      "actual_sha256": "4e285b83f590a5408c870810be7ad2f2514bd272cd0dc98b8ff61a2d6e25298f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+      "ok": true,
+      "actual_sha256": "5f73994ba65aaf5a5ad3a90da6bf78387f5b00022ca120c81c606ecd8f9bd034"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0d29d9d098487bbf3ef887ae78e5970e.jpg",
+      "ok": true,
+      "actual_sha256": "e1bfadefd248d3ee1d373792b43eefd97f746eba3ebc51bf3156962e826ec5e8"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b90654efb353fb92e0f933aedc2c6c59.jpg",
+      "ok": true,
+      "actual_sha256": "e383c1662fca5a06bff384958b109745e12f20aa783f2ab0a3d5e4b229185896"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b3d8fbbc0c19a7882ee07cec12fedd40.jpg",
+      "ok": true,
+      "actual_sha256": "d0c51d8e3265b4be4c21b4bbb53e32c3f7a88c3cf7ff457cf82741ee724980d2"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ba49cf25b150af106283fe0cf21b4ddc.jpg",
+      "ok": true,
+      "actual_sha256": "884641f49d5d5b05c5036af073b5ae4881d3f38624e462ce5e6dc898298eb3a1"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a84b2c74dc54960bf81bc3e3d7befbe5.jpg",
+      "ok": true,
+      "actual_sha256": "52e3e0a109b9d6338e933393f221a159f1d5cdb51d3ade733e70995ee237164f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e9fc36104a84f019bdac1ebd77303ced.jpg",
+      "ok": true,
+      "actual_sha256": "48d9d9c0b865e6a05e02997dc843fafd9c0d4cdabfbd89c8e2e877cd91873c80"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b414adb5c00792a44841025b1d656a8b.jpg",
+      "ok": true,
+      "actual_sha256": "338660a794e66f1b11ba50c2682acf5049027e85d9476225be48bbc183df772f"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f08b695c0a892a4a35bea292e22760f9.jpg",
+      "ok": true,
+      "actual_sha256": "962cd5d7e66bb7af2f5567559c3ae76ace8195cf17ecddbd1cea7c9502600ce7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c597aadcd78495417fa945c202c946b6.jpg",
+      "ok": true,
+      "actual_sha256": "98ae37776693d606c38052fa571308ef7a727d2a71082a2d855a2abdc9c76c9e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ec4a702373d039cd8bb3912da6729725.jpg",
+      "ok": true,
+      "actual_sha256": "1aa58424f5eb8e1a27de04ed574888739bd5ccbf52287af722e8246fe3b8758a"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/69e8fe38542bf5d3f56980b1e63e4b5f.jpg",
+      "ok": true,
+      "actual_sha256": "a367952f57d8edbb181e232688cc01ba1c551877cd5c31f6f34fae30bae7a307"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/468c58a5a8ebfe4f139cfdff04cca9a5.jpg",
+      "ok": true,
+      "actual_sha256": "1a0ba5c8cb60f1d5d8620209b6f81f18dbbe39065e978f25766003486588beb1"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/cedcdc5e82cb29635da723ade36424c4.jpg",
+      "ok": true,
+      "actual_sha256": "296feadcd07fd77910ae2d18726cf09d5cb115a78cdc3dbc94c3ae69c4981cc3"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/3630b70ca0317fe21a38597a578f6aa6.jpg",
+      "ok": true,
+      "actual_sha256": "3afea13ec3be94fd5a6447344ca1dd6b3ca2f47bb3212d3c0fbf5bc47fa0f153"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1a36f59c51cbbe851a2beec80e45b448.jpg",
+      "ok": true,
+      "actual_sha256": "f861f4eaad308dc1e8bce79599a7dd718dd1a13bff1723dea7c43de8f02099d7"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fd6c2f5f236d84fab4dc2755d5114bc7.jpg",
+      "ok": true,
+      "actual_sha256": "7369e8916091682075f7071cd24568dc031e3b4d16bc75895fe6e2c99e066a4c"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/46933acdd9a2b8d16ad3138327c4b1e3.jpg",
+      "ok": true,
+      "actual_sha256": "c005611bbade05aa533fffce989393c6ce6072e54e3216cfddbd19de42d8c72c"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6e4771723ee856b40692c180f112a9f4.jpg",
+      "ok": true,
+      "actual_sha256": "f549013300272a0836fd148a5dad3f48c071116758e0df3dd44487135e8dcac5"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b19c1cf244ff0d5688d6db4893be1ab1.jpg",
+      "ok": true,
+      "actual_sha256": "3cf7ac08fb426d43059f92541b96f22dcf674d732f0947b9d1a844b923d3fb85"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fb4e48d5888069e2bdee97eac917302c.jpg",
+      "ok": true,
+      "actual_sha256": "eb9117a910f6d1da4e83ff47b9bc333ec4ceb27b3e976e32ea2007a449982c3d"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2ccad2ff66ebe82ae28852dd3be4b45b.jpg",
+      "ok": true,
+      "actual_sha256": "32382810899c8e43f4b675249f0457a30e4d7aad2e020c369046ba6fc44e2db8"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/883b78968a393fcdd46adb00f0578cb1.jpg",
+      "ok": true,
+      "actual_sha256": "d3b73e41ca5218e688c897699169fe6393ea9e8c44aacee4d82b43a781ffacd0"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/400714f695ae8b56916d74f2b7221dc7.jpg",
+      "ok": true,
+      "actual_sha256": "0029811f62e157cf947a50dd8883e523a19214332a0a83f730c5fd9446e90dc9"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d06e6dc14284c5a60a3f005a0e2c730c.jpg",
+      "ok": true,
+      "actual_sha256": "d1c23a1f94cc739182378871363e361739c9a8a04df7395eb46b8cc5513a3d02"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/908ee484cc1e54ff565f8554037033c7.jpg",
+      "ok": true,
+      "actual_sha256": "8b7d0e923098d3840b22cfcbf690bab3b66be24a587e62cf8d2b7721d29c4a98"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/8fca4ee7743ed99c8d4864643d4809c0.jpg",
+      "ok": true,
+      "actual_sha256": "81e9fbe91be8fc517b1749144afcd358b4c329345f4f7d49fe2eed1a157bda5e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2751ba9828ef18a370ec758ab33c4904.jpg",
+      "ok": true,
+      "actual_sha256": "c22127f3d0231ba9452387fcb6670ca054cf88331fdd52065d75599ebdcef5c2"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/4f10bcafd353684553b4a0280fae6b21.jpg",
+      "ok": true,
+      "actual_sha256": "222056bf78af47708623eae44c8607208d9f535d1e46c87e15fc7a4d3dbec901"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/21bcea2166c8851ad191fda33f942c24.jpg",
+      "ok": true,
+      "actual_sha256": "f11b21c61d2c182f0a33a66aefb464a49c27362c9a6928621533bb66e5537197"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a9957968323ff7387e618c6fcdc965eb.jpg",
+      "ok": true,
+      "actual_sha256": "f6a8c623b9f2a197c3dbf5881a80820aee393e55ebdb7a195faed6e7cf77ee57"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c9c5985b3f58b6f73e13ff9d7b201737.jpg",
+      "ok": true,
+      "actual_sha256": "4b3d43295e2092989263c2a5c15950378ec04ed0dad47448921a3171a1cc4e08"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/04f593b676d21bca5ddbc44eb3b12df8.jpg",
+      "ok": true,
+      "actual_sha256": "832288bc41949e334a78208ca65715a85114f5c57bcf2adb4969e7bb6ec65d77"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f91406b632e8846cd3ad600e29966776.jpg",
+      "ok": true,
+      "actual_sha256": "b9ae1bdfc93cb9e3467980710aba4d5437d83ad47b67e0d4bf8bbea0a7d02024"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/3a6d7b0eb7541c64a55938d57e182718.jpg",
+      "ok": true,
+      "actual_sha256": "856f71bf63287daf6e033cd8a1e9da4764d921317b5d03a851e68c79ee71d276"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/922814496aecfd7455ecad89b1a2c3dd.jpg",
+      "ok": true,
+      "actual_sha256": "76e9a6cc0df95939e8e8ae9a6bbe5af5c7fe3649e06293d9d68758b23948c92e"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/daf80e2a0b598db9c71faa99d9711624.jpg",
+      "ok": true,
+      "actual_sha256": "14c810702d16ee7d8a1a13ba8c7394807b047ccb20ab0b5696f9970f6e9ed7a7"
+    }
+  ]
+}

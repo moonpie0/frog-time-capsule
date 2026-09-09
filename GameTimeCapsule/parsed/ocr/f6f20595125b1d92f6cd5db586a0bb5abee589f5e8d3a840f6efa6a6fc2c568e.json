@@ -1,0 +1,82 @@
+{
+    "error":  null,
+    "text":  "秫 仃 寄 然 茹 纸 分 享 码",
+    "lines":  [
+                  {
+                      "text":  "秫 仃 寄 然",
+                      "words":  [
+                                    {
+                                        "y":  63,
+                                        "height":  65,
+                                        "width":  84,
+                                        "text":  "秫",
+                                        "x":  182
+                                    },
+                                    {
+                                        "y":  66,
+                                        "height":  64,
+                                        "width":  72,
+                                        "text":  "仃",
+                                        "x":  270
+                                    },
+                                    {
+                                        "y":  52,
+                                        "height":  80,
+                                        "width":  63,
+                                        "text":  "寄",
+                                        "x":  344
+                                    },
+                                    {
+                                        "y":  56,
+                                        "height":  79,
+                                        "width":  73,
+                                        "text":  "然",
+                                        "x":  408
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "茹 纸 分 享 码",
+                      "words":  [
+                                    {
+                                        "y":  950,
+                                        "height":  31,
+                                        "width":  29,
+                                        "text":  "茹",
+                                        "x":  63
+                                    },
+                                    {
+                                        "y":  946,
+                                        "height":  29,
+                                        "width":  29,
+                                        "text":  "纸",
+                                        "x":  93
+                                    },
+                                    {
+                                        "y":  942,
+                                        "height":  31,
+                                        "width":  26,
+                                        "text":  "分",
+                                        "x":  123
+                                    },
+                                    {
+                                        "y":  938,
+                                        "height":  30,
+                                        "width":  29,
+                                        "text":  "享",
+                                        "x":  151
+                                    },
+                                    {
+                                        "y":  934,
+                                        "height":  29,
+                                        "width":  29,
+                                        "text":  "码",
+                                        "x":  180
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "f6f20595125b1d92f6cd5db586a0bb5abee589f5e8d3a840f6efa6a6fc2c568e",
+    "engine":  "Windows.Media.Ocr"
+}

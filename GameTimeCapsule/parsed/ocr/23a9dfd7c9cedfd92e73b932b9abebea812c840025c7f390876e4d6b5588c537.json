@@ -1,0 +1,75 @@
+{
+    "error":  null,
+    "text":  "· 恝 帕 照 一 丿 征 动",
+    "lines":  [
+                  {
+                      "text":  "· 恝 帕 照",
+                      "words":  [
+                                    {
+                                        "y":  214,
+                                        "height":  8,
+                                        "width":  20,
+                                        "text":  "·",
+                                        "x":  180
+                                    },
+                                    {
+                                        "y":  203,
+                                        "height":  31,
+                                        "width":  30,
+                                        "text":  "恝",
+                                        "x":  210
+                                    },
+                                    {
+                                        "y":  204,
+                                        "height":  29,
+                                        "width":  32,
+                                        "text":  "帕",
+                                        "x":  250
+                                    },
+                                    {
+                                        "y":  205,
+                                        "height":  30,
+                                        "width":  30,
+                                        "text":  "照",
+                                        "x":  292
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "一 丿 征 动",
+                      "words":  [
+                                    {
+                                        "y":  724,
+                                        "height":  6,
+                                        "width":  22,
+                                        "text":  "一",
+                                        "x":  310
+                                    },
+                                    {
+                                        "y":  707,
+                                        "height":  19,
+                                        "width":  26,
+                                        "text":  "丿",
+                                        "x":  334
+                                    },
+                                    {
+                                        "y":  713,
+                                        "height":  21,
+                                        "width":  22,
+                                        "text":  "征",
+                                        "x":  374
+                                    },
+                                    {
+                                        "y":  712,
+                                        "height":  22,
+                                        "width":  23,
+                                        "text":  "动",
+                                        "x":  450
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "23a9dfd7c9cedfd92e73b932b9abebea812c840025c7f390876e4d6b5588c537",
+    "engine":  "Windows.Media.Ocr"
+}

@@ -1,0 +1,80 @@
+{
+    "error":  null,
+    "text":  "行 然 0 纸 分 享 码 一",
+    "lines":  [
+                  {
+                      "text":  "行 然",
+                      "words":  [
+                                    {
+                                        "y":  52,
+                                        "height":  79,
+                                        "width":  71,
+                                        "text":  "行",
+                                        "x":  254
+                                    },
+                                    {
+                                        "y":  51,
+                                        "height":  79,
+                                        "width":  73,
+                                        "text":  "然",
+                                        "x":  393
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "0",
+                      "words":  [
+                                    {
+                                        "y":  376,
+                                        "height":  34,
+                                        "width":  22,
+                                        "text":  "0",
+                                        "x":  0
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "纸 分 享 码 一",
+                      "words":  [
+                                    {
+                                        "y":  953,
+                                        "height":  29,
+                                        "width":  29,
+                                        "text":  "纸",
+                                        "x":  107
+                                    },
+                                    {
+                                        "y":  948,
+                                        "height":  31,
+                                        "width":  27,
+                                        "text":  "分",
+                                        "x":  136
+                                    },
+                                    {
+                                        "y":  943,
+                                        "height":  30,
+                                        "width":  30,
+                                        "text":  "享",
+                                        "x":  164
+                                    },
+                                    {
+                                        "y":  938,
+                                        "height":  30,
+                                        "width":  28,
+                                        "text":  "码",
+                                        "x":  194
+                                    },
+                                    {
+                                        "y":  939,
+                                        "height":  15,
+                                        "width":  28,
+                                        "text":  "一",
+                                        "x":  224
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "68974fa7d4df5754da0e81531f02681d376bfb093983f5af088c81d33008f342",
+    "engine":  "Windows.Media.Ocr"
+}

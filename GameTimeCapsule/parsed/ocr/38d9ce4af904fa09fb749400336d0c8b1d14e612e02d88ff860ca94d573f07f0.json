@@ -1,0 +1,101 @@
+{
+    "error":  null,
+    "text":  "纸 分 享 码 一 行 砉 然 / G №",
+    "lines":  [
+                  {
+                      "text":  "纸 分 享 码 一",
+                      "words":  [
+                                    {
+                                        "y":  953,
+                                        "height":  29,
+                                        "width":  29,
+                                        "text":  "纸",
+                                        "x":  107
+                                    },
+                                    {
+                                        "y":  948,
+                                        "height":  31,
+                                        "width":  27,
+                                        "text":  "分",
+                                        "x":  136
+                                    },
+                                    {
+                                        "y":  943,
+                                        "height":  30,
+                                        "width":  30,
+                                        "text":  "享",
+                                        "x":  164
+                                    },
+                                    {
+                                        "y":  938,
+                                        "height":  30,
+                                        "width":  28,
+                                        "text":  "码",
+                                        "x":  194
+                                    },
+                                    {
+                                        "y":  939,
+                                        "height":  15,
+                                        "width":  28,
+                                        "text":  "一",
+                                        "x":  224
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "行 砉 然",
+                      "words":  [
+                                    {
+                                        "y":  65,
+                                        "height":  80,
+                                        "width":  72,
+                                        "text":  "行",
+                                        "x":  382
+                                    },
+                                    {
+                                        "y":  64,
+                                        "height":  81,
+                                        "width":  64,
+                                        "text":  "砉",
+                                        "x":  455
+                                    },
+                                    {
+                                        "y":  64,
+                                        "height":  81,
+                                        "width":  73,
+                                        "text":  "然",
+                                        "x":  522
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "/ G №",
+                      "words":  [
+                                    {
+                                        "y":  945,
+                                        "height":  24,
+                                        "width":  9,
+                                        "text":  "/",
+                                        "x":  392
+                                    },
+                                    {
+                                        "y":  961,
+                                        "height":  25,
+                                        "width":  21,
+                                        "text":  "G",
+                                        "x":  455
+                                    },
+                                    {
+                                        "y":  978,
+                                        "height":  29,
+                                        "width":  42,
+                                        "text":  "№",
+                                        "x":  530
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "38d9ce4af904fa09fb749400336d0c8b1d14e612e02d88ff860ca94d573f07f0",
+    "engine":  "Windows.Media.Ocr"
+}

@@ -1,0 +1,145 @@
+{
+    "error":  null,
+    "text":  "台 湾 ， 新 北 ， 十 分 车 站 202 钅 / 0 钅 / 2 钅",
+    "lines":  [
+                  {
+                      "text":  "台 湾 ， 新 北 ， 十 分 车 站",
+                      "words":  [
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  65,
+                                        "text":  "台",
+                                        "x":  445
+                                    },
+                                    {
+                                        "y":  94,
+                                        "height":  75,
+                                        "width":  72,
+                                        "text":  "湾",
+                                        "x":  518
+                                    },
+                                    {
+                                        "y":  125,
+                                        "height":  13,
+                                        "width":  13,
+                                        "text":  "，",
+                                        "x":  604
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  73,
+                                        "text":  "新",
+                                        "x":  633
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  72,
+                                        "text":  "北",
+                                        "x":  710
+                                    },
+                                    {
+                                        "y":  125,
+                                        "height":  13,
+                                        "width":  13,
+                                        "text":  "，",
+                                        "x":  797
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  73,
+                                        "text":  "十",
+                                        "x":  825
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  72,
+                                        "text":  "分",
+                                        "x":  903
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  77,
+                                        "width":  72,
+                                        "text":  "车",
+                                        "x":  979
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  73,
+                                        "text":  "站",
+                                        "x":  1056
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "202 钅 / 0 钅 / 2 钅",
+                      "words":  [
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  120,
+                                        "text":  "202",
+                                        "x":  1416
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  36,
+                                        "text":  "钅",
+                                        "x":  1542
+                                    },
+                                    {
+                                        "y":  107,
+                                        "height":  68,
+                                        "width":  33,
+                                        "text":  "/",
+                                        "x":  1602
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  38,
+                                        "text":  "0",
+                                        "x":  1647
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  36,
+                                        "text":  "钅",
+                                        "x":  1690
+                                    },
+                                    {
+                                        "y":  108,
+                                        "height":  67,
+                                        "width":  32,
+                                        "text":  "/",
+                                        "x":  1758
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  36,
+                                        "text":  "2",
+                                        "x":  1794
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  36,
+                                        "text":  "钅",
+                                        "x":  1836
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "86bfdbd61f0b68052a961c4532a472e4869ea584df5a2e798e2008abd5f1822d",
+    "engine":  "Windows.Media.Ocr"
+}

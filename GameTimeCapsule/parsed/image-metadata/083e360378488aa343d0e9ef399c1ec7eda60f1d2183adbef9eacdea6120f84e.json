@@ -1,0 +1,56 @@
+{
+  "sha256": "083e360378488aa343d0e9ef399c1ec7eda60f1d2183adbef9eacdea6120f84e",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b2df971ee1e5f942fd5f049c3a5eb99a.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 768,
+    "height": 1138
+  },
+  "file_size": 521319,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b2df971ee1e5f942fd5f049c3a5eb99a.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b2df971ee1e5f942fd5f049c3a5eb99a.jpg",
+      "source_modified_at": "2024-09-16T00:22:43+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:01+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/02bc55d8a6cf3150dcc6c146182a42ec.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/02bc55d8a6cf3150dcc6c146182a42ec.jpg",
+      "source_modified_at": "2024-09-16T00:22:43+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:01+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "青海·海西·茶卡盐湖",
+  "category": "明信片",
+  "subcategory": "地点明信片",
+  "classification_status": "visually_reviewed",
+  "displayed_date": "2024-09-16",
+  "date_status": "visually_reviewed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": "青海·海西·茶卡盐湖",
+  "location_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "ocr_unverified",
+  "unknown_field_caption_role": "土特产代购",
+  "ocr_text": "行然\n土特产代购\n青海．海西．茶卡盐湖\n长揞识别小序\n来粝粝你小青蛙\n202钅/09/16",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/083e360378488aa343d0e9ef399c1ec7eda60f1d2183adbef9eacdea6120f84e.json",
+  "review": {
+    "number": 60,
+    "category": "明信片",
+    "title": null,
+    "date": "2024-09-16",
+    "location": "青海·海西·茶卡盐湖",
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-02.png",
+    "date_evidence": "reports/date-proofs/dates-02.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

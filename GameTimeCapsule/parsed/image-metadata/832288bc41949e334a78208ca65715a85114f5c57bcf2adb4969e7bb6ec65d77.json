@@ -1,0 +1,48 @@
+{
+  "sha256": "832288bc41949e334a78208ca65715a85114f5c57bcf2adb4969e7bb6ec65d77",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/04f593b676d21bca5ddbc44eb3b12df8.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 768,
+    "height": 1138
+  },
+  "file_size": 597531,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/04f593b676d21bca5ddbc44eb3b12df8.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/04f593b676d21bca5ddbc44eb3b12df8.jpg",
+      "source_modified_at": "2025-11-16T14:52:23+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:37+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "青岛·八大关",
+  "category": "明信片",
+  "subcategory": "地点明信片",
+  "classification_status": "visually_reviewed",
+  "displayed_date": "2025-11-16",
+  "date_status": "visually_reviewed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": "青岛·八大关",
+  "location_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "ocr_unverified",
+  "unknown_field_caption_role": "土特产代购",
+  "ocr_text": "行然\n土特产代购\n青岛．八大关\n长揞识别小序\n来粝粝你小青蛙\n202s/11/16",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/832288bc41949e334a78208ca65715a85114f5c57bcf2adb4969e7bb6ec65d77.json",
+  "review": {
+    "number": 202,
+    "category": "明信片",
+    "title": null,
+    "date": "2025-11-16",
+    "location": "青岛·八大关",
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-06.png",
+    "date_evidence": "reports/date-proofs/dates-06.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

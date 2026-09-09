@@ -1,0 +1,56 @@
+{
+  "sha256": "5290c6bf9eb7d1a65e7348b5d5762f172255da7282de65a7d0593150aab394c0",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/424d0879418a182af43c84a494448d6e.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 518,
+    "height": 660
+  },
+  "file_size": 161631,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/424d0879418a182af43c84a494448d6e.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/424d0879418a182af43c84a494448d6e.jpg",
+      "source_modified_at": "2024-05-18T17:33:33+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:42:50+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/cff06191aadf356a70ddd3e67a92c499.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cff06191aadf356a70ddd3e67a92c499.jpg",
+      "source_modified_at": "2024-05-18T17:33:33+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:42:50+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "到达啦 · 旅行收获",
+  "category": "旅行记录",
+  "subcategory": "旅行记录",
+  "classification_status": "visually_reviewed",
+  "displayed_date": null,
+  "date_status": "not_confirmed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": null,
+  "location_status": "not_visible_or_unconfirmed",
+  "caption": null,
+  "caption_status": "not_confirmed",
+  "unknown_field_caption_role": null,
+  "ocr_text": "到达啦·\n旅行获\nOI",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/5290c6bf9eb7d1a65e7348b5d5762f172255da7282de65a7d0593150aab394c0.json",
+  "review": {
+    "number": 14,
+    "category": "旅行记录",
+    "title": "到达啦 · 旅行收获",
+    "date": null,
+    "location": null,
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-01.png",
+    "date_evidence": "reports/date-proofs/dates-01.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

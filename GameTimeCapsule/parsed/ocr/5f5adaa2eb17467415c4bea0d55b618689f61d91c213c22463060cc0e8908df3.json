@@ -1,0 +1,110 @@
+{
+    "error":  null,
+    "text":  "一 、 \\ 0 涨 竹 拄 江 西 省 博 物 馆",
+    "lines":  [
+                  {
+                      "text":  "一 、 \\ 0 涨 竹 拄",
+                      "words":  [
+                                    {
+                                        "y":  69,
+                                        "height":  4,
+                                        "width":  16,
+                                        "text":  "一",
+                                        "x":  54
+                                    },
+                                    {
+                                        "y":  72,
+                                        "height":  7,
+                                        "width":  10,
+                                        "text":  "、",
+                                        "x":  70
+                                    },
+                                    {
+                                        "y":  78,
+                                        "height":  29,
+                                        "width":  26,
+                                        "text":  "\\",
+                                        "x":  81
+                                    },
+                                    {
+                                        "y":  43,
+                                        "height":  95,
+                                        "width":  46,
+                                        "text":  "0",
+                                        "x":  152
+                                    },
+                                    {
+                                        "y":  64,
+                                        "height":  84,
+                                        "width":  84,
+                                        "text":  "涨",
+                                        "x":  233
+                                    },
+                                    {
+                                        "y":  55,
+                                        "height":  83,
+                                        "width":  70,
+                                        "text":  "竹",
+                                        "x":  317
+                                    },
+                                    {
+                                        "y":  34,
+                                        "height":  86,
+                                        "width":  77,
+                                        "text":  "拄",
+                                        "x":  457
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "江 西 省 博 物 馆",
+                      "words":  [
+                                    {
+                                        "y":  929,
+                                        "height":  28,
+                                        "width":  28,
+                                        "text":  "江",
+                                        "x":  449
+                                    },
+                                    {
+                                        "y":  932,
+                                        "height":  29,
+                                        "width":  28,
+                                        "text":  "西",
+                                        "x":  480
+                                    },
+                                    {
+                                        "y":  934,
+                                        "height":  30,
+                                        "width":  28,
+                                        "text":  "省",
+                                        "x":  509
+                                    },
+                                    {
+                                        "y":  936,
+                                        "height":  30,
+                                        "width":  27,
+                                        "text":  "博",
+                                        "x":  539
+                                    },
+                                    {
+                                        "y":  939,
+                                        "height":  30,
+                                        "width":  27,
+                                        "text":  "物",
+                                        "x":  568
+                                    },
+                                    {
+                                        "y":  942,
+                                        "height":  31,
+                                        "width":  28,
+                                        "text":  "馆",
+                                        "x":  598
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "5f5adaa2eb17467415c4bea0d55b618689f61d91c213c22463060cc0e8908df3",
+    "engine":  "Windows.Media.Ocr"
+}

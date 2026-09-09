@@ -1,0 +1,176 @@
+{
+  "status": "partial_image_evidence",
+  "generated_by": "image_metadata",
+  "source": "image_visible_text",
+  "records": [
+    {
+      "sha256": "9b4c2769d750f9774738a97f4e3adcb6ddf69e6d89abf38162122d507c50a3e8",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/8f8f34429932a4d07e35d2e061c6d99a.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 440,
+        "height": 550
+      },
+      "file_size": 69869,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/8f8f34429932a4d07e35d2e061c6d99a.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8f8f34429932a4d07e35d2e061c6d99a.jpg",
+          "source_modified_at": "2024-08-13T02:49:42+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:58+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d0d35d28efcb54a843ae4e7072c225a0.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d0d35d28efcb54a843ae4e7072c225a0.jpg",
+          "source_modified_at": "2024-08-13T02:49:42+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "森之国度·小鱼饼干",
+      "category": "道具",
+      "subcategory": "道具",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "森之国度．小鱼饼干\n0\n0\n丿\n森之国度的食物\n前往未知的世界",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/9b4c2769d750f9774738a97f4e3adcb6ddf69e6d89abf38162122d507c50a3e8.json",
+      "review": {
+        "number": 47,
+        "category": "道具",
+        "title": "森之国度·小鱼饼干",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "4967a4c57bc9bb59958d470b99d356c0729a4973b7eaea9f30f7a27048a90fc7",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1b55ec690f0c2ae356091c8a35f303e9.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 440,
+        "height": 550
+      },
+      "file_size": 65716,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1b55ec690f0c2ae356091c8a35f303e9.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1b55ec690f0c2ae356091c8a35f303e9.jpg",
+          "source_modified_at": "2024-08-13T02:50:00+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:58+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e4a973873714f07e24a7a47fd388b3e5.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e4a973873714f07e24a7a47fd388b3e5.jpg",
+          "source_modified_at": "2024-08-13T02:50:00+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "森之国度·猫猫信纸",
+      "category": "道具",
+      "subcategory": "道具",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "森之国度．猫猫信纸\n来自森之国度的信物\n与猫猫同行或许有好事发生",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/4967a4c57bc9bb59958d470b99d356c0729a4973b7eaea9f30f7a27048a90fc7.json",
+      "review": {
+        "number": 48,
+        "category": "道具",
+        "title": "森之国度·猫猫信纸",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "f76d6d7252deb1321086dbab7df17814193ccb841412f7b8809edcf852a0dd14",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2e407b95e4cf91c96f0d1c49364402da.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 440,
+        "height": 550
+      },
+      "file_size": 70627,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2e407b95e4cf91c96f0d1c49364402da.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2e407b95e4cf91c96f0d1c49364402da.jpg",
+          "source_modified_at": "2024-08-13T02:50:05+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/005bb3453c2415b72ecd69d8a2c4b21b.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/005bb3453c2415b72ecd69d8a2c4b21b.jpg",
+          "source_modified_at": "2024-08-13T02:50:05+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "森之国度·猫猫信纸",
+      "category": "道具",
+      "subcategory": "道具",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "森之国度．猫猫信纸\n来自森之国度的信物\n与猫猫同行或许有好事发生",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/f76d6d7252deb1321086dbab7df17814193ccb841412f7b8809edcf852a0dd14.json",
+      "review": {
+        "number": 49,
+        "category": "道具",
+        "title": "森之国度·猫猫信纸",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    }
+  ],
+  "notes": "仅图片证据。日期是图片上的印刷日期，不等于已取得游戏数据库中的完整旅行或收藏记录。"
+}

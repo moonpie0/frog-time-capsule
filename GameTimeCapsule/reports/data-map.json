@@ -1,0 +1,218 @@
+[
+  {
+    "item": "手机型号与系统版本",
+    "found": "是",
+    "location": "reports/environment.json",
+    "backup": "已保存",
+    "classification": "本地可访问",
+    "note": "系统包管理器及指定系统属性"
+  },
+  {
+    "item": "游戏版本",
+    "found": "是",
+    "location": "reports/environment.json",
+    "backup": "已保存",
+    "classification": "本地可访问",
+    "note": "系统包管理器及指定系统属性"
+  },
+  {
+    "item": "用户 UID",
+    "found": "未验证",
+    "location": "游戏内页面（待人工确认）",
+    "backup": "未保存",
+    "classification": "当前无法判断",
+    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+  },
+  {
+    "item": "昵称",
+    "found": "未验证",
+    "location": "游戏内页面（待人工确认）",
+    "backup": "未保存",
+    "classification": "当前无法判断",
+    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+  },
+  {
+    "item": "明信片记录",
+    "found": "176 张已分类图片",
+    "location": "parsed/image-metadata/",
+    "backup": "部分保存",
+    "classification": "图片中的可见信息",
+    "note": "分类与图片上的日期、地点已归档；这不是结构化存档，不证明账号状态、数量或记录完整性。"
+  },
+  {
+    "item": "图鉴状态",
+    "found": "未验证",
+    "location": "游戏内页面（待人工确认）",
+    "backup": "未保存",
+    "classification": "当前无法判断",
+    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+  },
+  {
+    "item": "已解锁地点",
+    "found": "未验证",
+    "location": "游戏内页面（待人工确认）",
+    "backup": "未保存",
+    "classification": "当前无法判断",
+    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+  },
+  {
+    "item": "道具记录",
+    "found": "3 张已分类图片",
+    "location": "parsed/image-metadata/",
+    "backup": "部分保存",
+    "classification": "图片中的可见信息",
+    "note": "分类与图片上的日期、地点已归档；这不是结构化存档，不证明账号状态、数量或记录完整性。"
+  },
+  {
+    "item": "货币数量",
+    "found": "未验证",
+    "location": "游戏内页面（待人工确认）",
+    "backup": "未保存",
+    "classification": "当前无法判断",
+    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+  },
+  {
+    "item": "称号",
+    "found": "未验证",
+    "location": "游戏内页面（待人工确认）",
+    "backup": "未保存",
+    "classification": "当前无法判断",
+    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+  },
+  {
+    "item": "任务状态",
+    "found": "未验证",
+    "location": "游戏内页面（待人工确认）",
+    "backup": "未保存",
+    "classification": "当前无法判断",
+    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+  },
+  {
+    "item": "活动状态",
+    "found": "7 张已分类图片",
+    "location": "parsed/image-metadata/",
+    "backup": "部分保存",
+    "classification": "图片中的可见信息",
+    "note": "分类与图片上的日期、地点已归档；这不是结构化存档，不证明账号状态、数量或记录完整性。"
+  },
+  {
+    "item": "旅行历史",
+    "found": "2 张已分类图片",
+    "location": "parsed/image-metadata/",
+    "backup": "部分保存",
+    "classification": "图片中的可见信息",
+    "note": "分类与图片上的日期、地点已归档；这不是结构化存档，不证明账号状态、数量或记录完整性。"
+  },
+  {
+    "item": "本地配置",
+    "found": "未确认",
+    "location": "/data/user/0/com.aligames.lxqw.hhb（可能位置）",
+    "backup": "无法安全读取",
+    "classification": "当前无法判断",
+    "note": "正常系统权限无法继续，这部分数据当前无法安全读取。未读取外部目录中的未知 SDK 文件。"
+  },
+  {
+    "item": "SharedPreferences / XML",
+    "found": "未确认",
+    "location": "/data/user/0/com.aligames.lxqw.hhb（可能位置）",
+    "backup": "无法安全读取",
+    "classification": "当前无法判断",
+    "note": "正常系统权限无法继续，这部分数据当前无法安全读取。未读取外部目录中的未知 SDK 文件。"
+  },
+  {
+    "item": "SQLite 数据库",
+    "found": "未确认",
+    "location": "/data/user/0/com.aligames.lxqw.hhb（可能位置）",
+    "backup": "无法安全读取",
+    "classification": "当前无法判断",
+    "note": "正常系统权限无法继续，这部分数据当前无法安全读取。未读取外部目录中的未知 SDK 文件。"
+  },
+  {
+    "item": "JSON 文件",
+    "found": "未确认",
+    "location": "/data/user/0/com.aligames.lxqw.hhb（可能位置）",
+    "backup": "无法安全读取",
+    "classification": "当前无法判断",
+    "note": "正常系统权限无法继续，这部分数据当前无法安全读取。未读取外部目录中的未知 SDK 文件。"
+  },
+  {
+    "item": "本地存档文件",
+    "found": "未确认",
+    "location": "/data/user/0/com.aligames.lxqw.hhb（可能位置）",
+    "backup": "无法安全读取",
+    "classification": "当前无法判断",
+    "note": "正常系统权限无法继续，这部分数据当前无法安全读取。未读取外部目录中的未知 SDK 文件。"
+  },
+  {
+    "item": "缓存索引",
+    "found": "未确认",
+    "location": "/data/user/0/com.aligames.lxqw.hhb（可能位置）",
+    "backup": "无法安全读取",
+    "classification": "当前无法判断",
+    "note": "正常系统权限无法继续，这部分数据当前无法安全读取。未读取外部目录中的未知 SDK 文件。"
+  },
+  {
+    "item": "游戏生成的图片",
+    "found": "206 个图片文件",
+    "location": "raw/com.aligames.lxqw.hhb/files/umeng_cache/",
+    "backup": "部分保存",
+    "classification": "本地可访问",
+    "note": "按原图归档；图片分类与可见信息另有索引，不能据此确认游戏收藏覆盖范围。"
+  },
+  {
+    "item": "本地媒体文件",
+    "found": "206 个图片文件",
+    "location": "raw/com.aligames.lxqw.hhb/files/umeng_cache/",
+    "backup": "部分保存",
+    "classification": "本地可访问",
+    "note": "仅目标目录白名单图片；未扫描其他应用、相册或全部共享存储。与上项为同一批文件，勿重复计算。"
+  },
+  {
+    "item": "游戏截图",
+    "found": "0 个用户选取文件",
+    "location": "screenshots/",
+    "backup": "待人工补全",
+    "classification": "用户手动截图",
+    "note": "未自动读取整台手机相册；请只导入本人游戏截图，排除登录及支付页面。"
+  },
+  {
+    "item": "时间戳",
+    "found": "有源文件修改时间",
+    "location": "manifest.json",
+    "backup": "部分保存",
+    "classification": "本地可访问",
+    "note": "文件修改时间不是旅行发生时间；Android 图片创建时间未知。截图创建时间仅在文件系统提供时记录。"
+  },
+  {
+    "item": "系统本地备份",
+    "found": "应用未允许标准备份",
+    "location": "无",
+    "backup": "无法取得",
+    "classification": "系统备份可获得性未确认",
+    "note": "检测到系统备份服务关闭；未开启云备份，未执行 adb backup。厂商备份能否包含本游戏尚未验证，且完整备份可能包含认证信息。"
+  },
+  {
+    "item": "仅服务端数据",
+    "found": "无法判断",
+    "location": "服务器（未访问）",
+    "backup": "未保存",
+    "classification": "可能仅存在服务器端",
+    "note": "未拦截通信、请求服务端或读取 Token，不能确认哪些记录仅在服务端。"
+  },
+  {
+    "item": "图片对应信息",
+    "found": "206 份图片信息",
+    "location": "parsed/image-metadata/",
+    "backup": "部分保存",
+    "classification": "本地 OCR 与图像核对",
+    "note": "保留分类、图片日期、地点、署名、识别原文与来源。图片没有写出的字段不推测。"
+  },
+  {
+    "item": "重复文件来源",
+    "found": "已合并",
+    "location": "manifest.json / reports/deduplication.json",
+    "backup": "已保存",
+    "classification": "本地文件比较",
+    "note": "只删除 SHA-256 与逐字节比较均一致的副本；保留不同日期、边框或分享内容的相似图片，以及所有原始来源记录。"
+  }
+]

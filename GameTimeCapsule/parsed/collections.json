@@ -1,0 +1,960 @@
+{
+  "status": "partial_image_evidence",
+  "generated_by": "image_metadata",
+  "source": "image_visible_text",
+  "records": [
+    {
+      "sha256": "7a9f3fc179b0509c969d684243c4de3e0a4995b0f9eafa7a2444390af52e8ee7",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 398783,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+          "source_modified_at": "2024-06-09T17:34:24+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:54+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/3937e8cc29f6df698b7b85bd220c67ad.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3937e8cc29f6df698b7b85bd220c67ad.jpg",
+          "source_modified_at": "2024-06-09T17:34:24+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:54+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "土特产代购的扭蛋记录",
+      "category": "扭蛋记录",
+      "subcategory": "扭蛋记录",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行然\n土特产代购的扭蛋记录\n应g00\n0000\n000+\n下载旅行青蛙\n一起来欢乐扭蛋吧·",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/7a9f3fc179b0509c969d684243c4de3e0a4995b0f9eafa7a2444390af52e8ee7.json",
+      "review": {
+        "number": 26,
+        "category": "扭蛋记录",
+        "title": "土特产代购的扭蛋记录",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-01.png",
+        "date_evidence": "reports/date-proofs/dates-01.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "9eb970d31fa086779f6e56a0b88e2de766736416b4f2577c0baadb758336c8a8",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 603653,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+          "source_modified_at": "2024-08-13T02:54:08+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/33bf24187222956e12055b48db4237cb.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/33bf24187222956e12055b48db4237cb.jpg",
+          "source_modified_at": "2024-08-13T02:54:08+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "收藏",
+      "category": "收藏",
+      "subcategory": "收藏",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行然\n20四8邝3",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/9eb970d31fa086779f6e56a0b88e2de766736416b4f2577c0baadb758336c8a8.json",
+      "review": {
+        "number": 50,
+        "category": "收藏",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "0aa0dd11f0febe970ccc195b0926c711005692c324630449caa02bf672da6334",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 600644,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+          "source_modified_at": "2024-08-13T02:54:15+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/87a573374dbf25b9a73d5b42ee98fb8d.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/87a573374dbf25b9a73d5b42ee98fb8d.jpg",
+          "source_modified_at": "2024-08-13T02:54:15+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "收藏",
+      "category": "收藏",
+      "subcategory": "收藏",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行然\n20四8邝3",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/0aa0dd11f0febe970ccc195b0926c711005692c324630449caa02bf672da6334.json",
+      "review": {
+        "number": 51,
+        "category": "收藏",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "04e37e29ec8e69a1f4e3d1b5f359b05a6910dc7d6ba368343fc949fa485f1a4b",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 596934,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+          "source_modified_at": "2024-08-13T02:54:20+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a662f7508a90abec9da70081f84ab3ae.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a662f7508a90abec9da70081f84ab3ae.jpg",
+          "source_modified_at": "2024-08-13T02:54:20+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:59+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "收藏",
+      "category": "收藏",
+      "subcategory": "收藏",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行砉然\n20四8邝3",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/04e37e29ec8e69a1f4e3d1b5f359b05a6910dc7d6ba368343fc949fa485f1a4b.json",
+      "review": {
+        "number": 52,
+        "category": "收藏",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-02.png",
+        "date_evidence": "reports/date-proofs/dates-02.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "5f5adaa2eb17467415c4bea0d55b618689f61d91c213c22463060cc0e8908df3",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/033aa1fcfbaeddc2f2c46bc9d2fe1f69.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 647571,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/033aa1fcfbaeddc2f2c46bc9d2fe1f69.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/033aa1fcfbaeddc2f2c46bc9d2fe1f69.jpg",
+          "source_modified_at": "2024-08-23T14:53:11+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/446bdf7dc56e0eadd3301c0bc63c5ba0.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/446bdf7dc56e0eadd3301c0bc63c5ba0.jpg",
+          "source_modified_at": "2024-08-23T14:53:11+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:08+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "收藏",
+      "category": "收藏",
+      "subcategory": "收藏",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "一、\\0涨竹拄\n江西省博物馆",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/5f5adaa2eb17467415c4bea0d55b618689f61d91c213c22463060cc0e8908df3.json",
+      "review": {
+        "number": 88,
+        "category": "收藏",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-03.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "a2161093486476e60dbafcea76851a49290203d3c5d7b3b0f5841adf00d7b234",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/4889e676fab8246d80297693b425cbdd.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 604200,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/4889e676fab8246d80297693b425cbdd.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4889e676fab8246d80297693b425cbdd.jpg",
+          "source_modified_at": "2025-01-25T02:20:13+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:16+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/20833a1bbb9c5334df17aa3fae3aa096.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/20833a1bbb9c5334df17aa3fae3aa096.jpg",
+          "source_modified_at": "2025-01-25T02:20:13+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:28+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "纸分享码一\n行砉然\nD3305K下",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/a2161093486476e60dbafcea76851a49290203d3c5d7b3b0f5841adf00d7b234.json",
+      "review": {
+        "number": 112,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "f4104c282481f1f187a5d76996ef07183e704b63b6f480437b8f3af745d9874e",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/148477ce9dcffbdef8e6652e592450a7.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 515370,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/148477ce9dcffbdef8e6652e592450a7.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/148477ce9dcffbdef8e6652e592450a7.jpg",
+          "source_modified_at": "2025-01-25T02:20:40+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:16+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/36450cbbdb5c81c543ff4f2b493b7a29.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/36450cbbdb5c81c543ff4f2b493b7a29.jpg",
+          "source_modified_at": "2025-01-25T02:20:40+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:28+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "秫仃然\n茹纸分享码",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/f4104c282481f1f187a5d76996ef07183e704b63b6f480437b8f3af745d9874e.json",
+      "review": {
+        "number": 113,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "3c15c3470bf2bf0aafe258866974190ed1222f133909c97d86a899bf53cbb05e",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9bc461360b5d098f4033c003697008bb.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 607090,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9bc461360b5d098f4033c003697008bb.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9bc461360b5d098f4033c003697008bb.jpg",
+          "source_modified_at": "2025-01-28T13:12:20+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:16+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d566ff845d72d50cc4bafecaa6c1e407.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d566ff845d72d50cc4bafecaa6c1e407.jpg",
+          "source_modified_at": "2025-01-28T13:12:20+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:35+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "纸分享码一\n行砉然\nRZJEDQCF5v",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/3c15c3470bf2bf0aafe258866974190ed1222f133909c97d86a899bf53cbb05e.json",
+      "review": {
+        "number": 115,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "b30935bc1d2bc10d77af29e6cb6824d7988c46888c7de40d7ecfdfff88d08375",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/18ebceca59821c145d9084de6ae096ec.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 515253,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/18ebceca59821c145d9084de6ae096ec.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/18ebceca59821c145d9084de6ae096ec.jpg",
+          "source_modified_at": "2025-01-28T13:12:50+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:16+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/92e48f1a7c18bc21d4ae017850c225de.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/92e48f1a7c18bc21d4ae017850c225de.jpg",
+          "source_modified_at": "2025-01-28T13:12:50+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:35+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "纸分享码一\n行砉然\n3",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/b30935bc1d2bc10d77af29e6cb6824d7988c46888c7de40d7ecfdfff88d08375.json",
+      "review": {
+        "number": 116,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "68974fa7d4df5754da0e81531f02681d376bfb093983f5af088c81d33008f342",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0b5e032d0a3d769fb7dbfe2458e8bf97.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 612217,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0b5e032d0a3d769fb7dbfe2458e8bf97.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0b5e032d0a3d769fb7dbfe2458e8bf97.jpg",
+          "source_modified_at": "2025-01-30T07:39:04+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:17+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1438f97e1d2fa55d5e632157dd546515.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1438f97e1d2fa55d5e632157dd546515.jpg",
+          "source_modified_at": "2025-01-30T07:39:04+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:17+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行然\n0\n纸分享码一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/68974fa7d4df5754da0e81531f02681d376bfb093983f5af088c81d33008f342.json",
+      "review": {
+        "number": 119,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "60a0cb1be3f7bacac2660c7208c19474866c52c5582dfd6b631db30ce4590cf3",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/60e33d58abb918004cf93cce811917c5.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 519165,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/60e33d58abb918004cf93cce811917c5.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/60e33d58abb918004cf93cce811917c5.jpg",
+          "source_modified_at": "2025-01-30T07:39:24+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:17+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ce4b1923a71dd1ff27a561907dc438c9.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ce4b1923a71dd1ff27a561907dc438c9.jpg",
+          "source_modified_at": "2025-01-30T07:39:24+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:29+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "PTDWVHHMIF",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/60a0cb1be3f7bacac2660c7208c19474866c52c5582dfd6b631db30ce4590cf3.json",
+      "review": {
+        "number": 120,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "38d9ce4af904fa09fb749400336d0c8b1d14e612e02d88ff860ca94d573f07f0",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1f0695dfe57e18e9cda00d3df9c38d10.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 606750,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1f0695dfe57e18e9cda00d3df9c38d10.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1f0695dfe57e18e9cda00d3df9c38d10.jpg",
+          "source_modified_at": "2025-02-03T03:45:08+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:17+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/dacfab02cdfff9e7878ee68ab4bd13d1.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/dacfab02cdfff9e7878ee68ab4bd13d1.jpg",
+          "source_modified_at": "2025-02-03T03:45:08+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:36+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "纸分享码一\n行砉然\n/G№",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/38d9ce4af904fa09fb749400336d0c8b1d14e612e02d88ff860ca94d573f07f0.json",
+      "review": {
+        "number": 122,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-04.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "f6f20595125b1d92f6cd5db586a0bb5abee589f5e8d3a840f6efa6a6fc2c568e",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 615542,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+          "source_modified_at": "2025-01-30T07:39:16+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:22+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ddd4e1ede98343a2f4a1ba958edd2e2c.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ddd4e1ede98343a2f4a1ba958edd2e2c.jpg",
+          "source_modified_at": "2025-01-30T07:39:16+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:28+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "秫仃寄然\n茹纸分享码",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/f6f20595125b1d92f6cd5db586a0bb5abee589f5e8d3a840f6efa6a6fc2c568e.json",
+      "review": {
+        "number": 157,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-05.png",
+        "date_evidence": "reports/date-proofs/dates-04.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "42f268783723f2a2a9e45195a231bbf66bd6e7778d3b48eeb36969f7ec3848c1",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1ad9707b79f7a18b153d36f826e69b99.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 515870,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1ad9707b79f7a18b153d36f826e69b99.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1ad9707b79f7a18b153d36f826e69b99.jpg",
+          "source_modified_at": "2025-02-03T03:45:13+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:22+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1ff19a09fb621a399f4c330a60b092d8.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1ff19a09fb621a399f4c330a60b092d8.jpg",
+          "source_modified_at": "2025-02-03T03:45:13+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:36+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "纸分享码一\n行砉然\nKIWBI'I/PQKPR",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/42f268783723f2a2a9e45195a231bbf66bd6e7778d3b48eeb36969f7ec3848c1.json",
+      "review": {
+        "number": 160,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-05.png",
+        "date_evidence": "reports/date-proofs/dates-04.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "7a0f964697ea6986ad49eb3870306cdb5d723ff969c14ca27406bcf056b68a79",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1363443a27151ea98f2786fbc8a6fc1f.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 518319,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1363443a27151ea98f2786fbc8a6fc1f.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1363443a27151ea98f2786fbc8a6fc1f.jpg",
+          "source_modified_at": "2025-02-03T03:45:22+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:22+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b16fed902432867199d047a247e62548.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b16fed902432867199d047a247e62548.jpg",
+          "source_modified_at": "2025-02-03T03:45:22+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:22+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "行砉然\n纸分享码一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/7a0f964697ea6986ad49eb3870306cdb5d723ff969c14ca27406bcf056b68a79.json",
+      "review": {
+        "number": 161,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-05.png",
+        "date_evidence": "reports/date-proofs/dates-05.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "a367952f57d8edbb181e232688cc01ba1c551877cd5c31f6f34fae30bae7a307",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/69e8fe38542bf5d3f56980b1e63e4b5f.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 607553,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/69e8fe38542bf5d3f56980b1e63e4b5f.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/69e8fe38542bf5d3f56980b1e63e4b5f.jpg",
+          "source_modified_at": "2025-01-25T02:20:24+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:28+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d73b270fc8ec4e46f1f949bfe2d5dca9.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d73b270fc8ec4e46f1f949bfe2d5dca9.jpg",
+          "source_modified_at": "2025-01-25T02:20:24+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:35+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "纸分享码一\n行砉然\nJ17QSV8EY2",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/a367952f57d8edbb181e232688cc01ba1c551877cd5c31f6f34fae30bae7a307.json",
+      "review": {
+        "number": 181,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-06.png",
+        "date_evidence": "reports/date-proofs/dates-05.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "1a0ba5c8cb60f1d5d8620209b6f81f18dbbe39065e978f25766003486588beb1",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/468c58a5a8ebfe4f139cfdff04cca9a5.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1136
+      },
+      "file_size": 607973,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/468c58a5a8ebfe4f139cfdff04cca9a5.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/468c58a5a8ebfe4f139cfdff04cca9a5.jpg",
+          "source_modified_at": "2025-01-28T13:13:00+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:28+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/4dcc6af3512b8db14b38e94e2bf06b41.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4dcc6af3512b8db14b38e94e2bf06b41.jpg",
+          "source_modified_at": "2025-01-28T13:13:00+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:28+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "贴纸分享",
+      "category": "贴纸分享",
+      "subcategory": "贴纸分享",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "纸分享码一\n行砉然\nPHOCOFOQGN",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/1a0ba5c8cb60f1d5d8620209b6f81f18dbbe39065e978f25766003486588beb1.json",
+      "review": {
+        "number": 182,
+        "category": "贴纸分享",
+        "title": null,
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-06.png",
+        "date_evidence": "reports/date-proofs/dates-05.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    }
+  ],
+  "notes": "仅图片证据。日期是图片上的印刷日期，不等于已取得游戏数据库中的完整旅行或收藏记录。"
+}

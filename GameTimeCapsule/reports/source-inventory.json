@@ -1,0 +1,2100 @@
+{
+  "listed_at": "2026-09-09T08:42:43+08:00",
+  "files": [
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/perf/1000#P1000000",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/perf/1000#P1000000.lock",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6e2f1d1762de14aa9747c8c42823a650.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/43b63246d666de20471f4df52b119926.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/65749ad30e311a3c1c392e034c8378b7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/babbafbb3b1e8783c466c6b22a3215e1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a950dc7807948e517c8585dc3b87ec45.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/16dd1dd63560565ee265e37be40c8b07.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/06642caf69a022962aabeaafa69b0e46.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/27961c693b06921b02f90cd669d1c3c7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c366e252d1e02b0d9d50d57cce7e63b2.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/be2cb995999f65884402616b29b5e412.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7450f9d87f05f354533c4c5e03b53cda.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/541c05d404faebc23968045a528e59b6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7163e8f814457606183f9536ff90a086.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/35632b938d6c9a6bd6002ab8c79075b7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/24bebc253ac13af26e9fcb1cb49e2d96.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6b28b9e09fc6c93d4b599c61abc9d21b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5e1ae676b75330d8a0a8a78f44a78917.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/08b7f50a9e1f782f845ccb5429ad0e55.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a04bf8bb714e0f31038b0121e8f2ee56.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a752d1aa9394f5953d80a244a6b09a68.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/dc11e73577ff2acf1d045304ccc7327c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/010e7584d7fad77e40b2e812d292cd27.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/de638ae911c3b9e734a2c8e9f1f5f87e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/781db6b11bc9f9de5c25232ca5c2b19d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c8cb1e283af8e83d08032775865d3d45.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/64a9ed253721692cf9203dcde59ba703.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/424d0879418a182af43c84a494448d6e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cff06191aadf356a70ddd3e67a92c499.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b74f7de2b2bf29cf3ef916bf0b261421.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/371615373ce8b3767ee5a1f9e25133e1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2262f774fdc81630ea5403d746a58836.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/06bca6e29364e5817bff1acde3f52a75.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/790ceeb8c52aab5cb49657871e4488d2.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ade8a2dbee206bac7d85d9fce97e06c0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/68372d324d2c9502ee96a6b9937f05a2.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b4dea21fddbe6162739b15e109ff4925.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/55a6515075a047ae0a55d965001bd58b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d8fc6aa86f1b4bfd6fe3ecf5082b5e88.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4aec75258cd46ed046307f4f754ff7ee.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b602bc7f1e4825d1340362288adb26fc.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b07fc45e1a67d4a9fbc0e5d5ad35af02.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6da6b80b94cc839d1826d32bdae93ce4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/61ae3533515c7f80f2b7e801c7896b27.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0a8d0daf0e66ad2e9b9ddf33ca362f65.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d7a44b2174cda5e0196af3419f865cea.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c51badc982a6fc07474cc18660983f9f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b2cbeb12468ef4c424734c23209f2952.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d144018dd1592e5afa1431f2a8a1bf81.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/31194fa2494878647e6883b2fe5d0a7a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ad9d3566f0f5654ee19cf9809f01191a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3937e8cc29f6df698b7b85bd220c67ad.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9372b56a416877875c6b5b47310f46ee.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/940f4e8e1e2889b653cc8ec09caf2c6a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/515ab65cc8f34f73e5626937453b9a32.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/433dc05a7c209fce1edc698d070c4797.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0dd7b53e05611ddc991a184c4c5e3169.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e0dac3e5e0605d143ce1ba1e6d03afdb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3fa8eeadf814aeecb89eb192849796a5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a09e7e97b9b208bf5de0f9d215db19f2.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/26af8ab01a99d25d31baf71387b91a02.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e5d6ff9025c443a305fdb16f8d4308a7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/70ade529ba288886b57a818d3b87ffea.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/df55fd6eb3c94abfade54099ce2c52e6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/45641c12a47b9ff6f2651c89a8a20a6c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fb3257c7bc901cfb0c730339876a9275.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/44c1293c856821db875d532b8b505b3a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c37286ea00a4e7dd61eeeaa4eb911f86.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a88f2100d77d9f59c60dcc61a3979bf5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a361cd0d6d3aa6f73a46b27459e6319b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9c20cf54604ce3cade469d6aec19bab3.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c44e71107597aeb2140c7684d9747a11.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d46cb430b655e7e236d75778c7f41673.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5a9cf580765fd130012ac60fe4f991d8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3a3bcabb127a59876a3e2fc2af85a325.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1fe8b8d324e195c458f72ebfe895c071.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f1c975703694e36862c1ddc42b23d748.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c7ad7a5679602db4b4fec24a08eca88f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f942e2a92b7b751b06ade00b1a084e17.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/09c7f31a0167cd98e49e19b597be57b7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4fbc379a8c81e62a0e51e2366ed5eabb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2e9044f3a733195e17004c037f2a9bf0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5e937bb39426390d7a82606223bfbdd0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d907f3b04774c2c55ae1abffda93430f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d9b507f5d7b5a01e1d6929655a6fcb03.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f6a1da9a8eccad1c1eb981047d8bf8d0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3f671dd1ccbd517f43b432514bbfe7cb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/433bec98979280fa6d8d5c4ecbc64fe0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8f8f34429932a4d07e35d2e061c6d99a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1b55ec690f0c2ae356091c8a35f303e9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2e407b95e4cf91c96f0d1c49364402da.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/005bb3453c2415b72ecd69d8a2c4b21b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e8613500e2956bc9f579dcec29eb5f66.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fdbcd7204395463d95affee49750e009.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5e169e711fdfb2628afda043a865a915.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a662f7508a90abec9da70081f84ab3ae.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/618f0a9d4adcc5c682aee8b15997b393.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/25b804c921a44fa2e1e622fab04ddf29.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1a9d64ba8434a0105ddaad601b15d511.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4e30de61bc224d5f16abd19d6a294151.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0926e37eee37f3441e69c419b41f5dcc.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/40ab3bbbca20c601ff8c875db1b6a52e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e726598eae75d2df8241911a76d35817.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/79cb23484b2a6b10e0c77015f7c4169e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ea84b5b2ce7dc1a14385cac71a5ebe9d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8463b3ed028ad645d1a1796d1470cdbd.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/594a5134f2e6a6f0c20f5db486245ef4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b2df971ee1e5f942fd5f049c3a5eb99a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/02bc55d8a6cf3150dcc6c146182a42ec.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/10a3a9abafa5c0de954b7bef13f327ca.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/89895bb887d6adbdadf6fee2920300c0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/365db0aff0d2e3e5cc052365f8077973.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c2a38b9eee7135081b51a75515fa98b2.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9b51b4690fe0806a6b1e4602bdda6447.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/95b66462bc8832e8f4a4844777234661.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5d626635b0a1fe3b286dab9cef8db035.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/288ebe650c09af35b0c00b5cfeaa8f77.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/46686141e63b91b084d6c96aa268c1a7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/332c8ee39a55d7dc652fcdbdf7b72daa.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7f40dd22b57d39bcfdf891ded39399ad.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1666a25844193dcefd37a22aadff47c5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cc8da714869513731922d21efb10271b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b36ef2e2d46cb3f42af0801ebb6f70da.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c7fdda52f17125077ad5e782012fdffc.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c36ffa6a316ea2dd3b78a387d60b0bad.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/62401a219d2c4803376fd9434225b1bf.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b694f4c8023d1a8f1db5df5715d662c0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5bfcdb0aa0fb73901fe0aa077c3ead24.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/37fedc75df30d9bb871412bb98d2b999.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/bd7120ea2e803e35be06e420831615fd.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b3417fa5d80cd5d10adb1be675700ba7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1d0e48d57dbefbe1f0ea57b76448f021.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9ca792880b1e25b1b9f06a6d16fceeb4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ca39cdc9354ae3aa635d8a2349931c1f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/241fb6fa37ea367665129c8f495929eb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9f899cb180609e0bd369d649044fa9d0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/734cc76b79e64ea8edae60963b0c9fac.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b6a0aafaf33b489fca469d900435940d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3a7b1d2556ad3cd17b88e7403a4c8d5e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/78648c71c0dbe2498146f81931c13244.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/842a1a4d7194e7515fa1e2ae4951ff3c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/350114a0e0816616bac658b335865ea2.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b03fd978d12c3c8e60aea19e0b33bf35.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/95d424a1f5e90bf2cfb9d1713a7136ad.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1c5942e31ebb6405fd0d54ab401bda77.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/89b3e33aed7981a23b9f90025668770d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c3eb74e1f106394fb08ef1eaa5eb1d44.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/347337ad1ace05c17287a2229e731285.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/aa309b7b9d4bb63431170635bc7a58da.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2eacd4d690821ab22f64fa22c6abc5a1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d1ffbeb0602e7c27ce132ac65bc198f9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/90412da3aa80f4028f7f6aa13885744c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e920f4023abce48deed01284c7f63e3f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4d8fb3247529e3929a007f67551a52da.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d0d35d28efcb54a843ae4e7072c225a0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e4a973873714f07e24a7a47fd388b3e5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/33bf24187222956e12055b48db4237cb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/87a573374dbf25b9a73d5b42ee98fb8d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/033aa1fcfbaeddc2f2c46bc9d2fe1f69.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/446bdf7dc56e0eadd3301c0bc63c5ba0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d9ae62280a8ff74d44e9826204524e6a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/991ef26b51ea489e49d1fcb63414c063.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f1d8cb827154aec0ea3a89d45975bd4c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3bde31b0e76886ab0edeeca4ad4a9cdc.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/00e0852486377a50887485c6860b6dfa.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/55b57ca1e51ad9f57604444506d40c22.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/46148d83ac8c3ae80adeb9f78aff9fe3.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b4737c3b1a9db5d9cd951048d4298e95.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a92c0b96faf2ed7da55a04fef54854c8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/063950f15d2d95d79f63c1600e6603a6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/58d131009bf55185dbb4f2a757800181.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6b47b98e7f4c03d02fe9c3fbebf43af1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/611999b2846da7a1f77177c367f8ded0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/107fa80840b05d8fe7f18f7c1fd0a464.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5b2169d824ed31503f1f3f84279ccea1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b7adce0a60fec60725ce22f3a0ab868d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/bd7944740f1de526543b8d8c0c00e5cb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8e5b782d62f07f1d368f7c68c97790c0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/26db9916c06890fabd7acd5a08aace64.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/59cc8bbe6bda7f5abee4f7ca12fd067c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0704fba82fec517e2c5f1b849f04555a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/aefdf65df2dee95fc2d36b2de456679d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ffc1cf0d632dde362e2549c45f3ba311.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2b36757a6d732b06294aa5ff93acb58d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/72971383858501a3e3d2ceb1374f7bbf.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c401bae213ca208a57c4d755588fb444.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ada7a6f9dc9019a1d4ecfb4c521a8933.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c7c8efb9565ec8b8ed78e4bc12ba13e5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/83c44ecaa1f281fdab86c27080eafab4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8e946560014653854b0c0d7b5c51384d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ee83a692276a312499e257e961d4e27b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2ad9d2c8a4d533c6aa9092076ee90f0e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/adb8afbebc59935a85f7bd26f6e6811d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/61f6cd1610f6ec3ee12f400282cc7ca0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0adf3496de9a6233edadd9c39d62d4f4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/09a4ba42382c8893ab0913e2ce17a18e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c7dce26905731f316c5642363faf155a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/da8e6f1e55a8e7a14180c3cbd1f419ef.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/40f9bbfe2692ee361c7decafc10337cd.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2fb181c55aa2eefb8a921c9200a5ef53.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f0cb64193df74d48c0110da360dde019.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f9d7ca84d884011b556ef9492da698ad.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a0c751e713bb13b58b717c06fc2e7c9c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/33269a7996dd842b0b5f2cacc97332cf.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e76547d99bdcd984539258638d5d2446.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9ef4b77fc096cb0ae12bad003775120e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8ca959ce0a1823fe1638dc0d7e4f4f44.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2f27808c2d0099e646489f954a0b382f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4b9ebc28d3a046141c6deeab05434644.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/19fd3e093adddd5149889c7af69c8860.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/523ccf3cb4c5f343d8d3555b24bd1e18.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/21ec80b139e17e01a0683f0c95e48b20.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a8d0e95a5b598dc6f7f1cd21a02f56b5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/dce4199cca841d90acc57efd98e3107a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/34acf8d9990845bbf548ce69f152329b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1fcf07368a1531ce37f22a9112fd06a7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/45f1d8bb34bc420890dcd8378fd1b1af.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4889e676fab8246d80297693b425cbdd.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/148477ce9dcffbdef8e6652e592450a7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/125d0df132dc489c38e1c408d5ea4013.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8f2cb1f7244d8b9da40a5a112303c54a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9bc461360b5d098f4033c003697008bb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/18ebceca59821c145d9084de6ae096ec.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a4df060677cc6d9575a073e6a6e3b237.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6ff067d3eb722266453e6cd4734ef9d5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0b5e032d0a3d769fb7dbfe2458e8bf97.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1438f97e1d2fa55d5e632157dd546515.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/60e33d58abb918004cf93cce811917c5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/99f2d8e01bf75f6edbd26999e60eceae.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1f0695dfe57e18e9cda00d3df9c38d10.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/45085f133b5f48353e3f0cc87b9e8afc.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0292e8aa599647652762058df8af89d4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b0bac989997a158dd22553e9dbc582ed.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/19dfcae297097aa2fcb6c778a716bed1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d8faf8daacdeae3d0593a5c9d7914851.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/472b2c09a96c65272616da82a377c521.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b90b47c9abaf1b4ed730145541368771.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2c6961838a20cc91d8b8601935e5dcaf.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2b920f724fe6a30dd1ca3fa560b4118f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/785ef5d9737fed47ab2a11d75f17d082.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b3ec4cdeeb36368d84b5a766b2331868.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1d29b2df59d9ef78f8de7954b92ce04d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ba0a78937f3c027fc3080e690dabad95.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/95d8b6d7c86aa29e9a35ada4847abe01.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9f9cc6781808d8cb90007d3600f7929a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cf53ed18e96ee2e87ed4bdc4d148b662.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cf95fd715baf9c43b9077148a09e01a6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/214b2248c596e77b4a3630e4107eefb7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4fe7a897df4c81f0132ff5cf7fc091df.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/42e85bf20b38a0749456e726ff4a2dab.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ff10d66c3aad80826df27343dcaae27e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/44e3aba93fc9457f4737af5c0b387aee.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/303f6bc2921576ec6c9517150725bfec.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/71b1ca641d2ea25992567791f3340faa.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/201fae3e3891e802df745d3509eb5a98.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/141f880a19f202267207fd5f3727b46f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7c77337e6a2cb3e940fc8e2ef9150175.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a0d5f3fe01408388f6e9a9c8f41355b6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/58534ba1e3dbe10cf63db64cc62cc945.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f91d873f6ec313a065cd9b677ad39e91.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/eed1ae4d86ce1f35d1348315971bb0f8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/14f45b97ff79ef21c03a84a6cc7b5ba2.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d9e39a70ea2b03643f8bc5f711dffcf0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7085a1b9777b519307ba7c95f121e7ae.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1086ff3a9d0e3fa8df5b465d4022e94c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2e3c27f21d35bf9814a95d9ecf7ea653.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fff29ee009916ef6583cfd09f94adc41.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/21f54c72ed32ca3c0f5c7cef67af78cd.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a8a8a929b0933d1680ffcdd323a49c26.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1ad9707b79f7a18b153d36f826e69b99.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1363443a27151ea98f2786fbc8a6fc1f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b16fed902432867199d047a247e62548.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e07c615cc9af28e683fbb2b36b3daf29.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a8a5aa19439946d2782d7873dce3c6ab.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/267f041235020c2ab176045d29feceef.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e9b01e82041d5c56ff1868fe7dceaa46.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/37d14c3b4516aa6f8bc6627798681ce4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/bff1af34ff7d08a0cabeead108dca1f1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/30e29539c832c7861ab7c9b438500c1b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4fa47e025295c4207a6138bfb261eadc.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/174fe6a22c305607e3e69d0ecf2f96a6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7e20e3744eccf6d2e1ab084202ad9998.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7f894f5822451b453cc128b43f194014.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/41e965162d596dab996b43dff6550fb8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7a7874d416692ffca5b3da267f6c6daf.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f4b5d3ff9d04224228011d5e31b1c42f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6ea31028658e3538b288370d1c3affc1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/90b00fcba4dc93f44d616f4a437b7cb9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c6bbe9e755a76060c7014a92574e937e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0d29d9d098487bbf3ef887ae78e5970e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b90654efb353fb92e0f933aedc2c6c59.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b3d8fbbc0c19a7882ee07cec12fedd40.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d6fa841ac62d4092a039e090380c303a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ba49cf25b150af106283fe0cf21b4ddc.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a84b2c74dc54960bf81bc3e3d7befbe5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e9fc36104a84f019bdac1ebd77303ced.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/02ba8e64bf3eacc634a390949530c0fb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4a98e1734b8671f341c4e6635a07fcf8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b414adb5c00792a44841025b1d656a8b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f08b695c0a892a4a35bea292e22760f9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b4f427a16b47ac1030fb188ae32b49cb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5085ad9ccfa74fb28e3232d4ede3c122.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a3cc40215944575cce2d7ad79c60c912.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/433133819f869ce27d5d63f4f6bd0d56.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/db5975a0e4c1ecd6ef2ce9e382f395b7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5dcc9c38d484391e0208102fe3d72cfe.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d4b501a13143b0b7c94a45bf6f8a79d5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c597aadcd78495417fa945c202c946b6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ec4a702373d039cd8bb3912da6729725.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/20833a1bbb9c5334df17aa3fae3aa096.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/69e8fe38542bf5d3f56980b1e63e4b5f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/36450cbbdb5c81c543ff4f2b493b7a29.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/468c58a5a8ebfe4f139cfdff04cca9a5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4dcc6af3512b8db14b38e94e2bf06b41.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/bb9fecbeb7e9776fded2e4139f2811b1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ddd4e1ede98343a2f4a1ba958edd2e2c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ce4b1923a71dd1ff27a561907dc438c9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/87bf2865867f098fbd2e25bbc98742b1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f1cafaa42c4c916a62deae09144a004b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cedcdc5e82cb29635da723ade36424c4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cc6626d06efdbf0d9f49f67666c8d12f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3630b70ca0317fe21a38597a578f6aa6.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1a36f59c51cbbe851a2beec80e45b448.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0e0860e6212de851e42e9e662b22ee27.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fd6c2f5f236d84fab4dc2755d5114bc7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/46933acdd9a2b8d16ad3138327c4b1e3.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/68718b506463d70bf1960b61f17f5bac.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5bc2895bea72fa3ab87b2fbc3ca06996.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6e4771723ee856b40692c180f112a9f4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/710eba374b3455ca4fc8d98b5e32f4fd.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ddaa4173822db7d3de8454cf65809050.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/dacc6617618fa41c1bc44ff3a93fbd8a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b19c1cf244ff0d5688d6db4893be1ab1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7abaaec1b3eec84c067a8259f798a6f5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ac65002177dd725be4c44bef2b9556bb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fb4e48d5888069e2bdee97eac917302c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/316eb3a8daa48b3d2d39ee0acebebb57.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2ccad2ff66ebe82ae28852dd3be4b45b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/136c192d745706effba6d57cb85ae987.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/883b78968a393fcdd46adb00f0578cb1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/400714f695ae8b56916d74f2b7221dc7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d06e6dc14284c5a60a3f005a0e2c730c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cf627e0d75f09847e17a0384aef7780e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/908ee484cc1e54ff565f8554037033c7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1e33a11808de022edc01394c93d13d0d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b2b62adab6fe9e6dd98498446f20e2b1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a0d8eb108db8bf1c08d1da19d6d3f958.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8fca4ee7743ed99c8d4864643d4809c0.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2751ba9828ef18a370ec758ab33c4904.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a5baa7f6fdeeb451f05810314b2f90b8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/22a715671deee8c13e5280b232a8c306.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4f10bcafd353684553b4a0280fae6b21.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/09d604a68fc9dce3a7309bd718676071.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3d16fa2d350d6587ac22751f779f8941.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/76139e7401574103aaff56d52e493f78.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/21bcea2166c8851ad191fda33f942c24.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/782930eadb0a373a24708c01f0e2a73e.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a9957968323ff7387e618c6fcdc965eb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c9c5985b3f58b6f73e13ff9d7b201737.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9d0a54bdc49854e83f64113cf890f849.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3875fd56a64913d1841739d1587d68f7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9680b55417058b1832f406d83bb6a2df.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8bee95d9c4b1df7ef53468233ab510a4.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cb86902e942858c770a73cf7f03e614a.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d73b270fc8ec4e46f1f949bfe2d5dca9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/082f8e589c95af6064a2219071ca1c7b.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d566ff845d72d50cc4bafecaa6c1e407.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/92e48f1a7c18bc21d4ae017850c225de.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/bcc3bf111af43abbd7822b69c9589f32.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/eb9a8737c52f645e18231c397716e00d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ba2808466110e4202ee156d76fec732d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/162082a5962943f4750f9f6186f4f3be.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f1e61ea3beb2ddd2917d7f1053c0a16c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/dacfab02cdfff9e7878ee68ab4bd13d1.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1ff19a09fb621a399f4c330a60b092d8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1bf50aba51849ff299955f939b8640f3.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f27af084a9c491f1e373102fc9e9e90d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/270e8785b08754dca90a6d4f67a7aff7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1ec2a132c21d8d2632662b5c7a92edec.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/31f38b963937e01a951ab2cbfb25b3b3.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/04f593b676d21bca5ddbc44eb3b12df8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f91406b632e8846cd3ad600e29966776.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3a6d7b0eb7541c64a55938d57e182718.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/922814496aecfd7455ecad89b1a2c3dd.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/daf80e2a0b598db9c71faa99d9711624.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/62bc891bdddc0625a98b6e2565152549.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/515711b70a8dec2b8f44f7482095d9d7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/38a49e6e55d7d5f8f621a21072899835.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c07ec1da40d82a1799b2e925facc6ed5.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7ff923332d645374a13f76edc400e86f.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7db26947271d02eb36dbb4e6aa7f1381.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e8bc7e187752afef759f4487c12334d8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/aa6ead3596b2edc4a418695c4f5a709d.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8056f189ea20f3e5bdd1dbf308761bc9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ab8987691f8ca2a3fcabe3394ff3492c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a5d9b563274f605565d366bf1714a03c.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cac2ca72f9c93f74f25aa44b5f63eda3.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f5998003fed9f295793f97abeaa781b8.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/10e6f09bb61d448390a9cc1c8ca23ff9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/eac3a6a0c5cbc9245ac6c46a54eeffe9.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/876700219cd5ef8af8a270285eac44a7.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/abf3ceb2456e2521ac65bed17293b4eb.jpg",
+      "eligible": true,
+      "decision": "游戏分享图片候选"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/a7ece18e5463bc76095b8c4b54b288f3",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/4561696088522b859dcc864fae918b7e",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/006530c63b46d7646f07c691c0cc8ee2",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/75e553eac2a65fbb4f4668e84f250ffd",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/6a08540d3c171b362dc17e6ea19a44ca",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/b41e6eaa6780fb901b0dde7f5dd5c80f",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/514724ebe985cdcfeabdd0370763bd96",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/1496d750b9e1edc11ddb1d437b5e1eb6",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_tmpl_pkg/template/temp_pkg_info.json",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_ugen_pkg/engine/991a3bd9097233ce516d909e1d054d1a",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_ugen_pkg/engine/d913c7c9f37c42543e5c22763c742915",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    },
+    {
+      "path": "/sdcard/Android/data/com.aligames.lxqw.hhb/cache/pangle_com.byted.pangle.m/tt_ugen_pkg/engine/package_ugen_temp.json",
+      "eligible": false,
+      "decision": "仅记录文件名；未知、广告或性能文件不读取内容"
+    }
+  ]
+}

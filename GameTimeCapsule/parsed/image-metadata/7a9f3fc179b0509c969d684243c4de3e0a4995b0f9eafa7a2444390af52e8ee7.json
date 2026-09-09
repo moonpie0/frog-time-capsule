@@ -1,0 +1,56 @@
+{
+  "sha256": "7a9f3fc179b0509c969d684243c4de3e0a4995b0f9eafa7a2444390af52e8ee7",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1136
+  },
+  "file_size": 398783,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d3a7189f31985a8f5e9ebd2b3e91b94a.jpg",
+      "source_modified_at": "2024-06-09T17:34:24+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:42:54+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/3937e8cc29f6df698b7b85bd220c67ad.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/3937e8cc29f6df698b7b85bd220c67ad.jpg",
+      "source_modified_at": "2024-06-09T17:34:24+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:42:54+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "土特产代购的扭蛋记录",
+  "category": "扭蛋记录",
+  "subcategory": "扭蛋记录",
+  "classification_status": "visually_reviewed",
+  "displayed_date": null,
+  "date_status": "not_confirmed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": null,
+  "location_status": "not_visible_or_unconfirmed",
+  "caption": null,
+  "caption_status": "not_confirmed",
+  "unknown_field_caption_role": null,
+  "ocr_text": "行然\n土特产代购的扭蛋记录\n应g00\n0000\n000+\n下载旅行青蛙\n一起来欢乐扭蛋吧·",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/7a9f3fc179b0509c969d684243c4de3e0a4995b0f9eafa7a2444390af52e8ee7.json",
+  "review": {
+    "number": 26,
+    "category": "扭蛋记录",
+    "title": "土特产代购的扭蛋记录",
+    "date": null,
+    "location": null,
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-01.png",
+    "date_evidence": "reports/date-proofs/dates-01.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

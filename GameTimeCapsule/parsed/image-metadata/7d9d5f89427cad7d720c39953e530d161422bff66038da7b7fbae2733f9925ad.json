@@ -1,0 +1,56 @@
+{
+  "sha256": "7d9d5f89427cad7d720c39953e530d161422bff66038da7b7fbae2733f9925ad",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/45085f133b5f48353e3f0cc87b9e8afc.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 768,
+    "height": 1138
+  },
+  "file_size": 559560,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/45085f133b5f48353e3f0cc87b9e8afc.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/45085f133b5f48353e3f0cc87b9e8afc.jpg",
+      "source_modified_at": "2025-02-22T06:34:36+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:17+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/1bf50aba51849ff299955f939b8640f3.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1bf50aba51849ff299955f939b8640f3.jpg",
+      "source_modified_at": "2025-02-22T06:34:36+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:36+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "甘肃·敦煌·月牙泉",
+  "category": "明信片",
+  "subcategory": "地点明信片",
+  "classification_status": "visually_reviewed",
+  "displayed_date": "2025-02-22",
+  "date_status": "visually_reviewed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": "甘肃·敦煌·月牙泉",
+  "location_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "ocr_unverified",
+  "unknown_field_caption_role": "土特产代购",
+  "ocr_text": "行然\n土特产代购\n甘肃．敦煌．月牙泉\n长揞识别小序\n来粝粝你小青蛙\n202s/02/22",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/7d9d5f89427cad7d720c39953e530d161422bff66038da7b7fbae2733f9925ad.json",
+  "review": {
+    "number": 123,
+    "category": "明信片",
+    "title": null,
+    "date": "2025-02-22",
+    "location": "甘肃·敦煌·月牙泉",
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-04.png",
+    "date_evidence": "reports/date-proofs/dates-04.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

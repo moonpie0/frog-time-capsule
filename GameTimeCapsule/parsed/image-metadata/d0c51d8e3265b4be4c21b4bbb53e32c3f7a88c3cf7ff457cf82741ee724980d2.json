@@ -1,0 +1,56 @@
+{
+  "sha256": "d0c51d8e3265b4be4c21b4bbb53e32c3f7a88c3cf7ff457cf82741ee724980d2",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b3d8fbbc0c19a7882ee07cec12fedd40.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 768,
+    "height": 1138
+  },
+  "file_size": 631863,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b3d8fbbc0c19a7882ee07cec12fedd40.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b3d8fbbc0c19a7882ee07cec12fedd40.jpg",
+      "source_modified_at": "2026-01-06T06:53:09+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:25+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d6fa841ac62d4092a039e090380c303a.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d6fa841ac62d4092a039e090380c303a.jpg",
+      "source_modified_at": "2026-01-06T06:53:09+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:25+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "日常明信片",
+  "category": "明信片",
+  "subcategory": "日常明信片",
+  "classification_status": "visually_reviewed",
+  "displayed_date": "2026-01-06",
+  "date_status": "visually_reviewed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": null,
+  "location_status": "not_visible_or_unconfirmed",
+  "caption": "土特产代购",
+  "caption_status": "ocr_unverified",
+  "unknown_field_caption_role": "土特产代购",
+  "ocr_text": "行然\n土特产代购\n202G/01/06\n长揞识别小序\n来粝粝你小青蛙",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/d0c51d8e3265b4be4c21b4bbb53e32c3f7a88c3cf7ff457cf82741ee724980d2.json",
+  "review": {
+    "number": 173,
+    "category": "明信片",
+    "title": null,
+    "date": "2026-01-06",
+    "location": null,
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-05.png",
+    "date_evidence": "reports/date-proofs/dates-05.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

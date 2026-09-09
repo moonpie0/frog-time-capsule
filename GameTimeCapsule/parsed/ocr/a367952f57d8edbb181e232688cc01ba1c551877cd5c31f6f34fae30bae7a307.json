@@ -1,0 +1,87 @@
+{
+    "error":  null,
+    "text":  "纸 分 享 码 一 行 砉 然 J17QSV8EY2",
+    "lines":  [
+                  {
+                      "text":  "纸 分 享 码 一",
+                      "words":  [
+                                    {
+                                        "y":  953,
+                                        "height":  29,
+                                        "width":  29,
+                                        "text":  "纸",
+                                        "x":  107
+                                    },
+                                    {
+                                        "y":  948,
+                                        "height":  31,
+                                        "width":  27,
+                                        "text":  "分",
+                                        "x":  136
+                                    },
+                                    {
+                                        "y":  943,
+                                        "height":  30,
+                                        "width":  30,
+                                        "text":  "享",
+                                        "x":  164
+                                    },
+                                    {
+                                        "y":  938,
+                                        "height":  30,
+                                        "width":  28,
+                                        "text":  "码",
+                                        "x":  194
+                                    },
+                                    {
+                                        "y":  939,
+                                        "height":  15,
+                                        "width":  28,
+                                        "text":  "一",
+                                        "x":  224
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "行 砉 然",
+                      "words":  [
+                                    {
+                                        "y":  65,
+                                        "height":  80,
+                                        "width":  72,
+                                        "text":  "行",
+                                        "x":  382
+                                    },
+                                    {
+                                        "y":  64,
+                                        "height":  81,
+                                        "width":  64,
+                                        "text":  "砉",
+                                        "x":  455
+                                    },
+                                    {
+                                        "y":  64,
+                                        "height":  81,
+                                        "width":  73,
+                                        "text":  "然",
+                                        "x":  522
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "J17QSV8EY2",
+                      "words":  [
+                                    {
+                                        "y":  949,
+                                        "height":  59,
+                                        "width":  162,
+                                        "text":  "J17QSV8EY2",
+                                        "x":  400
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "a367952f57d8edbb181e232688cc01ba1c551877cd5c31f6f34fae30bae7a307",
+    "engine":  "Windows.Media.Ocr"
+}

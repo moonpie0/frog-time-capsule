@@ -1,0 +1,56 @@
+{
+  "sha256": "5f73994ba65aaf5a5ad3a90da6bf78387f5b00022ca120c81c606ecd8f9bd034",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1420
+  },
+  "file_size": 654740,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+      "source_modified_at": "2025-12-15T00:55:25+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:25+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7ff923332d645374a13f76edc400e86f.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7ff923332d645374a13f76edc400e86f.jpg",
+      "source_modified_at": "2025-12-15T00:55:25+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:38+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "和蛙蛙一起做蛋糕",
+  "category": "活动",
+  "subcategory": "活动",
+  "classification_status": "visually_reviewed",
+  "displayed_date": null,
+  "date_status": "not_confirmed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": null,
+  "location_status": "not_visible_or_unconfirmed",
+  "caption": null,
+  "caption_status": "not_confirmed",
+  "unknown_field_caption_role": null,
+  "ocr_text": "和蛙蛙一起饉蛋禚\n土特产代购\n2025一12一15\n0\n”会做成什么蛋糕\n起期待吧一",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/5f73994ba65aaf5a5ad3a90da6bf78387f5b00022ca120c81c606ecd8f9bd034.json",
+  "review": {
+    "number": 170,
+    "category": "活动",
+    "title": "和蛙蛙一起做蛋糕",
+    "date": null,
+    "location": null,
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-05.png",
+    "date_evidence": "reports/date-proofs/dates-05.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

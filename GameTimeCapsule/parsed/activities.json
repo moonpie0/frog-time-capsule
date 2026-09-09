@@ -1,0 +1,400 @@
+{
+  "status": "partial_image_evidence",
+  "generated_by": "image_metadata",
+  "source": "image_visible_text",
+  "records": [
+    {
+      "sha256": "23a9dfd7c9cedfd92e73b932b9abebea812c840025c7f390876e4d6b5588c537",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c8cb1e283af8e83d08032775865d3d45.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 540,
+        "height": 820
+      },
+      "file_size": 884672,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c8cb1e283af8e83d08032775865d3d45.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c8cb1e283af8e83d08032775865d3d45.jpg",
+          "source_modified_at": "2024-05-17T06:59:15+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:50+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/64a9ed253721692cf9203dcde59ba703.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/64a9ed253721692cf9203dcde59ba703.jpg",
+          "source_modified_at": "2024-05-17T06:59:15+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:42:50+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "博物馆奇妙月",
+      "category": "活动",
+      "subcategory": "活动",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "·恝帕照\n一丿征动",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/23a9dfd7c9cedfd92e73b932b9abebea812c840025c7f390876e4d6b5588c537.json",
+      "review": {
+        "number": 13,
+        "category": "活动",
+        "title": "博物馆奇妙月",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-01.png",
+        "date_evidence": "reports/date-proofs/dates-01.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "f119183f741c72ea516d9dabc304f2ae1bbde8a88c681a661d67ababf6649b90",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/61f6cd1610f6ec3ee12f400282cc7ca0.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1420
+      },
+      "file_size": 654494,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/61f6cd1610f6ec3ee12f400282cc7ca0.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/61f6cd1610f6ec3ee12f400282cc7ca0.jpg",
+          "source_modified_at": "2024-12-16T05:33:35+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:13+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0adf3496de9a6233edadd9c39d62d4f4.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0adf3496de9a6233edadd9c39d62d4f4.jpg",
+          "source_modified_at": "2024-12-16T05:33:35+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:13+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "和蛙蛙一起做蛋糕",
+      "category": "活动",
+      "subcategory": "活动",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "和蛙蛙一起饉蛋禚\n土特产代购\n2024一12一16\n0\n”会做成什么蛋糕\n起期待吧一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/f119183f741c72ea516d9dabc304f2ae1bbde8a88c681a661d67ababf6649b90.json",
+      "review": {
+        "number": 97,
+        "category": "活动",
+        "title": "和蛙蛙一起做蛋糕",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-03.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "d0c8e1d3ca6d01aecdae5690cadfda27801b921c9d47146c8bf0fc67f63692b8",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f9d7ca84d884011b556ef9492da698ad.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1420
+      },
+      "file_size": 654956,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/f9d7ca84d884011b556ef9492da698ad.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f9d7ca84d884011b556ef9492da698ad.jpg",
+          "source_modified_at": "2024-12-31T16:34:43+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:14+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/21ec80b139e17e01a0683f0c95e48b20.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/21ec80b139e17e01a0683f0c95e48b20.jpg",
+          "source_modified_at": "2024-12-31T16:34:43+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:15+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "和蛙蛙一起做蛋糕",
+      "category": "活动",
+      "subcategory": "活动",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "和蛙蛙一起饉蛋禚\n土特产代购\n2025一01一01\n0\n”会做成什么蛋糕\n起期待吧一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/d0c8e1d3ca6d01aecdae5690cadfda27801b921c9d47146c8bf0fc67f63692b8.json",
+      "review": {
+        "number": 102,
+        "category": "活动",
+        "title": "和蛙蛙一起做蛋糕",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-03.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "59ebfe53e716cf879a3abe881e8d483550cb8e60591a798a1497ce826fba6993",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1420
+      },
+      "file_size": 608191,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+          "source_modified_at": "2025-01-03T02:47:57+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:14+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5dcc9c38d484391e0208102fe3d72cfe.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5dcc9c38d484391e0208102fe3d72cfe.jpg",
+          "source_modified_at": "2025-01-03T02:47:57+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:27+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "蛋糕制作完成啦",
+      "category": "活动",
+      "subcategory": "活动",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "蛋禚制作完啦\n土特产代购\n2025一01一03\n0\n”会做成什么蛋糕\n起期待吧一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/59ebfe53e716cf879a3abe881e8d483550cb8e60591a798a1497ce826fba6993.json",
+      "review": {
+        "number": 103,
+        "category": "活动",
+        "title": "蛋糕制作完成啦",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-03.png",
+        "date_evidence": "reports/date-proofs/dates-03.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "dabb2a82d792cb4890b977f74098d3f136d5ca33d3f4914604dd6b5ea81b8ebb",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/214b2248c596e77b4a3630e4107eefb7.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1420
+      },
+      "file_size": 654264,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/214b2248c596e77b4a3630e4107eefb7.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/214b2248c596e77b4a3630e4107eefb7.jpg",
+          "source_modified_at": "2025-12-17T02:19:23+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:19+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ac65002177dd725be4c44bef2b9556bb.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ac65002177dd725be4c44bef2b9556bb.jpg",
+          "source_modified_at": "2025-12-17T02:19:23+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:31+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "和蛙蛙一起做蛋糕",
+      "category": "活动",
+      "subcategory": "活动",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "和蛙蛙一起饉蛋禚\n土特产代购\n2025一12一17\n0\n”会做成什么蛋糕\n起期待吧一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/dabb2a82d792cb4890b977f74098d3f136d5ca33d3f4914604dd6b5ea81b8ebb.json",
+      "review": {
+        "number": 140,
+        "category": "活动",
+        "title": "和蛙蛙一起做蛋糕",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-04.png",
+        "date_evidence": "reports/date-proofs/dates-04.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "dd120e0df1bb7af5ee3fcb1b6bb9f2ca05d701d56922236b8f7e308410da4d84",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/44e3aba93fc9457f4737af5c0b387aee.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1420
+      },
+      "file_size": 607848,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/44e3aba93fc9457f4737af5c0b387aee.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/44e3aba93fc9457f4737af5c0b387aee.jpg",
+          "source_modified_at": "2026-01-04T01:28:39+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:20+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/303f6bc2921576ec6c9517150725bfec.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/303f6bc2921576ec6c9517150725bfec.jpg",
+          "source_modified_at": "2026-01-04T01:28:39+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:20+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "蛋糕制作完成啦",
+      "category": "活动",
+      "subcategory": "活动",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "蛋禚制作完啦\n土特产代购\n2026一01一04\n0\n”会做成什么蛋糕\n起期待吧一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/dd120e0df1bb7af5ee3fcb1b6bb9f2ca05d701d56922236b8f7e308410da4d84.json",
+      "review": {
+        "number": 144,
+        "category": "活动",
+        "title": "蛋糕制作完成啦",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-05.png",
+        "date_evidence": "reports/date-proofs/dates-04.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    },
+    {
+      "sha256": "5f73994ba65aaf5a5ad3a90da6bf78387f5b00022ca120c81c606ecd8f9bd034",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+      "image": {
+        "format": "PNG",
+        "width": 640,
+        "height": 1420
+      },
+      "file_size": 654740,
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/420b749c81e1e74050314e05feded324.jpg",
+          "source_modified_at": "2025-12-15T00:55:25+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:25+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/7ff923332d645374a13f76edc400e86f.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/7ff923332d645374a13f76edc400e86f.jpg",
+          "source_modified_at": "2025-12-15T00:55:25+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T08:43:38+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "title": "和蛙蛙一起做蛋糕",
+      "category": "活动",
+      "subcategory": "活动",
+      "classification_status": "visually_reviewed",
+      "displayed_date": null,
+      "date_status": "not_confirmed",
+      "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+      "location": null,
+      "location_status": "not_visible_or_unconfirmed",
+      "caption": null,
+      "caption_status": "not_confirmed",
+      "unknown_field_caption_role": null,
+      "ocr_text": "和蛙蛙一起饉蛋禚\n土特产代购\n2025一12一15\n0\n”会做成什么蛋糕\n起期待吧一",
+      "ocr_status": "unverified",
+      "ocr_error": null,
+      "ocr_file": "parsed/ocr/5f73994ba65aaf5a5ad3a90da6bf78387f5b00022ca120c81c606ecd8f9bd034.json",
+      "review": {
+        "number": 170,
+        "category": "活动",
+        "title": "和蛙蛙一起做蛋糕",
+        "date": null,
+        "location": null,
+        "method": "visual_review_of_original_image_regions",
+        "reviewed_at": "2026-09-09T09:59:23+08:00",
+        "classification_evidence": "reports/contact-sheets/contact-05.png",
+        "date_evidence": "reports/date-proofs/dates-05.png"
+      },
+      "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+    }
+  ],
+  "notes": "仅图片证据。日期是图片上的印刷日期，不等于已取得游戏数据库中的完整旅行或收藏记录。"
+}

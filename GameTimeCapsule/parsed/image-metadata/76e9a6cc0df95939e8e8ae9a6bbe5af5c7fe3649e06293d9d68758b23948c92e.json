@@ -1,0 +1,48 @@
+{
+  "sha256": "76e9a6cc0df95939e8e8ae9a6bbe5af5c7fe3649e06293d9d68758b23948c92e",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/922814496aecfd7455ecad89b1a2c3dd.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 768,
+    "height": 1138
+  },
+  "file_size": 561273,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/922814496aecfd7455ecad89b1a2c3dd.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/922814496aecfd7455ecad89b1a2c3dd.jpg",
+      "source_modified_at": "2025-11-16T15:08:56+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:37+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "江苏·苏州·宝带桥",
+  "category": "明信片",
+  "subcategory": "地点明信片",
+  "classification_status": "visually_reviewed",
+  "displayed_date": "2025-11-16",
+  "date_status": "visually_reviewed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": "江苏·苏州·宝带桥",
+  "location_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "ocr_unverified",
+  "unknown_field_caption_role": "土特产代购",
+  "ocr_text": "行然\n土特产代购\n江苏．苏州．宝带桥\n长揞识别小序\n来粝粝你小青蛙\n202s/11/16",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/76e9a6cc0df95939e8e8ae9a6bbe5af5c7fe3649e06293d9d68758b23948c92e.json",
+  "review": {
+    "number": 205,
+    "category": "明信片",
+    "title": null,
+    "date": "2025-11-16",
+    "location": "江苏·苏州·宝带桥",
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-06.png",
+    "date_evidence": "reports/date-proofs/dates-06.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

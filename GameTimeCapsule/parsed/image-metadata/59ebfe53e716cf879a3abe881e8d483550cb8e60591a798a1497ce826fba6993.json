@@ -1,0 +1,56 @@
+{
+  "sha256": "59ebfe53e716cf879a3abe881e8d483550cb8e60591a798a1497ce826fba6993",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1420
+  },
+  "file_size": 608191,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e51283d484062f9014c469a8be28c12e.jpg",
+      "source_modified_at": "2025-01-03T02:47:57+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:14+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5dcc9c38d484391e0208102fe3d72cfe.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5dcc9c38d484391e0208102fe3d72cfe.jpg",
+      "source_modified_at": "2025-01-03T02:47:57+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:27+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "蛋糕制作完成啦",
+  "category": "活动",
+  "subcategory": "活动",
+  "classification_status": "visually_reviewed",
+  "displayed_date": null,
+  "date_status": "not_confirmed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": null,
+  "location_status": "not_visible_or_unconfirmed",
+  "caption": null,
+  "caption_status": "not_confirmed",
+  "unknown_field_caption_role": null,
+  "ocr_text": "蛋禚制作完啦\n土特产代购\n2025一01一03\n0\n”会做成什么蛋糕\n起期待吧一",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/59ebfe53e716cf879a3abe881e8d483550cb8e60591a798a1497ce826fba6993.json",
+  "review": {
+    "number": 103,
+    "category": "活动",
+    "title": "蛋糕制作完成啦",
+    "date": null,
+    "location": null,
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-03.png",
+    "date_evidence": "reports/date-proofs/dates-03.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

@@ -1,0 +1,221 @@
+{
+    "error":  null,
+    "text":  "森 之 国 度 ． 小 鱼 饼 干 0 0 丿 森 之 国 度 的 食 物 前 往 未 知 的 世 界",
+    "lines":  [
+                  {
+                      "text":  "森 之 国 度 ． 小 鱼 饼 干",
+                      "words":  [
+                                    {
+                                        "y":  50,
+                                        "height":  29,
+                                        "width":  28,
+                                        "text":  "森",
+                                        "x":  95
+                                    },
+                                    {
+                                        "y":  50,
+                                        "height":  28,
+                                        "width":  27,
+                                        "text":  "之",
+                                        "x":  125
+                                    },
+                                    {
+                                        "y":  51,
+                                        "height":  28,
+                                        "width":  25,
+                                        "text":  "国",
+                                        "x":  156
+                                    },
+                                    {
+                                        "y":  50,
+                                        "height":  29,
+                                        "width":  28,
+                                        "text":  "度",
+                                        "x":  184
+                                    },
+                                    {
+                                        "y":  62,
+                                        "height":  5,
+                                        "width":  5,
+                                        "text":  "．",
+                                        "x":  218
+                                    },
+                                    {
+                                        "y":  50,
+                                        "height":  29,
+                                        "width":  28,
+                                        "text":  "小",
+                                        "x":  229
+                                    },
+                                    {
+                                        "y":  50,
+                                        "height":  28,
+                                        "width":  28,
+                                        "text":  "鱼",
+                                        "x":  259
+                                    },
+                                    {
+                                        "y":  50,
+                                        "height":  29,
+                                        "width":  28,
+                                        "text":  "饼",
+                                        "x":  288
+                                    },
+                                    {
+                                        "y":  52,
+                                        "height":  27,
+                                        "width":  28,
+                                        "text":  "干",
+                                        "x":  318
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "0",
+                      "words":  [
+                                    {
+                                        "y":  199,
+                                        "height":  12,
+                                        "width":  14,
+                                        "text":  "0",
+                                        "x":  223
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "0",
+                      "words":  [
+                                    {
+                                        "y":  219,
+                                        "height":  11,
+                                        "width":  14,
+                                        "text":  "0",
+                                        "x":  171
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "丿",
+                      "words":  [
+                                    {
+                                        "y":  239,
+                                        "height":  12,
+                                        "width":  10,
+                                        "text":  "丿",
+                                        "x":  189
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "森 之 国 度 的 食 物",
+                      "words":  [
+                                    {
+                                        "y":  438,
+                                        "height":  19,
+                                        "width":  18,
+                                        "text":  "森",
+                                        "x":  72
+                                    },
+                                    {
+                                        "y":  438,
+                                        "height":  18,
+                                        "width":  18,
+                                        "text":  "之",
+                                        "x":  91
+                                    },
+                                    {
+                                        "y":  438,
+                                        "height":  18,
+                                        "width":  16,
+                                        "text":  "国",
+                                        "x":  112
+                                    },
+                                    {
+                                        "y":  438,
+                                        "height":  18,
+                                        "width":  17,
+                                        "text":  "度",
+                                        "x":  131
+                                    },
+                                    {
+                                        "y":  437,
+                                        "height":  19,
+                                        "width":  16,
+                                        "text":  "的",
+                                        "x":  151
+                                    },
+                                    {
+                                        "y":  438,
+                                        "height":  18,
+                                        "width":  17,
+                                        "text":  "食",
+                                        "x":  170
+                                    },
+                                    {
+                                        "y":  438,
+                                        "height":  18,
+                                        "width":  18,
+                                        "text":  "物",
+                                        "x":  189
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "前 往 未 知 的 世 界",
+                      "words":  [
+                                    {
+                                        "y":  474,
+                                        "height":  18,
+                                        "width":  19,
+                                        "text":  "前",
+                                        "x":  71
+                                    },
+                                    {
+                                        "y":  474,
+                                        "height":  18,
+                                        "width":  18,
+                                        "text":  "往",
+                                        "x":  91
+                                    },
+                                    {
+                                        "y":  474,
+                                        "height":  18,
+                                        "width":  18,
+                                        "text":  "未",
+                                        "x":  111
+                                    },
+                                    {
+                                        "y":  474,
+                                        "height":  18,
+                                        "width":  17,
+                                        "text":  "知",
+                                        "x":  130
+                                    },
+                                    {
+                                        "y":  474,
+                                        "height":  18,
+                                        "width":  16,
+                                        "text":  "的",
+                                        "x":  151
+                                    },
+                                    {
+                                        "y":  474,
+                                        "height":  18,
+                                        "width":  18,
+                                        "text":  "世",
+                                        "x":  170
+                                    },
+                                    {
+                                        "y":  474,
+                                        "height":  18,
+                                        "width":  18,
+                                        "text":  "界",
+                                        "x":  189
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "9b4c2769d750f9774738a97f4e3adcb6ddf69e6d89abf38162122d507c50a3e8",
+    "engine":  "Windows.Media.Ocr"
+}

@@ -1,0 +1,56 @@
+{
+  "sha256": "f6f20595125b1d92f6cd5db586a0bb5abee589f5e8d3a840f6efa6a6fc2c568e",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1136
+  },
+  "file_size": 615542,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5f418417d3eda7f50e53c7653c6d5eaa.jpg",
+      "source_modified_at": "2025-01-30T07:39:16+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:22+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ddd4e1ede98343a2f4a1ba958edd2e2c.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ddd4e1ede98343a2f4a1ba958edd2e2c.jpg",
+      "source_modified_at": "2025-01-30T07:39:16+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:28+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "贴纸分享",
+  "category": "贴纸分享",
+  "subcategory": "贴纸分享",
+  "classification_status": "visually_reviewed",
+  "displayed_date": null,
+  "date_status": "not_confirmed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": null,
+  "location_status": "not_visible_or_unconfirmed",
+  "caption": null,
+  "caption_status": "not_confirmed",
+  "unknown_field_caption_role": null,
+  "ocr_text": "秫仃寄然\n茹纸分享码",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/f6f20595125b1d92f6cd5db586a0bb5abee589f5e8d3a840f6efa6a6fc2c568e.json",
+  "review": {
+    "number": 157,
+    "category": "贴纸分享",
+    "title": null,
+    "date": null,
+    "location": null,
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-05.png",
+    "date_evidence": "reports/date-proofs/dates-04.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

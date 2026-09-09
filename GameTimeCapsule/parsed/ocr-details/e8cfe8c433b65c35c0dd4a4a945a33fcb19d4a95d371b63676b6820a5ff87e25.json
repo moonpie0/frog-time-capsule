@@ -1,0 +1,56 @@
+{
+    "error":  null,
+    "text":  "202 钅 / OS / 02",
+    "lines":  [
+                  {
+                      "text":  "202 钅 / OS / 02",
+                      "words":  [
+                                    {
+                                        "y":  111,
+                                        "height":  62,
+                                        "width":  120,
+                                        "text":  "202",
+                                        "x":  1415
+                                    },
+                                    {
+                                        "y":  113,
+                                        "height":  61,
+                                        "width":  36,
+                                        "text":  "钅",
+                                        "x":  1542
+                                    },
+                                    {
+                                        "y":  118,
+                                        "height":  66,
+                                        "width":  34,
+                                        "text":  "/",
+                                        "x":  1601
+                                    },
+                                    {
+                                        "y":  115,
+                                        "height":  61,
+                                        "width":  79,
+                                        "text":  "OS",
+                                        "x":  1646
+                                    },
+                                    {
+                                        "y":  121,
+                                        "height":  66,
+                                        "width":  33,
+                                        "text":  "/",
+                                        "x":  1757
+                                    },
+                                    {
+                                        "y":  119,
+                                        "height":  61,
+                                        "width":  79,
+                                        "text":  "02",
+                                        "x":  1793
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "e8cfe8c433b65c35c0dd4a4a945a33fcb19d4a95d371b63676b6820a5ff87e25",
+    "engine":  "Windows.Media.Ocr"
+}

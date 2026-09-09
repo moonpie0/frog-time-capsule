@@ -1,0 +1,21 @@
+{
+    "error":  null,
+    "text":  "PTDWVHHMIF",
+    "lines":  [
+                  {
+                      "text":  "PTDWVHHMIF",
+                      "words":  [
+                                    {
+                                        "y":  927,
+                                        "height":  39,
+                                        "width":  197,
+                                        "text":  "PTDWVHHMIF",
+                                        "x":  443
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "60a0cb1be3f7bacac2660c7208c19474866c52c5582dfd6b631db30ce4590cf3",
+    "engine":  "Windows.Media.Ocr"
+}

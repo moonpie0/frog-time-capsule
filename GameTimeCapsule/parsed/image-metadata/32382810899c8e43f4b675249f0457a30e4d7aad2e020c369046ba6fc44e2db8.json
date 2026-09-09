@@ -1,0 +1,56 @@
+{
+  "sha256": "32382810899c8e43f4b675249f0457a30e4d7aad2e020c369046ba6fc44e2db8",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2ccad2ff66ebe82ae28852dd3be4b45b.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 768,
+    "height": 1138
+  },
+  "file_size": 646289,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2ccad2ff66ebe82ae28852dd3be4b45b.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2ccad2ff66ebe82ae28852dd3be4b45b.jpg",
+      "source_modified_at": "2025-12-21T14:44:56+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:31+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/136c192d745706effba6d57cb85ae987.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/136c192d745706effba6d57cb85ae987.jpg",
+      "source_modified_at": "2025-12-21T14:44:56+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T08:43:32+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "江苏·苏州·拙政园",
+  "category": "明信片",
+  "subcategory": "地点明信片",
+  "classification_status": "visually_reviewed",
+  "displayed_date": "2025-12-21",
+  "date_status": "visually_reviewed",
+  "date_meaning": "图片上印刷的日期；不推断为出发、抵达、收件或服务器时间",
+  "location": "江苏·苏州·拙政园",
+  "location_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "ocr_unverified",
+  "unknown_field_caption_role": "土特产代购",
+  "ocr_text": "行然\n土特产代购\n江苏．苏州．拙政园\n长揞识别小序\n来粝粝你小青蛙\n202s/12/21",
+  "ocr_status": "unverified",
+  "ocr_error": null,
+  "ocr_file": "parsed/ocr/32382810899c8e43f4b675249f0457a30e4d7aad2e020c369046ba6fc44e2db8.json",
+  "review": {
+    "number": 191,
+    "category": "明信片",
+    "title": null,
+    "date": "2025-12-21",
+    "location": "江苏·苏州·拙政园",
+    "method": "visual_review_of_original_image_regions",
+    "reviewed_at": "2026-09-09T09:59:23+08:00",
+    "classification_evidence": "reports/contact-sheets/contact-06.png",
+    "date_evidence": "reports/date-proofs/dates-05.png"
+  },
+  "notes": "文字来源为图片，不是游戏数据库。画面中没有写出的物品名称、地点或状态不推测。"
+}

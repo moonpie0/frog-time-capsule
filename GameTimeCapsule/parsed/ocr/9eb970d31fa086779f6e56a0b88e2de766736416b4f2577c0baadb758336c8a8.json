@@ -1,0 +1,68 @@
+{
+    "error":  null,
+    "text":  "行 然 20 四 8 邝 3",
+    "lines":  [
+                  {
+                      "text":  "行 然",
+                      "words":  [
+                                    {
+                                        "y":  52,
+                                        "height":  79,
+                                        "width":  71,
+                                        "text":  "行",
+                                        "x":  254
+                                    },
+                                    {
+                                        "y":  51,
+                                        "height":  79,
+                                        "width":  73,
+                                        "text":  "然",
+                                        "x":  393
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "20 四 8 邝 3",
+                      "words":  [
+                                    {
+                                        "y":  957,
+                                        "height":  30,
+                                        "width":  36,
+                                        "text":  "20",
+                                        "x":  64
+                                    },
+                                    {
+                                        "y":  944,
+                                        "height":  33,
+                                        "width":  34,
+                                        "text":  "四",
+                                        "x":  147
+                                    },
+                                    {
+                                        "y":  940,
+                                        "height":  26,
+                                        "width":  17,
+                                        "text":  "8",
+                                        "x":  181
+                                    },
+                                    {
+                                        "y":  932,
+                                        "height":  34,
+                                        "width":  25,
+                                        "text":  "邝",
+                                        "x":  214
+                                    },
+                                    {
+                                        "y":  929,
+                                        "height":  26,
+                                        "width":  18,
+                                        "text":  "3",
+                                        "x":  244
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "9eb970d31fa086779f6e56a0b88e2de766736416b4f2577c0baadb758336c8a8",
+    "engine":  "Windows.Media.Ocr"
+}

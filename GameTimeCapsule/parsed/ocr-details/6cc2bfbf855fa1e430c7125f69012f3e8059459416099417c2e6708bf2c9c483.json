@@ -1,0 +1,124 @@
+{
+    "error":  null,
+    "text":  "青 海 ， 海 西 ， 火 星 营 地 202 钅 /QS / 12",
+    "lines":  [
+                  {
+                      "text":  "青 海 ， 海 西 ， 火 星 营 地",
+                      "words":  [
+                                    {
+                                        "y":  94,
+                                        "height":  75,
+                                        "width":  72,
+                                        "text":  "青",
+                                        "x":  441
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  72,
+                                        "text":  "海",
+                                        "x":  518
+                                    },
+                                    {
+                                        "y":  125,
+                                        "height":  13,
+                                        "width":  13,
+                                        "text":  "，",
+                                        "x":  604
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  72,
+                                        "text":  "海",
+                                        "x":  633
+                                    },
+                                    {
+                                        "y":  97,
+                                        "height":  72,
+                                        "width":  71,
+                                        "text":  "西",
+                                        "x":  711
+                                    },
+                                    {
+                                        "y":  125,
+                                        "height":  13,
+                                        "width":  13,
+                                        "text":  "，",
+                                        "x":  797
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  71,
+                                        "text":  "火",
+                                        "x":  826
+                                    },
+                                    {
+                                        "y":  96,
+                                        "height":  70,
+                                        "width":  69,
+                                        "text":  "星",
+                                        "x":  904
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  76,
+                                        "width":  72,
+                                        "text":  "营",
+                                        "x":  979
+                                    },
+                                    {
+                                        "y":  93,
+                                        "height":  74,
+                                        "width":  72,
+                                        "text":  "地",
+                                        "x":  1056
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "202 钅 /QS / 12",
+                      "words":  [
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  120,
+                                        "text":  "202",
+                                        "x":  1416
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  36,
+                                        "text":  "钅",
+                                        "x":  1542
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  70,
+                                        "width":  123,
+                                        "text":  "/QS",
+                                        "x":  1602
+                                    },
+                                    {
+                                        "y":  108,
+                                        "height":  67,
+                                        "width":  33,
+                                        "text":  "/",
+                                        "x":  1758
+                                    },
+                                    {
+                                        "y":  105,
+                                        "height":  60,
+                                        "width":  75,
+                                        "text":  "12",
+                                        "x":  1797
+                                    }
+                                ]
+                  }
+              ],
+    "language":  "zh-Hans-CN",
+    "sha256":  "6cc2bfbf855fa1e430c7125f69012f3e8059459416099417c2e6708bf2c9c483",
+    "engine":  "Windows.Media.Ocr"
+}
