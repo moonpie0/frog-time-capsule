@@ -1,8 +1,116 @@
 {
-  "checked_at": "2026-09-09T17:17:35+08:00",
-  "passed": 435,
+  "checked_at": "2026-09-09T18:10:48+08:00",
+  "passed": 462,
   "failed": 0,
   "checks": [
+    {
+      "path": "media/resource-catalog/raw/f3622d3f7df111436e1ced08ec45662038bb8bf6065cb006b89e5fe104e15680.json",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/raw/3355777aa65f23b3d7213a9d9b1d507540cea7afe28fc7d86d2c1d57a59a098c.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/9692c38b1550e0c66da20c219cfb7c7f602a048fed917524e4215762306fe323.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/66bd04527654cd3192c01eb5ccf824f94909ab77674afb9d26b8814bf9172d8f.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/bd569a500fbc235fc02ec6ddb913f05ad3524e77e7895a32a168d241007cea61.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/337cb0f3c1b48ff6c1ac4e5313dc2e3ee72401896aa5a8066d8cbd585e1bef0b.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/68adca9975221089aef125edb670a38ba5e2455b9efe3e78e31fc8a7c42fc6c9.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/52d43d2c6d8ee567d30c902b69ea7b26591fde9652ab30040e4e3daaace931b8.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/e338ff2ea8f87e281679c86e0dcfef1954835e2194b9f61e02dddb2a020af750.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/3433f739d8e2d75b9d701e44357d4247d7ec5d20b27dd294b6b784b6a6cae653.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/181b4086f8aec15c47007fe1dcac049c6fd582ae2477b91d6ad2bc99b1901ef0.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/e009fa933b811ca2254e54ad0746c724ba5a4f26cdd1631ec5d5edf86bb924d6.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/13cb3a8364dd07c0a261af2026233f9e0cdca333db470b629ee0fcc51f87b307.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/9e31bfe9ad200e37e880bd9b23ded18ec20c5b11e9935cfbcfa081a3ef6f0a97.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/d7f6b92675d1ea09593bfe08afcbe52a562eabdc6e9871a97ac4ccc45fb29128.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/3ed63d7af38f0927e2557ab5f59cc17478de34f068bd6f4e3e054cfd5d6ea5a3.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/3e72c5813e9b839a69f4c4a8398e22ef02f70d26dbe9ae636ba5681b96baf8a8.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/1871841214e2628a96a6126c9e367e884b01d4da93682c7b7c9a74eaa1f81a8d.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/c84c0ce82b0c1e03ee62702ba79d658ff1cacc16cb8552d2e5d19b39821bcc80.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/c2712e7ef644a39a1b82859cd42160f309c5650462737ed6f095271121e7e058.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/814630a4a591b373c2b1462a7aa21194b336f5a222d3e589f2478eca56c53c1a.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/176ef3aca50a60a09996dccc7e0ce45f29e5aab8c64726b529e39dec51577590.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/5db05c03f3afc22423eb21c496c8f7085c6e3de8e262ef3c31b72dd1bc713b61.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/f8e2960398f032c7a812065096aca6f9b3a57b31c69ce539242372d8303de002.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/3d83c8b0c74c6f083d6f06a42866cd957fff352c7a19933b4fc8b7cbf6d1929e.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/243dd319c0bb4979bdb9e5e613859dd0539f61b55073ef602abae798031b9a55.png",
+      "ok": true
+    },
+    {
+      "path": "media/resource-catalog/images/d6cf436fd6dcbd91068ff7ad6a8e90303327b38d04a1e35305a32420c0d5dff3.png",
+      "ok": true
+    },
     {
       "path": "media/resource-catalog/raw/1570fddac18d91e86543646a60c2c772811b5a764fd570e8ba4f7d3f5fae0dbc.json",
       "ok": true
