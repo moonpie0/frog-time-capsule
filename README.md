@@ -6,12 +6,14 @@
 
 ## 查看档案
 
-- 在线浏览：[我的旅行青蛙时光胶囊](https://moonpie0.github.io/frog-time-capsule/GameTimeCapsule/viewer/)
-- 本地浏览：打开 [GameTimeCapsule/viewer/index.html](GameTimeCapsule/viewer/index.html)，无需安装软件或启动服务器。
+- 在线浏览：[我的旅行青蛙时光胶囊](https://moonpie0.github.io/frog-time-capsule/)
+- 本地浏览：打开 [viewer/index.html](viewer/index.html)，无需安装软件或启动服务器。
 
 页面可以查看明信片、图鉴与收藏、资源图鉴、道具资料、贴纸分享、活动图片、旅行汇总和个人资料，并支持图片搜索、筛选、放大预览及关联图片查看。左侧“不倒翁”提供独立的部件拼装体验。本地文件修改后，需要同步到 GitHub 并完成 Pages 部署，在线页面才会更新。
 
-离线保存时请下载整个 `GameTimeCapsule` 文件夹，保留目录结构。只保存 HTML 文件会缺少图片。
+离线保存时请下载整个仓库，保留目录结构。只保存 HTML 文件会缺少图片。
+
+本地 Git 仓库位于 `D:\ly\旅行青蛙\GameTimeCapsule`，提交和推送请在此目录操作。外层 `D:\ly\旅行青蛙` 保留本地备份、生成工具与检查文件。GitHub Pages 使用 `main` 分支的根目录 `/ (root)`；根目录 `index.html` 自动进入 `viewer/index.html`。
 
 ## 数据是怎样获取的
 
