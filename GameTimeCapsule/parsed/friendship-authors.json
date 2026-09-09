@@ -1,0 +1,9 @@
+{
+  "source": "user_confirmed",
+  "notes": "用户本人确认这些编号对应绘本作者；仅用于绘本页，不推断账号拥有状态。",
+  "authors": [
+    {"id": "kunkun", "name": "困困", "min_number": 1, "max_number": 7, "cover_resource": "book_wugui_png"},
+    {"id": "pangpang", "name": "胖胖", "min_number": 100, "max_number": 199, "cover_resource": "book_maotouying_png"},
+    {"id": "tiaotiao", "name": "跳跳", "min_number": 200, "max_number": 299, "cover_resource": "book_songshu_png"}
+  ]
+}

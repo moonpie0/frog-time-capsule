@@ -65,7 +65,15 @@
     const maskId = 'bdw_' + assets.get(state.base).number + '_mask';
     layer(pctx, maskId); pctx.globalCompositeOperation = 'source-over';
     ctx.drawImage(paint, 0, 0, 200, 200);
-    layer(ctx, state.adorn, state.transforms.adorn);
+    if (state.adorn === 'bdw_adorn_6') {
+      // Decoration 06 is a body pattern; trim it to the mask and the visible base edge.
+      pctx.clearRect(0, 0, 200, 200);
+      layer(pctx, state.adorn, state.transforms.adorn);
+      pctx.globalCompositeOperation = 'destination-in';
+      layer(pctx, maskId); layer(pctx, state.base);
+      pctx.globalCompositeOperation = 'source-over';
+      ctx.drawImage(paint, 0, 0, 200, 200);
+    } else layer(ctx, state.adorn, state.transforms.adorn);
     canvas.dataset.base = state.base; canvas.dataset.mask = maskId;
     canvas.dataset.composition = JSON.stringify(state);
   }

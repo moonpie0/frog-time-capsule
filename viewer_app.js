@@ -148,11 +148,13 @@ function show(index) {
 }
 function selectView(next) {
   view = next;
+  document.querySelector('.main').classList.toggle('friendship-active', view === 'friendship');
   document.querySelectorAll('nav button[data-view]').forEach(button => button.setAttribute('aria-current', String(button.dataset.view === view)));
   $('media-view').hidden = !predicates[view];
   $('profile-view').hidden = view !== 'profile';
   if ($('resources-view')) $('resources-view').hidden = view !== 'resources';
   if ($('tumbler-view')) $('tumbler-view').hidden = view !== 'tumbler';
+  if ($('friendship-view')) $('friendship-view').hidden = view !== 'friendship';
   $('search').value = ''; $('kind-filter').value = ''; $('year-filter').value = '';
   if (predicates[view]) render();
 }

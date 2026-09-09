@@ -589,7 +589,9 @@ class Capsule:
         from tumbler_viewer import load_tumbler_assets
         tumbler = load_tumbler_assets(self.root)
         profile_data = read_json(self.root / "parsed/profile.json", {})
-        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks, catalog, resource_checks, tumbler, profile_data), encoding="utf-8")
+        from friendship_viewer import load_friendship
+        friendship = load_friendship(self.root)
+        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks, catalog, resource_checks, tumbler, profile_data, friendship), encoding="utf-8")
         (self.root / "reports/backup-report.html").write_text(render_report(self.manifest, rows, checks), encoding="utf-8")
         self.log(f"离线档案已生成：{self.root / 'viewer/index.html'}")
 

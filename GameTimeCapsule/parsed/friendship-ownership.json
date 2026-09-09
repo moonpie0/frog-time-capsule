@@ -1,0 +1,28 @@
+{
+  "source": "user_confirmed",
+  "user_id": "4345023",
+  "notes": "本人确认现有21页的获得情况；未列出的未来页面、赠礼和场景素材不推断为已获得。",
+  "pages": {
+    "draw_paper_1_png": "obtained",
+    "draw_paper_2_png": "obtained",
+    "draw_paper_3_png": "obtained",
+    "draw_paper_4_png": "obtained",
+    "draw_paper_5_png": "obtained",
+    "draw_paper_6_png": "obtained",
+    "draw_paper_7_png": "not_obtained",
+    "draw_paper_101_png": "obtained",
+    "draw_paper_102_png": "obtained",
+    "draw_paper_103_png": "obtained",
+    "draw_paper_104_png": "obtained",
+    "draw_paper_105_png": "obtained",
+    "draw_paper_106_png": "not_obtained",
+    "draw_paper_107_png": "obtained",
+    "draw_paper_201_png": "obtained",
+    "draw_paper_202_png": "obtained",
+    "draw_paper_203_png": "obtained",
+    "draw_paper_204_png": "obtained",
+    "draw_paper_205_png": "obtained",
+    "draw_paper_206_png": "obtained",
+    "draw_paper_207_png": "obtained"
+  }
+}
