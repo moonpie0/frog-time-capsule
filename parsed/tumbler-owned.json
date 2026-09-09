@@ -1,0 +1,1568 @@
+{
+  "source": "user_confirmed",
+  "user_id": "4345023",
+  "recorded_at": "2026-09-09T16:30:16+08:00",
+  "records": [
+    {
+      "sha256": "5692dbee4c39aeb924be9b48562a4c8e13285aa2362ce7137e4b79148c4ec12d",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6058a73fad8cedab778fd2dc50e15c97.jpg",
+      "title": "胡桃不倒",
+      "file_size": 510058,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/5692dbee4c39aeb924be9b48562a4c8e13285aa2362ce7137e4b79148c4ec12d.png",
+      "preview_sha256": "55378b60bb638de96be4fe3d1ae374c49fc38bff34bc374d39137e5fe4a5185c",
+      "preview_size": 17707,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 1,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T06:39:06+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6058a73fad8cedab778fd2dc50e15c97.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6058a73fad8cedab778fd2dc50e15c97.jpg",
+          "source_modified_at": "2026-09-09T06:39:06+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:36+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ecd803d8db4bb0c8d06b9528ffe16f63.jpg",
+          "source_modified_at": "2026-09-09T06:39:06+00:00",
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小胡桃",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "8b80c075d580dc4db92b4dc5ab2349406de39a018de87fabce3a263bffc07ec5",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/11479e2c411cd4a6545972b00e27b5ef.jpg",
+      "title": "胡桃不倒",
+      "file_size": 600967,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/8b80c075d580dc4db92b4dc5ab2349406de39a018de87fabce3a263bffc07ec5.png",
+      "preview_sha256": "b55ed5540672dfab1b122845b94f597ae8d281a5ab5de964e63aaf597aef1f09",
+      "preview_size": 19029,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 2,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T06:39:17+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/11479e2c411cd4a6545972b00e27b5ef.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/11479e2c411cd4a6545972b00e27b5ef.jpg",
+          "source_modified_at": "2026-09-09T06:39:17+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:40+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/504d06b3d7b0e8ce750a70ee162559c3.jpg",
+          "source_modified_at": "2026-09-09T06:39:17+00:00",
+          "backed_up_at": "2026-09-09T16:25:40+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小胡桃",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "b389e5ddc8a44cb08045d862afc2b34a78b92ac406724249e0515f01f05409c5",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e296e7749b3d4aab3f35daaf7bcd7451.jpg",
+      "title": "胡桃不倒",
+      "file_size": 607538,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/b389e5ddc8a44cb08045d862afc2b34a78b92ac406724249e0515f01f05409c5.png",
+      "preview_sha256": "8931b4a23bfca4458d63874205ca959fc6fa132285a52f54ddd70260faf8c906",
+      "preview_size": 17830,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 3,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:19:46+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e296e7749b3d4aab3f35daaf7bcd7451.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e296e7749b3d4aab3f35daaf7bcd7451.jpg",
+          "source_modified_at": "2026-09-09T08:19:46+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:36+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f2595632074c8f92dbb3ca247cd79234.jpg",
+          "source_modified_at": "2026-09-09T08:19:46+00:00",
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小胡桃",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "e187975688028fae15ddb2d637ce0c3a414987d61e35b3db85e0276d0bbe7b82",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/469e46aa568b828c1105c64ac0cd6336.jpg",
+      "title": "胡桃不倒",
+      "file_size": 610585,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/e187975688028fae15ddb2d637ce0c3a414987d61e35b3db85e0276d0bbe7b82.png",
+      "preview_sha256": "c69451129fdc7c68a167f20bdbcea2b15aed632194d9453c6086773261d88b3f",
+      "preview_size": 20202,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 4,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:19:53+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/469e46aa568b828c1105c64ac0cd6336.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/469e46aa568b828c1105c64ac0cd6336.jpg",
+          "source_modified_at": "2026-09-09T08:19:53+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:40+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/485589882e4707e271b7791f8c90a493.jpg",
+          "source_modified_at": "2026-09-09T08:19:53+00:00",
+          "backed_up_at": "2026-09-09T16:25:40+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小胡桃",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "a5f2a7ab0f132e6adb477bd334d4813d4c893a0ad6ba4b929deb6cfce806a4d0",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/34ca13217568c9fac789eac6af0769e2.jpg",
+      "title": "胡桃不倒",
+      "file_size": 600392,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/a5f2a7ab0f132e6adb477bd334d4813d4c893a0ad6ba4b929deb6cfce806a4d0.png",
+      "preview_sha256": "4d384dc67cc5da0585c559d4c54ba477d9018f29a7dfc1dc0e899d429d09f509",
+      "preview_size": 18529,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 5,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:19+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/34ca13217568c9fac789eac6af0769e2.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/34ca13217568c9fac789eac6af0769e2.jpg",
+          "source_modified_at": "2026-09-09T08:20:19+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0453335486a5800502ff2408b39a4ab0.jpg",
+          "source_modified_at": "2026-09-09T08:20:19+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小胡桃",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "c146e92c6c01e29feb05d064f91499bfef134e3bf63a131039fe37a9e03664d7",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2d111240233754dee4f78169c8aed19a.jpg",
+      "title": "尖栗不倒",
+      "file_size": 604891,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/c146e92c6c01e29feb05d064f91499bfef134e3bf63a131039fe37a9e03664d7.png",
+      "preview_sha256": "92f79d316d6d043528e55ee0294b5b2254fbafe13f4ddcc8b8bffbc7f5937560",
+      "preview_size": 21450,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 6,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:24+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/2d111240233754dee4f78169c8aed19a.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2d111240233754dee4f78169c8aed19a.jpg",
+          "source_modified_at": "2026-09-09T08:20:24+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2bd74399c073dbc9ca20e4b36c727e69.jpg",
+          "source_modified_at": "2026-09-09T08:20:24+00:00",
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "ee6aab36019fc4ba0e2f61b59a9a41bed91fba2b14caab0517909cf3b4f6ff77",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e4de4b75fed902978ec96224091b7458.jpg",
+      "title": "尖栗不倒",
+      "file_size": 511399,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/ee6aab36019fc4ba0e2f61b59a9a41bed91fba2b14caab0517909cf3b4f6ff77.png",
+      "preview_sha256": "4421cb7704f4872075dbb6d567a931becafb028ce40c426014aafa959b4c4d82",
+      "preview_size": 18244,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 7,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:29+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e4de4b75fed902978ec96224091b7458.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e4de4b75fed902978ec96224091b7458.jpg",
+          "source_modified_at": "2026-09-09T08:20:29+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fc7b47faa16822b167a9dbc471b3b357.jpg",
+          "source_modified_at": "2026-09-09T08:20:29+00:00",
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "029203dbc743fe955385325cbf133f3425765bf80b668fed2b70c89da3c5f60e",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c778aa10861efe415e459d5495771657.jpg",
+      "title": "尖栗不倒",
+      "file_size": 599272,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/029203dbc743fe955385325cbf133f3425765bf80b668fed2b70c89da3c5f60e.png",
+      "preview_sha256": "0980349e7c617a4d583394cab70d39561e56fed9cc0b76f624b75e38046796c5",
+      "preview_size": 17624,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 8,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:33+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c778aa10861efe415e459d5495771657.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c778aa10861efe415e459d5495771657.jpg",
+          "source_modified_at": "2026-09-09T08:20:33+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:37+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/18b01ce8f0c3871f67ab3d1917fdeea9.jpg",
+          "source_modified_at": "2026-09-09T08:20:33+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "e03993e5d30c20a97a3edd0453d4ca0883da628112e2d3bb0b4d8c77ef445284",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c1259e51ae783bfbb528c0eeccf19cd0.jpg",
+      "title": "尖栗不倒",
+      "file_size": 517174,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/e03993e5d30c20a97a3edd0453d4ca0883da628112e2d3bb0b4d8c77ef445284.png",
+      "preview_sha256": "ca8d6e8f5ffde29fb6cbd9ff0f2e621bd43300e520a2fc6de2d635011a75047e",
+      "preview_size": 22470,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 9,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:37+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c1259e51ae783bfbb528c0eeccf19cd0.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c1259e51ae783bfbb528c0eeccf19cd0.jpg",
+          "source_modified_at": "2026-09-09T08:20:37+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:37+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e7f3a166cd31f8f0e8d78dcf71fd8db3.jpg",
+          "source_modified_at": "2026-09-09T08:20:37+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "09045c78f08d838a26bc7b14b2987c14f9c977795ff4efe7013ebbc5191782e6",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/426e0b79712c2343e04ccf039939975c.jpg",
+      "title": "尖栗不倒",
+      "file_size": 608576,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/09045c78f08d838a26bc7b14b2987c14f9c977795ff4efe7013ebbc5191782e6.png",
+      "preview_sha256": "a968d10b84da7e93f8a7309a113c4e8b1a5cf63dbf8db046e8c46cd64f43a564",
+      "preview_size": 18237,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 10,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:41+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/426e0b79712c2343e04ccf039939975c.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/426e0b79712c2343e04ccf039939975c.jpg",
+          "source_modified_at": "2026-09-09T08:20:41+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5cc4db7b1c4285b017e1a90c126b810e.jpg",
+          "source_modified_at": "2026-09-09T08:20:41+00:00",
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "812d294bde9cecf30af470d3a4821c93b2520c779e9e379bf4ea59aadfc1f5fa",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/dbd58c5d81b2869bf6239147ccdbed13.jpg",
+      "title": "尖栗不倒",
+      "file_size": 605341,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/812d294bde9cecf30af470d3a4821c93b2520c779e9e379bf4ea59aadfc1f5fa.png",
+      "preview_sha256": "cfcf74508e895c544a80c00ea28a69d0753f95c212fa53fe0c99a132bfe1f4f9",
+      "preview_size": 16088,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 11,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:46+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/dbd58c5d81b2869bf6239147ccdbed13.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/dbd58c5d81b2869bf6239147ccdbed13.jpg",
+          "source_modified_at": "2026-09-09T08:20:46+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:37+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b5b743c34af7e2c3f390920fa39f5657.jpg",
+          "source_modified_at": "2026-09-09T08:20:46+00:00",
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "e1b6d37848b2f9572a5d9ddea50d01eaae0223e638f50ab94820b6ebeee774e8",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/30e212064e512ce93ba5d2121ee9e5ee.jpg",
+      "title": "尖栗不倒",
+      "file_size": 511531,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/e1b6d37848b2f9572a5d9ddea50d01eaae0223e638f50ab94820b6ebeee774e8.png",
+      "preview_sha256": "58f52245fcad4f6929406daf59c36ced658b0b4c719002654e485aff055cc43b",
+      "preview_size": 18558,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 12,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:50+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/30e212064e512ce93ba5d2121ee9e5ee.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/30e212064e512ce93ba5d2121ee9e5ee.jpg",
+          "source_modified_at": "2026-09-09T08:20:50+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ba1ea3efe24d846facc608e463fc9278.jpg",
+          "source_modified_at": "2026-09-09T08:20:50+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "706b11157f02723bd14fd7458d383b572fffdce976f6a00c762c68c76a7b7e06",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0bf45fa5da67dfa43d2340a037f04c5e.jpg",
+      "title": "尖栗不倒",
+      "file_size": 600866,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/706b11157f02723bd14fd7458d383b572fffdce976f6a00c762c68c76a7b7e06.png",
+      "preview_sha256": "6e875ccbd14cae7337d5ccda38eec9e1da3d4a975673c4bb5075b6337238468c",
+      "preview_size": 18476,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 13,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:54+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/0bf45fa5da67dfa43d2340a037f04c5e.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0bf45fa5da67dfa43d2340a037f04c5e.jpg",
+          "source_modified_at": "2026-09-09T08:20:54+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2c692f084b566426f8973c3666cc91b0.jpg",
+          "source_modified_at": "2026-09-09T08:20:54+00:00",
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "575f61dd445715837db0b6db922851be1abce59774a5cab6222cafc86c29ffa8",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6061db1a4a191b2b6ad8fc389f38107f.jpg",
+      "title": "尖栗不倒",
+      "file_size": 610794,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/575f61dd445715837db0b6db922851be1abce59774a5cab6222cafc86c29ffa8.png",
+      "preview_sha256": "6d70931ed71649d16f5f67875feeb993e2e4b214e33fa7ee64dd4a0a63b6c9b8",
+      "preview_size": 20190,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 14,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:20:58+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/6061db1a4a191b2b6ad8fc389f38107f.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6061db1a4a191b2b6ad8fc389f38107f.jpg",
+          "source_modified_at": "2026-09-09T08:20:58+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c485c45f8173cea1c62d84e865c00742.jpg",
+          "source_modified_at": "2026-09-09T08:20:58+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "3a8452967aee02276c679b2da6ec1d9ef0c873c67562b2dfba8e46cfd2eca09a",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a632b4835a44abd6b76aeff09843d06a.jpg",
+      "title": "尖栗不倒",
+      "file_size": 508959,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/3a8452967aee02276c679b2da6ec1d9ef0c873c67562b2dfba8e46cfd2eca09a.png",
+      "preview_sha256": "35b29d57760e6ccd3d425dd0730ae0cb8e90cadbcbbef3d821b784a429b45b47",
+      "preview_size": 16524,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 15,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:04+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a632b4835a44abd6b76aeff09843d06a.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a632b4835a44abd6b76aeff09843d06a.jpg",
+          "source_modified_at": "2026-09-09T08:21:04+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c3987d0ee182f09e4719395bd50502f1.jpg",
+          "source_modified_at": "2026-09-09T08:21:04+00:00",
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小尖栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "1488fbf17c234deff2e1f7f30be22e98a4fb72831c1dd7e1ac9eee8f3c8c1496",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a8dae8254e3780ca513434b04e8bf1b9.jpg",
+      "title": "兰栗不倒",
+      "file_size": 609566,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/1488fbf17c234deff2e1f7f30be22e98a4fb72831c1dd7e1ac9eee8f3c8c1496.png",
+      "preview_sha256": "6769993cdbad0fbc898ae25ebf7c2d3b2e6911529cb832a6b923cecce13adb77",
+      "preview_size": 19218,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 16,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:09+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/a8dae8254e3780ca513434b04e8bf1b9.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a8dae8254e3780ca513434b04e8bf1b9.jpg",
+          "source_modified_at": "2026-09-09T08:21:09+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/acb3d1056172cbe1f76b72975f937477.jpg",
+          "source_modified_at": "2026-09-09T08:21:09+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "9acfc00ea912be45771281aba9a99b572b00c0ed5ab87b26d6da1807ef75b0ed",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c1bd827a3b999de309f780af85e3a630.jpg",
+      "title": "兰栗不倒",
+      "file_size": 606140,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/9acfc00ea912be45771281aba9a99b572b00c0ed5ab87b26d6da1807ef75b0ed.png",
+      "preview_sha256": "3a9d0312c8a76aaec1758b976916b80feb9a62f7bf621f1f06add8703dcf1b4d",
+      "preview_size": 16689,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 17,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:14+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c1bd827a3b999de309f780af85e3a630.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c1bd827a3b999de309f780af85e3a630.jpg",
+          "source_modified_at": "2026-09-09T08:21:14+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:37+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/a2ecb2d8a376d8ade81c8d5425bc2b4d.jpg",
+          "source_modified_at": "2026-09-09T08:21:14+00:00",
+          "backed_up_at": "2026-09-09T16:25:47+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "0d7560a8cdc9237731a1181d0d18201c2ad110575ef4f453908b7f6e8310c140",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/73c515d64e633a56e37a9abc2b890ec3.jpg",
+      "title": "兰栗不倒",
+      "file_size": 511578,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/0d7560a8cdc9237731a1181d0d18201c2ad110575ef4f453908b7f6e8310c140.png",
+      "preview_sha256": "54c92de7769b2c889d1fbc4e476de2b9f27d0bc5eeff415a256977b2a650899a",
+      "preview_size": 18644,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 18,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:18+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/73c515d64e633a56e37a9abc2b890ec3.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/73c515d64e633a56e37a9abc2b890ec3.jpg",
+          "source_modified_at": "2026-09-09T08:21:18+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:37+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/1664dd1e3a97d73eb6c09ae2d360fbc7.jpg",
+          "source_modified_at": "2026-09-09T08:21:18+00:00",
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "26b71a8c1d42e5f1748a2ebca8e05837feff08785bb5244160674ce4296330db",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c723a4704ca98ce83e82ca699c4ddfad.jpg",
+      "title": "兰栗不倒",
+      "file_size": 513506,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/26b71a8c1d42e5f1748a2ebca8e05837feff08785bb5244160674ce4296330db.png",
+      "preview_sha256": "21c519f85786c2cb7032e0809b60ca21e57e9c8e3366b4d2f4a6d25c0eee1b5a",
+      "preview_size": 19964,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 19,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:22+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c723a4704ca98ce83e82ca699c4ddfad.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c723a4704ca98ce83e82ca699c4ddfad.jpg",
+          "source_modified_at": "2026-09-09T08:21:22+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f717c297fea272d2644de38bc31b97a1.jpg",
+          "source_modified_at": "2026-09-09T08:21:22+00:00",
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "36e67b08d25edd4d774843759124e8012ad184c687002f876144919fbb4ba103",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/69848ee196cfa9f74baa774fea770ca8.jpg",
+      "title": "兰栗不倒",
+      "file_size": 606531,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/36e67b08d25edd4d774843759124e8012ad184c687002f876144919fbb4ba103.png",
+      "preview_sha256": "bdf2bc16803e318407772f63838074d3f0cebe7cb4f04a460047facbe8f6c6ff",
+      "preview_size": 17024,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 20,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:26+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/69848ee196cfa9f74baa774fea770ca8.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/69848ee196cfa9f74baa774fea770ca8.jpg",
+          "source_modified_at": "2026-09-09T08:21:26+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:41+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/463d80979bfb602186f2bee0cea5d97d.jpg",
+          "source_modified_at": "2026-09-09T08:21:26+00:00",
+          "backed_up_at": "2026-09-09T16:25:42+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "6c688ae1fcce7c53339a398e53af8a7dfdb2a47b5e835267a9c0cb2517902a0b",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/881885ea936417eadd5f1032b0a43cec.jpg",
+      "title": "兰栗不倒",
+      "file_size": 513981,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/6c688ae1fcce7c53339a398e53af8a7dfdb2a47b5e835267a9c0cb2517902a0b.png",
+      "preview_sha256": "7c2335730e2458be75f20ae18d3df44f759f3c5ae10836324810768cf7ca2fc0",
+      "preview_size": 20331,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 21,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:31+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/881885ea936417eadd5f1032b0a43cec.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/881885ea936417eadd5f1032b0a43cec.jpg",
+          "source_modified_at": "2026-09-09T08:21:31+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5d98f02659957320d7a95f8e9b65a82b.jpg",
+          "source_modified_at": "2026-09-09T08:21:31+00:00",
+          "backed_up_at": "2026-09-09T16:25:48+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "3382e4bc4b5cbc536d5300b0ad0ca5b40bde9690bce09ad1832f504dca439816",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c4ca617491a3f09ab1e1ddca6030ecca.jpg",
+      "title": "兰栗不倒",
+      "file_size": 506985,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/3382e4bc4b5cbc536d5300b0ad0ca5b40bde9690bce09ad1832f504dca439816.png",
+      "preview_sha256": "3401bd3963014cca95c327e86337b67a3023be6fe0a621fda5ec7a88af6a8bfb",
+      "preview_size": 15187,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 22,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:35+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/c4ca617491a3f09ab1e1ddca6030ecca.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/c4ca617491a3f09ab1e1ddca6030ecca.jpg",
+          "source_modified_at": "2026-09-09T08:21:35+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:42+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/841ab8ee898c7e2d8fb155a8252dcfef.jpg",
+          "source_modified_at": "2026-09-09T08:21:35+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "4112737e4d2b493a1f7b1864fa13441be856d66471cbc6fbd5321dba0f4a4b3b",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d59a0726355b0ab989d6c879beaf147f.jpg",
+      "title": "兰栗不倒",
+      "file_size": 511525,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/4112737e4d2b493a1f7b1864fa13441be856d66471cbc6fbd5321dba0f4a4b3b.png",
+      "preview_sha256": "8c4e2e6161f18f0ad138cf4441b7247fb82fd5de37b4a66265921b9474e6c813",
+      "preview_size": 18560,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 23,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:39+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/d59a0726355b0ab989d6c879beaf147f.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d59a0726355b0ab989d6c879beaf147f.jpg",
+          "source_modified_at": "2026-09-09T08:21:39+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:42+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ff4bca59160fb5a521f8907ff0fd2988.jpg",
+          "source_modified_at": "2026-09-09T08:21:39+00:00",
+          "backed_up_at": "2026-09-09T16:25:45+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "c6ebf5dc4741341fbe15577c0733ae99eb025b10d34e18b72db6d0fdcce7f0f4",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e3a2abd5429a388ff25489fd18aeaa80.jpg",
+      "title": "兰栗不倒",
+      "file_size": 605584,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/c6ebf5dc4741341fbe15577c0733ae99eb025b10d34e18b72db6d0fdcce7f0f4.png",
+      "preview_sha256": "48478526fa4f45f4c8e0af7e3601acaa223e886546947d84f98aff4fc428bb64",
+      "preview_size": 16537,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 24,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:43+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e3a2abd5429a388ff25489fd18aeaa80.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e3a2abd5429a388ff25489fd18aeaa80.jpg",
+          "source_modified_at": "2026-09-09T08:21:43+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:48+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/378ce0b2577a97515941b729d2ba79ab.jpg",
+          "source_modified_at": "2026-09-09T08:21:43+00:00",
+          "backed_up_at": "2026-09-09T16:25:49+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "fa67fc6ffc9ff07d9c596021e4ddfad9de75d253a3dc240dd0044ce8a9e7815c",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ac2ae3a2f41434bb1dacf5b81c15fbee.jpg",
+      "title": "兰栗不倒",
+      "file_size": 597514,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/fa67fc6ffc9ff07d9c596021e4ddfad9de75d253a3dc240dd0044ce8a9e7815c.png",
+      "preview_sha256": "78db508423f57646f0422f6e90fd848cd7b69d647f3cffa356725e9223ef8c3d",
+      "preview_size": 16386,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 25,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:47+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ac2ae3a2f41434bb1dacf5b81c15fbee.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ac2ae3a2f41434bb1dacf5b81c15fbee.jpg",
+          "source_modified_at": "2026-09-09T08:21:47+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:42+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d79814300fd99fc1e37c67df42899b59.jpg",
+          "source_modified_at": "2026-09-09T08:21:47+00:00",
+          "backed_up_at": "2026-09-09T16:25:48+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "89dc88566918c6f05c0ce84a0330a866ff9b623f23453e9bc35cb06f73c4e3a3",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ffe48a06e0e6247cceaca51225c0e419.jpg",
+      "title": "兰栗不倒",
+      "file_size": 601685,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/89dc88566918c6f05c0ce84a0330a866ff9b623f23453e9bc35cb06f73c4e3a3.png",
+      "preview_sha256": "9287a76706763be8dc3f4c86f6d3c3b9e40773bff5f2bf0dc92bbf0c1f6aa2e1",
+      "preview_size": 19366,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 26,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:53+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ffe48a06e0e6247cceaca51225c0e419.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ffe48a06e0e6247cceaca51225c0e419.jpg",
+          "source_modified_at": "2026-09-09T08:21:53+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e8555246a1a79dab0899420cbbdabc64.jpg",
+          "source_modified_at": "2026-09-09T08:21:53+00:00",
+          "backed_up_at": "2026-09-09T16:25:49+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "be9835a130b8699d14e6062c5eb398fcf884ab7623bb3200f11700f8d9d55360",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e716635168d71d12dea3ef444297c6e8.jpg",
+      "title": "兰栗不倒",
+      "file_size": 613509,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/be9835a130b8699d14e6062c5eb398fcf884ab7623bb3200f11700f8d9d55360.png",
+      "preview_sha256": "86971fdd34adba17254769715962cbcc401d651f9e1690097e88dae0d40b65bf",
+      "preview_size": 21930,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 27,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:21:57+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e716635168d71d12dea3ef444297c6e8.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e716635168d71d12dea3ef444297c6e8.jpg",
+          "source_modified_at": "2026-09-09T08:21:57+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:42+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/eb83637a4820e64748f66d5ad7ec1b61.jpg",
+          "source_modified_at": "2026-09-09T08:21:57+00:00",
+          "backed_up_at": "2026-09-09T16:25:48+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小兰栗",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "a02204ab4e83c986ce18f50ab75de52035b02774bac4196c6c4732c27c7b85ca",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5240c08e80b89185aa4d4b7ca89e8242.jpg",
+      "title": "橡子不倒",
+      "file_size": 514118,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/a02204ab4e83c986ce18f50ab75de52035b02774bac4196c6c4732c27c7b85ca.png",
+      "preview_sha256": "10ef03a67f70c62e0aceed3ef1a514df9b3f9d1fdd579ea32a271d7e979e1dbb",
+      "preview_size": 20693,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 28,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:01+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/5240c08e80b89185aa4d4b7ca89e8242.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/5240c08e80b89185aa4d4b7ca89e8242.jpg",
+          "source_modified_at": "2026-09-09T08:22:01+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/f92aae1ca30b3b43884bb02ffdb6917b.jpg",
+          "source_modified_at": "2026-09-09T08:22:01+00:00",
+          "backed_up_at": "2026-09-09T16:25:42+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "85dfd2abc93696e93ddc1439f1002c26db591b9bea795144d3f2eeba082b538a",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/79bed56551ce53ca4583c1dff92f4ac4.jpg",
+      "title": "橡子不倒",
+      "file_size": 597495,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/85dfd2abc93696e93ddc1439f1002c26db591b9bea795144d3f2eeba082b538a.png",
+      "preview_sha256": "be456ee70095b599afe4420506f5ba99bcc903f8050724bf5461410aec139b79",
+      "preview_size": 16661,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 29,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:05+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/79bed56551ce53ca4583c1dff92f4ac4.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/79bed56551ce53ca4583c1dff92f4ac4.jpg",
+          "source_modified_at": "2026-09-09T08:22:05+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:48+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/4d1488dd9d85dbacd66d53d6fe06051f.jpg",
+          "source_modified_at": "2026-09-09T08:22:05+00:00",
+          "backed_up_at": "2026-09-09T16:25:49+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "66ebd0cdd3dba75cbea373df2efb9be372ad0c860761b8542ae6147385d738d5",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/8788fda1e780b813b8dfab14e6894469.jpg",
+      "title": "橡子不倒",
+      "file_size": 510950,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/66ebd0cdd3dba75cbea373df2efb9be372ad0c860761b8542ae6147385d738d5.png",
+      "preview_sha256": "ecf874666c783744b3d77cf6440a444ae860fd59f9a6ea67a8000173209b3873",
+      "preview_size": 18305,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 30,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:09+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/8788fda1e780b813b8dfab14e6894469.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/8788fda1e780b813b8dfab14e6894469.jpg",
+          "source_modified_at": "2026-09-09T08:22:09+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/58bd4b9bdc0d22286b0618abdf93f6bd.jpg",
+          "source_modified_at": "2026-09-09T08:22:09+00:00",
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "4a173f0e6bd099afa0e5931c00254e677e704748fbfc0608d0f2d1ebb54160cf",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/79d552d40e18792f6085a3961c1f77d9.jpg",
+      "title": "橡子不倒",
+      "file_size": 605116,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/4a173f0e6bd099afa0e5931c00254e677e704748fbfc0608d0f2d1ebb54160cf.png",
+      "preview_sha256": "6c64551633ab63e438167007abfea459d9fcb10000cbe71f26ec11aec40941fd",
+      "preview_size": 16105,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 31,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:13+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/79d552d40e18792f6085a3961c1f77d9.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/79d552d40e18792f6085a3961c1f77d9.jpg",
+          "source_modified_at": "2026-09-09T08:22:13+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/facc431f69b228e630e00b2bd33c4244.jpg",
+          "source_modified_at": "2026-09-09T08:22:13+00:00",
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "5834f3d287ddca72fda1caa8091ef2d5a53dcaadf0c6a2f6cd59b015d02b1850",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ae6f195296529780d9a015ac38e27bcc.jpg",
+      "title": "橡子不倒",
+      "file_size": 513610,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/5834f3d287ddca72fda1caa8091ef2d5a53dcaadf0c6a2f6cd59b015d02b1850.png",
+      "preview_sha256": "3ea7af140846a393517749236814bbf70d0783cf994b8fadc5c8bc8213852525",
+      "preview_size": 20278,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 32,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:17+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ae6f195296529780d9a015ac38e27bcc.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ae6f195296529780d9a015ac38e27bcc.jpg",
+          "source_modified_at": "2026-09-09T08:22:17+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/0c9193b88f98701346b78dc94f8e96df.jpg",
+          "source_modified_at": "2026-09-09T08:22:17+00:00",
+          "backed_up_at": "2026-09-09T16:25:38+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "8bdeeeb4973d0fa40e7c7cf47b32e2917435c3f715565ead33955f6159d88527",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/59760ea34e6b8ddbda34cc821c19dd82.jpg",
+      "title": "橡子不倒",
+      "file_size": 603647,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/8bdeeeb4973d0fa40e7c7cf47b32e2917435c3f715565ead33955f6159d88527.png",
+      "preview_sha256": "c4719d1b89ab7fd9fafb882496153bde2af18ffb92e8a20c63c249d0e0b965ce",
+      "preview_size": 21089,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 33,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:21+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/59760ea34e6b8ddbda34cc821c19dd82.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/59760ea34e6b8ddbda34cc821c19dd82.jpg",
+          "source_modified_at": "2026-09-09T08:22:21+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:39+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9bb6ff45fab4f3e0ab8acbe31d272815.jpg",
+          "source_modified_at": "2026-09-09T08:22:21+00:00",
+          "backed_up_at": "2026-09-09T16:25:50+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "66a2f72e3ae9a0df4908a1aaaa934cf5133bbb5f34b9f88b4cf709b19276da0f",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e3e7f44c75e2e3485430057649a156c8.jpg",
+      "title": "橡子不倒",
+      "file_size": 609692,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/66a2f72e3ae9a0df4908a1aaaa934cf5133bbb5f34b9f88b4cf709b19276da0f.png",
+      "preview_sha256": "9f83b6cd0be57ccee08a34ebdd194c10266efb5834f27cfa1604e0dfb00c2427",
+      "preview_size": 19365,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 34,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:25+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e3e7f44c75e2e3485430057649a156c8.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e3e7f44c75e2e3485430057649a156c8.jpg",
+          "source_modified_at": "2026-09-09T08:22:25+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:42+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/399d88fde22b49d38473bf8040dde659.jpg",
+          "source_modified_at": "2026-09-09T08:22:25+00:00",
+          "backed_up_at": "2026-09-09T16:25:48+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "38ec9963a9a0c480da6522fb7901f714eb8fe2f82ab6c78e0d2dbb3acae8bfde",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/539b8859e96c49d97bf9420c4dc7297b.jpg",
+      "title": "橡子不倒",
+      "file_size": 511196,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/38ec9963a9a0c480da6522fb7901f714eb8fe2f82ab6c78e0d2dbb3acae8bfde.png",
+      "preview_sha256": "d422817da4eeb56096c4006cdf2529a2c936658f54f790e1d99b5652337b91a7",
+      "preview_size": 18267,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 35,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:29+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/539b8859e96c49d97bf9420c4dc7297b.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/539b8859e96c49d97bf9420c4dc7297b.jpg",
+          "source_modified_at": "2026-09-09T08:22:29+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:50+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d5d2524e7443387b23a695f1c72fe8f4.jpg",
+          "source_modified_at": "2026-09-09T08:22:29+00:00",
+          "backed_up_at": "2026-09-09T16:25:50+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "df6b6f806d998fd16722991915d0fde6e71d40c3f6ae1d19129f249a5ee3497c",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/cef305e1d02aa97d8c59c9a7768e123d.jpg",
+      "title": "橡子不倒",
+      "file_size": 512915,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/df6b6f806d998fd16722991915d0fde6e71d40c3f6ae1d19129f249a5ee3497c.png",
+      "preview_sha256": "257be88f8e78a708d635e18f3e800492ce1530a6373b25aacb812153291c9e1e",
+      "preview_size": 19549,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 36,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:33+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/cef305e1d02aa97d8c59c9a7768e123d.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/cef305e1d02aa97d8c59c9a7768e123d.jpg",
+          "source_modified_at": "2026-09-09T08:22:33+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:43+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/2f45d120570cbe7b4ba13f92e37bed64.jpg",
+          "source_modified_at": "2026-09-09T08:22:33+00:00",
+          "backed_up_at": "2026-09-09T16:25:50+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "3becf1a90b9fc51cc16600e06bf7133eec19d413602396506c1d9b59f760d070",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9afd122dff93f769b005c40090aa7316.jpg",
+      "title": "橡子不倒",
+      "file_size": 516283,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/3becf1a90b9fc51cc16600e06bf7133eec19d413602396506c1d9b59f760d070.png",
+      "preview_sha256": "93dc8a4521279b31eb6226a35e1818c546d24491614441e24307f509bc36b196",
+      "preview_size": 21803,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 37,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:37+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/9afd122dff93f769b005c40090aa7316.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9afd122dff93f769b005c40090aa7316.jpg",
+          "source_modified_at": "2026-09-09T08:22:37+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:48+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/9f81d13797f737350f62e0a88402eee4.jpg",
+          "source_modified_at": "2026-09-09T08:22:37+00:00",
+          "backed_up_at": "2026-09-09T16:25:50+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "11d203c5feaed09268ac1cac15b2d42ebcf37e2a78bd4d6fbe3b727c807d6da6",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b3d04bcdba7422a1a7fb2aa8ca723bfe.jpg",
+      "title": "橡子不倒",
+      "file_size": 516248,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/11d203c5feaed09268ac1cac15b2d42ebcf37e2a78bd4d6fbe3b727c807d6da6.png",
+      "preview_sha256": "5e95d98ecc733a4eaf564632ca3e4fb9f3cabc23099b35399e1106ef4d0719f5",
+      "preview_size": 21939,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 38,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:40+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/b3d04bcdba7422a1a7fb2aa8ca723bfe.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/b3d04bcdba7422a1a7fb2aa8ca723bfe.jpg",
+          "source_modified_at": "2026-09-09T08:22:40+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:43+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/90e8b55506600b641b47637c18887e81.jpg",
+          "source_modified_at": "2026-09-09T08:22:40+00:00",
+          "backed_up_at": "2026-09-09T16:25:43+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "15b561e4dd2137dd60aed45b6a33da93544c688399af4172a54ae72901103075",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/67a38ae142d9724a924f912929c0d830.jpg",
+      "title": "橡子不倒",
+      "file_size": 607990,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/15b561e4dd2137dd60aed45b6a33da93544c688399af4172a54ae72901103075.png",
+      "preview_sha256": "843a56ac5f0ee730c79f2731b89a04faeb70d88215d066ad8e75e32b7b1af199",
+      "preview_size": 23600,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 39,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:44+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/67a38ae142d9724a924f912929c0d830.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/67a38ae142d9724a924f912929c0d830.jpg",
+          "source_modified_at": "2026-09-09T08:22:44+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:49+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e138f3ded806f5e155a7f4cf6fdd2a7f.jpg",
+          "source_modified_at": "2026-09-09T08:22:44+00:00",
+          "backed_up_at": "2026-09-09T16:25:49+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小橡子",
+      "annotation_source": "user_confirmed"
+    },
+    {
+      "sha256": "bfc97dfbd0642cca2109bbb488354d146e7b326346b0076fe9b79cfdfa0d10dd",
+      "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/697d7512dd925092e81c87bc25358af0.jpg",
+      "title": "蹴鞠不倒",
+      "file_size": 519201,
+      "displayed_date": "2026-09-09",
+      "preview_path": "media/tumbler-owned/bfc97dfbd0642cca2109bbb488354d146e7b326346b0076fe9b79cfdfa0d10dd.png",
+      "preview_sha256": "77d0078f1f7b9429346790ebf76291c40a9597b53a718908455b510b0310a9a5",
+      "preview_size": 23796,
+      "preview_crop": [
+        205,
+        575,
+        435,
+        805
+      ],
+      "number": 40,
+      "ownership": "obtained",
+      "ownership_source": "user_confirmed",
+      "source_modified_at": "2026-09-09T08:22:48+00:00",
+      "sources": [
+        {
+          "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/697d7512dd925092e81c87bc25358af0.jpg",
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/697d7512dd925092e81c87bc25358af0.jpg",
+          "source_modified_at": "2026-09-09T08:22:48+00:00",
+          "source_created_at": null,
+          "backed_up_at": "2026-09-09T16:25:49+08:00",
+          "category": "图片缓存"
+        },
+        {
+          "path": null,
+          "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/6621bcc93a6188ea4d658d9292e04b17.jpg",
+          "source_modified_at": "2026-09-09T08:22:48+00:00",
+          "backed_up_at": "2026-09-09T16:25:50+08:00",
+          "category": "图片缓存"
+        }
+      ],
+      "description": "推不倒的小蹴鞠",
+      "annotation_source": "user_confirmed"
+    }
+  ],
+  "notes": "本批40款已拥有图片；不声称已覆盖账号全部不倒翁。"
+}

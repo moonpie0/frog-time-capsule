@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:05:32+08:00",
+  "updated_at": "2026-09-09T16:42:19+08:00",
   "categories": {
     "明信片": 176,
     "活动": 7,
@@ -8,10 +8,11 @@
     "扭蛋记录": 1,
     "道具": 3,
     "收藏": 4,
-    "贴纸分享": 12
+    "贴纸分享": 12,
+    "不倒翁": 40
   },
-  "records": 206,
-  "displayed_dates": 179,
+  "records": 246,
+  "displayed_dates": 219,
   "locations": 49,
   "ocr_unverified_note": "OCR 原文保留识别错误；核对值与 OCR 值分开记录。"
 }

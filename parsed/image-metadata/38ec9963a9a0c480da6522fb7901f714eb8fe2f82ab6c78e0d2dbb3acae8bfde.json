@@ -1,0 +1,44 @@
+{
+  "sha256": "38ec9963a9a0c480da6522fb7901f714eb8fe2f82ab6c78e0d2dbb3acae8bfde",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/539b8859e96c49d97bf9420c4dc7297b.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1136
+  },
+  "file_size": 511196,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/539b8859e96c49d97bf9420c4dc7297b.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/539b8859e96c49d97bf9420c4dc7297b.jpg",
+      "source_modified_at": "2026-09-09T08:22:29+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T16:25:50+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": null,
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/d5d2524e7443387b23a695f1c72fe8f4.jpg",
+      "source_modified_at": "2026-09-09T08:22:29+00:00",
+      "backed_up_at": "2026-09-09T16:25:50+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "橡子不倒",
+  "category": "不倒翁",
+  "subcategory": "我的收藏",
+  "classification_status": "visually_reviewed",
+  "edited_by": "user",
+  "ownership": "obtained",
+  "ownership_source": "user_confirmed",
+  "owner_uid": "4345023",
+  "collection_number": 35,
+  "displayed_date": "2026-09-09",
+  "date_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "user_confirmed",
+  "notes": "用户确认本批不倒翁均为本人账号拥有；编号仅为档案展示顺序，不是游戏物品 ID。缓存修改时间不是获得时间。",
+  "description": "推不倒的小橡子",
+  "annotation_source": "user_confirmed",
+  "description_status": "user_confirmed"
+}

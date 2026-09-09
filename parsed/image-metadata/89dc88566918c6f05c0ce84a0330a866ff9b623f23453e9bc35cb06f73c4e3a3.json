@@ -1,0 +1,44 @@
+{
+  "sha256": "89dc88566918c6f05c0ce84a0330a866ff9b623f23453e9bc35cb06f73c4e3a3",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ffe48a06e0e6247cceaca51225c0e419.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1136
+  },
+  "file_size": 601685,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/ffe48a06e0e6247cceaca51225c0e419.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/ffe48a06e0e6247cceaca51225c0e419.jpg",
+      "source_modified_at": "2026-09-09T08:21:53+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T16:25:38+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": null,
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e8555246a1a79dab0899420cbbdabc64.jpg",
+      "source_modified_at": "2026-09-09T08:21:53+00:00",
+      "backed_up_at": "2026-09-09T16:25:49+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "兰栗不倒",
+  "category": "不倒翁",
+  "subcategory": "我的收藏",
+  "classification_status": "visually_reviewed",
+  "edited_by": "user",
+  "ownership": "obtained",
+  "ownership_source": "user_confirmed",
+  "owner_uid": "4345023",
+  "collection_number": 26,
+  "displayed_date": "2026-09-09",
+  "date_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "user_confirmed",
+  "notes": "用户确认本批不倒翁均为本人账号拥有；编号仅为档案展示顺序，不是游戏物品 ID。缓存修改时间不是获得时间。",
+  "description": "推不倒的小兰栗",
+  "annotation_source": "user_confirmed",
+  "description_status": "user_confirmed"
+}

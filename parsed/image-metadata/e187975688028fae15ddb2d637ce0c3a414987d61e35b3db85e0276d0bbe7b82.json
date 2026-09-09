@@ -1,0 +1,44 @@
+{
+  "sha256": "e187975688028fae15ddb2d637ce0c3a414987d61e35b3db85e0276d0bbe7b82",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/469e46aa568b828c1105c64ac0cd6336.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1136
+  },
+  "file_size": 610585,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/469e46aa568b828c1105c64ac0cd6336.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/469e46aa568b828c1105c64ac0cd6336.jpg",
+      "source_modified_at": "2026-09-09T08:19:53+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T16:25:40+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": null,
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/485589882e4707e271b7791f8c90a493.jpg",
+      "source_modified_at": "2026-09-09T08:19:53+00:00",
+      "backed_up_at": "2026-09-09T16:25:40+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "胡桃不倒",
+  "category": "不倒翁",
+  "subcategory": "我的收藏",
+  "classification_status": "visually_reviewed",
+  "edited_by": "user",
+  "ownership": "obtained",
+  "ownership_source": "user_confirmed",
+  "owner_uid": "4345023",
+  "collection_number": 4,
+  "displayed_date": "2026-09-09",
+  "date_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "user_confirmed",
+  "notes": "用户确认本批不倒翁均为本人账号拥有；编号仅为档案展示顺序，不是游戏物品 ID。缓存修改时间不是获得时间。",
+  "description": "推不倒的小胡桃",
+  "annotation_source": "user_confirmed",
+  "description_status": "user_confirmed"
+}

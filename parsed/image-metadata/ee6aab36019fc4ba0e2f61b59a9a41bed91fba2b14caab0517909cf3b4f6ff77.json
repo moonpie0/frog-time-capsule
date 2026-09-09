@@ -1,0 +1,44 @@
+{
+  "sha256": "ee6aab36019fc4ba0e2f61b59a9a41bed91fba2b14caab0517909cf3b4f6ff77",
+  "image_path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e4de4b75fed902978ec96224091b7458.jpg",
+  "image": {
+    "format": "PNG",
+    "width": 640,
+    "height": 1136
+  },
+  "file_size": 511399,
+  "sources": [
+    {
+      "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/e4de4b75fed902978ec96224091b7458.jpg",
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/e4de4b75fed902978ec96224091b7458.jpg",
+      "source_modified_at": "2026-09-09T08:20:29+00:00",
+      "source_created_at": null,
+      "backed_up_at": "2026-09-09T16:25:47+08:00",
+      "category": "图片缓存"
+    },
+    {
+      "path": null,
+      "data_source": "/sdcard/Android/data/com.aligames.lxqw.hhb/files/umeng_cache/fc7b47faa16822b167a9dbc471b3b357.jpg",
+      "source_modified_at": "2026-09-09T08:20:29+00:00",
+      "backed_up_at": "2026-09-09T16:25:47+08:00",
+      "category": "图片缓存"
+    }
+  ],
+  "title": "尖栗不倒",
+  "category": "不倒翁",
+  "subcategory": "我的收藏",
+  "classification_status": "visually_reviewed",
+  "edited_by": "user",
+  "ownership": "obtained",
+  "ownership_source": "user_confirmed",
+  "owner_uid": "4345023",
+  "collection_number": 7,
+  "displayed_date": "2026-09-09",
+  "date_status": "visually_reviewed",
+  "caption": "土特产代购",
+  "caption_status": "user_confirmed",
+  "notes": "用户确认本批不倒翁均为本人账号拥有；编号仅为档案展示顺序，不是游戏物品 ID。缓存修改时间不是获得时间。",
+  "description": "推不倒的小尖栗",
+  "annotation_source": "user_confirmed",
+  "description_status": "user_confirmed"
+}

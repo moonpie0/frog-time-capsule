@@ -153,7 +153,7 @@
   },
   {
     "item": "游戏生成的图片",
-    "found": "206 个图片文件",
+    "found": "246 个图片文件",
     "location": "raw/com.aligames.lxqw.hhb/files/umeng_cache/",
     "backup": "部分保存",
     "classification": "本地可访问",
@@ -161,7 +161,7 @@
   },
   {
     "item": "本地媒体文件",
-    "found": "206 个图片文件",
+    "found": "246 个图片文件",
     "location": "raw/com.aligames.lxqw.hhb/files/umeng_cache/",
     "backup": "部分保存",
     "classification": "本地可访问",
@@ -201,7 +201,7 @@
   },
   {
     "item": "图片对应信息",
-    "found": "206 份图片信息",
+    "found": "246 份图片信息",
     "location": "parsed/image-metadata/",
     "backup": "部分保存",
     "classification": "本地 OCR 与图像核对",
