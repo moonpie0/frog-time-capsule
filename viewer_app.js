@@ -153,6 +153,7 @@ function selectView(next) {
   $('media-view').hidden = !predicates[view];
   $('profile-view').hidden = view !== 'profile';
   if ($('resources-view')) $('resources-view').hidden = view !== 'resources';
+  if ($('tumbler-view')) $('tumbler-view').hidden = view !== 'tumbler';
   $('search').value = ''; $('kind-filter').value = ''; $('year-filter').value = '';
   if (predicates[view]) render();
 }

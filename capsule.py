@@ -579,7 +579,9 @@ class Capsule:
             resource_checks = verify_catalog(self.root, catalog)
             write_json(self.root / "reports/resource-integrity.json", resource_checks)
             (self.root / "viewer/resources.html").write_text(render_catalog(catalog, resource_checks), encoding="utf-8")
-        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks, catalog, resource_checks), encoding="utf-8")
+        from tumbler_viewer import load_tumbler_assets
+        tumbler = load_tumbler_assets(self.root)
+        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks, catalog, resource_checks, tumbler), encoding="utf-8")
         (self.root / "reports/backup-report.html").write_text(render_report(self.manifest, rows, checks), encoding="utf-8")
         self.log(f"离线档案已生成：{self.root / 'viewer/index.html'}")
 

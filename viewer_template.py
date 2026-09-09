@@ -43,7 +43,7 @@ def table(rows):
     return '<div class="table-scroll"><table class="data-table"><thead><tr>' + ''.join('<th>' + h + '</th>' for h in headings) + '</tr></thead><tbody>' + ''.join('<tr>' + ''.join('<td class="path">' + html.escape(str(row[k])) + '</td>' for k in keys) + '</tr>' for row in rows) + '</tbody></table></div>'
 
 
-def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None):
+def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None, tumbler=None):
     body = """
 <div class="shell"><aside class="sidebar"><p class="brand">个人游戏纪念档案</p><span class="status">部分保存</span>
 <nav aria-label="档案视图"><button data-view="postcards" aria-current="true">明信片</button><button data-view="collections">图鉴与收藏</button><button data-view="inventory">道具资料</button><button data-view="stickers">贴纸分享</button><button data-view="activities">活动图片</button><button data-view="travel">旅行汇总</button><button data-view="other">其他图片</button><button data-view="all">全部图片</button><button data-view="screenshots">补充截图</button><button data-view="profile">我的资料</button></nav>
@@ -62,6 +62,10 @@ def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None):
         body = body.replace('<button data-view="inventory">', button + '<button data-view="inventory">')
         body = body.replace('<section id="profile-view"', catalog_panel(hidden=True) + '<section id="profile-view"')
         body += catalog_dialog()
+    if tumbler:
+        from tumbler_viewer import panel
+        body = body.replace('<button data-view="inventory">', '<button data-view="tumbler">不倒翁</button><button data-view="inventory">')
+        body = body.replace('<section id="profile-view"', panel() + '<section id="profile-view"')
     script = "const manifest=" + safe_json(manifest) + ";const verification=" + safe_json(checks) + ";\n"
     script += Path(__file__).with_name("viewer_app.js").read_text(encoding="utf-8")
     page_style = ""
@@ -69,6 +73,10 @@ def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None):
         from resource_catalog import catalog_script, CATALOG_STYLE
         script += "\n" + catalog_script(catalog, catalog_checks)
         page_style = CATALOG_STYLE
+    if tumbler:
+        from tumbler_viewer import script as tumbler_script, STYLE as TUMBLER_STYLE
+        script += "\n" + tumbler_script(tumbler)
+        page_style += TUMBLER_STYLE
     return document("旅行青蛙 · 个人时光胶囊", body, script).replace("</style>", page_style + "</style>")
 
 

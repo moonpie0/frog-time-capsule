@@ -141,7 +141,7 @@ def catalog_panel(hidden=False):
 <div class="toolbar"><h2 id="catalog-heading">全部素材</h2><input id="catalog-search" type="search" placeholder="名称 / 编号 / 图片说明" aria-label="搜索素材">
 <label><input id="catalog-linked" type="checkbox"> 有分享图关联</label></div>
 <div id="catalog-gallery" class="gallery"></div><p id="catalog-empty" class="empty" hidden>没有符合条件的素材</p>
-<p class="muted">不倒翁的图片索引指向加密素材，本次未取得可展示的图片。</p>
+<p class="muted">不倒翁部件在个人档案的“不倒翁”页面单独展示。</p>
 <p class="muted"><a href="../parsed/resource-catalog.json">素材资料 JSON</a> · <a href="../reports/resource-integrity.json">素材校验结果</a></p></section>''')
 
 
