@@ -1,11 +1,12 @@
 {
-  "status": "partial_image_evidence",
-  "generated_by": "image_metadata",
-  "uid": null,
-  "nickname": null,
+  "status": "user_confirmed",
+  "generated_by": "user",
+  "source": "user_provided",
+  "uid": "4345023",
+  "nickname": "土特产代购",
   "visible_captions": [
     "土特产代购"
   ],
-  "caption_role": null,
-  "notes": "图片署名来自 OCR。它属于账户昵称、青蛙名字还是其他字段，未确认。"
+  "caption_role": "account_name",
+  "notes": "用户本人确认账号名为土特产代购，用户 ID 为 4345023；不是从游戏私有存档读取。"
 }

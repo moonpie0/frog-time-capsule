@@ -43,7 +43,7 @@ def table(rows):
     return '<div class="table-scroll"><table class="data-table"><thead><tr>' + ''.join('<th>' + h + '</th>' for h in headings) + '</tr></thead><tbody>' + ''.join('<tr>' + ''.join('<td class="path">' + html.escape(str(row[k])) + '</td>' for k in keys) + '</tr>' for row in rows) + '</tbody></table></div>'
 
 
-def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None, tumbler=None):
+def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None, tumbler=None, profile_data=None):
     body = """
 <div class="shell"><aside class="sidebar"><p class="brand">个人游戏纪念档案</p><span class="status">部分保存</span>
 <nav aria-label="档案视图"><button data-view="postcards" aria-current="true">明信片</button><button data-view="collections">图鉴与收藏</button><button data-view="inventory">道具资料</button><button data-view="stickers">贴纸分享</button><button data-view="activities">活动图片</button><button data-view="travel">旅行汇总</button><button data-view="other">其他图片</button><button data-view="all">全部图片</button><button data-view="screenshots">补充截图</button><button data-view="profile">我的资料</button></nav>
@@ -52,7 +52,7 @@ def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None, tum
 <section class="stats" aria-label="档案概况"><div class="stat"><strong id="image-count"></strong><span>已保存图片</span></div><div class="stat"><strong id="screen-count"></strong><span>补充截图</span></div><div class="stat"><strong id="size"></strong><span>原件体积</span></div><div class="stat"><strong id="day"></strong><span>备份日期</span></div></section>
 <div class="note">图片分类及可见文字已归档。图片日期不等于已取得游戏旅行记录；私有存档、账号状态与收藏完整性仍未验证。</div>
 <section id="media-view"><div class="toolbar"><h2 id="view-title">明信片</h2><input type="search" id="search" aria-label="搜索地点、日期或文字" placeholder="地点 / 日期 / 文字"><select id="kind-filter" aria-label="明信片类型"><option value="">全部明信片</option><option value="地点明信片">地点明信片</option><option value="日常明信片">日常明信片</option></select><select id="year-filter" aria-label="图片年份"><option value="">所有年份</option></select><select id="sort" aria-label="图片排序"><option value="new">日期：新到旧</option><option value="old">日期：旧到新</option><option value="name">标题</option><option value="source">文件修改时间</option></select></div><div class="gallery" id="gallery"></div><div class="empty" id="empty" hidden><h3>暂无符合条件的图片</h3><p>尚未归档的类别为空，不表示游戏中没有相关记录。</p></div><p class="muted" id="media-note">日期和地点来自图片可见文字；未印出或无法确认的字段保持为空。</p></section>
-<section id="profile-view" class="section" hidden><h2>我的游戏资料</h2><div id="profile-table"></div><p class="muted" id="profile-note">图片署名的字段含义尚未确认；UID 与账号昵称仍未取得。</p></section>
+<section id="profile-view" class="section" hidden><h2>我的游戏资料</h2><div id="profile-table"></div><p class="muted" id="profile-note" hidden></p></section>
 </main></div><dialog id="lightbox"><div class="light-head"><strong id="light-title"></strong><button class="icon" id="prev" aria-label="上一张" title="上一张">&#8592;</button><button class="icon" id="next" aria-label="下一张" title="下一张">&#8594;</button><button class="icon" id="close" aria-label="关闭" title="关闭">&#215;</button></div><div class="light-layout"><img class="light-image" id="light-image" alt=""><aside class="light-info" id="light-info"></aside></div></dialog>
 """
     if catalog:
@@ -67,6 +67,7 @@ def render_viewer(manifest, rows, checks, catalog=None, catalog_checks=None, tum
         body = body.replace('<button data-view="inventory">', '<button data-view="tumbler">不倒翁</button><button data-view="inventory">')
         body = body.replace('<section id="profile-view"', panel() + '<section id="profile-view"')
     script = "const manifest=" + safe_json(manifest) + ";const verification=" + safe_json(checks) + ";\n"
+    script += "const profileData=" + safe_json(profile_data or {}) + ";\n"
     script += Path(__file__).with_name("viewer_app.js").read_text(encoding="utf-8")
     page_style = ""
     if catalog:

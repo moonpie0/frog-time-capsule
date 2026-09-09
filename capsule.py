@@ -465,6 +465,13 @@ class Capsule:
             row(name, "是" if env else "未检查", "reports/environment.json", "已保存" if env else "未保存", "本地可访问", "系统包管理器及指定系统属性")
         for name in ("用户 UID", "昵称", "明信片记录", "图鉴状态", "已解锁地点", "道具记录", "货币数量", "称号", "任务状态", "活动状态", "旅行历史"):
             row(name, "未验证", "游戏内页面（待人工确认）", "未保存", "当前无法判断", "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。")
+        profile = read_json(self.root / "parsed/profile.json", {})
+        if profile.get("status") == "user_confirmed":
+            for name, key in (("用户 UID", "uid"), ("昵称", "nickname")):
+                if profile.get(key):
+                    item = next(item for item in rows if item["item"] == name)
+                    item.update(found=str(profile[key]), location="parsed/profile.json", backup="已保存",
+                                classification="用户本人提供", note="用户本人确认；不是从游戏私有存档读取。")
         for name, categories in (("明信片记录", {"明信片"}), ("道具记录", {"道具"}),
                                  ("活动状态", {"活动"}), ("旅行历史", {"旅行记录"})):
             count = sum(entry["category"] in categories and bool(entry.get("content")) for entry in self.manifest["file_list"])
@@ -581,7 +588,8 @@ class Capsule:
             (self.root / "viewer/resources.html").write_text(render_catalog(catalog, resource_checks), encoding="utf-8")
         from tumbler_viewer import load_tumbler_assets
         tumbler = load_tumbler_assets(self.root)
-        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks, catalog, resource_checks, tumbler), encoding="utf-8")
+        profile_data = read_json(self.root / "parsed/profile.json", {})
+        (self.root / "viewer/index.html").write_text(render_viewer(self.manifest, rows, checks, catalog, resource_checks, tumbler, profile_data), encoding="utf-8")
         (self.root / "reports/backup-report.html").write_text(render_report(self.manifest, rows, checks), encoding="utf-8")
         self.log(f"离线档案已生成：{self.root / 'viewer/index.html'}")
 

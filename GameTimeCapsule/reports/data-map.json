@@ -17,19 +17,19 @@
   },
   {
     "item": "用户 UID",
-    "found": "未验证",
-    "location": "游戏内页面（待人工确认）",
-    "backup": "未保存",
-    "classification": "当前无法判断",
-    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+    "found": "4345023",
+    "location": "parsed/profile.json",
+    "backup": "已保存",
+    "classification": "用户本人提供",
+    "note": "用户本人确认；不是从游戏私有存档读取。"
   },
   {
     "item": "昵称",
-    "found": "未验证",
-    "location": "游戏内页面（待人工确认）",
-    "backup": "未保存",
-    "classification": "当前无法判断",
-    "note": "私有存档未读取；若游戏内可见，可截图补全。不能由缓存图片推断解锁状态或服务端记录。"
+    "found": "土特产代购",
+    "location": "parsed/profile.json",
+    "backup": "已保存",
+    "classification": "用户本人提供",
+    "note": "用户本人确认；不是从游戏私有存档读取。"
   },
   {
     "item": "明信片记录",

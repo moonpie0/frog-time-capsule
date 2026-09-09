@@ -44,10 +44,9 @@ $('image-count').textContent = files.length;
 $('screen-count').textContent = files.filter(predicates.screenshots).length;
 $('size').textContent = sizeText(files.reduce((size, file) => size + file.file_size, 0));
 $('day').textContent = manifest.backup_time.slice(0, 10);
-const captions = [...new Set(files.map(file => meta(file).caption).filter(Boolean))];
 const profile = element('table');
-for (const [label, value] of [['游戏', manifest.game_name], ['版本', manifest.game_version], ['UID', '未取得'], ['账号昵称', '未确认'],
-  ['图片署名', captions.join('、') || '未确认'], ['设备', manifest.device_model], ['备份日期', displayDate(manifest.backup_time)]]) {
+for (const [label, value] of [['游戏', manifest.game_name], ['版本', manifest.game_version], ['用户 ID', profileData.uid || '未取得'], ['账号名', profileData.nickname || '未确认'],
+  ['设备', manifest.device_model], ['备份日期', displayDate(manifest.backup_time)]]) {
   const tr = element('tr');
   tr.append(element('td', label), element('td', value || '未确认'));
   profile.append(tr);
