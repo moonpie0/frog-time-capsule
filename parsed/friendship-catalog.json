@@ -432,9 +432,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_1.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "not_obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_101_png",
@@ -448,9 +449,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_101.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_102_png",
@@ -464,9 +466,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_102.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_103_png",
@@ -480,9 +483,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_103.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_104_png",
@@ -496,9 +500,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_104.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_105_png",
@@ -512,9 +517,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_105.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_2_png",
@@ -528,9 +534,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_2.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_201_png",
@@ -544,9 +551,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_201.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_202_png",
@@ -560,9 +568,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_202.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "not_obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_203_png",
@@ -576,9 +585,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_203.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_204_png",
@@ -592,9 +602,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_204.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_3_png",
@@ -608,9 +619,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_3.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "not_obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_301_png",
@@ -624,9 +636,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_301.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_302_png",
@@ -640,9 +653,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_302.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_303_png",
@@ -656,9 +670,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_303.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_304_png",
@@ -672,9 +687,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_304.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_305_png",
@@ -688,9 +704,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_305.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_306_png",
@@ -704,9 +721,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_306.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_307_png",
@@ -720,9 +738,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_307.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_308_png",
@@ -736,9 +755,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_308.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_4_png",
@@ -752,9 +772,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_4.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_icon_5_png",
@@ -768,9 +789,10 @@
       "source_member": "assets/game/resource/China/texture/drawing/draw_icon_5.png",
       "source_kind": "bundled_apk",
       "resource_version": "APK 1.0.20",
-      "ownership": "unknown",
+      "ownership": "not_obtained",
       "title": null,
-      "description": null
+      "description": null,
+      "ownership_source": "user_confirmed"
     },
     {
       "id": "draw_paper_1_png",
@@ -1660,7 +1682,7 @@
       "state",
       "show_coll"
     ],
-    "notes": "绘本获得状态由本人确认；其他账号记录尚未取得，未请求或读取账号响应。"
+    "notes": "绘本与藏品获得状态按本人确认记录；其他账号记录尚未取得，未请求或读取账号响应。"
   },
   "authors": [
     {
@@ -1690,6 +1712,13 @@
     "total": 21,
     "obtained": 19,
     "not_obtained": 2,
+    "unknown": 0
+  },
+  "gift_ownership": {
+    "source": "user_confirmed",
+    "total": 22,
+    "obtained": 18,
+    "not_obtained": 4,
     "unknown": 0
   }
 }
