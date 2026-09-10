@@ -4,11 +4,11 @@
   "generated_at": "2026-09-10T11:30:34+08:00",
   "location_count": 144,
   "location_postcard_count": 564,
-  "special_count": 171,
+  "special_count": 177,
   "normal_category_count": 19,
   "normal_scene_count": 39,
   "normal_asset_count": 256,
-  "postcard_count": 774,
+  "postcard_count": 780,
   "fixed_location_count": 4,
   "coordinate_rule": {
     "origin": "canvas center",
@@ -83,7 +83,7 @@
     },
     {
       "key": "g_tw_kending",
-      "name": "台湾垦丁",
+      "name": "台湾·垦丁",
       "order": 9,
       "location_count": 3
     },
@@ -2005,7 +2005,7 @@
       "internal_name": "tw_kending1",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 0,
       "picture_type": "Goal",
@@ -2050,7 +2050,7 @@
       "internal_name": "tw_lanyu",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 1,
       "picture_type": "Goal",
@@ -2095,7 +2095,7 @@
       "internal_name": "tw_zuinandian",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 2,
       "picture_type": "Goal",
@@ -8495,17 +8495,257 @@
       "kind": "special",
       "picture_id": 3061,
       "internal_name": "maple",
-      "title": "maple",
-      "title_status": "内部资源名，正式标题未确认",
+      "title": "枫叶",
+      "title_status": "可确认的描述性名称",
       "order": 61,
-      "path": "media/special-postcards/3061_u_maple.png",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/special-postcards/3061_maple/solo.png",
       "width": 500,
       "height": 350,
-      "file_size": 148230,
-      "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+      "file_size": 228368,
+      "sha256": "55d751224dd2bf7bc6d5b8146e3acff84e910cfb52b94b9530533f479d3994e2",
       "source_asset": "u_maple.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_maple.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "u_maple_qw.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "936ef811d38ef1a37ce8adc025c0798e7530ec4fdca2dbd6f27bf0e642ae67c4",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
       "picture_type": "Unique",
-      "ownership_status": "静态资源，不代表账号已拥有"
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3061_u_maple.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 148230,
+        "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
+    },
+    {
+      "kind": "special",
+      "picture_id": 3061,
+      "internal_name": "maple",
+      "title": "枫叶",
+      "title_status": "可确认的描述性名称",
+      "order": 61,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/special-postcards/3061_maple/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 232865,
+      "sha256": "14978c31949be8a890e5e1a3565a79f3e0b6d8c9ec6d10e3da1f125dcbcc999b",
+      "source_asset": "u_maple.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_maple.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙 + 壁虎组合层",
+          "source_asset": "u_maple_bh.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f77d3db2c9d483247c5f064e9dfa867e1b43b350f3396cbeb0a69a4c430885d3",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "picture_type": "Unique",
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3061_u_maple.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 148230,
+        "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
+    },
+    {
+      "kind": "special",
+      "picture_id": 3061,
+      "internal_name": "maple",
+      "title": "枫叶",
+      "title_status": "可确认的描述性名称",
+      "order": 61,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/special-postcards/3061_maple/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 232851,
+      "sha256": "3df5c61c1aa45df8d4a27b5ed4519180591c1f1c73e35c9dd6ea8d00e6f6d79d",
+      "source_asset": "u_maple.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_maple.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙 + 刺猬组合层",
+          "source_asset": "u_maple_cw.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "803368262606e05ddee7f21ead6617527a8b8272b4fd61b9ca1b6ebc57ff6c7b",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "picture_type": "Unique",
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3061_u_maple.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 148230,
+        "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
+    },
+    {
+      "kind": "special",
+      "picture_id": 3061,
+      "internal_name": "maple",
+      "title": "枫叶",
+      "title_status": "可确认的描述性名称",
+      "order": 61,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/special-postcards/3061_maple/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 234554,
+      "sha256": "46c1240d78ff3dba010b216dada2cdbbb8694998e0d7ca8daf40ca4bbe1b621f",
+      "source_asset": "u_maple.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_maple.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙 + 萤火虫组合层",
+          "source_asset": "u_maple_yhc.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "4472d383ed5311ae266a486896dd664f87e9c8bc519c6972910a56b9c248e73a",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "picture_type": "Unique",
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3061_u_maple.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 148230,
+        "sha256": "9e7a92ff596ce868b5826998ddda534664984e03427aece35b5df0a0158b1911",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
     },
     {
       "kind": "special",
@@ -10154,17 +10394,257 @@
       "kind": "special",
       "picture_id": 3085,
       "internal_name": "yuanyang",
-      "title": "yuanyang",
-      "title_status": "内部资源名，正式标题未确认",
+      "title": "鸳鸯",
+      "title_status": "可确认的描述性名称",
       "order": 85,
-      "path": "media/special-postcards/3085_u_yuanyang.png",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/special-postcards/3085_yuanyang/solo.png",
       "width": 500,
       "height": 350,
-      "file_size": 170847,
-      "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+      "file_size": 175448,
+      "sha256": "6d6f11f2213b2b1b730650be4b2e43a92ceb424985e1c06d45edce5554426df5",
       "source_asset": "u_yuanyang.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_yuanyang.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "u_yuanyang_qw.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "8a32eb395ac1ef9dab150672b9589deec1b95b86dba2cb64ffbc78a156faef2d",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
       "picture_type": "Unique",
-      "ownership_status": "静态资源，不代表账号已拥有"
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3085_u_yuanyang.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 170847,
+        "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
+    },
+    {
+      "kind": "special",
+      "picture_id": 3085,
+      "internal_name": "yuanyang",
+      "title": "鸳鸯",
+      "title_status": "可确认的描述性名称",
+      "order": 85,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/special-postcards/3085_yuanyang/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 178839,
+      "sha256": "e14e2f1fe017ed223e7e558189b0eaaf75f68307bc83030a406b36281561648d",
+      "source_asset": "u_yuanyang.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_yuanyang.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙 + 壁虎组合层",
+          "source_asset": "u_yuanyang_bh.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "16c18c2cb4309ca265e6377a6bb891b58be91b4f5177dafa8c7089078bb6bcf6",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "picture_type": "Unique",
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3085_u_yuanyang.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 170847,
+        "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
+    },
+    {
+      "kind": "special",
+      "picture_id": 3085,
+      "internal_name": "yuanyang",
+      "title": "鸳鸯",
+      "title_status": "可确认的描述性名称",
+      "order": 85,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/special-postcards/3085_yuanyang/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 178653,
+      "sha256": "23bc58a5190c2934a7bc3fed8d47a940eb50bb375d83a4ee16b3140b5b4838bd",
+      "source_asset": "u_yuanyang.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_yuanyang.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙 + 刺猬组合层",
+          "source_asset": "u_yuanyang_cw.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "514b54129ddf2bdd6a0ef35e243c949b4a8d88afd96d8055fb31bb772a17351d",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "picture_type": "Unique",
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3085_u_yuanyang.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 170847,
+        "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
+    },
+    {
+      "kind": "special",
+      "picture_id": 3085,
+      "internal_name": "yuanyang",
+      "title": "鸳鸯",
+      "title_status": "可确认的描述性名称",
+      "order": 85,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/special-postcards/3085_yuanyang/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 180082,
+      "sha256": "0afbaa4d7565d4e1125dc1f1ef5632e598d72468b80cf998a7435881a07730a2",
+      "source_asset": "u_yuanyang.png",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "u_yuanyang.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+          "rendered_size": [
+            500,
+            350
+          ]
+        },
+        {
+          "role": "青蛙 + 萤火虫组合层",
+          "source_asset": "u_yuanyang_yhc.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "0c10b241b4a8aef8ccd3acada8c881393c4865ba52a6bc291ad89bfac64840d1",
+          "config_position": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "picture_type": "Unique",
+      "ownership_status": "静态资源组合，不代表账号已拥有",
+      "background": {
+        "path": "media/special-postcards/3085_u_yuanyang.png",
+        "width": 500,
+        "height": 350,
+        "file_size": 170847,
+        "sha256": "71e5e89df8e060fc6515f62ab6f5d8c3c285886194d80bf9564217c22bbfe943",
+        "role": "无角色底图",
+        "displayed_in_postcards": false
+      }
     },
     {
       "kind": "special",
@@ -29891,7 +30371,7 @@
       "location": "台湾·垦丁·帆船石",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 0,
       "picture_type": "Goal",
@@ -29949,7 +30429,7 @@
       "location": "台湾·垦丁·帆船石",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 0,
       "picture_type": "Goal",
@@ -30025,7 +30505,7 @@
       "location": "台湾·垦丁·帆船石",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 0,
       "picture_type": "Goal",
@@ -30101,7 +30581,7 @@
       "location": "台湾·垦丁·帆船石",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 0,
       "picture_type": "Goal",
@@ -30177,7 +30657,7 @@
       "location": "台湾·垦丁·兰屿",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 1,
       "picture_type": "Goal",
@@ -30235,7 +30715,7 @@
       "location": "台湾·垦丁·兰屿",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 1,
       "picture_type": "Goal",
@@ -30311,7 +30791,7 @@
       "location": "台湾·垦丁·兰屿",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 1,
       "picture_type": "Goal",
@@ -30387,7 +30867,7 @@
       "location": "台湾·垦丁·兰屿",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 1,
       "picture_type": "Goal",
@@ -30463,7 +30943,7 @@
       "location": "台湾·垦丁·最南点",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 2,
       "picture_type": "Goal",
@@ -30521,7 +31001,7 @@
       "location": "台湾·垦丁·最南点",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 2,
       "picture_type": "Goal",
@@ -30597,7 +31077,7 @@
       "location": "台湾·垦丁·最南点",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 2,
       "picture_type": "Goal",
@@ -30673,7 +31153,7 @@
       "location": "台湾·垦丁·最南点",
       "place_id": 10,
       "region_key": "g_tw_kending",
-      "region_name": "台湾垦丁",
+      "region_name": "台湾·垦丁",
       "region_order": 9,
       "location_order": 2,
       "picture_type": "Goal",

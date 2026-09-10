@@ -1,11 +1,34 @@
 {
   "version": 3,
   "anchors": {
-    "202": {"chuisihaitang_mt_pose_qw": "bottom", "chuisihaitang_mt_pose_bh": "bottom", "chuisihaitang_mt_pose_cw": "bottom", "chuisihaitang_mt_pose_yhc": "bottom"},
-    "203": {"chuisihaitang_mt_pose_qw": "bottom", "chuisihaitang_mt_pose_bh": "bottom", "chuisihaitang_mt_pose_cw": "bottom", "chuisihaitang_mt_pose_yhc": "bottom"},
-    "204": {"chuisihaitang_mt_pose_qw": "bottom", "chuisihaitang_mt_pose_bh": "bottom", "chuisihaitang_mt_pose_cw": "bottom", "chuisihaitang_mt_pose_yhc": "bottom"},
-    "107": {"bamboo_back01": "top", "bamboo_mid01": "top", "bamboo_front01": "top"},
-    "108": {"bamboo_back02": "top", "bamboo_mid02": "top", "bamboo_front02": "top"}
+    "202": {
+      "chuisihaitang_mt_pose_qw": "bottom",
+      "chuisihaitang_mt_pose_bh": "bottom",
+      "chuisihaitang_mt_pose_cw": "bottom",
+      "chuisihaitang_mt_pose_yhc": "bottom"
+    },
+    "203": {
+      "chuisihaitang_mt_pose_qw": "bottom",
+      "chuisihaitang_mt_pose_bh": "bottom",
+      "chuisihaitang_mt_pose_cw": "bottom",
+      "chuisihaitang_mt_pose_yhc": "bottom"
+    },
+    "204": {
+      "chuisihaitang_mt_pose_qw": "bottom",
+      "chuisihaitang_mt_pose_bh": "bottom",
+      "chuisihaitang_mt_pose_cw": "bottom",
+      "chuisihaitang_mt_pose_yhc": "bottom"
+    },
+    "107": {
+      "bamboo_back01": "top",
+      "bamboo_mid01": "top",
+      "bamboo_front01": "top"
+    },
+    "108": {
+      "bamboo_back02": "top",
+      "bamboo_mid02": "top",
+      "bamboo_front02": "top"
+    }
   },
   "coordinate_status": "依据原始素材的可见脚底与承托面人工校准；不是服务器返回的照片坐标。",
   "placements": {
@@ -47,6 +70,293 @@
     }
   },
   "compositions": [
+    {
+      "picture_id": 3201,
+      "internal_name": "back_u_lanhuateng",
+      "name": "蓝花藤 · 站桩",
+      "category_key": "n_lanhuateng",
+      "category_name": "蓝花藤",
+      "random_set": false,
+      "source_type": "Unique",
+      "source_picture_config": {
+        "backImage": [
+          "lanhuateng_back",
+          "lanhuateng_mid",
+          "lanhuateng_rail_ts"
+        ],
+        "effect": "FLOWER",
+        "frogPos": {
+          "x": 75,
+          "y": 28
+        },
+        "frogPos_s": {
+          "x": 75,
+          "y": 28
+        },
+        "frogPose": "pose_lanhuateng",
+        "frogPose_s": "pose_lanhuateng",
+        "frontImage": [
+          "lanhuateng_front"
+        ],
+        "id": 3201,
+        "location": "",
+        "name": "back_u_lanhuateng",
+        "priority": true,
+        "randomSet": false,
+        "share": 2,
+        "travelerPos": [
+          {
+            "x": -153,
+            "y": -84
+          },
+          {
+            "x": 2,
+            "y": -78
+          },
+          {
+            "x": -52,
+            "y": 91
+          }
+        ],
+        "travelerPose": [
+          "pose_lanhuateng",
+          "pose_lanhuateng",
+          "pose_lanhuateng"
+        ],
+        "type": "Unique",
+        "view": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "reference_calibrated": true,
+      "coordinate_status": "Unique 3201 角色位置使用原配置换算；站桩栏杆以原尺寸铺满画布，花藤水平取景为编辑器预设，尚未取得服务器最终 layers。",
+      "ownership_status": "客户端静态配置与截图构图，不代表本人账号已拥有。",
+      "available_roles": [
+        "solo",
+        "bh",
+        "cw",
+        "yhc"
+      ],
+      "role_variants": [
+        {
+          "id": "solo",
+          "label": "青蛙单人",
+          "layers": [
+            {
+              "source_name": "lanhuateng_pose_qw",
+              "choices": [
+                "lanhuateng_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": 75,
+                "y": 28
+              },
+              "position_source": "frogPos_s"
+            }
+          ]
+        },
+        {
+          "id": "bh",
+          "label": "青蛙 + 壁虎",
+          "layers": [
+            {
+              "source_name": "lanhuateng_pose_qw",
+              "choices": [
+                "lanhuateng_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": 75,
+                "y": 28
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "lanhuateng_pose_bh",
+              "choices": [
+                "lanhuateng_pose_bh"
+              ],
+              "role": "壁虎",
+              "locked": true,
+              "position": {
+                "x": -153,
+                "y": -84
+              },
+              "position_source": "travelerPos[0]"
+            }
+          ]
+        },
+        {
+          "id": "cw",
+          "label": "青蛙 + 刺猬",
+          "layers": [
+            {
+              "source_name": "lanhuateng_pose_qw",
+              "choices": [
+                "lanhuateng_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": 75,
+                "y": 28
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "lanhuateng_pose_cw",
+              "choices": [
+                "lanhuateng_pose_cw"
+              ],
+              "role": "刺猬",
+              "locked": true,
+              "position": {
+                "x": 2,
+                "y": -78
+              },
+              "position_source": "travelerPos[1]"
+            }
+          ]
+        },
+        {
+          "id": "yhc",
+          "label": "青蛙 + 萤火虫",
+          "layers": [
+            {
+              "source_name": "lanhuateng_pose_qw",
+              "choices": [
+                "lanhuateng_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": 75,
+                "y": 28
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "lanhuateng_pose_yhc",
+              "choices": [
+                "lanhuateng_pose_yhc"
+              ],
+              "role": "萤火虫",
+              "locked": true,
+              "position": {
+                "x": -52,
+                "y": 91
+              },
+              "position_source": "travelerPos[2]"
+            }
+          ]
+        }
+      ],
+      "random_group": "bluevine-posts",
+      "randomize_in_place": true,
+      "editor_placements": {},
+      "background_layers": [
+        {
+          "source_name": "lanhuateng_back",
+          "choices": [
+            "lanhuateng_back"
+          ],
+          "role": "背景",
+          "locked": true,
+          "placement": {
+            "x": -250,
+            "y": 0,
+            "scale": 1
+          }
+        },
+        {
+          "source_name": "lanhuateng_mid",
+          "choices": [
+            "lanhuateng_mid"
+          ],
+          "role": "后方花藤",
+          "placement": {
+            "x": -250,
+            "y": 0,
+            "scale": 1
+          },
+          "random_x": [
+            -500,
+            0
+          ]
+        },
+        {
+          "source_name": "lanhuateng_rail_ts",
+          "choices": [
+            "lanhuateng_rail_ts"
+          ],
+          "role": "站桩栏杆",
+          "locked": true,
+          "placement": {
+            "x": 0,
+            "y": 0,
+            "scale": 1
+          }
+        }
+      ],
+      "foreground_layers": [
+        {
+          "source_name": "lanhuateng_front",
+          "choices": [
+            "lanhuateng_front"
+          ],
+          "role": "前方花藤",
+          "placement": {
+            "x": -250,
+            "y": 0,
+            "scale": 1
+          },
+          "random_x": [
+            -500,
+            0
+          ]
+        }
+      ],
+      "editor_anchors": {
+        "lanhuateng_mid": "top",
+        "lanhuateng_front": "top"
+      },
+      "asset_mapping": {
+        "lanhuateng_back": "lanhuateng_back",
+        "lanhuateng_mid": "lanhuateng_mid",
+        "lanhuateng_rail_ts": "lanhuateng_rail_ts",
+        "lanhuateng_front": "lanhuateng_front"
+      },
+      "resource_ids": {
+        "lanhuateng_back": [
+          "963"
+        ],
+        "lanhuateng_front": [
+          "965"
+        ],
+        "lanhuateng_mid": [
+          "964"
+        ],
+        "lanhuateng_pose_bh": [
+          "969"
+        ],
+        "lanhuateng_pose_cw": [
+          "970"
+        ],
+        "lanhuateng_pose_qw": [
+          "968"
+        ],
+        "lanhuateng_pose_yhc": [
+          "971"
+        ],
+        "lanhuateng_rail_ts": [
+          "967"
+        ]
+      }
+    },
     {
       "picture_id": 3202,
       "internal_name": "back_u_chuisihaitang",
@@ -1168,6 +1478,9 @@
     },
     "204": {
       "random_group": "begonia-stump"
+    },
+    "201": {
+      "random_group": "bluevine-normal"
     }
   }
 }

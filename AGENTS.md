@@ -1,33 +1,33 @@
-# Viewer Maintenance
+# Viewer 维护说明
 
-## Scope and Sources
+## 范围与源码
 
-- This directory is the publishable Git repository for a personal offline game archive.
-- Before changing the Viewer UI, read `VIEWER-UI-STANDARD.md`. Use the existing tumbler and regular-postcard editors as the reference.
-- In the local workspace, generator sources live one directory above this repository: `../viewer_template.py`, `../goal_postcards_viewer.py`, `../goal_postcards_app.js`, `../tumbler_viewer.py`, and `../tumbler_app.js`.
-- Change the relevant generator source and regenerate the output. Do not make a fix only in generated `viewer/index.html` when the generator is available. A standalone checkout may not contain these parent-directory tools; report that limitation accurately.
-- From the parent workspace, regenerate with `python capsule.py generate --output GameTimeCapsule`, using the available Python environment with Pillow.
+- 本目录是个人离线游戏纪念档案用于发布的 Git 仓库。
+- 修改 Viewer 界面前，先阅读 `VIEWER-UI-STANDARD.md`，以现有不倒翁和常规明信片编辑器为参照。
+- 在本地工作区中，生成器源码位于仓库的上一级目录：`../viewer_template.py`、`../goal_postcards_viewer.py`、`../goal_postcards_app.js`、`../tumbler_viewer.py` 和 `../tumbler_app.js`。
+- 应修改对应生成器源码，再重新生成页面。生成器可用时，不要只修改生成后的 `viewer/index.html`。单独克隆的仓库可能不包含上级目录中的工具，遇到这种情况应如实说明。
+- 在上一级工作区中，使用已安装 Pillow 的 Python 环境运行 `python capsule.py generate --output GameTimeCapsule`，重新生成页面。
 
-## UI Rules
+## 界面规则
 
-- Image-list search, filter, and sorting controls go on the right of the toolbar, with any list title on the left. Reuse the owned-tumbler view's global input and responsive toolbar styles.
-- Category tabs wrap horizontally. Counts use a separate small, muted span without parentheses.
-- Composer pages use a preview on the left and thumbnail selectors on the right. Randomize and Save PNG sit at the far right of the material-category toolbar, outside the tablist, and wrap together on narrow screens.
-- Keep undo, redo, and reset under the preview. Selecting an editable layer reveals inline sliders; do not add a separate manual-adjustment button.
-- Respect the documented fixed and horizontal-only layers during initialization, selection, randomization, history, local-storage migration, and export. Show only permitted controls.
-- Keep layout dimensions stable and prevent text overlap or horizontal overflow. Match existing styles rather than adding another visual system.
+- 图片列表的搜索、筛选和排序控件放在工具栏右侧；有列表标题时，标题放在左侧。复用“不倒翁 > 我的收藏”使用的全局输入框样式和响应式工具栏布局。
+- 分类标签横向排列并允许换行。数量使用独立的小号浅色 `span`，不加括号。
+- 拼装页面左侧为预览，右侧为缩略图选择器。“随机组合”和“保存 PNG”放在素材分类工具栏最右侧、`tablist` 外部，窄屏下作为一组换行。
+- 撤销、重做和复位放在预览下方。选中可编辑图层后显示内嵌滑块，不增加独立的“手动调整”按钮。
+- 初始化、选择素材、随机组合、历史恢复、本地存储迁移和导出都必须遵守文档规定的固定图层、仅横向移动图层约束，只显示允许使用的控件。
+- 保持布局尺寸稳定，避免文字重叠和横向溢出，沿用已有视觉样式，不另建一套界面风格。
 
-## Data and Offline Behavior
+## 数据与离线使用
 
-- Preserve original artwork and backup files. Store composition corrections separately in `parsed/normal-postcard-layouts.json`; do not overwrite source game coordinates.
-- Distinguish recovered configuration, screenshot-based placement, and account ownership. Do not infer ownership or claim unverified placement rules come from the game.
-- Keep the Viewer usable through `file://`, with local assets and offline PNG export. Do not introduce a server, remote fonts, analytics, or CDN dependencies.
-- System backup packages, authentication data, and local audit files do not belong in this public repository. Keep those in the outer workspace.
+- 保留原始图片和备份文件。构图修正单独存入 `parsed/normal-postcard-layouts.json`，不要覆盖游戏原始坐标。
+- 区分恢复出的配置、依据截图校准的位置和账号拥有情况。不要推断拥有状态，也不要把未经验证的位置规则说成游戏原有规则。
+- 保持 Viewer 能通过 `file://` 打开，使用本地素材并支持离线 PNG 导出。不要引入服务器、远程字体、统计追踪或 CDN 依赖。
+- 系统备份整包、认证数据和本地检查文件不放入这个公开仓库，保留在外层工作区。
 
-## Verification
+## 检查要求
 
-- Check affected views using Playwright at desktop width and 390px mobile width, including screenshots and actual interactions.
-- For search/filter edits, verify right alignment, clearing searches, combined filters, empty results, and no overflow.
-- For composition edits, verify nonblank rendered images, affected layer constraints, history, storage migration when changed, and real PNG downloads at the documented dimensions.
-- Run checks appropriate to the changed behavior. Existing local verification scripts live under `../_local_backup_audit/` when the complete workspace is available.
-- Update `VIEWER-UI-STANDARD.md` when the user changes a shared UI rule. Do not commit, push, or publish unless requested.
+- 使用 Playwright 在桌面宽度和 390px 手机宽度下检查受影响页面，包含截图检查和实际交互。
+- 修改搜索或筛选时，检查右对齐、清空搜索、组合筛选、无结果状态及是否溢出。
+- 修改拼装功能时，检查图片渲染非空、相关图层约束、历史恢复，以及涉及改动时的本地存储迁移；实际下载 PNG 并确认尺寸符合规范。
+- 按改动范围运行相关检查。完整本地工作区中的已有验证脚本位于 `../_local_backup_audit/`。
+- 用户修改通用界面规则时，同步更新 `VIEWER-UI-STANDARD.md`。未经用户要求，不提交、推送或发布。
