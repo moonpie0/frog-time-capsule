@@ -1,0 +1,1173 @@
+{
+  "version": 3,
+  "anchors": {
+    "202": {"chuisihaitang_mt_pose_qw": "bottom", "chuisihaitang_mt_pose_bh": "bottom", "chuisihaitang_mt_pose_cw": "bottom", "chuisihaitang_mt_pose_yhc": "bottom"},
+    "203": {"chuisihaitang_mt_pose_qw": "bottom", "chuisihaitang_mt_pose_bh": "bottom", "chuisihaitang_mt_pose_cw": "bottom", "chuisihaitang_mt_pose_yhc": "bottom"},
+    "204": {"chuisihaitang_mt_pose_qw": "bottom", "chuisihaitang_mt_pose_bh": "bottom", "chuisihaitang_mt_pose_cw": "bottom", "chuisihaitang_mt_pose_yhc": "bottom"},
+    "107": {"bamboo_back01": "top", "bamboo_mid01": "top", "bamboo_front01": "top"},
+    "108": {"bamboo_back02": "top", "bamboo_mid02": "top", "bamboo_front02": "top"}
+  },
+  "coordinate_status": "依据原始素材的可见脚底与承托面人工校准；不是服务器返回的照片坐标。",
+  "placements": {
+    "201": {
+      "lanhuateng_pose_qw": {
+        "y": 209
+      },
+      "lanhuateng_pose_bh": {
+        "y": 208
+      },
+      "lanhuateng_pose_cw": {
+        "y": 208
+      }
+    },
+    "206": {
+      "fenglingmu_h_mid_2": {
+        "y": 226
+      },
+      "fenglingmu_pose_qw": {
+        "y": 226
+      },
+      "fenglingmu_pose_bh_h": {
+        "y": 234
+      },
+      "fenglingmu_pose_cw_h": {
+        "y": 233
+      }
+    },
+    "207": {
+      "fenglingmu_pose_qw": {
+        "y": 207
+      },
+      "fenglingmu_pose_bh_z": {
+        "y": 232
+      },
+      "fenglingmu_pose_cw_z": {
+        "y": 235
+      }
+    }
+  },
+  "compositions": [
+    {
+      "picture_id": 3202,
+      "internal_name": "back_u_chuisihaitang",
+      "name": "垂丝海棠 · 橘猫",
+      "category_key": "n_chuisihaitang",
+      "category_name": "垂丝海棠",
+      "random_set": false,
+      "source_type": "Unique",
+      "source_picture_config": {
+        "backImage": [
+          "chuisihaitang_back",
+          "chuisihaitang_mid_1",
+          "chuisihaitang_mid_2",
+          "chuisihaitang_mid"
+        ],
+        "effect": "FLOWER",
+        "frogPos": {
+          "x": -10,
+          "y": -4
+        },
+        "frogPos_s": {
+          "x": -10,
+          "y": -4
+        },
+        "frogPose": "pose_chuisihaitang",
+        "frogPose_s": "pose_chuisihaitang",
+        "frontImage": [
+          "chuisihaitang_front"
+        ],
+        "id": 3202,
+        "location": "",
+        "name": "back_u_chuisihaitang",
+        "priority": false,
+        "randomSet": false,
+        "share": 2,
+        "travelerPos": [
+          {
+            "x": -55,
+            "y": -33
+          },
+          {
+            "x": -22,
+            "y": -95
+          },
+          {
+            "x": -92,
+            "y": 103
+          }
+        ],
+        "travelerPose": [
+          "pose_chuisihaitang",
+          "pose_chuisihaitang",
+          "pose_chuisihaitang"
+        ],
+        "type": "Unique",
+        "view": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "reference_calibrated": true,
+      "coordinate_status": "场景和角色配置已找到；画布换算与承托物位置结合用户截图校准，尚未取得服务器最终 layers。",
+      "ownership_status": "客户端静态配置与截图构图，不代表本人账号已拥有。",
+      "available_roles": [
+        "solo",
+        "bh",
+        "cw",
+        "yhc"
+      ],
+      "role_variants": [
+        {
+          "id": "solo",
+          "label": "青蛙单人",
+          "layers": [
+            {
+              "source_name": "chuisihaitang_pose_qw",
+              "choices": [
+                "chuisihaitang_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -10,
+                "y": -4
+              },
+              "position_source": "frogPos_s"
+            }
+          ]
+        },
+        {
+          "id": "bh",
+          "label": "青蛙 + 壁虎",
+          "layers": [
+            {
+              "source_name": "chuisihaitang_pose_qw",
+              "choices": [
+                "chuisihaitang_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -10,
+                "y": -4
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "chuisihaitang_pose_bh",
+              "choices": [
+                "chuisihaitang_pose_bh"
+              ],
+              "role": "壁虎",
+              "locked": true,
+              "position": {
+                "x": -55,
+                "y": -33
+              },
+              "position_source": "travelerPos[0]"
+            }
+          ]
+        },
+        {
+          "id": "cw",
+          "label": "青蛙 + 刺猬",
+          "layers": [
+            {
+              "source_name": "chuisihaitang_pose_qw",
+              "choices": [
+                "chuisihaitang_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -10,
+                "y": -4
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "chuisihaitang_pose_cw",
+              "choices": [
+                "chuisihaitang_pose_cw"
+              ],
+              "role": "刺猬",
+              "locked": true,
+              "position": {
+                "x": -22,
+                "y": -95
+              },
+              "position_source": "travelerPos[1]"
+            }
+          ]
+        },
+        {
+          "id": "yhc",
+          "label": "青蛙 + 萤火虫",
+          "layers": [
+            {
+              "source_name": "chuisihaitang_pose_qw",
+              "choices": [
+                "chuisihaitang_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -10,
+                "y": -4
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "chuisihaitang_pose_yhc",
+              "choices": [
+                "chuisihaitang_pose_yhc"
+              ],
+              "role": "萤火虫",
+              "locked": true,
+              "position": {
+                "x": -92,
+                "y": 103
+              },
+              "position_source": "travelerPos[2]"
+            }
+          ]
+        }
+      ],
+      "random_group": "begonia-cat",
+      "randomize_in_place": true,
+      "editor_placements": {},
+      "background_layers": [
+        {
+          "source_name": "chuisihaitang_back",
+          "choices": [
+            "chuisihaitang_back"
+          ],
+          "role": "背景",
+          "locked": true,
+          "placement": {
+            "x": -300,
+            "y": 0,
+            "scale": 1
+          }
+        },
+        {
+          "source_name": "chuisihaitang_mid_1",
+          "choices": [
+            "chuisihaitang_mid_1"
+          ],
+          "role": "木板",
+          "locked": true,
+          "placement": {
+            "x": -300,
+            "y": 255,
+            "scale": 1
+          }
+        },
+        {
+          "source_name": "chuisihaitang_mid_2",
+          "choices": [
+            "chuisihaitang_mid_2"
+          ],
+          "role": "落花",
+          "placement": {
+            "x": -300,
+            "y": 100,
+            "scale": 1
+          },
+          "random_x": [
+            -550,
+            -80
+          ]
+        },
+        {
+          "source_name": "chuisihaitang_mid",
+          "choices": [
+            "chuisihaitang_mid"
+          ],
+          "role": "橘猫",
+          "locked": true,
+          "crop": [
+            0,
+            174,
+            360,
+            176
+          ],
+          "placement": {
+            "x": 100,
+            "y": 174,
+            "scale": 1
+          }
+        }
+      ],
+      "foreground_layers": [
+        {
+          "source_name": "chuisihaitang_mid",
+          "choices": [
+            "chuisihaitang_mid"
+          ],
+          "role": "海棠花",
+          "crop": [
+            0,
+            0,
+            360,
+            112
+          ],
+          "placement": {
+            "x": 100,
+            "y": 0,
+            "scale": 1
+          },
+          "random_x": [
+            -100,
+            220
+          ]
+        },
+        {
+          "source_name": "chuisihaitang_front",
+          "choices": [
+            "chuisihaitang_front"
+          ],
+          "role": "海棠花枝",
+          "placement": {
+            "x": -300,
+            "y": 0,
+            "scale": 1
+          },
+          "random_x": [
+            -550,
+            -80
+          ]
+        }
+      ],
+      "resource_ids": {
+        "chuisihaitang_back": [
+          "1011"
+        ],
+        "chuisihaitang_front": [
+          "1012"
+        ],
+        "chuisihaitang_mid": [
+          "1019"
+        ],
+        "chuisihaitang_mid_1": [
+          "1017"
+        ],
+        "chuisihaitang_mid_2": [
+          "1018"
+        ],
+        "chuisihaitang_pose_bh": [
+          "1025"
+        ],
+        "chuisihaitang_pose_cw": [
+          "1026"
+        ],
+        "chuisihaitang_pose_qw": [
+          "1024"
+        ],
+        "chuisihaitang_pose_yhc": [
+          "1027"
+        ]
+      }
+    },
+    {
+      "picture_id": 3203,
+      "internal_name": "back_u_mumianhua1",
+      "name": "木棉花 · 绣眼鸟1",
+      "category_key": "n_mumianhua",
+      "category_name": "木棉花",
+      "random_set": false,
+      "source_type": "Unique",
+      "source_picture_config": {
+        "backImage": [
+          "mumianhua_back",
+          "mumianhua_mid_1"
+        ],
+        "effect": "FLOWER",
+        "frogPos": {
+          "x": -28,
+          "y": 1
+        },
+        "frogPos_s": {
+          "x": -28,
+          "y": 1
+        },
+        "frogPose": "pose_mumianhua",
+        "frogPose_s": "pose_mumianhua",
+        "frontImage": [
+          "mumianhua_front_1"
+        ],
+        "id": 3203,
+        "location": "",
+        "name": "back_u_mumianhua1",
+        "priority": false,
+        "randomSet": false,
+        "share": 2,
+        "travelerPos": [
+          {
+            "x": 94,
+            "y": -14
+          },
+          {
+            "x": -148,
+            "y": -47
+          },
+          {
+            "x": 89,
+            "y": 111
+          }
+        ],
+        "travelerPose": [
+          "pose_mumianhua",
+          "pose_mumianhua",
+          "pose_mumianhua"
+        ],
+        "type": "Unique",
+        "view": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "reference_calibrated": true,
+      "coordinate_status": "场景和角色配置已找到；画布换算与承托物位置结合用户截图校准，尚未取得服务器最终 layers。",
+      "ownership_status": "客户端静态配置与截图构图，不代表本人账号已拥有。",
+      "available_roles": [
+        "solo",
+        "bh",
+        "cw",
+        "yhc"
+      ],
+      "role_variants": [
+        {
+          "id": "solo",
+          "label": "青蛙单人",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos_s"
+            }
+          ]
+        },
+        {
+          "id": "bh",
+          "label": "青蛙 + 壁虎",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_bh",
+              "choices": [
+                "mumianhua_pose_bh"
+              ],
+              "role": "壁虎",
+              "locked": true,
+              "position": {
+                "x": 94,
+                "y": -14
+              },
+              "position_source": "travelerPos[0]"
+            }
+          ]
+        },
+        {
+          "id": "cw",
+          "label": "青蛙 + 刺猬",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_cw",
+              "choices": [
+                "mumianhua_pose_cw"
+              ],
+              "role": "刺猬",
+              "locked": true,
+              "position": {
+                "x": -148,
+                "y": -47
+              },
+              "position_source": "travelerPos[1]"
+            }
+          ]
+        },
+        {
+          "id": "yhc",
+          "label": "青蛙 + 萤火虫",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_yhc",
+              "choices": [
+                "mumianhua_pose_yhc"
+              ],
+              "role": "萤火虫",
+              "locked": true,
+              "position": {
+                "x": 89,
+                "y": 111
+              },
+              "position_source": "travelerPos[2]"
+            }
+          ]
+        }
+      ],
+      "random_group": "mumianhua-birds",
+      "randomize_in_place": false,
+      "editor_placements": {},
+      "background_layers": [
+        {
+          "source_name": "mumianhua_back",
+          "choices": [
+            "mumianhua_back"
+          ],
+          "role": "背景",
+          "locked": true,
+          "placement": {
+            "x": 0,
+            "y": -200,
+            "scale": 1
+          }
+        },
+        {
+          "source_name": "mumianhua_xyn_mid1",
+          "choices": [
+            "mumianhua_xyn_mid1"
+          ],
+          "role": "树干与绣眼鸟",
+          "locked": true,
+          "placement": {
+            "x": 0,
+            "y": -180,
+            "scale": 1
+          }
+        }
+      ],
+      "foreground_layers": [
+        {
+          "source_name": "mumianhua_xyn_front1",
+          "choices": [
+            "mumianhua_xyn_front1"
+          ],
+          "role": "花枝与绣眼鸟",
+          "placement": {
+            "x": 369,
+            "y": 120,
+            "scale": 1
+          },
+          "random_x": [
+            340,
+            390
+          ]
+        }
+      ],
+      "asset_mapping": {
+        "mumianhua_back": "mumianhua_back",
+        "mumianhua_mid_1": "mumianhua_xyn_mid1",
+        "mumianhua_front_1": "mumianhua_xyn_front1"
+      },
+      "resource_ids": {
+        "mumianhua_back": [
+          "1064"
+        ],
+        "mumianhua_pose_bh": [
+          "1073"
+        ],
+        "mumianhua_pose_cw": [
+          "1074"
+        ],
+        "mumianhua_pose_qw": [
+          "1072"
+        ],
+        "mumianhua_pose_yhc": [
+          "1075"
+        ],
+        "mumianhua_xyn_front1": [
+          "1065"
+        ],
+        "mumianhua_xyn_mid1": [
+          "1069"
+        ]
+      }
+    },
+    {
+      "picture_id": 3204,
+      "internal_name": "back_u_mumianhua2",
+      "name": "木棉花 · 绣眼鸟2",
+      "category_key": "n_mumianhua",
+      "category_name": "木棉花",
+      "random_set": false,
+      "source_type": "Unique",
+      "source_picture_config": {
+        "backImage": [
+          "mumianhua_back",
+          "mumianhua_mid_2"
+        ],
+        "effect": "FLOWER",
+        "frogPos": {
+          "x": -28,
+          "y": 1
+        },
+        "frogPos_s": {
+          "x": -28,
+          "y": 1
+        },
+        "frogPose": "pose_mumianhua",
+        "frogPose_s": "pose_mumianhua",
+        "frontImage": [
+          "mumianhua_front_2"
+        ],
+        "id": 3204,
+        "location": "",
+        "name": "back_u_mumianhua2",
+        "priority": false,
+        "randomSet": false,
+        "share": 2,
+        "travelerPos": [
+          {
+            "x": 94,
+            "y": -14
+          },
+          {
+            "x": -148,
+            "y": -47
+          },
+          {
+            "x": 89,
+            "y": 111
+          }
+        ],
+        "travelerPose": [
+          "pose_mumianhua",
+          "pose_mumianhua",
+          "pose_mumianhua"
+        ],
+        "type": "Unique",
+        "view": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "reference_calibrated": true,
+      "coordinate_status": "场景和角色配置已找到；画布换算与承托物位置结合用户截图校准，尚未取得服务器最终 layers。",
+      "ownership_status": "客户端静态配置与截图构图，不代表本人账号已拥有。",
+      "available_roles": [
+        "solo",
+        "bh",
+        "cw",
+        "yhc"
+      ],
+      "role_variants": [
+        {
+          "id": "solo",
+          "label": "青蛙单人",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos_s"
+            }
+          ]
+        },
+        {
+          "id": "bh",
+          "label": "青蛙 + 壁虎",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_bh",
+              "choices": [
+                "mumianhua_pose_bh"
+              ],
+              "role": "壁虎",
+              "locked": true,
+              "position": {
+                "x": 94,
+                "y": -14
+              },
+              "position_source": "travelerPos[0]"
+            }
+          ]
+        },
+        {
+          "id": "cw",
+          "label": "青蛙 + 刺猬",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_cw",
+              "choices": [
+                "mumianhua_pose_cw"
+              ],
+              "role": "刺猬",
+              "locked": true,
+              "position": {
+                "x": -148,
+                "y": -47
+              },
+              "position_source": "travelerPos[1]"
+            }
+          ]
+        },
+        {
+          "id": "yhc",
+          "label": "青蛙 + 萤火虫",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_yhc",
+              "choices": [
+                "mumianhua_pose_yhc"
+              ],
+              "role": "萤火虫",
+              "locked": true,
+              "position": {
+                "x": 89,
+                "y": 111
+              },
+              "position_source": "travelerPos[2]"
+            }
+          ]
+        }
+      ],
+      "random_group": "mumianhua-birds",
+      "randomize_in_place": false,
+      "editor_placements": {},
+      "background_layers": [
+        {
+          "source_name": "mumianhua_back",
+          "choices": [
+            "mumianhua_back"
+          ],
+          "role": "背景",
+          "locked": true,
+          "placement": {
+            "x": 0,
+            "y": -200,
+            "scale": 1
+          }
+        },
+        {
+          "source_name": "mumianhua_xyn_mid2",
+          "choices": [
+            "mumianhua_xyn_mid2"
+          ],
+          "role": "树干与绣眼鸟",
+          "locked": true,
+          "placement": {
+            "x": 0,
+            "y": -180,
+            "scale": 1
+          }
+        }
+      ],
+      "foreground_layers": [
+        {
+          "source_name": "mumianhua_xyn_front2",
+          "choices": [
+            "mumianhua_xyn_front2"
+          ],
+          "role": "花枝与绣眼鸟",
+          "placement": {
+            "x": 395,
+            "y": 120,
+            "scale": 1
+          },
+          "random_x": [
+            340,
+            390
+          ]
+        }
+      ],
+      "asset_mapping": {
+        "mumianhua_back": "mumianhua_back",
+        "mumianhua_mid_2": "mumianhua_xyn_mid2",
+        "mumianhua_front_2": "mumianhua_xyn_front2"
+      },
+      "resource_ids": {
+        "mumianhua_back": [
+          "1064"
+        ],
+        "mumianhua_pose_bh": [
+          "1073"
+        ],
+        "mumianhua_pose_cw": [
+          "1074"
+        ],
+        "mumianhua_pose_qw": [
+          "1072"
+        ],
+        "mumianhua_pose_yhc": [
+          "1075"
+        ],
+        "mumianhua_xyn_front2": [
+          "1066"
+        ],
+        "mumianhua_xyn_mid2": [
+          "1070"
+        ]
+      }
+    },
+    {
+      "picture_id": 3205,
+      "internal_name": "back_u_mumianhua3",
+      "name": "木棉花 · 绣眼鸟3",
+      "category_key": "n_mumianhua",
+      "category_name": "木棉花",
+      "random_set": false,
+      "source_type": "Unique",
+      "source_picture_config": {
+        "backImage": [
+          "mumianhua_back",
+          "mumianhua_mid_3"
+        ],
+        "effect": "FLOWER",
+        "frogPos": {
+          "x": -28,
+          "y": 1
+        },
+        "frogPos_s": {
+          "x": -28,
+          "y": 1
+        },
+        "frogPose": "pose_mumianhua",
+        "frogPose_s": "pose_mumianhua",
+        "frontImage": [
+          "mumianhua_front_3"
+        ],
+        "id": 3205,
+        "location": "",
+        "name": "back_u_mumianhua3",
+        "priority": false,
+        "randomSet": false,
+        "share": 2,
+        "travelerPos": [
+          {
+            "x": 94,
+            "y": -14
+          },
+          {
+            "x": -148,
+            "y": -47
+          },
+          {
+            "x": 89,
+            "y": 111
+          }
+        ],
+        "travelerPose": [
+          "pose_mumianhua",
+          "pose_mumianhua",
+          "pose_mumianhua"
+        ],
+        "type": "Unique",
+        "view": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "reference_calibrated": true,
+      "coordinate_status": "场景和角色配置已找到；画布换算与承托物位置结合用户截图校准，尚未取得服务器最终 layers。",
+      "ownership_status": "客户端静态配置与截图构图，不代表本人账号已拥有。",
+      "available_roles": [
+        "solo",
+        "bh",
+        "cw",
+        "yhc"
+      ],
+      "role_variants": [
+        {
+          "id": "solo",
+          "label": "青蛙单人",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos_s"
+            }
+          ]
+        },
+        {
+          "id": "bh",
+          "label": "青蛙 + 壁虎",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_bh",
+              "choices": [
+                "mumianhua_pose_bh"
+              ],
+              "role": "壁虎",
+              "locked": true,
+              "position": {
+                "x": 94,
+                "y": -14
+              },
+              "position_source": "travelerPos[0]"
+            }
+          ]
+        },
+        {
+          "id": "cw",
+          "label": "青蛙 + 刺猬",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_cw",
+              "choices": [
+                "mumianhua_pose_cw"
+              ],
+              "role": "刺猬",
+              "locked": true,
+              "position": {
+                "x": -148,
+                "y": -47
+              },
+              "position_source": "travelerPos[1]"
+            }
+          ]
+        },
+        {
+          "id": "yhc",
+          "label": "青蛙 + 萤火虫",
+          "layers": [
+            {
+              "source_name": "mumianhua_pose_qw",
+              "choices": [
+                "mumianhua_pose_qw"
+              ],
+              "role": "青蛙",
+              "locked": true,
+              "position": {
+                "x": -28,
+                "y": 1
+              },
+              "position_source": "frogPos"
+            },
+            {
+              "source_name": "mumianhua_pose_yhc",
+              "choices": [
+                "mumianhua_pose_yhc"
+              ],
+              "role": "萤火虫",
+              "locked": true,
+              "position": {
+                "x": 89,
+                "y": 111
+              },
+              "position_source": "travelerPos[2]"
+            }
+          ]
+        }
+      ],
+      "random_group": "mumianhua-birds",
+      "randomize_in_place": false,
+      "editor_placements": {},
+      "background_layers": [
+        {
+          "source_name": "mumianhua_back",
+          "choices": [
+            "mumianhua_back"
+          ],
+          "role": "背景",
+          "locked": true,
+          "placement": {
+            "x": 0,
+            "y": -200,
+            "scale": 1
+          }
+        },
+        {
+          "source_name": "mumianhua_xyn_mid3",
+          "choices": [
+            "mumianhua_xyn_mid3"
+          ],
+          "role": "树干与绣眼鸟",
+          "locked": true,
+          "placement": {
+            "x": 0,
+            "y": -180,
+            "scale": 1
+          }
+        }
+      ],
+      "foreground_layers": [
+        {
+          "source_name": "mumianhua_xyn_front3",
+          "choices": [
+            "mumianhua_xyn_front3"
+          ],
+          "role": "花枝与绣眼鸟",
+          "placement": {
+            "x": 329,
+            "y": 120,
+            "scale": 1
+          },
+          "random_x": [
+            340,
+            390
+          ]
+        }
+      ],
+      "asset_mapping": {
+        "mumianhua_back": "mumianhua_back",
+        "mumianhua_mid_3": "mumianhua_xyn_mid3",
+        "mumianhua_front_3": "mumianhua_xyn_front3"
+      },
+      "resource_ids": {
+        "mumianhua_back": [
+          "1064"
+        ],
+        "mumianhua_pose_bh": [
+          "1073"
+        ],
+        "mumianhua_pose_cw": [
+          "1074"
+        ],
+        "mumianhua_pose_qw": [
+          "1072"
+        ],
+        "mumianhua_pose_yhc": [
+          "1075"
+        ],
+        "mumianhua_xyn_front3": [
+          "1067"
+        ],
+        "mumianhua_xyn_mid3": [
+          "1071"
+        ]
+      }
+    }
+  ],
+  "scene_aliases": {
+    "begonia-cat": 3202
+  },
+  "scene_settings": {
+    "202": {
+      "random_group": "begonia-stump"
+    },
+    "203": {
+      "random_group": "begonia-stump"
+    },
+    "204": {
+      "random_group": "begonia-stump"
+    }
+  }
+}
