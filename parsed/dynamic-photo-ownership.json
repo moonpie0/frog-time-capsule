@@ -1,0 +1,13 @@
+{
+  "source": "user_confirmed",
+  "confirmed_date": "2026-09-11",
+  "note": "本人确认动态照片仅拥有油菜花，其余均未拥有。",
+  "entries": {
+    "1": "not_obtained",
+    "2": "obtained",
+    "3": "not_obtained",
+    "4": "not_obtained",
+    "5": "not_obtained",
+    "6": "not_obtained"
+  }
+}

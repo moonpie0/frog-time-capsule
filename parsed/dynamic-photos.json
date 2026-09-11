@@ -1,0 +1,1847 @@
+{
+  "schema_version": 1,
+  "source": "Static client animation resources from the local MIUI backup and bundled APK",
+  "ownership": "unknown",
+  "scenes": [
+    {
+      "id": 1,
+      "label": "屋顶",
+      "picture_ids": [
+        100
+      ],
+      "phases": [
+        {
+          "exp": 50,
+          "layer": 1,
+          "phase": 1,
+          "spine": ""
+        },
+        {
+          "exp": 80,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_1_bg1"
+        },
+        {
+          "exp": 120,
+          "layer": 3,
+          "phase": 3,
+          "spine": "gif_1_bg2"
+        },
+        {
+          "exp": 150,
+          "layer": 4,
+          "phase": 4,
+          "spine": "gif_1_role_qw"
+        },
+        {
+          "exp": 180,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_1_role_bh"
+        },
+        {
+          "exp": 220,
+          "layer": 6,
+          "phase": 6,
+          "spine": "gif_1_role_yhc"
+        },
+        {
+          "exp": 0,
+          "layer": 7,
+          "phase": 7,
+          "spine": "gif_1_role_cw"
+        }
+      ],
+      "layers": [
+        {
+          "exp": 80,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_1_bg1",
+          "assets": [
+            "animation/gif_photo/gif_1/gif_1_bg1.json",
+            "animation/gif_photo/gif_1/gif_1_bg1.atlas",
+            "animation/gif_photo/gif_1/gif_1_bg1.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 16.6667
+          }
+        },
+        {
+          "exp": 120,
+          "layer": 3,
+          "phase": 3,
+          "spine": "gif_1_bg2",
+          "assets": [
+            "animation/gif_photo/gif_1/gif_1_bg2.json",
+            "animation/gif_photo/gif_1/gif_1_bg2.atlas",
+            "animation/gif_photo/gif_1/gif_1_bg2.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 16.6667
+          }
+        },
+        {
+          "exp": 150,
+          "layer": 4,
+          "phase": 4,
+          "spine": "gif_1_role_qw",
+          "assets": [
+            "animation/gif_photo/gif_1/gif_1_role_qw.json",
+            "animation/gif_photo/gif_1/gif_1_role_qw.atlas",
+            "animation/gif_photo/gif_1/gif_1_role_qw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 16.875
+          }
+        },
+        {
+          "exp": 180,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_1_role_bh",
+          "assets": [
+            "animation/gif_photo/gif_1/gif_1_role_bh.json",
+            "animation/gif_photo/gif_1/gif_1_role_bh.atlas",
+            "animation/gif_photo/gif_1/gif_1_role_bh.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 16.6667
+          }
+        },
+        {
+          "exp": 220,
+          "layer": 6,
+          "phase": 6,
+          "spine": "gif_1_role_yhc",
+          "assets": [
+            "animation/gif_photo/gif_1/gif_1_role_yhc.json",
+            "animation/gif_photo/gif_1/gif_1_role_yhc.atlas",
+            "animation/gif_photo/gif_1/gif_1_role_yhc.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 16.6667
+          }
+        },
+        {
+          "exp": 0,
+          "layer": 7,
+          "phase": 7,
+          "spine": "gif_1_role_cw",
+          "assets": [
+            "animation/gif_photo/gif_1/gif_1_role_cw.json",
+            "animation/gif_photo/gif_1/gif_1_role_cw.atlas",
+            "animation/gif_photo/gif_1/gif_1_role_cw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 16.6667
+          }
+        }
+      ],
+      "ownership": "unknown"
+    },
+    {
+      "id": 2,
+      "label": "海边油菜花",
+      "picture_ids": [
+        104
+      ],
+      "phases": [
+        {
+          "exp": 40,
+          "layer": 1,
+          "phase": 1,
+          "spine": ""
+        },
+        {
+          "exp": 60,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_2_bg1"
+        },
+        {
+          "exp": 80,
+          "layer": 7,
+          "phase": 3,
+          "spine": "gif_2_bg2"
+        },
+        {
+          "exp": 110,
+          "layer": 8,
+          "phase": 4,
+          "spine": "gif_2_fg1"
+        },
+        {
+          "exp": 140,
+          "layer": 3,
+          "phase": 5,
+          "spine": "gif_2_role_bh"
+        },
+        {
+          "exp": 170,
+          "layer": 4,
+          "phase": 6,
+          "spine": "gif_2_role_qw"
+        },
+        {
+          "exp": 200,
+          "layer": 5,
+          "phase": 7,
+          "spine": "gif_2_role_yhc"
+        },
+        {
+          "exp": 0,
+          "layer": 6,
+          "phase": 8,
+          "spine": "gif_2_role_cw"
+        }
+      ],
+      "layers": [
+        {
+          "exp": 60,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_2_bg1",
+          "assets": [
+            "animation/gif_photo/gif_2/gif_2_bg1.json",
+            "animation/gif_photo/gif_2/gif_2_bg1.atlas",
+            "animation/gif_photo/gif_2/gif_2_bg1.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 25
+          }
+        },
+        {
+          "exp": 140,
+          "layer": 3,
+          "phase": 5,
+          "spine": "gif_2_role_bh",
+          "assets": [
+            "animation/gif_photo/gif_2/gif_2_role_bh.json",
+            "animation/gif_photo/gif_2/gif_2_role_bh.atlas",
+            "animation/gif_photo/gif_2/gif_2_role_bh.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 25
+          }
+        },
+        {
+          "exp": 170,
+          "layer": 4,
+          "phase": 6,
+          "spine": "gif_2_role_qw",
+          "assets": [
+            "animation/gif_photo/gif_2/gif_2_role_qw.json",
+            "animation/gif_photo/gif_2/gif_2_role_qw.atlas",
+            "animation/gif_photo/gif_2/gif_2_role_qw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 25
+          }
+        },
+        {
+          "exp": 200,
+          "layer": 5,
+          "phase": 7,
+          "spine": "gif_2_role_yhc",
+          "assets": [
+            "animation/gif_photo/gif_2/gif_2_role_yhc.json",
+            "animation/gif_photo/gif_2/gif_2_role_yhc.atlas",
+            "animation/gif_photo/gif_2/gif_2_role_yhc.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 25
+          }
+        },
+        {
+          "exp": 0,
+          "layer": 6,
+          "phase": 8,
+          "spine": "gif_2_role_cw",
+          "assets": [
+            "animation/gif_photo/gif_2/gif_2_role_cw.json",
+            "animation/gif_photo/gif_2/gif_2_role_cw.atlas",
+            "animation/gif_photo/gif_2/gif_2_role_cw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 25
+          }
+        },
+        {
+          "exp": 80,
+          "layer": 7,
+          "phase": 3,
+          "spine": "gif_2_bg2",
+          "assets": [
+            "animation/gif_photo/gif_2/gif_2_bg2.json",
+            "animation/gif_photo/gif_2/gif_2_bg2.atlas",
+            "animation/gif_photo/gif_2/gif_2_bg2.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 25
+          }
+        },
+        {
+          "exp": 110,
+          "layer": 8,
+          "phase": 4,
+          "spine": "gif_2_fg1",
+          "assets": [
+            "animation/gif_photo/gif_2/gif_2_fg1.json",
+            "animation/gif_photo/gif_2/gif_2_fg1.atlas",
+            "animation/gif_photo/gif_2/gif_2_fg1.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 25,
+            "animation2": 25
+          }
+        }
+      ],
+      "ownership": "unknown"
+    },
+    {
+      "id": 3,
+      "label": "北京·故宫·红墙",
+      "picture_ids": [
+        2000
+      ],
+      "phases": [
+        {
+          "exp": 50,
+          "layer": 1,
+          "phase": 1,
+          "spine": ""
+        },
+        {
+          "exp": 80,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_3_bg1"
+        },
+        {
+          "exp": 100,
+          "layer": 4,
+          "phase": 3,
+          "spine": "gif_3_tree"
+        },
+        {
+          "exp": 140,
+          "layer": 3,
+          "phase": 4,
+          "spine": "gif_3_shidun"
+        },
+        {
+          "exp": 180,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_3_role_qw"
+        },
+        {
+          "exp": 210,
+          "layer": 6,
+          "phase": 6,
+          "spine": "gif_3_role_yhc"
+        },
+        {
+          "exp": 240,
+          "layer": 7,
+          "phase": 7,
+          "spine": "gif_3_role_bh"
+        },
+        {
+          "exp": 0,
+          "layer": 8,
+          "phase": 8,
+          "spine": "gif_3_role_cw"
+        }
+      ],
+      "layers": [
+        {
+          "exp": 80,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_3_bg1",
+          "assets": [
+            "animation/gif_photo/gif_3/gif_3_bg1.json",
+            "animation/gif_photo/gif_3/gif_3_bg1.atlas",
+            "animation/gif_photo/gif_3/gif_3_bg1.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 33.3333
+          }
+        },
+        {
+          "exp": 140,
+          "layer": 3,
+          "phase": 4,
+          "spine": "gif_3_shidun",
+          "assets": [
+            "animation/gif_photo/gif_3/gif_3_shidun.json",
+            "animation/gif_photo/gif_3/gif_3_shidun.atlas",
+            "animation/gif_photo/gif_3/gif_3_shidun.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 33.3333
+          }
+        },
+        {
+          "exp": 100,
+          "layer": 4,
+          "phase": 3,
+          "spine": "gif_3_tree",
+          "assets": [
+            "animation/gif_photo/gif_3/gif_3_tree.json",
+            "animation/gif_photo/gif_3/gif_3_tree.atlas",
+            "animation/gif_photo/gif_3/gif_3_tree.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 33.3333
+          }
+        },
+        {
+          "exp": 180,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_3_role_qw",
+          "assets": [
+            "animation/gif_photo/gif_3/gif_3_role_qw.json",
+            "animation/gif_photo/gif_3/gif_3_role_qw.atlas",
+            "animation/gif_photo/gif_3/gif_3_role_qw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 33.3333
+          }
+        },
+        {
+          "exp": 210,
+          "layer": 6,
+          "phase": 6,
+          "spine": "gif_3_role_yhc",
+          "assets": [
+            "animation/gif_photo/gif_3/gif_3_role_yhc.json",
+            "animation/gif_photo/gif_3/gif_3_role_yhc.atlas",
+            "animation/gif_photo/gif_3/gif_3_role_yhc.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 33.3333,
+            "animation2": 12.5
+          }
+        },
+        {
+          "exp": 240,
+          "layer": 7,
+          "phase": 7,
+          "spine": "gif_3_role_bh",
+          "assets": [
+            "animation/gif_photo/gif_3/gif_3_role_bh.json",
+            "animation/gif_photo/gif_3/gif_3_role_bh.atlas",
+            "animation/gif_photo/gif_3/gif_3_role_bh.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 33.3333
+          }
+        },
+        {
+          "exp": 0,
+          "layer": 8,
+          "phase": 8,
+          "spine": "gif_3_role_cw",
+          "assets": [
+            "animation/gif_photo/gif_3/gif_3_role_cw.json",
+            "animation/gif_photo/gif_3/gif_3_role_cw.atlas",
+            "animation/gif_photo/gif_3/gif_3_role_cw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 33.3333
+          }
+        }
+      ],
+      "ownership": "unknown"
+    },
+    {
+      "id": 4,
+      "label": "二周年庆",
+      "picture_ids": [
+        3102
+      ],
+      "phases": [
+        {
+          "exp": 0,
+          "layer": 5,
+          "phase": 1,
+          "spine": "gif_4_dg"
+        },
+        {
+          "exp": 100,
+          "layer": 1,
+          "phase": 2,
+          "spine": "gif_4_bg"
+        },
+        {
+          "exp": 150,
+          "layer": 12,
+          "phase": 3,
+          "spine": "gif_4_jt"
+        },
+        {
+          "exp": 200,
+          "layer": 11,
+          "phase": 4,
+          "spine": "gif_4_piaodai"
+        },
+        {
+          "exp": 250,
+          "layer": 10,
+          "phase": 5,
+          "spine": "gif_4_cw"
+        },
+        {
+          "exp": 300,
+          "layer": 9,
+          "phase": 6,
+          "spine": "gif_4_dd"
+        },
+        {
+          "exp": 340,
+          "layer": 8,
+          "phase": 7,
+          "spine": "gif_4_bh"
+        },
+        {
+          "exp": 380,
+          "layer": 7,
+          "phase": 8,
+          "spine": "gif_4_kk"
+        },
+        {
+          "exp": 420,
+          "layer": 6,
+          "phase": 9,
+          "spine": "gif_4_yhc"
+        },
+        {
+          "exp": 460,
+          "layer": 4,
+          "phase": 10,
+          "spine": "gif_4_pp"
+        },
+        {
+          "exp": 500,
+          "layer": 3,
+          "phase": 11,
+          "spine": "gif_4_tt"
+        },
+        {
+          "exp": 0,
+          "layer": 2,
+          "phase": 12,
+          "spine": "gif_4_qw"
+        }
+      ],
+      "layers": [
+        {
+          "exp": 100,
+          "layer": 1,
+          "phase": 2,
+          "spine": "gif_4_bg",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_bg.json",
+            "animation/gif_photo/gif_4/gif_4_bg.atlas",
+            "animation/gif_photo/gif_4/gif_4_bg.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 0,
+          "layer": 2,
+          "phase": 12,
+          "spine": "gif_4_qw",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_qw.json",
+            "animation/gif_photo/gif_4/gif_4_qw.atlas",
+            "animation/gif_photo/gif_4/gif_4_qw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 500,
+          "layer": 3,
+          "phase": 11,
+          "spine": "gif_4_tt",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_tt.json",
+            "animation/gif_photo/gif_4/gif_4_tt.atlas",
+            "animation/gif_photo/gif_4/gif_4_tt.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 460,
+          "layer": 4,
+          "phase": 10,
+          "spine": "gif_4_pp",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_pp.json",
+            "animation/gif_photo/gif_4/gif_4_pp.atlas",
+            "animation/gif_photo/gif_4/gif_4_pp.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 0,
+          "layer": 5,
+          "phase": 1,
+          "spine": "gif_4_dg",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_dg.json",
+            "animation/gif_photo/gif_4/gif_4_dg.atlas",
+            "animation/gif_photo/gif_4/gif_4_dg.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 420,
+          "layer": 6,
+          "phase": 9,
+          "spine": "gif_4_yhc",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_yhc.json",
+            "animation/gif_photo/gif_4/gif_4_yhc.atlas",
+            "animation/gif_photo/gif_4/gif_4_yhc.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 380,
+          "layer": 7,
+          "phase": 8,
+          "spine": "gif_4_kk",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_kk.json",
+            "animation/gif_photo/gif_4/gif_4_kk.atlas",
+            "animation/gif_photo/gif_4/gif_4_kk.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 340,
+          "layer": 8,
+          "phase": 7,
+          "spine": "gif_4_bh",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_bh.json",
+            "animation/gif_photo/gif_4/gif_4_bh.atlas",
+            "animation/gif_photo/gif_4/gif_4_bh.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 300,
+          "layer": 9,
+          "phase": 6,
+          "spine": "gif_4_dd",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_dd.json",
+            "animation/gif_photo/gif_4/gif_4_dd.atlas",
+            "animation/gif_photo/gif_4/gif_4_dd.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 250,
+          "layer": 10,
+          "phase": 5,
+          "spine": "gif_4_cw",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_cw.json",
+            "animation/gif_photo/gif_4/gif_4_cw.atlas",
+            "animation/gif_photo/gif_4/gif_4_cw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 200,
+          "layer": 11,
+          "phase": 4,
+          "spine": "gif_4_piaodai",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_piaodai.json",
+            "animation/gif_photo/gif_4/gif_4_piaodai.atlas",
+            "animation/gif_photo/gif_4/gif_4_piaodai.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        },
+        {
+          "exp": 150,
+          "layer": 12,
+          "phase": 3,
+          "spine": "gif_4_jt",
+          "assets": [
+            "animation/gif_photo/gif_4/gif_4_jt.json",
+            "animation/gif_photo/gif_4/gif_4_jt.atlas",
+            "animation/gif_photo/gif_4/gif_4_jt.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.3333
+          }
+        }
+      ],
+      "ownership": "unknown"
+    },
+    {
+      "id": 5,
+      "label": "江西省博物馆",
+      "picture_ids": [
+        3063
+      ],
+      "phases": [
+        {
+          "exp": 100,
+          "layer": 1,
+          "phase": 1,
+          "spine": ""
+        },
+        {
+          "exp": 200,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_5_bg"
+        },
+        {
+          "exp": 300,
+          "layer": 3,
+          "phase": 3,
+          "spine": "gif_5_role_qw"
+        },
+        {
+          "exp": 350,
+          "layer": 4,
+          "phase": 4,
+          "spine": "gif_5_role_bh"
+        },
+        {
+          "exp": 350,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_5_role_cw"
+        },
+        {
+          "exp": 0,
+          "layer": 6,
+          "phase": 6,
+          "spine": "gif_5_role_yhc"
+        }
+      ],
+      "layers": [
+        {
+          "exp": 200,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_5_bg",
+          "assets": [
+            "animation/gif_photo/gif_5/gif_5_bg.json",
+            "animation/gif_photo/gif_5/gif_5_bg.atlas",
+            "animation/gif_photo/gif_5/gif_5_bg.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 11.6667
+          }
+        },
+        {
+          "exp": 300,
+          "layer": 3,
+          "phase": 3,
+          "spine": "gif_5_role_qw",
+          "assets": [
+            "animation/gif_photo/gif_5/gif_5_role_qw.json",
+            "animation/gif_photo/gif_5/gif_5_role_qw.atlas",
+            "animation/gif_photo/gif_5/gif_5_role_qw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 11.6667
+          }
+        },
+        {
+          "exp": 350,
+          "layer": 4,
+          "phase": 4,
+          "spine": "gif_5_role_bh",
+          "assets": [
+            "animation/gif_photo/gif_5/gif_5_role_bh.json",
+            "animation/gif_photo/gif_5/gif_5_role_bh.atlas",
+            "animation/gif_photo/gif_5/gif_5_role_bh.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 11.6667
+          }
+        },
+        {
+          "exp": 350,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_5_role_cw",
+          "assets": [
+            "animation/gif_photo/gif_5/gif_5_role_cw.json",
+            "animation/gif_photo/gif_5/gif_5_role_cw.atlas",
+            "animation/gif_photo/gif_5/gif_5_role_cw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 11.6667
+          }
+        },
+        {
+          "exp": 0,
+          "layer": 6,
+          "phase": 6,
+          "spine": "gif_5_role_yhc",
+          "assets": [
+            "animation/gif_photo/gif_5/gif_5_role_yhc.json",
+            "animation/gif_photo/gif_5/gif_5_role_yhc.atlas",
+            "animation/gif_photo/gif_5/gif_5_role_yhc.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 11.6667
+          }
+        }
+      ],
+      "ownership": "unknown"
+    },
+    {
+      "id": 6,
+      "label": "山东博物馆",
+      "picture_ids": [
+        3064
+      ],
+      "phases": [
+        {
+          "exp": 100,
+          "layer": 1,
+          "phase": 1,
+          "spine": ""
+        },
+        {
+          "exp": 350,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_6_bg"
+        },
+        {
+          "exp": 500,
+          "layer": 3,
+          "phase": 3,
+          "spine": "gif_6_role_cw"
+        },
+        {
+          "exp": 350,
+          "layer": 4,
+          "phase": 4,
+          "spine": "gif_6_role_bhqw"
+        },
+        {
+          "exp": 0,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_6_role_yhc"
+        }
+      ],
+      "layers": [
+        {
+          "exp": 350,
+          "layer": 2,
+          "phase": 2,
+          "spine": "gif_6_bg",
+          "assets": [
+            "animation/gif_photo/gif_6/gif_6_bg.json",
+            "animation/gif_photo/gif_6/gif_6_bg.atlas",
+            "animation/gif_photo/gif_6/gif_6_bg.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.75
+          }
+        },
+        {
+          "exp": 500,
+          "layer": 3,
+          "phase": 3,
+          "spine": "gif_6_role_cw",
+          "assets": [
+            "animation/gif_photo/gif_6/gif_6_role_cw.json",
+            "animation/gif_photo/gif_6/gif_6_role_cw.atlas",
+            "animation/gif_photo/gif_6/gif_6_role_cw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.75
+          }
+        },
+        {
+          "exp": 350,
+          "layer": 4,
+          "phase": 4,
+          "spine": "gif_6_role_bhqw",
+          "assets": [
+            "animation/gif_photo/gif_6/gif_6_role_bhqw.json",
+            "animation/gif_photo/gif_6/gif_6_role_bhqw.atlas",
+            "animation/gif_photo/gif_6/gif_6_role_bhqw.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.75
+          }
+        },
+        {
+          "exp": 0,
+          "layer": 5,
+          "phase": 5,
+          "spine": "gif_6_role_yhc",
+          "assets": [
+            "animation/gif_photo/gif_6/gif_6_role_yhc.json",
+            "animation/gif_photo/gif_6/gif_6_role_yhc.atlas",
+            "animation/gif_photo/gif_6/gif_6_role_yhc.png"
+          ],
+          "complete": true,
+          "animations": {
+            "animation": 13.75
+          }
+        }
+      ],
+      "ownership": "unknown"
+    }
+  ],
+  "files": [
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_bg1.atlas",
+      "url": "animation/gif_photo/gif_1/gif_1_bg1.atlas",
+      "sha256": "1a28354d9f075e9c0118bf6031e994fd66400f4877e1903cb19bedc80dc84f84",
+      "file_size": 453,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_bg1.json",
+      "url": "animation/gif_photo/gif_1/gif_1_bg1.json",
+      "sha256": "5f1f9beb5170090fa9bf266e7d8421d7254afe1a67a217d805336170bbf7021c",
+      "file_size": 4552,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_bg1.png",
+      "url": "animation/gif_photo/gif_1/gif_1_bg1.png",
+      "sha256": "5d85b79b0bc226f6709fa99845f2f5bad6d1269f07d32e56d83429cce82e562a",
+      "file_size": 174937,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_bg2.atlas",
+      "url": "animation/gif_photo/gif_1/gif_1_bg2.atlas",
+      "sha256": "fd052c8f9621f54f04360b2d8952f6ce7ef9b40e56ba3c16879aeedf33e70174",
+      "file_size": 467,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_bg2.json",
+      "url": "animation/gif_photo/gif_1/gif_1_bg2.json",
+      "sha256": "47462113df69e2c545f8385b8d79e6399924039dd877bb0c519623dea45a247d",
+      "file_size": 48050,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_bg2.png",
+      "url": "animation/gif_photo/gif_1/gif_1_bg2.png",
+      "sha256": "1eb7daec726a85f845674370920ebd37c2bd31d23d97b2f0fdb50a73547a34df",
+      "file_size": 212104,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_bh.atlas",
+      "url": "animation/gif_photo/gif_1/gif_1_role_bh.atlas",
+      "sha256": "3f5b747d5b375e56b0a495b353bab45c85484430e1188608cea113045424da02",
+      "file_size": 827,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_bh.json",
+      "url": "animation/gif_photo/gif_1/gif_1_role_bh.json",
+      "sha256": "7ecb06e356d41081d4bdcb961f4e8943b927d43d8a01e31ea7a961da27b6d2d8",
+      "file_size": 46331,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_bh.png",
+      "url": "animation/gif_photo/gif_1/gif_1_role_bh.png",
+      "sha256": "0772a0ea85d6e1f16447f10893b9ddb4ed344e83f2bfb8fc2a9e1be329917082",
+      "file_size": 12475,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_cw.atlas",
+      "url": "animation/gif_photo/gif_1/gif_1_role_cw.atlas",
+      "sha256": "dfbbfca10ccc0b4cc469086aa8fd504eeb03499e9bcc98fd19581d933fd98c44",
+      "file_size": 683,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_cw.json",
+      "url": "animation/gif_photo/gif_1/gif_1_role_cw.json",
+      "sha256": "078e686a56591dd5b77dcdd1b1b2ad0b30c795ea640d7e28cc59e501a12d76a0",
+      "file_size": 19054,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_cw.png",
+      "url": "animation/gif_photo/gif_1/gif_1_role_cw.png",
+      "sha256": "755ec379ea26d1ffc39cb33bfc24c54e2e7341f984a3a0e59e3a1895b8f68cda",
+      "file_size": 9747,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_qw.atlas",
+      "url": "animation/gif_photo/gif_1/gif_1_role_qw.atlas",
+      "sha256": "39fdd560fb31f2fdf25f30a8e47f352b0916eba0cc4a7495b60e550547f4964a",
+      "file_size": 983,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_qw.json",
+      "url": "animation/gif_photo/gif_1/gif_1_role_qw.json",
+      "sha256": "7dc5411603c2e364b786ac225fb3becc132ef6f02c71f34d2038161cfb6a57f4",
+      "file_size": 33443,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_qw.png",
+      "url": "animation/gif_photo/gif_1/gif_1_role_qw.png",
+      "sha256": "4a16b03e71191062b00983beb7ae6133610a0dd08d041378e2b8e77abfe86bf0",
+      "file_size": 10946,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_yhc.atlas",
+      "url": "animation/gif_photo/gif_1/gif_1_role_yhc.atlas",
+      "sha256": "f183891d0bcb523b7951dcf96567a99b7d416037e749f39c13128c492ba97641",
+      "file_size": 1196,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_yhc.json",
+      "url": "animation/gif_photo/gif_1/gif_1_role_yhc.json",
+      "sha256": "49b2d3f358ff4b27cf8bc9484faea984fd105c7d0d502d48cfbb99b279235cd0",
+      "file_size": 37324,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_1/gif_1_role_yhc.png",
+      "url": "animation/gif_photo/gif_1/gif_1_role_yhc.png",
+      "sha256": "8e532715073b1ce82fc7ec5e91c19d1918f26a464baee17442eb0b09b924f49f",
+      "file_size": 21074,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_bg1.atlas",
+      "url": "animation/gif_photo/gif_2/gif_2_bg1.atlas",
+      "sha256": "ac0060baf895d988e0bfc89876f3cbc565a9d89e210d7b500ee64e66c37fcc8b",
+      "file_size": 17055,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_bg1.json",
+      "url": "animation/gif_photo/gif_2/gif_2_bg1.json",
+      "sha256": "d2dc4b96521ab0110551d03b027045c8d59ff72e73b1279604e180169a34d9a9",
+      "file_size": 68872,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_bg1.png",
+      "url": "animation/gif_photo/gif_2/gif_2_bg1.png",
+      "sha256": "18f52e7c6ab741625d2cf97b161a80a5027d45623a421cae1e0e58391ce33d04",
+      "file_size": 2785325,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_bg2.atlas",
+      "url": "animation/gif_photo/gif_2/gif_2_bg2.atlas",
+      "sha256": "673b9880919b663a69fd7cbf376ae2aec5497e116e149524f8fda83c6c98b198",
+      "file_size": 172,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_bg2.json",
+      "url": "animation/gif_photo/gif_2/gif_2_bg2.json",
+      "sha256": "07d7ddc47359a75baeb8dd21046d48b12edcb6c439f095a2287814b4d3f646f9",
+      "file_size": 751,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_bg2.png",
+      "url": "animation/gif_photo/gif_2/gif_2_bg2.png",
+      "sha256": "0c67865f1cf669b726df9f482ee215f60c518014363e74d57d9230509e97ea34",
+      "file_size": 540,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_fg1.atlas",
+      "url": "animation/gif_photo/gif_2/gif_2_fg1.atlas",
+      "sha256": "8e62d92e5a8c4aa7a3124ed0afae4f7f9615b48d612dc859fc333436d63bfd18",
+      "file_size": 180,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_fg1.json",
+      "url": "animation/gif_photo/gif_2/gif_2_fg1.json",
+      "sha256": "bcb472171375cc062fc20544a5eeb94d19c5f1bbbaf91076979d83d058794f62",
+      "file_size": 254408,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_fg1.png",
+      "url": "animation/gif_photo/gif_2/gif_2_fg1.png",
+      "sha256": "578dc4a06916ca1871e17b208bcf2b9487e07726c4b3462fb6271adc56e1e27e",
+      "file_size": 74189,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_bh.atlas",
+      "url": "animation/gif_photo/gif_2/gif_2_role_bh.atlas",
+      "sha256": "5369113f80df58bbc093207c129a5f2febfb1f6793a171c10b299309960a6b69",
+      "file_size": 583,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_bh.json",
+      "url": "animation/gif_photo/gif_2/gif_2_role_bh.json",
+      "sha256": "87055c85dc09cfe36213fdc8c89d8263393c293d10b8796e3e1e082f269fe563",
+      "file_size": 309987,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_bh.png",
+      "url": "animation/gif_photo/gif_2/gif_2_role_bh.png",
+      "sha256": "011a313d63983e9b0e66827758491b41cf5d24e2e6f8eeff210dbe822f6f9160",
+      "file_size": 6600,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_cw.atlas",
+      "url": "animation/gif_photo/gif_2/gif_2_role_cw.atlas",
+      "sha256": "9807548380f7ee7aeeccafc8545acfd35c27814571dca1256de8a0706cf1ded2",
+      "file_size": 770,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_cw.json",
+      "url": "animation/gif_photo/gif_2/gif_2_role_cw.json",
+      "sha256": "11a18c44f869fcfbd967620c7e90e3dac1e14b409262d9af597986e0cb32e66f",
+      "file_size": 179295,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_cw.png",
+      "url": "animation/gif_photo/gif_2/gif_2_role_cw.png",
+      "sha256": "d29d27311c21c42dc4627576e8a12ad663a574c94fea2559f9ca9fffdd7f666b",
+      "file_size": 5957,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_qw.atlas",
+      "url": "animation/gif_photo/gif_2/gif_2_role_qw.atlas",
+      "sha256": "cf5304ab96ed09940305265e33bfb2ab0efe2e020f0a4b284576583f63043a9e",
+      "file_size": 544,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_qw.json",
+      "url": "animation/gif_photo/gif_2/gif_2_role_qw.json",
+      "sha256": "93f53e8963405355567ac71d391792c2f298212a0f7cd16d147c32af7f6db746",
+      "file_size": 323530,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_qw.png",
+      "url": "animation/gif_photo/gif_2/gif_2_role_qw.png",
+      "sha256": "6f888e817f96895874b31d03ad0f856dad629e562e8fa3b3d5de9a9f2aeff746",
+      "file_size": 5848,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_yhc.atlas",
+      "url": "animation/gif_photo/gif_2/gif_2_role_yhc.atlas",
+      "sha256": "4d1a65d6d1f5fd1fbdec99644183f289ce92910b88a7b2fc0347bbe3459a1558",
+      "file_size": 882,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_yhc.json",
+      "url": "animation/gif_photo/gif_2/gif_2_role_yhc.json",
+      "sha256": "2e390a08c1905a69cfae27601a9f398e4bef04dc50a39f48225b72f422793f7e",
+      "file_size": 336941,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_2/gif_2_role_yhc.png",
+      "url": "animation/gif_photo/gif_2/gif_2_role_yhc.png",
+      "sha256": "e5d84a728f81a51be913287ba4ab7b1188304c16acfda604c1a510a0cdc39af3",
+      "file_size": 8071,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_bg1.atlas",
+      "url": "animation/gif_photo/gif_3/gif_3_bg1.atlas",
+      "sha256": "43010f01311c94a759fec0ba86bb19f15027e932e040ace07ca1133584c8ecb6",
+      "file_size": 174,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_bg1.json",
+      "url": "animation/gif_photo/gif_3/gif_3_bg1.json",
+      "sha256": "6825480ea39c6ac1ae864561079adc98a17ab4d89d89378f02dadbe8be2d4aba",
+      "file_size": 1598,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_bg1.png",
+      "url": "animation/gif_photo/gif_3/gif_3_bg1.png",
+      "sha256": "e380f3093beb9e9c45a0d31ffc44a9ba3a4e36bcee66afdf0a5da23e69efdab2",
+      "file_size": 68406,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_bh.atlas",
+      "url": "animation/gif_photo/gif_3/gif_3_role_bh.atlas",
+      "sha256": "d2fd10e695d3b32b21b0c3d1cfc10d6284b5edc4046c249107e8d540bf430af4",
+      "file_size": 2591,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_bh.json",
+      "url": "animation/gif_photo/gif_3/gif_3_role_bh.json",
+      "sha256": "43200d2cd2fd96fb7d0e453e25f11391b9d5a5078642f09b9849b710c704276f",
+      "file_size": 95293,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_bh.png",
+      "url": "animation/gif_photo/gif_3/gif_3_role_bh.png",
+      "sha256": "149f79c1ad4dc553b1c0bf5bd624f7dc728cc45188233621961819e1e0d3f945",
+      "file_size": 56490,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_cw.atlas",
+      "url": "animation/gif_photo/gif_3/gif_3_role_cw.atlas",
+      "sha256": "b37c524e58dd50000eb678c04c5beeb8406b978989edd31aa3d4752f7ef8ac04",
+      "file_size": 1509,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_cw.json",
+      "url": "animation/gif_photo/gif_3/gif_3_role_cw.json",
+      "sha256": "60cb02f413a328c5d8c08b40f048577a241c092b0faab34bfcfd2980f2e0d480",
+      "file_size": 51739,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_cw.png",
+      "url": "animation/gif_photo/gif_3/gif_3_role_cw.png",
+      "sha256": "157f90c56fac400ad28954524aad585be0eb87826fa9843f2be02313810ac97c",
+      "file_size": 17661,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_qw.atlas",
+      "url": "animation/gif_photo/gif_3/gif_3_role_qw.atlas",
+      "sha256": "f1de96d9d31620c2a87f6206ee7e87b51341b3687e5f87e2def94492b0f5a6b9",
+      "file_size": 268,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_qw.json",
+      "url": "animation/gif_photo/gif_3/gif_3_role_qw.json",
+      "sha256": "7e0095f180c7cd581b471620271fb92187655531a842806e565aec34b5ab83ee",
+      "file_size": 34121,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_qw.png",
+      "url": "animation/gif_photo/gif_3/gif_3_role_qw.png",
+      "sha256": "42cd79b6fc27296544d3701f40e2e7cb8c3ef6b5efbabe9ab06256658df6cef5",
+      "file_size": 5846,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_yhc.atlas",
+      "url": "animation/gif_photo/gif_3/gif_3_role_yhc.atlas",
+      "sha256": "135ec5a6299fd047fe9395ad998252112acbcc4e03400bf51596cb5d813cf1f5",
+      "file_size": 1311,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_yhc.json",
+      "url": "animation/gif_photo/gif_3/gif_3_role_yhc.json",
+      "sha256": "d9da410df4f1758e4813489cc9a0d4e7ee4eec5507d47f89c3b7a151f608192d",
+      "file_size": 248855,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_role_yhc.png",
+      "url": "animation/gif_photo/gif_3/gif_3_role_yhc.png",
+      "sha256": "31555c239b0d8f8da9a924fd04a88ce9b532ccc0c7c2d2df6696cb9ba8455bdb",
+      "file_size": 27081,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_shidun.atlas",
+      "url": "animation/gif_photo/gif_3/gif_3_shidun.atlas",
+      "sha256": "cce3a33c2203ae781b4a257cd8656a4cc7a7e76ee43d552457e15b469174c972",
+      "file_size": 178,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_shidun.json",
+      "url": "animation/gif_photo/gif_3/gif_3_shidun.json",
+      "sha256": "c9f1b839c14c1dcc7554b21166a35f5f7f98f4bc0cac9636297acaac823803bf",
+      "file_size": 2000,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_shidun.png",
+      "url": "animation/gif_photo/gif_3/gif_3_shidun.png",
+      "sha256": "cda9a4be26908f845fb4374a180e68331e77b8d03876b7285e79b5f204dab6ea",
+      "file_size": 41814,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_tree.atlas",
+      "url": "animation/gif_photo/gif_3/gif_3_tree.atlas",
+      "sha256": "0917d9f2531d49b1036d00985db09bf758604a19e932fc6fac9ffe943ad8fc19",
+      "file_size": 2057,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_tree.json",
+      "url": "animation/gif_photo/gif_3/gif_3_tree.json",
+      "sha256": "29813e557014870990bf25b6c825d7f34ff43606c882bfee03232d550a796744",
+      "file_size": 152204,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_3/gif_3_tree.png",
+      "url": "animation/gif_photo/gif_3/gif_3_tree.png",
+      "sha256": "e6726b416f87aee712ddcdbbcfae640c1eca41b581d5f0ea31adc0cdb61e380b",
+      "file_size": 70521,
+      "source_kind": "bundled_apk"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_bg.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_bg.atlas",
+      "sha256": "ed827b6d74db900d4f2a49fcbed552c373f0202c7193ee07a5c20602e724a16c",
+      "file_size": 173,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_bg.json",
+      "url": "animation/gif_photo/gif_4/gif_4_bg.json",
+      "sha256": "a8e9965fa399f5b6fd1b0fbafde2d8c5f5c6bdd6eada07476a6c62ec05e7ccc1",
+      "file_size": 881,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_bg.png",
+      "url": "animation/gif_photo/gif_4/gif_4_bg.png",
+      "sha256": "c06959dd0589572e22eb44fb9b23f6f9468d8b6acc7fe55679407378050e051d",
+      "file_size": 532096,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_bh.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_bh.atlas",
+      "sha256": "eee3bff438c21b7bfabb3cfeeb9c35ffe6f949d09315f9df916149239d795fe5",
+      "file_size": 1127,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_bh.json",
+      "url": "animation/gif_photo/gif_4/gif_4_bh.json",
+      "sha256": "37c579b72b29bf7223976587cf495f149725244890c8ace2aca0e6831f065d14",
+      "file_size": 31689,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_bh.png",
+      "url": "animation/gif_photo/gif_4/gif_4_bh.png",
+      "sha256": "7491373f67a88c3ae3a5f1a4530e8629170ec59dd7dd0bbb9018c7a32f2691d8",
+      "file_size": 56014,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_cw.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_cw.atlas",
+      "sha256": "9125741eed068d642b56a94e3772a2ca7e8ee8da7eef46d7c87d0bb8273d9a82",
+      "file_size": 1215,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_cw.json",
+      "url": "animation/gif_photo/gif_4/gif_4_cw.json",
+      "sha256": "50c47152b2ffad22ee58b73f984160ceb1057ce0f61b13e3e014ca76cf24086d",
+      "file_size": 42851,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_cw.png",
+      "url": "animation/gif_photo/gif_4/gif_4_cw.png",
+      "sha256": "5043de6edbd8b495d66033ad27b5cb464f2e5fe0604b68c0ffb8ee5f6e383149",
+      "file_size": 46489,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_dd.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_dd.atlas",
+      "sha256": "7e0bb1e216e06985eba9de1f922a77492a9b0fe1bb13069c3659f32c18a3dc07",
+      "file_size": 1707,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_dd.json",
+      "url": "animation/gif_photo/gif_4/gif_4_dd.json",
+      "sha256": "56ca0a58b6193fa949e489320081ac7519a0182fe669ba0cc4fe1b10d73b23d7",
+      "file_size": 67570,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_dd.png",
+      "url": "animation/gif_photo/gif_4/gif_4_dd.png",
+      "sha256": "abdbee6dd8bc8a4914a1b3d587feb8ffc2dadaae923ea1e853558e05b8390362",
+      "file_size": 64524,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_dg.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_dg.atlas",
+      "sha256": "304b6409e8361a48477e59bd13fc6c267e24e94501ee6fc11aaf49a1ee029da7",
+      "file_size": 173,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_dg.json",
+      "url": "animation/gif_photo/gif_4/gif_4_dg.json",
+      "sha256": "0ae7d186e65b692c440f055decdaa874e1d2ac5aa89fe3551de9700049b8b76d",
+      "file_size": 666,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_dg.png",
+      "url": "animation/gif_photo/gif_4/gif_4_dg.png",
+      "sha256": "5be97585d56b7e72a3fc8cdafb8a329bb645e1548e81ac8e450ffd6f99f16d64",
+      "file_size": 140756,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_jt.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_jt.atlas",
+      "sha256": "a094cb7e7f9e65334cc56be9bbc7f49c21d5fad3d9b4b60418d9ddaa2c9d6eb5",
+      "file_size": 292,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_jt.json",
+      "url": "animation/gif_photo/gif_4/gif_4_jt.json",
+      "sha256": "b37e19edf9f6cc4f73816152acc542c376e7454363ea6811ae1e8a0a40ce879e",
+      "file_size": 14380,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_jt.png",
+      "url": "animation/gif_photo/gif_4/gif_4_jt.png",
+      "sha256": "15f946274286ffea4efd7cae0b240a38b40da019a34b4f7ef74d3aae2af8a2a8",
+      "file_size": 48791,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_kk.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_kk.atlas",
+      "sha256": "ed31e538bc90debbe3ba9e7f280fa63e0c513aa93775700e3192e91b0b8f63be",
+      "file_size": 932,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_kk.json",
+      "url": "animation/gif_photo/gif_4/gif_4_kk.json",
+      "sha256": "6b8963abb9dacacd9c04913003b01871f2a99fea1cdc51f83dc015a6959f8530",
+      "file_size": 33049,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_kk.png",
+      "url": "animation/gif_photo/gif_4/gif_4_kk.png",
+      "sha256": "7efb4fde4b8f766323d6a65e4064e2f837007bce29b9ff16445930204d714e3c",
+      "file_size": 61143,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_piaodai.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_piaodai.atlas",
+      "sha256": "93c84579ea284a11d8467e47b2e7c1df519069e0bb02794fbdeb0d689e0e401d",
+      "file_size": 283,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_piaodai.json",
+      "url": "animation/gif_photo/gif_4/gif_4_piaodai.json",
+      "sha256": "457e7426ccc92359f973377a171d71de0378fb8a2c5e124833016c7c0c3b8d1d",
+      "file_size": 43830,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_piaodai.png",
+      "url": "animation/gif_photo/gif_4/gif_4_piaodai.png",
+      "sha256": "82e9f7b901ac0122aa9c863107b756ae534e2632a0e0c9070b0d24fbcccf9045",
+      "file_size": 54622,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_pp.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_pp.atlas",
+      "sha256": "8d540c62babbeb25ee685db2a8bf9e4c84d3e2ea68cddc85ce6b7ca05eed7eb8",
+      "file_size": 745,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_pp.json",
+      "url": "animation/gif_photo/gif_4/gif_4_pp.json",
+      "sha256": "effe0e9be7b63965fcf4b2e3dcdd23b5697b669f0b16ef21ca85167a178f2889",
+      "file_size": 17754,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_pp.png",
+      "url": "animation/gif_photo/gif_4/gif_4_pp.png",
+      "sha256": "142458bf76c4eb71a4ac84bab40fb541b480e661fffcc8d12c0c1ddca354fb20",
+      "file_size": 48087,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_qw.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_qw.atlas",
+      "sha256": "cb71ae7107401d44ad449dc9ae91df542b48fa542a6dc3dac40a05f75321aa85",
+      "file_size": 653,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_qw.json",
+      "url": "animation/gif_photo/gif_4/gif_4_qw.json",
+      "sha256": "592587f7d8d4a8aaabd58a32ed15748fca9ad8f9f7408035201013bb09d21681",
+      "file_size": 27963,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_qw.png",
+      "url": "animation/gif_photo/gif_4/gif_4_qw.png",
+      "sha256": "b50778dbc353c121cc388e1fa3136d85067ede9eda6b932a506896fe2dd7857c",
+      "file_size": 30225,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_tt.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_tt.atlas",
+      "sha256": "b5b2ace8bfcbf84b268bc2c5099c2cf2482347316e6e1eeebcf619770d7418e1",
+      "file_size": 2065,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_tt.json",
+      "url": "animation/gif_photo/gif_4/gif_4_tt.json",
+      "sha256": "2067989a8cda254917284c84b23d18a134c689933c4d93dacae60b0a1fc42243",
+      "file_size": 61152,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_tt.png",
+      "url": "animation/gif_photo/gif_4/gif_4_tt.png",
+      "sha256": "f1ace8ebc5c4280e07ac8bad250cc106e5ab393a4cec0a7a19c2b9bc23e1f8d5",
+      "file_size": 74579,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_yhc.atlas",
+      "url": "animation/gif_photo/gif_4/gif_4_yhc.atlas",
+      "sha256": "d38405cfce5b2dd561e2e27a7a07d005e9321432fc4fcdd7b6cbcc926cb775ce",
+      "file_size": 2094,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_yhc.json",
+      "url": "animation/gif_photo/gif_4/gif_4_yhc.json",
+      "sha256": "3b444e8929c559e7600f85d058fe5b7c0b9777c5a5476889c47f5228777bb714",
+      "file_size": 69202,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_4/gif_4_yhc.png",
+      "url": "animation/gif_photo/gif_4/gif_4_yhc.png",
+      "sha256": "5549178c08628414ad425af47138eefd4767ed0361941c3cc8144e2507a02930",
+      "file_size": 61634,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_bg.atlas",
+      "url": "animation/gif_photo/gif_5/gif_5_bg.atlas",
+      "sha256": "c8fa638d11452a4d8b50ad3e0dcf6a18965e8effa5dac18739447ee868d24c3c",
+      "file_size": 364,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_bg.json",
+      "url": "animation/gif_photo/gif_5/gif_5_bg.json",
+      "sha256": "4553fe71effce67f20e5a3c5a9333e8c938caa97c719096763df73c4a0f676a4",
+      "file_size": 1057,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_bg.png",
+      "url": "animation/gif_photo/gif_5/gif_5_bg.png",
+      "sha256": "15c5955c759a1787c19e8089ac87eabe4e7abd78a7cadce7b92bd8d102129e3c",
+      "file_size": 357160,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_bh.atlas",
+      "url": "animation/gif_photo/gif_5/gif_5_role_bh.atlas",
+      "sha256": "25272d41cd0c288f1277fede726848cb046506faf5f7f4c503eaa9318de8b8dd",
+      "file_size": 743,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_bh.json",
+      "url": "animation/gif_photo/gif_5/gif_5_role_bh.json",
+      "sha256": "bd395adc7647d6dbf23e19c0f8887dc2e2a70a41219bf870e85144a50dc4512e",
+      "file_size": 53061,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_bh.png",
+      "url": "animation/gif_photo/gif_5/gif_5_role_bh.png",
+      "sha256": "ee3f8ca4eae0af88e4aa1ad16c0a083a5f79f563d07bb7fc906ec21433b68a3d",
+      "file_size": 20035,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_cw.atlas",
+      "url": "animation/gif_photo/gif_5/gif_5_role_cw.atlas",
+      "sha256": "e16722ab86439574f4dc1a1eab0a806bd2d8994046d9750d18ee8833e76dd839",
+      "file_size": 658,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_cw.json",
+      "url": "animation/gif_photo/gif_5/gif_5_role_cw.json",
+      "sha256": "46296729b716dfb190e27e31264733828f49cea315fdcd34814ed86dd6acb91a",
+      "file_size": 27507,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_cw.png",
+      "url": "animation/gif_photo/gif_5/gif_5_role_cw.png",
+      "sha256": "0af2d83b67235f6be96f4b47bb6fbdc8f97b298fadffbe2932834a7ebce1534c",
+      "file_size": 41040,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_qw.atlas",
+      "url": "animation/gif_photo/gif_5/gif_5_role_qw.atlas",
+      "sha256": "7007f4b65cdebc9a2704aededda794ccc0cc837eb1046d55ff19922cddbcfbb4",
+      "file_size": 836,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_qw.json",
+      "url": "animation/gif_photo/gif_5/gif_5_role_qw.json",
+      "sha256": "f43a20f4ede046037e698be5a27160d7f16f2b3fde9e10df5ad3f93c291159cd",
+      "file_size": 52185,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_qw.png",
+      "url": "animation/gif_photo/gif_5/gif_5_role_qw.png",
+      "sha256": "a300228a2338e3d501aec6dbc96dcb462172096717bf527ac0bd1701f92a1b6a",
+      "file_size": 12743,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_yhc.atlas",
+      "url": "animation/gif_photo/gif_5/gif_5_role_yhc.atlas",
+      "sha256": "d481d2ab9f78174c02c654d822acc6e7afc24b80c63d0297854d162077f90d2e",
+      "file_size": 1565,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_yhc.json",
+      "url": "animation/gif_photo/gif_5/gif_5_role_yhc.json",
+      "sha256": "02d9b1fa8278e92f236d4b843c2e65e6c59399f0e3b3c05a0007d3aa337c87fe",
+      "file_size": 83117,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_5/gif_5_role_yhc.png",
+      "url": "animation/gif_photo/gif_5/gif_5_role_yhc.png",
+      "sha256": "63944900355f3d7ff3c57512b4908f3d27c507755d2b3d81734b4a88c0000368",
+      "file_size": 66996,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_bg.atlas",
+      "url": "animation/gif_photo/gif_6/gif_6_bg.atlas",
+      "sha256": "9aed247c5b4c72173356388dbd2aa9f3e24fe2b8d608964609eec020ce695cf6",
+      "file_size": 193,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_bg.json",
+      "url": "animation/gif_photo/gif_6/gif_6_bg.json",
+      "sha256": "976a5a83811d345c01e9860cc63438b21214c2bd3bd32353bc1bca50207c2eb4",
+      "file_size": 772,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_bg.png",
+      "url": "animation/gif_photo/gif_6/gif_6_bg.png",
+      "sha256": "73cda9cc9c1ff739a2c75ac1d905ef922dc4f9c3df99c81ba951c2ad11d90bf2",
+      "file_size": 181247,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_bhqw.atlas",
+      "url": "animation/gif_photo/gif_6/gif_6_role_bhqw.atlas",
+      "sha256": "5a976cc4e5969b64f25a985bc6a20a7e0da2465418e7c87f35e5a8b3b66f5ac5",
+      "file_size": 8057,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_bhqw.json",
+      "url": "animation/gif_photo/gif_6/gif_6_role_bhqw.json",
+      "sha256": "b00ae408206e24a4480c9669fae3181339a4e83ca602b2958d9d3098397c6b2c",
+      "file_size": 42010,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_bhqw.png",
+      "url": "animation/gif_photo/gif_6/gif_6_role_bhqw.png",
+      "sha256": "201d10c61b2274548488958313ea610d47375c5e0328f35f9af0ecc57c388476",
+      "file_size": 1446391,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_cw.atlas",
+      "url": "animation/gif_photo/gif_6/gif_6_role_cw.atlas",
+      "sha256": "bb42f4baea0ae4f5cfc7134059a2995cbd373a98a7e59071ac1d3504f677e050",
+      "file_size": 550,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_cw.json",
+      "url": "animation/gif_photo/gif_6/gif_6_role_cw.json",
+      "sha256": "381c55ba1df6b40732163dab73c6782e6f34efd9ddb6b3078f6d5520c95ac399",
+      "file_size": 30802,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_cw.png",
+      "url": "animation/gif_photo/gif_6/gif_6_role_cw.png",
+      "sha256": "a6be0efcb29f61869df24443403de06140ed0dd342d1ea6d89d224135cfe0a0c",
+      "file_size": 17146,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_yhc.atlas",
+      "url": "animation/gif_photo/gif_6/gif_6_role_yhc.atlas",
+      "sha256": "a0ba1c3a84da7ea3fef802c58565341e5c5635f7f9b8b1686ef2fa20ac37b7bb",
+      "file_size": 1219,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_yhc.json",
+      "url": "animation/gif_photo/gif_6/gif_6_role_yhc.json",
+      "sha256": "72d69eff04c547d280c176f10c49024d882c2b16244f25c7793e33ea8aa1f7a4",
+      "file_size": 111091,
+      "source_kind": "hot_update_cache"
+    },
+    {
+      "path": "media/dynamic-photos/gif_6/gif_6_role_yhc.png",
+      "url": "animation/gif_photo/gif_6/gif_6_role_yhc.png",
+      "sha256": "169b400dc2f138595cfcf34580a443e09017873256dfb362442ddb1782f47070",
+      "file_size": 29981,
+      "source_kind": "hot_update_cache"
+    }
+  ],
+  "runtime": {
+    "path": "viewer/vendor/spine-3.8/spine-webgl.js",
+    "sha256": "4b108bad314c152bf0ff7a7f56fce5c98073f05a2bfa53e880d6c24b6f7c3aa5",
+    "source_url": "https://github.com/EsotericSoftware/spine-runtimes/tree/3.8/spine-ts",
+    "license": "viewer/vendor/spine-3.8/LICENSE.txt"
+  },
+  "gif_encoder": {
+    "path": "viewer/vendor/gifenc-1.0.3/gifenc.js",
+    "sha256": "ab1ff6a05a05ddb85f642ae4c3f96d9e69e56fcfc472982172b088344e0fdb59",
+    "version": "1.0.3",
+    "license": "viewer/vendor/gifenc-1.0.3/LICENSE.md"
+  }
+}
