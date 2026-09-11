@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "frames": {
+    "normal": {
+      "path": "media/catalog-ui/zukan_panel_png.png",
+      "sha256": "b5c14fd8dc564fbb1f4601a86f5008c7ad271e40c22aa60fccbf462b35784d4d",
+      "file_size": 5064,
+      "width": 138,
+      "height": 138,
+      "resource_name": "zukan_panel_png",
+      "source_entry": "images/Scene/Present/zukan_panel.png"
+    },
+    "mooncake": {
+      "path": "media/catalog-ui/zukan_panel2_png.png",
+      "sha256": "5922071a457fcfda9c2bdba6a681cdfdf5c290809164025e9b1438c3e409ac6a",
+      "file_size": 10438,
+      "width": 138,
+      "height": 138,
+      "resource_name": "zukan_panel2_png",
+      "source_entry": "images/Scene/Present/zukan_panel2.png"
+    }
+  },
+  "mooncake_ids": [
+    "collection_49_png",
+    "collection_50_png",
+    "collection_51_png",
+    "collection_52_png",
+    "collection_53_png",
+    "collection_66_png",
+    "collection_67_png"
+  ],
+  "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+  "source_member_sha256": "a2ec9ab1741a45b0a1d354ebabe74b78e322be76d51518603724b5a3a21fd0cf",
+  "source_backup_sha256": "fc7fe7f037f5f5e68aef7594089313629ff566495a292cfa9519f1511e868553",
+  "resource_version": 1078,
+  "layout": {
+    "frame_size": 130,
+    "item_size": 74,
+    "item_vertical_center": 5
+  },
+  "note": "Original CollectionItem frame assets; seven mooncakes pinned per owner reference. Ownership unchanged."
+}
