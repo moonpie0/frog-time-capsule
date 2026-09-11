@@ -1,0 +1,1499 @@
+{
+  "schema_version": 1,
+  "source": "user_game_screenshots",
+  "recorded_on": "2026-09-11",
+  "method": "Image matching with visual verification; dates manually transcribed and visually checked.",
+  "date_precision": "day",
+  "date_meaning": "Date shown on the in-game note; not screenshot creation time.",
+  "screenshot_totals": {
+    "notes_obtained": 112,
+    "notes_total": 137,
+    "friends_obtained": 27,
+    "friends_total": 27
+  },
+  "unmatched_state": "unknown",
+  "summary": {
+    "dated_notes": 112,
+    "dated_friends": 27,
+    "dated_total": 139,
+    "catalog_notes": 137,
+    "catalog_friends": 27,
+    "notes_without_dates": 25,
+    "friends_without_dates": 0,
+    "by_type": {
+      "notes": {
+        "count": 112,
+        "earliest": "2021-06-28",
+        "latest": "2025-11-27",
+        "by_year": {
+          "2021": 35,
+          "2022": 36,
+          "2023": 31,
+          "2024": 7,
+          "2025": 3
+        }
+      },
+      "friends": {
+        "count": 27,
+        "earliest": "2021-07-22",
+        "latest": "2024-01-23",
+        "by_year": {
+          "2021": 3,
+          "2022": 8,
+          "2023": 14,
+          "2024": 2
+        }
+      }
+    },
+    "screenshot_count": 37,
+    "earliest": "2021-06-28",
+    "latest": "2025-11-27",
+    "by_year": {
+      "2021": 38,
+      "2022": 44,
+      "2023": 45,
+      "2024": 9,
+      "2025": 3
+    }
+  },
+  "sources": [
+    {
+      "file": "Screenshot_2026-09-11-16-50-07-108_com.aligames.l.jpg",
+      "sha256": "959d938c09641bfb2da70640b716796695c52df50df7804aeb96135c4f09563c",
+      "file_size": 737240
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-13-697_com.aligames.l.jpg",
+      "sha256": "7860d41c2e43c66352cd31751219e30da5447f2a67b47a826691c729a447e188",
+      "file_size": 694772
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-16-189_com.aligames.l.jpg",
+      "sha256": "2f353cb669e63bbbb96000f22b610428dff8841a6c06b68cf64e9d35d00f7ee5",
+      "file_size": 721295
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-38-970_com.aligames.l.jpg",
+      "sha256": "44d5971a2a64ef0b44a24d2d52a459bfc15f94b48302e512051c249dc94cc076",
+      "file_size": 729424
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-44-248_com.aligames.l.jpg",
+      "sha256": "a1c18b0a5f53a560bbd081f06acb7a72f825ded3e888411eeef3c0a636eca1e0",
+      "file_size": 738021
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-48-152_com.aligames.l.jpg",
+      "sha256": "721fa52251107a1005c358452a9e2fd75aa2586804b00427d7155b1b139e088d",
+      "file_size": 764177
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-51-717_com.aligames.l.jpg",
+      "sha256": "af3a9bd660b35aba90164b2f90c93f8c84d382e59b6280286b08253834a84367",
+      "file_size": 696635
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-55-747_com.aligames.l.jpg",
+      "sha256": "108b792afad3adcb8307ac5f2ec160defe4b4f605ca0d79d5fdb462dcb52eded",
+      "file_size": 715580
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-50-58-692_com.aligames.l.jpg",
+      "sha256": "872250c4b0133f126b4a945c807d2310994fa055739b09f5c097305241c527d6",
+      "file_size": 669112
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-01-614_com.aligames.l.jpg",
+      "sha256": "c0e1a317bea31da5d583916aca33e0dc7a0d9b0c2f7f7294ca95266433348831",
+      "file_size": 697929
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-06-745_com.aligames.l.jpg",
+      "sha256": "3f4b203569321e37cf4165f919d9e6ab9932ae26bf07fee5361a667405bc180d",
+      "file_size": 725299
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-10-736_com.aligames.l.jpg",
+      "sha256": "68c33f178329ddef6d91d8bc46b7f47d312de325827013423dde4b0343036706",
+      "file_size": 708030
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-14-494_com.aligames.l.jpg",
+      "sha256": "01561af9c62f9421577d98453659e2be39ed1a810ee7eff6b82f3baba9daf74f",
+      "file_size": 663914
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-17-766_com.aligames.l.jpg",
+      "sha256": "421a203a8d31c5cd6c80e7e7c336e1ebc12d7a074af77bf61881a6e56314a867",
+      "file_size": 705969
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-21-959_com.aligames.l.jpg",
+      "sha256": "378615d6b07d32d8ed580a4cc31ceb86f9f74bcf74e7cbed459d73eccbfc718c",
+      "file_size": 710058
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-25-696_com.aligames.l.jpg",
+      "sha256": "6e83f5b6c5ac4c7938d3dc5275401bb412d1014b263d6bd945cb5719b5654e19",
+      "file_size": 671916
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-28-148_com.aligames.l.jpg",
+      "sha256": "fbb63ba67b5662d0af6d16e26f3302474d2aebc9399f9863cc4b3d99870f27e4",
+      "file_size": 701209
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-30-912_com.aligames.l.jpg",
+      "sha256": "d80df783b51fe00ddbe6d48310451926fa1839855c5b1ec0630e14832ca769ef",
+      "file_size": 676311
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-34-143_com.aligames.l.jpg",
+      "sha256": "c0f832a713fc2e38f32087636f0fd46690d3b41f1380922ef0f4a725f36287ae",
+      "file_size": 682320
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-37-161_com.aligames.l.jpg",
+      "sha256": "465961ce3f487c91a9ced110dc1f2570034db6031114c1b96b6a7120d5742559",
+      "file_size": 709255
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-40-041_com.aligames.l.jpg",
+      "sha256": "09d3154d19d0c68425556e0f40f7e7391484de461c16a47445614341cca746b9",
+      "file_size": 671303
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-42-348_com.aligames.l.jpg",
+      "sha256": "89a7db7b36ac547b7af4cae38c6c3374b9bca3e3c5286ddcab1f61abe48b4ca8",
+      "file_size": 689643
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-47-208_com.aligames.l.jpg",
+      "sha256": "8fd2d073e653af9d0bcb5c08fa3e269568df63d230d4e3e690489f0b70d800e6",
+      "file_size": 681032
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-50-046_com.aligames.l.jpg",
+      "sha256": "db372b4ac52d315bde8bc53bd01de9be1c849a32781938710885c2fb445b0bf0",
+      "file_size": 704956
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-52-670_com.aligames.l.jpg",
+      "sha256": "8ffff8b083f702f2fcb6588191c896e61112b4c4b8826685889e38cda1c45deb",
+      "file_size": 669779
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-55-385_com.aligames.l.jpg",
+      "sha256": "4a87c452e5b38422f11d37f1ea53c7679e8c33bb292cb06a950e51eca62f4879",
+      "file_size": 663138
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-51-58-864_com.aligames.l.jpg",
+      "sha256": "42802091d4e42d8041c1241a7417f8d045f1ae43b0a45d60b37b436375229c9a",
+      "file_size": 731850
+    },
+    {
+      "file": "Screenshot_2026-09-11-16-52-01-837_com.aligames.l.jpg",
+      "sha256": "18533f55f9993284237c5e29de3d7cf59ae3857347e33a84ca6cb51c02c36a80",
+      "file_size": 682978
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-29-809_com.aligames.l.jpg",
+      "sha256": "048abfb4e7634a897752d125d34a6095aa8d8585d164476d26c44df61a83bd20",
+      "file_size": 727468
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-32-754_com.aligames.l.jpg",
+      "sha256": "0a1765b40f77c4f627663e68f6c60590e3ee8216ed5bf02191518a49beb08153",
+      "file_size": 699128
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-35-464_com.aligames.l.jpg",
+      "sha256": "3803254fce183ebc5ee137fae9d39713b914b20fa179b6734bfbca65796ff60f",
+      "file_size": 708323
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-38-218_com.aligames.l.jpg",
+      "sha256": "b19b719f8b093c3ec32c449c69ad725ef6cd58e2dc9cdc6c501115f9ded02c43",
+      "file_size": 716116
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-42-448_com.aligames.l.jpg",
+      "sha256": "6462f3fd86f4aeb852628ae62f0e482f9d47f19f7760179c2f4f1b76f1c1ec43",
+      "file_size": 678761
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-47-095_com.aligames.l.jpg",
+      "sha256": "f52d28b4f2778d039dd0bb97b9e362b40490daecb2f6151ce86249daa9134b4a",
+      "file_size": 673345
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-50-020_com.aligames.l.jpg",
+      "sha256": "102dc3ca6e1672fd4bc2b0b5dc621794d2a5088c61a4cf749df3b98546c2f929",
+      "file_size": 739383
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-52-989_com.aligames.l.jpg",
+      "sha256": "b72ffd310ba1876d4972cd743d54cd5857aa131acc5e4e707ac0ae279b717e0c",
+      "file_size": 687354
+    },
+    {
+      "file": "Screenshot_2026-09-11-17-09-55-380_com.aligames.l.jpg",
+      "sha256": "5090af5674ee879008a5fb47eb492df55de874de59cdfe10d72db31ff8a121f8",
+      "file_size": 800999
+    }
+  ],
+  "records": [
+    {
+      "id": 1000,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-08",
+      "source_file": "Screenshot_2026-09-11-16-51-42-348_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "89a7db7b36ac547b7af4cae38c6c3374b9bca3e3c5286ddcab1f61abe48b4ca8"
+    },
+    {
+      "id": 1001,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-11-27",
+      "source_file": "Screenshot_2026-09-11-16-50-38-970_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "44d5971a2a64ef0b44a24d2d52a459bfc15f94b48302e512051c249dc94cc076"
+    },
+    {
+      "id": 1002,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-01-12",
+      "source_file": "Screenshot_2026-09-11-16-51-34-143_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "c0f832a713fc2e38f32087636f0fd46690d3b41f1380922ef0f4a725f36287ae"
+    },
+    {
+      "id": 1003,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-28",
+      "source_file": "Screenshot_2026-09-11-16-51-14-494_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "01561af9c62f9421577d98453659e2be39ed1a810ee7eff6b82f3baba9daf74f"
+    },
+    {
+      "id": 1004,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-10",
+      "source_file": "Screenshot_2026-09-11-16-51-55-385_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "4a87c452e5b38422f11d37f1ea53c7679e8c33bb292cb06a950e51eca62f4879"
+    },
+    {
+      "id": 1006,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-23",
+      "source_file": "Screenshot_2026-09-11-16-51-47-208_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "8fd2d073e653af9d0bcb5c08fa3e269568df63d230d4e3e690489f0b70d800e6"
+    },
+    {
+      "id": 1007,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-01-14",
+      "source_file": "Screenshot_2026-09-11-16-51-30-912_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "d80df783b51fe00ddbe6d48310451926fa1839855c5b1ec0630e14832ca769ef"
+    },
+    {
+      "id": 1008,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-01-22",
+      "source_file": "Screenshot_2026-09-11-16-51-01-614_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "c0e1a317bea31da5d583916aca33e0dc7a0d9b0c2f7f7294ca95266433348831"
+    },
+    {
+      "id": 1009,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-29",
+      "source_file": "Screenshot_2026-09-11-16-51-37-161_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "465961ce3f487c91a9ced110dc1f2570034db6031114c1b96b6a7120d5742559"
+    },
+    {
+      "id": 1010,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-02-01",
+      "source_file": "Screenshot_2026-09-11-16-51-30-912_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "d80df783b51fe00ddbe6d48310451926fa1839855c5b1ec0630e14832ca769ef"
+    },
+    {
+      "id": 1011,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-07",
+      "source_file": "Screenshot_2026-09-11-16-52-01-837_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "18533f55f9993284237c5e29de3d7cf59ae3857347e33a84ca6cb51c02c36a80"
+    },
+    {
+      "id": 1014,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-15",
+      "source_file": "Screenshot_2026-09-11-16-51-50-046_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "db372b4ac52d315bde8bc53bd01de9be1c849a32781938710885c2fb445b0bf0"
+    },
+    {
+      "id": 1015,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-15",
+      "source_file": "Screenshot_2026-09-11-16-51-40-041_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "09d3154d19d0c68425556e0f40f7e7391484de461c16a47445614341cca746b9"
+    },
+    {
+      "id": 1019,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-07-24",
+      "source_file": "Screenshot_2026-09-11-16-51-25-696_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "6e83f5b6c5ac4c7938d3dc5275401bb412d1014b263d6bd945cb5719b5654e19"
+    },
+    {
+      "id": 1020,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-06-30",
+      "source_file": "Screenshot_2026-09-11-16-52-01-837_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "18533f55f9993284237c5e29de3d7cf59ae3857347e33a84ca6cb51c02c36a80"
+    },
+    {
+      "id": 1021,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-01-09",
+      "source_file": "Screenshot_2026-09-11-16-51-34-143_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "c0f832a713fc2e38f32087636f0fd46690d3b41f1380922ef0f4a725f36287ae"
+    },
+    {
+      "id": 1022,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-10",
+      "source_file": "Screenshot_2026-09-11-16-51-42-348_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "89a7db7b36ac547b7af4cae38c6c3374b9bca3e3c5286ddcab1f61abe48b4ca8"
+    },
+    {
+      "id": 1023,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-06-02",
+      "source_file": "Screenshot_2026-09-11-16-50-51-717_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "af3a9bd660b35aba90164b2f90c93f8c84d382e59b6280286b08253834a84367"
+    },
+    {
+      "id": 1024,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-08",
+      "source_file": "Screenshot_2026-09-11-16-51-58-864_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "42802091d4e42d8041c1241a7417f8d045f1ae43b0a45d60b37b436375229c9a"
+    },
+    {
+      "id": 1025,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-01-01",
+      "source_file": "Screenshot_2026-09-11-16-51-37-161_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "465961ce3f487c91a9ced110dc1f2570034db6031114c1b96b6a7120d5742559"
+    },
+    {
+      "id": 1026,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-06-28",
+      "source_file": "Screenshot_2026-09-11-16-52-01-837_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "18533f55f9993284237c5e29de3d7cf59ae3857347e33a84ca6cb51c02c36a80"
+    },
+    {
+      "id": 1027,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-08",
+      "source_file": "Screenshot_2026-09-11-16-51-58-864_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "42802091d4e42d8041c1241a7417f8d045f1ae43b0a45d60b37b436375229c9a"
+    },
+    {
+      "id": 1028,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-10-16",
+      "source_file": "Screenshot_2026-09-11-16-51-10-736_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "68c33f178329ddef6d91d8bc46b7f47d312de325827013423dde4b0343036706"
+    },
+    {
+      "id": 1029,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-05-02",
+      "source_file": "Screenshot_2026-09-11-16-50-51-717_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "af3a9bd660b35aba90164b2f90c93f8c84d382e59b6280286b08253834a84367"
+    },
+    {
+      "id": 1030,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2024-10-27",
+      "source_file": "Screenshot_2026-09-11-16-50-13-697_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "7860d41c2e43c66352cd31751219e30da5447f2a67b47a826691c729a447e188"
+    },
+    {
+      "id": 1031,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-01-03",
+      "source_file": "Screenshot_2026-09-11-16-51-34-143_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "c0f832a713fc2e38f32087636f0fd46690d3b41f1380922ef0f4a725f36287ae"
+    },
+    {
+      "id": 1032,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-01-03",
+      "source_file": "Screenshot_2026-09-11-16-51-34-143_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "c0f832a713fc2e38f32087636f0fd46690d3b41f1380922ef0f4a725f36287ae"
+    },
+    {
+      "id": 1033,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-09-02",
+      "source_file": "Screenshot_2026-09-11-16-51-14-494_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "01561af9c62f9421577d98453659e2be39ed1a810ee7eff6b82f3baba9daf74f"
+    },
+    {
+      "id": 1034,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-11",
+      "source_file": "Screenshot_2026-09-11-16-51-55-385_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "4a87c452e5b38422f11d37f1ea53c7679e8c33bb292cb06a950e51eca62f4879"
+    },
+    {
+      "id": 1035,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-03-16",
+      "source_file": "Screenshot_2026-09-11-16-50-55-747_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "108b792afad3adcb8307ac5f2ec160defe4b4f605ca0d79d5fdb462dcb52eded"
+    },
+    {
+      "id": 1036,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-12-14",
+      "source_file": "Screenshot_2026-09-11-16-51-37-161_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "465961ce3f487c91a9ced110dc1f2570034db6031114c1b96b6a7120d5742559"
+    },
+    {
+      "id": 1037,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-09-04",
+      "source_file": "Screenshot_2026-09-11-16-50-44-248_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "a1c18b0a5f53a560bbd081f06acb7a72f825ded3e888411eeef3c0a636eca1e0"
+    },
+    {
+      "id": 1038,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-02-15",
+      "source_file": "Screenshot_2026-09-11-16-51-30-912_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "d80df783b51fe00ddbe6d48310451926fa1839855c5b1ec0630e14832ca769ef"
+    },
+    {
+      "id": 1039,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-02",
+      "source_file": "Screenshot_2026-09-11-16-51-42-348_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "89a7db7b36ac547b7af4cae38c6c3374b9bca3e3c5286ddcab1f61abe48b4ca8"
+    },
+    {
+      "id": 1040,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-29",
+      "source_file": "Screenshot_2026-09-11-16-51-42-348_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "89a7db7b36ac547b7af4cae38c6c3374b9bca3e3c5286ddcab1f61abe48b4ca8"
+    },
+    {
+      "id": 1041,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-11-10",
+      "source_file": "Screenshot_2026-09-11-16-50-38-970_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "44d5971a2a64ef0b44a24d2d52a459bfc15f94b48302e512051c249dc94cc076"
+    },
+    {
+      "id": 1042,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-08",
+      "source_file": "Screenshot_2026-09-11-16-51-55-385_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "4a87c452e5b38422f11d37f1ea53c7679e8c33bb292cb06a950e51eca62f4879"
+    },
+    {
+      "id": 1043,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-03-21",
+      "source_file": "Screenshot_2026-09-11-16-51-28-148_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "fbb63ba67b5662d0af6d16e26f3302474d2aebc9399f9863cc4b3d99870f27e4"
+    },
+    {
+      "id": 1044,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-05-15",
+      "source_file": "Screenshot_2026-09-11-16-51-25-696_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "6e83f5b6c5ac4c7938d3dc5275401bb412d1014b263d6bd945cb5719b5654e19"
+    },
+    {
+      "id": 1045,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-10-17",
+      "source_file": "Screenshot_2026-09-11-16-50-38-970_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "44d5971a2a64ef0b44a24d2d52a459bfc15f94b48302e512051c249dc94cc076"
+    },
+    {
+      "id": 1046,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-29",
+      "source_file": "Screenshot_2026-09-11-16-51-52-670_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "8ffff8b083f702f2fcb6588191c896e61112b4c4b8826685889e38cda1c45deb"
+    },
+    {
+      "id": 1047,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-10-25",
+      "source_file": "Screenshot_2026-09-11-16-50-38-970_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "44d5971a2a64ef0b44a24d2d52a459bfc15f94b48302e512051c249dc94cc076"
+    },
+    {
+      "id": 1048,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-04-01",
+      "source_file": "Screenshot_2026-09-11-16-50-55-747_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "108b792afad3adcb8307ac5f2ec160defe4b4f605ca0d79d5fdb462dcb52eded"
+    },
+    {
+      "id": 1049,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-04-06",
+      "source_file": "Screenshot_2026-09-11-16-50-55-747_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "108b792afad3adcb8307ac5f2ec160defe4b4f605ca0d79d5fdb462dcb52eded"
+    },
+    {
+      "id": 1050,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-14",
+      "source_file": "Screenshot_2026-09-11-16-51-58-864_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "42802091d4e42d8041c1241a7417f8d045f1ae43b0a45d60b37b436375229c9a"
+    },
+    {
+      "id": 1051,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2024-04-24",
+      "source_file": "Screenshot_2026-09-11-16-50-16-189_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "2f353cb669e63bbbb96000f22b610428dff8841a6c06b68cf64e9d35d00f7ee5"
+    },
+    {
+      "id": 1052,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-03-04",
+      "source_file": "Screenshot_2026-09-11-16-50-58-692_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "872250c4b0133f126b4a945c807d2310994fa055739b09f5c097305241c527d6"
+    },
+    {
+      "id": 1053,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2025-01-11",
+      "source_file": "Screenshot_2026-09-11-16-50-07-108_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "959d938c09641bfb2da70640b716796695c52df50df7804aeb96135c4f09563c"
+    },
+    {
+      "id": 1054,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-17",
+      "source_file": "Screenshot_2026-09-11-16-51-17-766_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "421a203a8d31c5cd6c80e7e7c336e1ebc12d7a074af77bf61881a6e56314a867"
+    },
+    {
+      "id": 1055,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-17",
+      "source_file": "Screenshot_2026-09-11-16-51-17-766_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "421a203a8d31c5cd6c80e7e7c336e1ebc12d7a074af77bf61881a6e56314a867"
+    },
+    {
+      "id": 1056,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2024-12-27",
+      "source_file": "Screenshot_2026-09-11-16-50-07-108_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "959d938c09641bfb2da70640b716796695c52df50df7804aeb96135c4f09563c"
+    },
+    {
+      "id": 1057,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-11",
+      "source_file": "Screenshot_2026-09-11-16-51-21-959_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "378615d6b07d32d8ed580a4cc31ceb86f9f74bcf74e7cbed459d73eccbfc718c"
+    },
+    {
+      "id": 1058,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-11",
+      "source_file": "Screenshot_2026-09-11-16-51-21-959_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "378615d6b07d32d8ed580a4cc31ceb86f9f74bcf74e7cbed459d73eccbfc718c"
+    },
+    {
+      "id": 1059,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-01",
+      "source_file": "Screenshot_2026-09-11-16-52-01-837_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "18533f55f9993284237c5e29de3d7cf59ae3857347e33a84ca6cb51c02c36a80"
+    },
+    {
+      "id": 1060,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2024-04-11",
+      "source_file": "Screenshot_2026-09-11-16-50-16-189_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "2f353cb669e63bbbb96000f22b610428dff8841a6c06b68cf64e9d35d00f7ee5"
+    },
+    {
+      "id": 1061,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-10-10",
+      "source_file": "Screenshot_2026-09-11-16-51-10-736_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "68c33f178329ddef6d91d8bc46b7f47d312de325827013423dde4b0343036706"
+    },
+    {
+      "id": 1062,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-10-10",
+      "source_file": "Screenshot_2026-09-11-16-51-10-736_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "68c33f178329ddef6d91d8bc46b7f47d312de325827013423dde4b0343036706"
+    },
+    {
+      "id": 1063,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-01-19",
+      "source_file": "Screenshot_2026-09-11-16-51-30-912_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "d80df783b51fe00ddbe6d48310451926fa1839855c5b1ec0630e14832ca769ef"
+    },
+    {
+      "id": 1064,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-04",
+      "source_file": "Screenshot_2026-09-11-16-51-21-959_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "378615d6b07d32d8ed580a4cc31ceb86f9f74bcf74e7cbed459d73eccbfc718c"
+    },
+    {
+      "id": 1065,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-16",
+      "source_file": "Screenshot_2026-09-11-16-51-50-046_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "db372b4ac52d315bde8bc53bd01de9be1c849a32781938710885c2fb445b0bf0"
+    },
+    {
+      "id": 1066,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-01-04",
+      "source_file": "Screenshot_2026-09-11-16-51-06-745_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "3f4b203569321e37cf4165f919d9e6ab9932ae26bf07fee5361a667405bc180d"
+    },
+    {
+      "id": 1067,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-01-12",
+      "source_file": "Screenshot_2026-09-11-16-51-01-614_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "c0e1a317bea31da5d583916aca33e0dc7a0d9b0c2f7f7294ca95266433348831"
+    },
+    {
+      "id": 1069,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-11-26",
+      "source_file": "Screenshot_2026-09-11-16-51-06-745_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "3f4b203569321e37cf4165f919d9e6ab9932ae26bf07fee5361a667405bc180d"
+    },
+    {
+      "id": 1070,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-10-25",
+      "source_file": "Screenshot_2026-09-11-16-51-10-736_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "68c33f178329ddef6d91d8bc46b7f47d312de325827013423dde4b0343036706"
+    },
+    {
+      "id": 1071,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-25",
+      "source_file": "Screenshot_2026-09-11-16-51-17-766_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "421a203a8d31c5cd6c80e7e7c336e1ebc12d7a074af77bf61881a6e56314a867"
+    },
+    {
+      "id": 1072,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-07-04",
+      "source_file": "Screenshot_2026-09-11-16-51-25-696_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "6e83f5b6c5ac4c7938d3dc5275401bb412d1014b263d6bd945cb5719b5654e19"
+    },
+    {
+      "id": 1073,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-22",
+      "source_file": "Screenshot_2026-09-11-16-51-47-208_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "8fd2d073e653af9d0bcb5c08fa3e269568df63d230d4e3e690489f0b70d800e6"
+    },
+    {
+      "id": 1074,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-27",
+      "source_file": "Screenshot_2026-09-11-16-51-37-161_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "465961ce3f487c91a9ced110dc1f2570034db6031114c1b96b6a7120d5742559"
+    },
+    {
+      "id": 1075,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-25",
+      "source_file": "Screenshot_2026-09-11-16-51-17-766_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "421a203a8d31c5cd6c80e7e7c336e1ebc12d7a074af77bf61881a6e56314a867"
+    },
+    {
+      "id": 1076,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-02-21",
+      "source_file": "Screenshot_2026-09-11-16-50-58-692_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "872250c4b0133f126b4a945c807d2310994fa055739b09f5c097305241c527d6"
+    },
+    {
+      "id": 1077,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-02-21",
+      "source_file": "Screenshot_2026-09-11-16-50-58-692_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "872250c4b0133f126b4a945c807d2310994fa055739b09f5c097305241c527d6"
+    },
+    {
+      "id": 1078,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-22",
+      "source_file": "Screenshot_2026-09-11-16-51-52-670_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "8ffff8b083f702f2fcb6588191c896e61112b4c4b8826685889e38cda1c45deb"
+    },
+    {
+      "id": 1079,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-19",
+      "source_file": "Screenshot_2026-09-11-16-51-40-041_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "09d3154d19d0c68425556e0f40f7e7391484de461c16a47445614341cca746b9"
+    },
+    {
+      "id": 1080,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-07-30",
+      "source_file": "Screenshot_2026-09-11-16-50-44-248_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "a1c18b0a5f53a560bbd081f06acb7a72f825ded3e888411eeef3c0a636eca1e0"
+    },
+    {
+      "id": 1081,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-30",
+      "source_file": "Screenshot_2026-09-11-16-51-52-670_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "8ffff8b083f702f2fcb6588191c896e61112b4c4b8826685889e38cda1c45deb"
+    },
+    {
+      "id": 1082,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-26",
+      "source_file": "Screenshot_2026-09-11-16-51-14-494_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "01561af9c62f9421577d98453659e2be39ed1a810ee7eff6b82f3baba9daf74f"
+    },
+    {
+      "id": 1083,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-04-27",
+      "source_file": "Screenshot_2026-09-11-16-50-51-717_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "af3a9bd660b35aba90164b2f90c93f8c84d382e59b6280286b08253834a84367"
+    },
+    {
+      "id": 1085,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-09-08",
+      "source_file": "Screenshot_2026-09-11-16-51-14-494_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "01561af9c62f9421577d98453659e2be39ed1a810ee7eff6b82f3baba9daf74f"
+    },
+    {
+      "id": 1086,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-26",
+      "source_file": "Screenshot_2026-09-11-16-51-47-208_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "8fd2d073e653af9d0bcb5c08fa3e269568df63d230d4e3e690489f0b70d800e6"
+    },
+    {
+      "id": 1087,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-03",
+      "source_file": "Screenshot_2026-09-11-16-51-50-046_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "db372b4ac52d315bde8bc53bd01de9be1c849a32781938710885c2fb445b0bf0"
+    },
+    {
+      "id": 1088,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-03",
+      "source_file": "Screenshot_2026-09-11-16-51-50-046_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "db372b4ac52d315bde8bc53bd01de9be1c849a32781938710885c2fb445b0bf0"
+    },
+    {
+      "id": 1089,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-22",
+      "source_file": "Screenshot_2026-09-11-16-51-40-041_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "09d3154d19d0c68425556e0f40f7e7391484de461c16a47445614341cca746b9"
+    },
+    {
+      "id": 1090,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-11-15",
+      "source_file": "Screenshot_2026-09-11-16-51-40-041_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "09d3154d19d0c68425556e0f40f7e7391484de461c16a47445614341cca746b9"
+    },
+    {
+      "id": 1091,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-10-28",
+      "source_file": "Screenshot_2026-09-11-16-51-47-208_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "8fd2d073e653af9d0bcb5c08fa3e269568df63d230d4e3e690489f0b70d800e6"
+    },
+    {
+      "id": 1092,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-12",
+      "source_file": "Screenshot_2026-09-11-16-51-58-864_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "42802091d4e42d8041c1241a7417f8d045f1ae43b0a45d60b37b436375229c9a"
+    },
+    {
+      "id": 1093,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-06-25",
+      "source_file": "Screenshot_2026-09-11-16-50-48-152_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "721fa52251107a1005c358452a9e2fd75aa2586804b00427d7155b1b139e088d"
+    },
+    {
+      "id": 1094,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-01",
+      "source_file": "Screenshot_2026-09-11-16-51-25-696_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "6e83f5b6c5ac4c7938d3dc5275401bb412d1014b263d6bd945cb5719b5654e19"
+    },
+    {
+      "id": 1097,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-03-10",
+      "source_file": "Screenshot_2026-09-11-16-50-58-692_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "872250c4b0133f126b4a945c807d2310994fa055739b09f5c097305241c527d6"
+    },
+    {
+      "id": 1098,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-03-05",
+      "source_file": "Screenshot_2026-09-11-16-51-28-148_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "fbb63ba67b5662d0af6d16e26f3302474d2aebc9399f9863cc4b3d99870f27e4"
+    },
+    {
+      "id": 1099,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-19",
+      "source_file": "Screenshot_2026-09-11-16-51-55-385_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "4a87c452e5b38422f11d37f1ea53c7679e8c33bb292cb06a950e51eca62f4879"
+    },
+    {
+      "id": 1100,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-01-05",
+      "source_file": "Screenshot_2026-09-11-16-51-01-614_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "c0e1a317bea31da5d583916aca33e0dc7a0d9b0c2f7f7294ca95266433348831"
+    },
+    {
+      "id": 1101,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-09-04",
+      "source_file": "Screenshot_2026-09-11-16-50-44-248_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "a1c18b0a5f53a560bbd081f06acb7a72f825ded3e888411eeef3c0a636eca1e0"
+    },
+    {
+      "id": 1102,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-07-27",
+      "source_file": "Screenshot_2026-09-11-16-50-44-248_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "a1c18b0a5f53a560bbd081f06acb7a72f825ded3e888411eeef3c0a636eca1e0"
+    },
+    {
+      "id": 1106,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-04-30",
+      "source_file": "Screenshot_2026-09-11-16-51-28-148_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "fbb63ba67b5662d0af6d16e26f3302474d2aebc9399f9863cc4b3d99870f27e4"
+    },
+    {
+      "id": 1107,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-17",
+      "source_file": "Screenshot_2026-09-11-16-51-21-959_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "378615d6b07d32d8ed580a4cc31ceb86f9f74bcf74e7cbed459d73eccbfc718c"
+    },
+    {
+      "id": 1108,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2024-08-13",
+      "source_file": "Screenshot_2026-09-11-16-50-13-697_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "7860d41c2e43c66352cd31751219e30da5447f2a67b47a826691c729a447e188"
+    },
+    {
+      "id": 1109,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-06-21",
+      "source_file": "Screenshot_2026-09-11-16-50-48-152_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "721fa52251107a1005c358452a9e2fd75aa2586804b00427d7155b1b139e088d"
+    },
+    {
+      "id": 1110,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-06-02",
+      "source_file": "Screenshot_2026-09-11-16-50-48-152_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "721fa52251107a1005c358452a9e2fd75aa2586804b00427d7155b1b139e088d"
+    },
+    {
+      "id": 1112,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-29",
+      "source_file": "Screenshot_2026-09-11-16-51-52-670_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "8ffff8b083f702f2fcb6588191c896e61112b4c4b8826685889e38cda1c45deb"
+    },
+    {
+      "id": 1116,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2025-11-14",
+      "source_file": "Screenshot_2026-09-11-16-50-07-108_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "959d938c09641bfb2da70640b716796695c52df50df7804aeb96135c4f09563c"
+    },
+    {
+      "id": 1117,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-04-03",
+      "source_file": "Screenshot_2026-09-11-16-50-55-747_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "108b792afad3adcb8307ac5f2ec160defe4b4f605ca0d79d5fdb462dcb52eded"
+    },
+    {
+      "id": 1118,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-03-05",
+      "source_file": "Screenshot_2026-09-11-16-51-28-148_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "fbb63ba67b5662d0af6d16e26f3302474d2aebc9399f9863cc4b3d99870f27e4"
+    },
+    {
+      "id": 1119,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-11-17",
+      "source_file": "Screenshot_2026-09-11-16-51-06-745_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "3f4b203569321e37cf4165f919d9e6ab9932ae26bf07fee5361a667405bc180d"
+    },
+    {
+      "id": 1120,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-11-27",
+      "source_file": "Screenshot_2026-09-11-16-50-16-189_com.aligames.l.jpg",
+      "source_row": 4,
+      "source_sha256": "2f353cb669e63bbbb96000f22b610428dff8841a6c06b68cf64e9d35d00f7ee5"
+    },
+    {
+      "id": 1125,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2022-12-24",
+      "source_file": "Screenshot_2026-09-11-16-51-06-745_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "3f4b203569321e37cf4165f919d9e6ab9932ae26bf07fee5361a667405bc180d"
+    },
+    {
+      "id": 1126,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-06-10",
+      "source_file": "Screenshot_2026-09-11-16-50-48-152_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "721fa52251107a1005c358452a9e2fd75aa2586804b00427d7155b1b139e088d"
+    },
+    {
+      "id": 1127,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-04-29",
+      "source_file": "Screenshot_2026-09-11-16-50-51-717_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "af3a9bd660b35aba90164b2f90c93f8c84d382e59b6280286b08253834a84367"
+    },
+    {
+      "id": 1128,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-01-19",
+      "source_file": "Screenshot_2026-09-11-16-51-01-614_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "c0e1a317bea31da5d583916aca33e0dc7a0d9b0c2f7f7294ca95266433348831"
+    },
+    {
+      "id": 1129,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2024-09-11",
+      "source_file": "Screenshot_2026-09-11-16-50-13-697_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "7860d41c2e43c66352cd31751219e30da5447f2a67b47a826691c729a447e188"
+    },
+    {
+      "id": 1130,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2024-11-14",
+      "source_file": "Screenshot_2026-09-11-16-50-13-697_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "7860d41c2e43c66352cd31751219e30da5447f2a67b47a826691c729a447e188"
+    },
+    {
+      "id": 1133,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2025-11-27",
+      "source_file": "Screenshot_2026-09-11-16-50-07-108_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "959d938c09641bfb2da70640b716796695c52df50df7804aeb96135c4f09563c"
+    },
+    {
+      "id": 1134,
+      "type": 1,
+      "ownership": "obtained",
+      "obtained_at": "2023-11-29",
+      "source_file": "Screenshot_2026-09-11-16-50-16-189_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "2f353cb669e63bbbb96000f22b610428dff8841a6c06b68cf64e9d35d00f7ee5"
+    },
+    {
+      "id": 2000,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2021-07-22",
+      "source_file": "Screenshot_2026-09-11-17-09-55-380_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "5090af5674ee879008a5fb47eb492df55de874de59cdfe10d72db31ff8a121f8"
+    },
+    {
+      "id": 2001,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2021-08-30",
+      "source_file": "Screenshot_2026-09-11-17-09-55-380_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "5090af5674ee879008a5fb47eb492df55de874de59cdfe10d72db31ff8a121f8"
+    },
+    {
+      "id": 2002,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2021-12-16",
+      "source_file": "Screenshot_2026-09-11-17-09-55-380_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "5090af5674ee879008a5fb47eb492df55de874de59cdfe10d72db31ff8a121f8"
+    },
+    {
+      "id": 2003,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-07-05",
+      "source_file": "Screenshot_2026-09-11-17-09-52-989_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "b72ffd310ba1876d4972cd743d54cd5857aa131acc5e4e707ac0ae279b717e0c"
+    },
+    {
+      "id": 2004,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-05-31",
+      "source_file": "Screenshot_2026-09-11-17-09-52-989_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "b72ffd310ba1876d4972cd743d54cd5857aa131acc5e4e707ac0ae279b717e0c"
+    },
+    {
+      "id": 2005,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-10-29",
+      "source_file": "Screenshot_2026-09-11-17-09-47-095_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "f52d28b4f2778d039dd0bb97b9e362b40490daecb2f6151ce86249daa9134b4a"
+    },
+    {
+      "id": 2006,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-10-23",
+      "source_file": "Screenshot_2026-09-11-17-09-50-020_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "102dc3ca6e1672fd4bc2b0b5dc621794d2a5088c61a4cf749df3b98546c2f929"
+    },
+    {
+      "id": 2007,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-08-12",
+      "source_file": "Screenshot_2026-09-11-17-09-50-020_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "102dc3ca6e1672fd4bc2b0b5dc621794d2a5088c61a4cf749df3b98546c2f929"
+    },
+    {
+      "id": 2008,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-03-15",
+      "source_file": "Screenshot_2026-09-11-17-09-38-218_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "b19b719f8b093c3ec32c449c69ad725ef6cd58e2dc9cdc6c501115f9ded02c43"
+    },
+    {
+      "id": 2009,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-09-28",
+      "source_file": "Screenshot_2026-09-11-17-09-32-754_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "0a1765b40f77c4f627663e68f6c60590e3ee8216ed5bf02191518a49beb08153"
+    },
+    {
+      "id": 2010,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-02-21",
+      "source_file": "Screenshot_2026-09-11-17-09-42-448_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "6462f3fd86f4aeb852628ae62f0e482f9d47f19f7760179c2f4f1b76f1c1ec43"
+    },
+    {
+      "id": 2011,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-08-26",
+      "source_file": "Screenshot_2026-09-11-17-09-32-754_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "0a1765b40f77c4f627663e68f6c60590e3ee8216ed5bf02191518a49beb08153"
+    },
+    {
+      "id": 2012,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-04-07",
+      "source_file": "Screenshot_2026-09-11-17-09-38-218_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "b19b719f8b093c3ec32c449c69ad725ef6cd58e2dc9cdc6c501115f9ded02c43"
+    },
+    {
+      "id": 2013,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-07-17",
+      "source_file": "Screenshot_2026-09-11-17-09-52-989_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "b72ffd310ba1876d4972cd743d54cd5857aa131acc5e4e707ac0ae279b717e0c"
+    },
+    {
+      "id": 2014,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-01-12",
+      "source_file": "Screenshot_2026-09-11-17-09-42-448_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "6462f3fd86f4aeb852628ae62f0e482f9d47f19f7760179c2f4f1b76f1c1ec43"
+    },
+    {
+      "id": 2015,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-01-12",
+      "source_file": "Screenshot_2026-09-11-17-09-47-095_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "f52d28b4f2778d039dd0bb97b9e362b40490daecb2f6151ce86249daa9134b4a"
+    },
+    {
+      "id": 2016,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-12-09",
+      "source_file": "Screenshot_2026-09-11-17-09-47-095_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "f52d28b4f2778d039dd0bb97b9e362b40490daecb2f6151ce86249daa9134b4a"
+    },
+    {
+      "id": 2017,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-05-26",
+      "source_file": "Screenshot_2026-09-11-17-09-35-464_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "3803254fce183ebc5ee137fae9d39713b914b20fa179b6734bfbca65796ff60f"
+    },
+    {
+      "id": 2018,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2024-01-11",
+      "source_file": "Screenshot_2026-09-11-17-09-29-809_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "048abfb4e7634a897752d125d34a6095aa8d8585d164476d26c44df61a83bd20"
+    },
+    {
+      "id": 2019,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-06-15",
+      "source_file": "Screenshot_2026-09-11-17-09-35-464_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "3803254fce183ebc5ee137fae9d39713b914b20fa179b6734bfbca65796ff60f"
+    },
+    {
+      "id": 2020,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-11-19",
+      "source_file": "Screenshot_2026-09-11-17-09-29-809_com.aligames.l.jpg",
+      "source_row": 3,
+      "source_sha256": "048abfb4e7634a897752d125d34a6095aa8d8585d164476d26c44df61a83bd20"
+    },
+    {
+      "id": 2021,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2024-01-23",
+      "source_file": "Screenshot_2026-09-11-17-09-29-809_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "048abfb4e7634a897752d125d34a6095aa8d8585d164476d26c44df61a83bd20"
+    },
+    {
+      "id": 2022,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2022-09-08",
+      "source_file": "Screenshot_2026-09-11-17-09-50-020_com.aligames.l.jpg",
+      "source_row": 2,
+      "source_sha256": "102dc3ca6e1672fd4bc2b0b5dc621794d2a5088c61a4cf749df3b98546c2f929"
+    },
+    {
+      "id": 2023,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-05-01",
+      "source_file": "Screenshot_2026-09-11-17-09-38-218_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "b19b719f8b093c3ec32c449c69ad725ef6cd58e2dc9cdc6c501115f9ded02c43"
+    },
+    {
+      "id": 2024,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-02-23",
+      "source_file": "Screenshot_2026-09-11-17-09-42-448_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "6462f3fd86f4aeb852628ae62f0e482f9d47f19f7760179c2f4f1b76f1c1ec43"
+    },
+    {
+      "id": 2025,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-07-10",
+      "source_file": "Screenshot_2026-09-11-17-09-35-464_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "3803254fce183ebc5ee137fae9d39713b914b20fa179b6734bfbca65796ff60f"
+    },
+    {
+      "id": 2026,
+      "type": 2,
+      "ownership": "obtained",
+      "obtained_at": "2023-11-14",
+      "source_file": "Screenshot_2026-09-11-17-09-32-754_com.aligames.l.jpg",
+      "source_row": 1,
+      "source_sha256": "0a1765b40f77c4f627663e68f6c60590e3ee8216ed5bf02191518a49beb08153"
+    }
+  ]
+}
