@@ -3,6 +3,9 @@
   "ownership_source": "user_confirmed",
   "user_id": "4345023",
   "recorded_date": "2026-09-09",
+  "confirmations": [
+    {"name": "蛙选之人", "ownership": "obtained", "validity": "expired", "confirmed_date": "2026-09-11", "source": "user_confirmed", "notes": "本人确认曾获得，目前已过期；具体到期日期未知。"}
+  ],
   "notes": "按截图时间及图内顺序人工核对可读文字；不录入问号占位项，不推断获得时间、装备状态或截图间未显示的条目。",
   "screenshots": [
     {
