@@ -1,0 +1,767 @@
+{
+  "schema_version": 1,
+  "source": "static_client_config",
+  "account_records": "not_recovered",
+  "card_backgrounds": [
+    {
+      "id": 1,
+      "layer": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "name": "新春赐福",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          22,
+          -46
+        ],
+        [
+          169,
+          -95
+        ],
+        [
+          -137,
+          -86
+        ]
+      ],
+      "res": [
+        "springcard_1",
+        "",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        55,
+        55,
+        65
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "layer": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "name": "年味饺子",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          69,
+          38
+        ],
+        [
+          60,
+          -70
+        ],
+        [
+          -182,
+          -99
+        ]
+      ],
+      "res": [
+        "springcard_2",
+        "",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        50,
+        55,
+        60
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "layer": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "name": "萌兔舞狮",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          146,
+          79
+        ],
+        [
+          -53,
+          93
+        ],
+        [
+          -101,
+          14
+        ]
+      ],
+      "res": [
+        "springcard_3",
+        "",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        55,
+        60,
+        70
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "layer": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "name": "兔年喜柿",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -54
+        ],
+        [
+          110,
+          -88
+        ],
+        [
+          -173,
+          -88
+        ]
+      ],
+      "res": [
+        "springcard_4",
+        "",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        65,
+        70,
+        70
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 5,
+      "layer": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "name": "元宵花灯",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          64,
+          106
+        ],
+        [
+          164,
+          101
+        ],
+        [
+          -44,
+          26
+        ]
+      ],
+      "res": [
+        "springcard_5",
+        "",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        55,
+        60,
+        65
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "decorations": [
+    {
+      "buy_weight": 100,
+      "id": 101,
+      "index": 1,
+      "name": "青蛙1",
+      "pic": "springpaster_1",
+      "task_weight": 100,
+      "type": 1
+    },
+    {
+      "buy_weight": 100,
+      "id": 102,
+      "index": 2,
+      "name": "青蛙2",
+      "pic": "springpaster_2",
+      "task_weight": 100,
+      "type": 1
+    },
+    {
+      "buy_weight": 65,
+      "id": 103,
+      "index": 3,
+      "name": "青蛙3",
+      "pic": "springpaster_3",
+      "task_weight": 40,
+      "type": 1
+    },
+    {
+      "buy_weight": 100,
+      "id": 104,
+      "index": 4,
+      "name": "困困1",
+      "pic": "springpaster_4",
+      "task_weight": 100,
+      "type": 2
+    },
+    {
+      "buy_weight": 100,
+      "id": 105,
+      "index": 5,
+      "name": "困困2",
+      "pic": "springpaster_5",
+      "task_weight": 100,
+      "type": 2
+    },
+    {
+      "buy_weight": 65,
+      "id": 106,
+      "index": 6,
+      "name": "困困3",
+      "pic": "springpaster_6",
+      "task_weight": 40,
+      "type": 2
+    },
+    {
+      "buy_weight": 100,
+      "id": 107,
+      "index": 7,
+      "name": "胖胖1",
+      "pic": "springpaster_7",
+      "task_weight": 100,
+      "type": 3
+    },
+    {
+      "buy_weight": 100,
+      "id": 108,
+      "index": 8,
+      "name": "胖胖2",
+      "pic": "springpaster_8",
+      "task_weight": 100,
+      "type": 3
+    },
+    {
+      "buy_weight": 65,
+      "id": 109,
+      "index": 9,
+      "name": "胖胖3",
+      "pic": "springpaster_9",
+      "task_weight": 40,
+      "type": 3
+    },
+    {
+      "buy_weight": 100,
+      "id": 110,
+      "index": 10,
+      "name": "跳跳1",
+      "pic": "springpaster_10",
+      "task_weight": 100,
+      "type": 4
+    },
+    {
+      "buy_weight": 100,
+      "id": 111,
+      "index": 11,
+      "name": "跳跳2",
+      "pic": "springpaster_11",
+      "task_weight": 100,
+      "type": 4
+    },
+    {
+      "buy_weight": 65,
+      "id": 112,
+      "index": 12,
+      "name": "跳跳3",
+      "pic": "springpaster_12",
+      "task_weight": 40,
+      "type": 4
+    }
+  ],
+  "blessings": [
+    {
+      "desc": "龙年新气象，祝福送万家!",
+      "id": 1,
+      "type": 1
+    },
+    {
+      "desc": "新春大吉~",
+      "id": 2,
+      "type": 1
+    },
+    {
+      "desc": "年年如意，岁岁平安",
+      "id": 3,
+      "type": 1
+    },
+    {
+      "desc": "身体健康，事事顺心",
+      "id": 4,
+      "type": 1
+    },
+    {
+      "desc": "好梦成真，大吉大利",
+      "id": 5,
+      "type": 1
+    },
+    {
+      "desc": "乘风破浪，龙腾四海",
+      "id": 6,
+      "type": 1
+    }
+  ],
+  "images": {
+    "springcard_1_png": {
+      "path": "media/stories/spring/springcard_1_png.png",
+      "file_size": 174380,
+      "sha256": "7f296a7a17542ea7c543cec47f2cdd9b009b9951aa788ff1ed90cf4d1ccf1893",
+      "name": "springcard_1_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springcard_2_png": {
+      "path": "media/stories/spring/springcard_2_png.png",
+      "file_size": 189724,
+      "sha256": "2e34fe0ed5d91e330124d6f9e31a5614fe4d35a27ac3a2c669324f40c0a81b46",
+      "name": "springcard_2_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springcard_3_png": {
+      "path": "media/stories/spring/springcard_3_png.png",
+      "file_size": 215582,
+      "sha256": "7786f156fa20cb71fe762cd98d63a22971a69f9cd0230aa0f548b05b2da6c9df",
+      "name": "springcard_3_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_3.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springcard_4_png": {
+      "path": "media/stories/spring/springcard_4_png.png",
+      "file_size": 198755,
+      "sha256": "a38e57db10b66f962dc6e6fd1cde47cda69b56fcd1d3b765ebf1b56e08900a52",
+      "name": "springcard_4_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_4.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springcard_5_png": {
+      "path": "media/stories/spring/springcard_5_png.png",
+      "file_size": 172350,
+      "sha256": "c9a0983e7f5a269d9353b6119a3049204653b702a90d3526e1e29964a46144da",
+      "name": "springcard_5_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_5.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_10_png": {
+      "path": "media/stories/spring/springpaster_10_png.png",
+      "file_size": 23409,
+      "sha256": "eec366eb60e208cd52de569de0fb66eb9f8ba74bd78db53149697b4973335d71",
+      "name": "springpaster_10_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_10.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_11_png": {
+      "path": "media/stories/spring/springpaster_11_png.png",
+      "file_size": 24583,
+      "sha256": "75cf0d4b375bd5c1a1703259080f86ccbf8939bb398af7e2cc29d1eddb7718c0",
+      "name": "springpaster_11_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_11.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_12_png": {
+      "path": "media/stories/spring/springpaster_12_png.png",
+      "file_size": 24901,
+      "sha256": "3c9af37d49d7daf041d17890263a2cd578f6ead00bf885ea0027165111d94c9b",
+      "name": "springpaster_12_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_12.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_1_png": {
+      "path": "media/stories/spring/springpaster_1_png.png",
+      "file_size": 20260,
+      "sha256": "de4cce7f45f71667b4780070d808ac31ace74aebb79458ef82b50d42868882ed",
+      "name": "springpaster_1_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_2_png": {
+      "path": "media/stories/spring/springpaster_2_png.png",
+      "file_size": 22315,
+      "sha256": "7f7bc0b932feeaf59898b541ea8cc0f857106fcac189f80eb38907d753efe2cc",
+      "name": "springpaster_2_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_3_png": {
+      "path": "media/stories/spring/springpaster_3_png.png",
+      "file_size": 24736,
+      "sha256": "837a7ad8da57182a4129f58e031c3292fa9485eb8a796fbbcf0c23147e69ef6a",
+      "name": "springpaster_3_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_3.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_4_png": {
+      "path": "media/stories/spring/springpaster_4_png.png",
+      "file_size": 23344,
+      "sha256": "1b0e26cdf937e4b24dd1e2daba04ae9ec8d2c9955d8b9ce35fd7bfb145d45f4f",
+      "name": "springpaster_4_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_4.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_5_png": {
+      "path": "media/stories/spring/springpaster_5_png.png",
+      "file_size": 20360,
+      "sha256": "3f59f7d9af198e87376bf03e93a29f22120aca9082480c7e7c573e442a12f88f",
+      "name": "springpaster_5_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_5.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_6_png": {
+      "path": "media/stories/spring/springpaster_6_png.png",
+      "file_size": 22925,
+      "sha256": "d36a8a2912ba01f7c59eae6127732353c186b90a11e3a035241e1ace1d430d32",
+      "name": "springpaster_6_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_6.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_7_png": {
+      "path": "media/stories/spring/springpaster_7_png.png",
+      "file_size": 22255,
+      "sha256": "387362a0380651841c5a5cb550a0ce377efb99b74ce6f896806661bcf011025c",
+      "name": "springpaster_7_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_7.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_8_png": {
+      "path": "media/stories/spring/springpaster_8_png.png",
+      "file_size": 22712,
+      "sha256": "674f060b4c4394259d9465e6dddc198251c45c22317c91263b6bd08020a6bb35",
+      "name": "springpaster_8_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_8.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "springpaster_9_png": {
+      "path": "media/stories/spring/springpaster_9_png.png",
+      "file_size": 22515,
+      "sha256": "b55e819f682a250a771477d16a2e643d9427d4058c3b8328581b51e113b750ce",
+      "name": "springpaster_9_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_9.png",
+      "resource_version": "APK 1.0.20"
+    }
+  },
+  "source_config": {
+    "path": "parsed/spring-card-config.json",
+    "file_size": 9422,
+    "sha256": "427deb8b6fcf3306c083b66bb8776b702c9455b1a608fcd33f98ea0c6d0c31b8"
+  },
+  "file_list": [
+    {
+      "path": "media/stories/spring/springcard_1_png.png",
+      "file_size": 174380,
+      "sha256": "7f296a7a17542ea7c543cec47f2cdd9b009b9951aa788ff1ed90cf4d1ccf1893",
+      "name": "springcard_1_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springcard_2_png.png",
+      "file_size": 189724,
+      "sha256": "2e34fe0ed5d91e330124d6f9e31a5614fe4d35a27ac3a2c669324f40c0a81b46",
+      "name": "springcard_2_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springcard_3_png.png",
+      "file_size": 215582,
+      "sha256": "7786f156fa20cb71fe762cd98d63a22971a69f9cd0230aa0f548b05b2da6c9df",
+      "name": "springcard_3_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_3.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springcard_4_png.png",
+      "file_size": 198755,
+      "sha256": "a38e57db10b66f962dc6e6fd1cde47cda69b56fcd1d3b765ebf1b56e08900a52",
+      "name": "springcard_4_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_4.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springcard_5_png.png",
+      "file_size": 172350,
+      "sha256": "c9a0983e7f5a269d9353b6119a3049204653b702a90d3526e1e29964a46144da",
+      "name": "springcard_5_png",
+      "width": 500,
+      "height": 300,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Card/springcard_5.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_10_png.png",
+      "file_size": 23409,
+      "sha256": "eec366eb60e208cd52de569de0fb66eb9f8ba74bd78db53149697b4973335d71",
+      "name": "springpaster_10_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_10.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_11_png.png",
+      "file_size": 24583,
+      "sha256": "75cf0d4b375bd5c1a1703259080f86ccbf8939bb398af7e2cc29d1eddb7718c0",
+      "name": "springpaster_11_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_11.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_12_png.png",
+      "file_size": 24901,
+      "sha256": "3c9af37d49d7daf041d17890263a2cd578f6ead00bf885ea0027165111d94c9b",
+      "name": "springpaster_12_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_12.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_1_png.png",
+      "file_size": 20260,
+      "sha256": "de4cce7f45f71667b4780070d808ac31ace74aebb79458ef82b50d42868882ed",
+      "name": "springpaster_1_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_2_png.png",
+      "file_size": 22315,
+      "sha256": "7f7bc0b932feeaf59898b541ea8cc0f857106fcac189f80eb38907d753efe2cc",
+      "name": "springpaster_2_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_3_png.png",
+      "file_size": 24736,
+      "sha256": "837a7ad8da57182a4129f58e031c3292fa9485eb8a796fbbcf0c23147e69ef6a",
+      "name": "springpaster_3_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_3.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_4_png.png",
+      "file_size": 23344,
+      "sha256": "1b0e26cdf937e4b24dd1e2daba04ae9ec8d2c9955d8b9ce35fd7bfb145d45f4f",
+      "name": "springpaster_4_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_4.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_5_png.png",
+      "file_size": 20360,
+      "sha256": "3f59f7d9af198e87376bf03e93a29f22120aca9082480c7e7c573e442a12f88f",
+      "name": "springpaster_5_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_5.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_6_png.png",
+      "file_size": 22925,
+      "sha256": "d36a8a2912ba01f7c59eae6127732353c186b90a11e3a035241e1ace1d430d32",
+      "name": "springpaster_6_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_6.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_7_png.png",
+      "file_size": 22255,
+      "sha256": "387362a0380651841c5a5cb550a0ce377efb99b74ce6f896806661bcf011025c",
+      "name": "springpaster_7_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_7.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_8_png.png",
+      "file_size": 22712,
+      "sha256": "674f060b4c4394259d9465e6dddc198251c45c22317c91263b6bd08020a6bb35",
+      "name": "springpaster_8_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_8.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "media/stories/spring/springpaster_9_png.png",
+      "file_size": 22515,
+      "sha256": "b55e819f682a250a771477d16a2e643d9427d4058c3b8328581b51e113b750ce",
+      "name": "springpaster_9_png",
+      "width": 150,
+      "height": 150,
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/SpringCard/Paster/springpaster_9.png",
+      "resource_version": "APK 1.0.20"
+    },
+    {
+      "path": "parsed/spring-card-config.json",
+      "file_size": 9422,
+      "sha256": "427deb8b6fcf3306c083b66bb8776b702c9455b1a608fcd33f98ea0c6d0c31b8"
+    }
+  ]
+}
