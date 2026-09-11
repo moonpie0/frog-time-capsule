@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-09-11T09:09:19+08:00",
-  "passed": 246,
+  "checked_at": "2026-09-11T11:54:07+08:00",
+  "passed": 248,
   "failed": 0,
   "untracked_files": [],
   "checks": [
@@ -1233,6 +1233,16 @@
       "path": "raw/com.aligames.lxqw.hhb/files/umeng_cache/539b8859e96c49d97bf9420c4dc7297b.jpg",
       "ok": true,
       "actual_sha256": "38ec9963a9a0c480da6522fb7901f714eb8fe2f82ab6c78e0d2dbb3acae8bfde"
+    },
+    {
+      "path": "screenshots/e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705.jpg",
+      "ok": true,
+      "actual_sha256": "e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705"
+    },
+    {
+      "path": "screenshots/c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10.jpg",
+      "ok": true,
+      "actual_sha256": "c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10"
     }
   ]
 }

@@ -1,0 +1,390 @@
+{
+  "schema_version": 1,
+  "source": "用户提供的两张收藏列表截图",
+  "records": [
+    {
+      "id": 1,
+      "background_id": 2,
+      "name": "阁楼赏月",
+      "sender": "小阿璇",
+      "ownership": "user_confirmed",
+      "gift_returned": true,
+      "gift_source": "用户确认所有礼物均已回礼",
+      "reconstruction": "screenshot_reconstruction",
+      "notes": "根据用户截图匹配原始素材，使用底图配置坐标复刻；未取得服务器原图。",
+      "path": "media/stories/collection/greeting-owned-1.png",
+      "sha256": "29b2a9fc13e7efc7f7e37c5cbfa14ca72479dd6b777f89bca713d4dc949dc32e",
+      "file_size": 366466,
+      "width": 1000,
+      "height": 600,
+      "layers": [
+        {
+          "resource": "greetcard_2",
+          "path": "media/stories/greetcard_2_png.png",
+          "sha256": "9ea07037ae7c440bf82c4fdbab9db2d875596986eebea6277083163e12a25564",
+          "layer": 1,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_2_1",
+          "path": "media/stories/greetcard_2_1_png.png",
+          "sha256": "1a650924bc1f129ce042a24cc74cdb17572a1c4542bc39f810fa801ed8ca31d5",
+          "layer": 2,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_7",
+          "path": "media/stories/greetpaster_7_png.png",
+          "sha256": "60cd3566081d3634bbbdf00a7aa572dd432ff3d5c025767de3e8090ecbd4f947",
+          "layer": 3,
+          "slot": 1,
+          "x": 416,
+          "y": 145,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_21",
+          "path": "media/stories/greetpaster_21_png.png",
+          "sha256": "d29cb638a9d3f6a2fabe65c9e8604a135784872f99cc4b4d49332366d3615187",
+          "layer": 4,
+          "slot": 2,
+          "x": 100,
+          "y": 65,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_2_2",
+          "path": "media/stories/greetcard_2_2_png.png",
+          "sha256": "da1c22b762646aea95190a2cde37ef7a9592fce993eb416bb4344c9fd3c8be56",
+          "layer": 5,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_2",
+          "path": "media/stories/greetpaster_2_png.png",
+          "sha256": "74d2dd7b7ad737261f4fbd7dc1f3c2b7f9d5d04162c454aa3b54974ed1b2346a",
+          "layer": 6,
+          "slot": 3,
+          "x": 150,
+          "y": 226,
+          "scale": 66,
+          "angle": 0,
+          "flip": false
+        }
+      ],
+      "screenshot": {
+        "path": "screenshots/e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705.jpg",
+        "sha256": "e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705",
+        "original_name": "Screenshot_2026-09-11-10-21-55-518_com.aligames.l.jpg"
+      },
+      "screenshot_row": 1
+    },
+    {
+      "id": 2,
+      "background_id": 4,
+      "name": "屋檐天灯",
+      "sender": "筱安然",
+      "ownership": "user_confirmed",
+      "gift_returned": true,
+      "gift_source": "用户确认所有礼物均已回礼",
+      "reconstruction": "screenshot_reconstruction",
+      "notes": "根据用户截图匹配原始素材，使用底图配置坐标复刻；未取得服务器原图。",
+      "path": "media/stories/collection/greeting-owned-2.png",
+      "sha256": "926da922677f1451a5f407c1d49a03bf4d41cef4219b6ffbb9c9e19e16adcf2b",
+      "file_size": 373691,
+      "width": 1000,
+      "height": 600,
+      "layers": [
+        {
+          "resource": "greetcard_4",
+          "path": "media/stories/greetcard_4_png.png",
+          "sha256": "a6f18582082c8df590c91e5c9bf82ce499d1bce1b466a198088acb0ab6c44ab3",
+          "layer": 1,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_4_1",
+          "path": "media/stories/greetcard_4_1_png.png",
+          "sha256": "d34791c00f5214a3a475e3f0c56d877d9c2e3edc2fd8a2602409ec0c3e232c5e",
+          "layer": 2,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_15",
+          "path": "media/stories/greetpaster_15_png.png",
+          "sha256": "d7e6c065ac0251bf7c0ec5a9954f92a1a0efa0986b6ad71a8e633e0e311b5df1",
+          "layer": 3,
+          "slot": 1,
+          "x": 261,
+          "y": 91,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_4_2",
+          "path": "media/stories/greetcard_4_2_png.png",
+          "sha256": "acc4ebdc3268ee3508f1bbcd144ff8d6b844a8add20d310fe5a7554ddf394d78",
+          "layer": 4,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_13",
+          "path": "media/stories/greetpaster_13_png.png",
+          "sha256": "fd16a6b9a8c3e08fca09af01c62f52f075f8733472216b9c28f860da1b3b0253",
+          "layer": 5,
+          "slot": 2,
+          "x": 446,
+          "y": 197,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_23",
+          "path": "media/stories/greetpaster_23_png.png",
+          "sha256": "01df95591e8e9a6e7b489c09022e5e236755a0023581a642c6bd18aa36d7efc6",
+          "layer": 6,
+          "slot": 3,
+          "x": 367,
+          "y": 189,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        }
+      ],
+      "screenshot": {
+        "path": "screenshots/e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705.jpg",
+        "sha256": "e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705",
+        "original_name": "Screenshot_2026-09-11-10-21-55-518_com.aligames.l.jpg"
+      },
+      "screenshot_row": 2
+    },
+    {
+      "id": 3,
+      "background_id": 4,
+      "name": "屋檐天灯",
+      "sender": "久",
+      "ownership": "user_confirmed",
+      "gift_returned": true,
+      "gift_source": "用户确认所有礼物均已回礼",
+      "reconstruction": "screenshot_reconstruction",
+      "notes": "根据用户截图匹配原始素材，使用底图配置坐标复刻；未取得服务器原图。",
+      "path": "media/stories/collection/greeting-owned-3.png",
+      "sha256": "3596f17028106e92b7fd2bea3539a7842002c1d1f6e0c5053a5da14b485c1097",
+      "file_size": 378629,
+      "width": 1000,
+      "height": 600,
+      "layers": [
+        {
+          "resource": "greetcard_4",
+          "path": "media/stories/greetcard_4_png.png",
+          "sha256": "a6f18582082c8df590c91e5c9bf82ce499d1bce1b466a198088acb0ab6c44ab3",
+          "layer": 1,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_4_1",
+          "path": "media/stories/greetcard_4_1_png.png",
+          "sha256": "d34791c00f5214a3a475e3f0c56d877d9c2e3edc2fd8a2602409ec0c3e232c5e",
+          "layer": 2,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_25",
+          "path": "media/stories/greetpaster_25_png.png",
+          "sha256": "49894579c699f39c2f888c4e3abeb2538e63dd84daffd7e9a575c219130a504d",
+          "layer": 3,
+          "slot": 1,
+          "x": 261,
+          "y": 91,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_4_2",
+          "path": "media/stories/greetcard_4_2_png.png",
+          "sha256": "acc4ebdc3268ee3508f1bbcd144ff8d6b844a8add20d310fe5a7554ddf394d78",
+          "layer": 4,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_1",
+          "path": "media/stories/greetpaster_1_png.png",
+          "sha256": "0a753df98c81b7bcad429bc42db17f6aded5dd5584ce258acbe87b06cc88894f",
+          "layer": 5,
+          "slot": 2,
+          "x": 446,
+          "y": 197,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_19",
+          "path": "media/stories/greetpaster_19_png.png",
+          "sha256": "27d014983b510278c8110512a486f4ec2519ab096a45e562dd039ca731dab31c",
+          "layer": 6,
+          "slot": 3,
+          "x": 367,
+          "y": 189,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        }
+      ],
+      "screenshot": {
+        "path": "screenshots/c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10.jpg",
+        "sha256": "c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10",
+        "original_name": "Screenshot_2026-09-11-10-21-57-730_com.aligames.l.jpg"
+      },
+      "screenshot_row": 1
+    },
+    {
+      "id": 4,
+      "background_id": 4,
+      "name": "屋檐天灯",
+      "sender": "濯清涟",
+      "ownership": "user_confirmed",
+      "gift_returned": true,
+      "gift_source": "用户确认所有礼物均已回礼",
+      "reconstruction": "screenshot_reconstruction",
+      "notes": "根据用户截图匹配原始素材，使用底图配置坐标复刻；未取得服务器原图。",
+      "path": "media/stories/collection/greeting-owned-4.png",
+      "sha256": "0a1d9ccf5db21da68355ef96a2401dafcdfa29e1c82727b6f900bfc29c86bbd5",
+      "file_size": 390468,
+      "width": 1000,
+      "height": 600,
+      "layers": [
+        {
+          "resource": "greetcard_4",
+          "path": "media/stories/greetcard_4_png.png",
+          "sha256": "a6f18582082c8df590c91e5c9bf82ce499d1bce1b466a198088acb0ab6c44ab3",
+          "layer": 1,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_4_1",
+          "path": "media/stories/greetcard_4_1_png.png",
+          "sha256": "d34791c00f5214a3a475e3f0c56d877d9c2e3edc2fd8a2602409ec0c3e232c5e",
+          "layer": 2,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_21",
+          "path": "media/stories/greetpaster_21_png.png",
+          "sha256": "d29cb638a9d3f6a2fabe65c9e8604a135784872f99cc4b4d49332366d3615187",
+          "layer": 3,
+          "slot": 1,
+          "x": 261,
+          "y": 91,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetcard_4_2",
+          "path": "media/stories/greetcard_4_2_png.png",
+          "sha256": "acc4ebdc3268ee3508f1bbcd144ff8d6b844a8add20d310fe5a7554ddf394d78",
+          "layer": 4,
+          "slot": 0,
+          "x": 250,
+          "y": 150,
+          "scale": 100,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_7",
+          "path": "media/stories/greetpaster_7_png.png",
+          "sha256": "60cd3566081d3634bbbdf00a7aa572dd432ff3d5c025767de3e8090ecbd4f947",
+          "layer": 5,
+          "slot": 2,
+          "x": 446,
+          "y": 197,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        },
+        {
+          "resource": "greetpaster_1",
+          "path": "media/stories/greetpaster_1_png.png",
+          "sha256": "0a753df98c81b7bcad429bc42db17f6aded5dd5584ce258acbe87b06cc88894f",
+          "layer": 6,
+          "slot": 3,
+          "x": 367,
+          "y": 189,
+          "scale": 53,
+          "angle": 0,
+          "flip": false
+        }
+      ],
+      "screenshot": {
+        "path": "screenshots/c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10.jpg",
+        "sha256": "c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10",
+        "original_name": "Screenshot_2026-09-11-10-21-57-730_com.aligames.l.jpg"
+      },
+      "screenshot_row": 2
+    }
+  ]
+}

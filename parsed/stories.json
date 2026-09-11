@@ -1,0 +1,2773 @@
+{
+  "schema_version": 1,
+  "stories": [
+    {
+      "storyid": 1,
+      "name": "凹凸不平的蜡笔",
+      "desc": "在墙角发现的蜡笔\n和小伙伴画了好多好多的画",
+      "icon": "storyItem_1",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 2,
+      "name": "缠在一起的棒子",
+      "desc": "形状很可爱的棒子\n留着作个纪念",
+      "icon": "storyItem_2",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 3,
+      "name": "捡来的书",
+      "desc": "看不懂写了什么\n但是一起按手印很好玩",
+      "icon": "storyItem_3",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 4,
+      "name": "空空的包装袋",
+      "desc": "在这里躲雨\n应该不会漏水吧",
+      "icon": "storyItem_4",
+      "type": 1,
+      "screenshot_confirmed_visible": true
+    },
+    {
+      "storyid": 5,
+      "name": "空空的信封",
+      "desc": "信还没来得及看\n就被大风给刮走了",
+      "icon": "storyItem_5",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 6,
+      "name": "梨子小提琴",
+      "desc": "只用一个梨子\n就和小伙伴完成了合奏",
+      "icon": "storyItem_6",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 7,
+      "name": "寻蛙启事",
+      "desc": "画上这家伙\n总觉得在哪里见过",
+      "icon": "storyItem_7",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 8,
+      "name": "破了洞的钱包",
+      "desc": "钱包还好找回来了\n可里面的钱呢",
+      "icon": "storyItem_8",
+      "type": 1,
+      "screenshot_confirmed_visible": true
+    },
+    {
+      "storyid": 9,
+      "name": "湿漉漉的红叶",
+      "desc": "河边漂来了一片红叶\n上面还画了东西",
+      "icon": "storyItem_9",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 10,
+      "name": "手工烤制的面包",
+      "desc": "一个陌生家伙送来的东西\n松软又美味",
+      "icon": "storyItem_10",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 11,
+      "name": "树枝双节棍",
+      "desc": "锻炼身体的话\n用这个就够了",
+      "icon": "storyItem_11",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 12,
+      "name": "四叶草手帕",
+      "desc": "天冷的时候\n裹在身上真暖和",
+      "icon": "storyItem_12",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 13,
+      "name": "西瓜跷跷板",
+      "desc": "午饭吃得太多\n怎么摇也摇不动",
+      "icon": "storyItem_13",
+      "type": 2,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 14,
+      "name": "光滑的肥皂",
+      "desc": "为了捡这玩意\n一连摔了好几个跤",
+      "icon": "storyItem_14",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 15,
+      "name": "小桔灯",
+      "desc": "桔子做成的小灯\n不知道会漂往哪里",
+      "icon": "storyItem_15",
+      "type": 1,
+      "screenshot_confirmed_visible": true
+    },
+    {
+      "storyid": 16,
+      "name": "沾了水的帽子",
+      "desc": "窄窄的独木桥上相遇\n话音刚落就....",
+      "icon": "storyItem_16",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 17,
+      "name": "苦瓜枕头",
+      "desc": "睡了个午觉\n醒来跟小伙伴数着谁的印子多",
+      "icon": "storyItem_17",
+      "type": 2,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 18,
+      "name": "绿豆沙袋",
+      "desc": "拿着里边的豆子\n互相丢了一下午",
+      "icon": "storyItem_18",
+      "type": 2,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 19,
+      "name": "风铃摇床",
+      "desc": "在风铃里枕着草絮\n与小伙伴一起睡了个舒服的觉",
+      "icon": "storyItem_19",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 20,
+      "name": "小朋友画作",
+      "desc": "画里也有一只青蛙\n约定好了带着它一起看世界",
+      "icon": "storyItem_20",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 21,
+      "name": "树叶礼盒",
+      "desc": "交换得来的礼盒\n不知道嘟嘟会不会介意",
+      "icon": "storyItem_21",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 22,
+      "name": "银杏信封",
+      "desc": "银杏装裹的明信片\n是小伙伴的心意",
+      "icon": "storyItem_22",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 23,
+      "name": "绿叶信封",
+      "desc": "是怎么做到的\n每次的信封都不一样",
+      "icon": "storyItem_23",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 24,
+      "name": "蛋糕设计图",
+      "desc": "你一笔我一画\n一个大蛋糕就勾勒出来了",
+      "icon": "storyItem_24",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    },
+    {
+      "storyid": 25,
+      "name": "荷叶漂流艇",
+      "desc": "除了挡雨\n也能换个方式看风景",
+      "icon": "storyItem_25",
+      "type": 1,
+      "screenshot_confirmed_visible": false
+    }
+  ],
+  "ui": [
+    {
+      "path": "media/stories/after_send_present_png.png",
+      "sha256": "58d387f6d1100ddd7a4248e4991d83600b93170ee362efca1eda4433b0c8dcbc",
+      "file_size": 2886,
+      "name": "after_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/after_send_present.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/back_story_png.png",
+      "sha256": "c1a5c13713acec1bdbe42486aece21cc05b4defc503bca7ca990eebb9bd3693b",
+      "file_size": 86319,
+      "name": "back_story_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/back_story.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/before_send_present_png.png",
+      "sha256": "3ec47f8fb102bf5e3f2c9f706bf681094c6ce3d9b8eb7e9d5b248c40f123c4d5",
+      "file_size": 3234,
+      "name": "before_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/before_send_present.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/express_send_present_png.png",
+      "sha256": "7a654c3d483bdfe5d57db11da09125db383d72bc59865c8af66739123d239760",
+      "file_size": 3569,
+      "name": "express_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/express_send_present.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/friendNameFrame_png.png",
+      "sha256": "3750f645091573b0ef516e9845cad659179ee876c119fad433b29bead5145a38",
+      "file_size": 3875,
+      "name": "friendNameFrame_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/friendNameFrame.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/from_png.png",
+      "sha256": "03b5e361db4965aaff961c70569fce99825ec59869fdf3faaa040e1d1ef30f09",
+      "file_size": 2266,
+      "name": "from_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/from.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/go_look_png.png",
+      "sha256": "ea9935859575af5a4ca038a223529246f5e471119615981a7fee472fc0ff53e3",
+      "file_size": 6593,
+      "name": "go_look_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/go_look.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/page_01_png.png",
+      "sha256": "29938704ef7da10bae18e4687cbc5882af449eeae6631e8b30ac2144c5969cf5",
+      "file_size": 616,
+      "name": "page_01_png",
+      "source_member": "assets/game/resource/China/images/System/Num/page_01.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/relationship_btn_png.png",
+      "sha256": "067908f93068ca87fcf82bd3f6a25afb81f80f0efc232e663c8480404ec53973",
+      "file_size": 20133,
+      "name": "relationship_btn_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/relationship_btn.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/relationship_png.png",
+      "sha256": "b2999072d19a78720cdf0e1a01758ab8c01fc1fdb556e303de8fcaa6b0c5dc6d",
+      "file_size": 9979,
+      "name": "relationship_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/relationship.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/segmentationLine_png.png",
+      "sha256": "7d5026fe620b3cc98e9a9bcb728dc5a243d7eeb9a8c8d2e74f400b2259bb640a",
+      "file_size": 1356,
+      "name": "segmentationLine_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/segmentationLine.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/send_page_label_png.png",
+      "sha256": "d90e77d5672140ff3b9b6db206da7ba72c4b16f5666279b4bb1b93a9bf849cde",
+      "file_size": 1711,
+      "name": "send_page_label_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/send_page_label.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/send_page_label1_png.png",
+      "sha256": "56bb8e63430e6478197567e0b3aa8a29fb1d1143b395ba78a89157eee91d21d2",
+      "file_size": 4803,
+      "name": "send_page_label1_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/send_page_label1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/set_name_png.png",
+      "sha256": "df1e0d445e7dd83a579cd5865150549062bc86ec58fd4e1f4327a39c023864e8",
+      "file_size": 8249,
+      "name": "set_name_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/set_name.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/signLine_png.png",
+      "sha256": "0d4b5393b59d361aca6a8eadaaafb85d12930be9c6e11749441ea779fa5f1c41",
+      "file_size": 2384,
+      "name": "signLine_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/signLine.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_bg2_png.png",
+      "sha256": "e2d96e610b036a22f5d71d069700206a4c7a0e97082682c1eef0e39105f606c4",
+      "file_size": 2414,
+      "name": "story_bg2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_bg2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_frame_02_png.png",
+      "sha256": "925ecf0259e9118018f4b279b1f6b1092b1ef756572270a8336e163b7f426c8d",
+      "file_size": 2887,
+      "name": "story_frame_02_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_frame_02.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_frame_png.png",
+      "sha256": "99bb7fdc6e64f4a125982aea6c7c35f0638a679af06d3e2760db81a5fefea4c8",
+      "file_size": 5183,
+      "name": "story_frame_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_frame.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_help_png.png",
+      "sha256": "7f63eaa7e404c82b59347faede244753315ac7cec339377185e5705776bbdfb5",
+      "file_size": 11289,
+      "name": "story_help_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_help.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_item_bg2_png.png",
+      "sha256": "c9a56f5683fa8858dac00293a322d183d12de8d76ce5366443156a0b2f5056d8",
+      "file_size": 16728,
+      "name": "story_item_bg2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_item_bg2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_name_bg_png.png",
+      "sha256": "90f0cb9218404b922efa844d76ca704d015f940e6bc3bfb154ee97dc3ae9b104",
+      "file_size": 9225,
+      "name": "story_name_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_name_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_png.png",
+      "sha256": "c351670b788cbe2c4a6f448bd808d96bff996346a1d4ff082ebf55eb77287b1c",
+      "file_size": 5831,
+      "name": "story_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_state_bg_png.png",
+      "sha256": "e124087d7e38415571cdc8b71c9b9bd015de7d0163094b5d644e9e74ca7ce573",
+      "file_size": 4846,
+      "name": "story_state_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_state_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_title_bg_png.png",
+      "sha256": "d482a8fbb9de7c9c72fada36790ede9cbf82c0f3d0d3f9ed096eb4112206fd95",
+      "file_size": 2662,
+      "name": "story_title_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_title_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/guide_stroy_gift_png.png",
+      "sha256": "5c232bafa98de49b08f74b62778a6d8504afff5cb4b2acda58f30835e23a6692",
+      "file_size": 27129,
+      "name": "guide_stroy_gift_png",
+      "source_member": "assets/game/resource/China/images/Guide/guide_stroy_gift.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/back_84_88_png.png",
+      "sha256": "d89206b03f0b0ba5ad3199af9e3f3b7daa6287e09d453f4ee7ea34824e0f9bbc",
+      "file_size": 7188,
+      "name": "back_84_88_png",
+      "source_member": "eab/mainout.eab!images/Scene/Present/back_84_88.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/stroy_travel_off_png.png",
+      "sha256": "c306bd43a1c0836496a6be7bbbba7107f6a571bea295cd18645be3c7407b4deb",
+      "file_size": 8242,
+      "name": "stroy_travel_off_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 1107,
+        "y": 1,
+        "w": 254,
+        "h": 72,
+        "hw": 127,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 254,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/stroy_travel_on_png.png",
+      "sha256": "96aefe8c2a4869690596221bce14c18115de3d032ab20a871304d5bd2eb2d634",
+      "file_size": 8453,
+      "name": "stroy_travel_on_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 833,
+        "y": 92,
+        "w": 254,
+        "h": 72,
+        "hw": 127,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 254,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/stroy_special_off_png.png",
+      "sha256": "ae472f770765c170d6dc89634c3f2f2cc0f23a8e451ec10d62b2fd9f4b453255",
+      "file_size": 6788,
+      "name": "stroy_special_off_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 547,
+        "y": 188,
+        "w": 248,
+        "h": 72,
+        "hw": 124,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 248,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/stroy_special_on_png.png",
+      "sha256": "3873abe6bef8b83336203b7d2f6de23ef2ad8f29dada3efd1763b670385ed169",
+      "file_size": 6906,
+      "name": "stroy_special_on_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 1107,
+        "y": 75,
+        "w": 248,
+        "h": 72,
+        "hw": 124,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 248,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/story_bg_png.png",
+      "sha256": "b96f8618e11c84dcd6fd71c58c86cc261c1e0b9cfd64bd80f67a4acf9f24c291",
+      "file_size": 10706,
+      "name": "story_bg_png",
+      "source_member": "images/Scene/Story/story_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_btn_png.png",
+      "sha256": "86a7628e0ca37f257982f1c13a2ace56fc8a23fdc214a343b31a229620b87087",
+      "file_size": 19608,
+      "name": "story_btn_png",
+      "source_member": "images/Scene/Story/story_btn.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_icon_frame_png.png",
+      "sha256": "689f99d7286c84b1e2333ee55cb77c1f42447b80af154faee69467c2f8b83011",
+      "file_size": 4041,
+      "name": "story_icon_frame_png",
+      "source_member": "images/Scene/Story/story_icon_frame.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_icon_png.png",
+      "sha256": "b0f8c8ffacd9091642749e82c630201106d1f17c43aa84c6bc98dcea9e1132d7",
+      "file_size": 4717,
+      "name": "story_icon_png",
+      "source_member": "images/Scene/Story/story_icon.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_item1_bg_png.png",
+      "sha256": "543824dd606082ed8e18093e45924a440a51f535245053c4a2f9d2012063d258",
+      "file_size": 18656,
+      "name": "story_item1_bg_png",
+      "source_member": "images/Scene/Story/story_item1_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_item2_bg_png.png",
+      "sha256": "97ccef424d4b1f5122b48e4dd54387daf9a9caed3025b7fcb851d8b2b144bb9d",
+      "file_size": 20859,
+      "name": "story_item2_bg_png",
+      "source_member": "images/Scene/Story/story_item2_bg.png",
+      "source_frame": null
+    }
+  ],
+  "images": {
+    "greetcard_1_1_png": {
+      "path": "media/stories/greetcard_1_1_png.png",
+      "sha256": "0228b9e0a06d455958e71120ca959992c36d0a19e77272f95ed9ef6b6ee6e6b2",
+      "file_size": 19911,
+      "name": "greetcard_1_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_1_1.png",
+      "source_frame": null
+    },
+    "greetcard_1_2_png": {
+      "path": "media/stories/greetcard_1_2_png.png",
+      "sha256": "23af84fcde025b7390d87a20f8d0d57909fb71879fe9d14b2634aed27e22520f",
+      "file_size": 34515,
+      "name": "greetcard_1_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_1_2.png",
+      "source_frame": null
+    },
+    "greetcard_1_png": {
+      "path": "media/stories/greetcard_1_png.png",
+      "sha256": "d9b765c08beff506d0c6a57fcb6d7cdcc3e7c38067c54d7517412e9b4217dd30",
+      "file_size": 33837,
+      "name": "greetcard_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_1.png",
+      "source_frame": null
+    },
+    "greetcard_2_1_png": {
+      "path": "media/stories/greetcard_2_1_png.png",
+      "sha256": "1a650924bc1f129ce042a24cc74cdb17572a1c4542bc39f810fa801ed8ca31d5",
+      "file_size": 32529,
+      "name": "greetcard_2_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_2_1.png",
+      "source_frame": null
+    },
+    "greetcard_2_2_png": {
+      "path": "media/stories/greetcard_2_2_png.png",
+      "sha256": "da1c22b762646aea95190a2cde37ef7a9592fce993eb416bb4344c9fd3c8be56",
+      "file_size": 27000,
+      "name": "greetcard_2_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_2_2.png",
+      "source_frame": null
+    },
+    "greetcard_2_png": {
+      "path": "media/stories/greetcard_2_png.png",
+      "sha256": "9ea07037ae7c440bf82c4fdbab9db2d875596986eebea6277083163e12a25564",
+      "file_size": 40534,
+      "name": "greetcard_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_2.png",
+      "source_frame": null
+    },
+    "greetcard_3_1_png": {
+      "path": "media/stories/greetcard_3_1_png.png",
+      "sha256": "b8d632f6d67da1baf30b9797dd85be26c1cb37f1bbf8cf9041b5609997b3dc43",
+      "file_size": 79989,
+      "name": "greetcard_3_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_3_1.png",
+      "source_frame": null
+    },
+    "greetcard_3_2_png": {
+      "path": "media/stories/greetcard_3_2_png.png",
+      "sha256": "e4e2c3d1a1512695b570d44bc97689a87a92674fa651393520a629c19df0caf3",
+      "file_size": 16170,
+      "name": "greetcard_3_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_3_2.png",
+      "source_frame": null
+    },
+    "greetcard_3_png": {
+      "path": "media/stories/greetcard_3_png.png",
+      "sha256": "bc422e9249a9aee9dc2369058f8f4d979d928e8487de3729b86bbd0fc750272d",
+      "file_size": 24956,
+      "name": "greetcard_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_3.png",
+      "source_frame": null
+    },
+    "greetcard_4_1_png": {
+      "path": "media/stories/greetcard_4_1_png.png",
+      "sha256": "d34791c00f5214a3a475e3f0c56d877d9c2e3edc2fd8a2602409ec0c3e232c5e",
+      "file_size": 21645,
+      "name": "greetcard_4_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_4_1.png",
+      "source_frame": null
+    },
+    "greetcard_4_2_png": {
+      "path": "media/stories/greetcard_4_2_png.png",
+      "sha256": "acc4ebdc3268ee3508f1bbcd144ff8d6b844a8add20d310fe5a7554ddf394d78",
+      "file_size": 32945,
+      "name": "greetcard_4_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_4_2.png",
+      "source_frame": null
+    },
+    "greetcard_4_png": {
+      "path": "media/stories/greetcard_4_png.png",
+      "sha256": "a6f18582082c8df590c91e5c9bf82ce499d1bce1b466a198088acb0ab6c44ab3",
+      "file_size": 51417,
+      "name": "greetcard_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_4.png",
+      "source_frame": null
+    },
+    "greetcard_5_1_png": {
+      "path": "media/stories/greetcard_5_1_png.png",
+      "sha256": "5d22546e8da333c35e8e5bf106035c78ff33d61c3d468aaaa1e187611cf2aa1a",
+      "file_size": 11355,
+      "name": "greetcard_5_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_5_1.png",
+      "source_frame": null
+    },
+    "greetcard_5_png": {
+      "path": "media/stories/greetcard_5_png.png",
+      "sha256": "bbd1ed11a2e93cca09c36824493d24d3dc38d04b04d6b341177043eb733ceb25",
+      "file_size": 67153,
+      "name": "greetcard_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_5.png",
+      "source_frame": null
+    },
+    "greetpaster_10_png": {
+      "path": "media/stories/greetpaster_10_png.png",
+      "sha256": "72b6dffa2b8f71381a30ded8b0ebfbb86db2dd2794b4df13685ddb17e898c66c",
+      "file_size": 19065,
+      "name": "greetpaster_10_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_10.png",
+      "source_frame": null
+    },
+    "greetpaster_11_png": {
+      "path": "media/stories/greetpaster_11_png.png",
+      "sha256": "a2bf008a061a7f37c28833595111192fd0f2aa2156823d71aee915f985a3c597",
+      "file_size": 19245,
+      "name": "greetpaster_11_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_11.png",
+      "source_frame": null
+    },
+    "greetpaster_12_png": {
+      "path": "media/stories/greetpaster_12_png.png",
+      "sha256": "476a5b790346907bc6f506cae236d6cf05f24ae58c99f953933af06b0e31c193",
+      "file_size": 22711,
+      "name": "greetpaster_12_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_12.png",
+      "source_frame": null
+    },
+    "greetpaster_13_png": {
+      "path": "media/stories/greetpaster_13_png.png",
+      "sha256": "fd16a6b9a8c3e08fca09af01c62f52f075f8733472216b9c28f860da1b3b0253",
+      "file_size": 22522,
+      "name": "greetpaster_13_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_13.png",
+      "source_frame": null
+    },
+    "greetpaster_14_png": {
+      "path": "media/stories/greetpaster_14_png.png",
+      "sha256": "b30748d85843d5ae0839405486142d2e2bcf6c29d334a5f32d638da6d1a56179",
+      "file_size": 22655,
+      "name": "greetpaster_14_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_14.png",
+      "source_frame": null
+    },
+    "greetpaster_15_png": {
+      "path": "media/stories/greetpaster_15_png.png",
+      "sha256": "d7e6c065ac0251bf7c0ec5a9954f92a1a0efa0986b6ad71a8e633e0e311b5df1",
+      "file_size": 13754,
+      "name": "greetpaster_15_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_15.png",
+      "source_frame": null
+    },
+    "greetpaster_16_png": {
+      "path": "media/stories/greetpaster_16_png.png",
+      "sha256": "91c8432d6b276a1538af31860df19b506bca9845cee8a8dfb7bdff2cdd8a4e5c",
+      "file_size": 21610,
+      "name": "greetpaster_16_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_16.png",
+      "source_frame": null
+    },
+    "greetpaster_17_png": {
+      "path": "media/stories/greetpaster_17_png.png",
+      "sha256": "3910539cce13136448be795e152e4384c3b65828ab51c6ca387fda7d09b4d4d9",
+      "file_size": 21268,
+      "name": "greetpaster_17_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_17.png",
+      "source_frame": null
+    },
+    "greetpaster_18_png": {
+      "path": "media/stories/greetpaster_18_png.png",
+      "sha256": "3ad03ca22f58e631313fa19a7f1df934d1f79b87fad077947554504c8004fd0d",
+      "file_size": 14123,
+      "name": "greetpaster_18_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_18.png",
+      "source_frame": null
+    },
+    "greetpaster_19_png": {
+      "path": "media/stories/greetpaster_19_png.png",
+      "sha256": "27d014983b510278c8110512a486f4ec2519ab096a45e562dd039ca731dab31c",
+      "file_size": 19794,
+      "name": "greetpaster_19_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_19.png",
+      "source_frame": null
+    },
+    "greetpaster_1_png": {
+      "path": "media/stories/greetpaster_1_png.png",
+      "sha256": "0a753df98c81b7bcad429bc42db17f6aded5dd5584ce258acbe87b06cc88894f",
+      "file_size": 17757,
+      "name": "greetpaster_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_1.png",
+      "source_frame": null
+    },
+    "greetpaster_20_png": {
+      "path": "media/stories/greetpaster_20_png.png",
+      "sha256": "b4588ae9abcf8397815aa7b08232b19eb472c0223dcf5eaf64de965e34561b97",
+      "file_size": 19970,
+      "name": "greetpaster_20_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_20.png",
+      "source_frame": null
+    },
+    "greetpaster_21_png": {
+      "path": "media/stories/greetpaster_21_png.png",
+      "sha256": "d29cb638a9d3f6a2fabe65c9e8604a135784872f99cc4b4d49332366d3615187",
+      "file_size": 31375,
+      "name": "greetpaster_21_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_21.png",
+      "source_frame": null
+    },
+    "greetpaster_22_png": {
+      "path": "media/stories/greetpaster_22_png.png",
+      "sha256": "3d6f59c8f7fc7d14824941f0e4ddb7c4d64456c7541da017d733a14a5fcbb5b6",
+      "file_size": 21265,
+      "name": "greetpaster_22_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_22.png",
+      "source_frame": null
+    },
+    "greetpaster_23_png": {
+      "path": "media/stories/greetpaster_23_png.png",
+      "sha256": "01df95591e8e9a6e7b489c09022e5e236755a0023581a642c6bd18aa36d7efc6",
+      "file_size": 20202,
+      "name": "greetpaster_23_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_23.png",
+      "source_frame": null
+    },
+    "greetpaster_24_png": {
+      "path": "media/stories/greetpaster_24_png.png",
+      "sha256": "d97754bc44200bf1f063d6e7d97d18692cfd2ebc780173417f377a938d2efd6a",
+      "file_size": 21836,
+      "name": "greetpaster_24_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_24.png",
+      "source_frame": null
+    },
+    "greetpaster_25_png": {
+      "path": "media/stories/greetpaster_25_png.png",
+      "sha256": "49894579c699f39c2f888c4e3abeb2538e63dd84daffd7e9a575c219130a504d",
+      "file_size": 26979,
+      "name": "greetpaster_25_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_25.png",
+      "source_frame": null
+    },
+    "greetpaster_2_png": {
+      "path": "media/stories/greetpaster_2_png.png",
+      "sha256": "74d2dd7b7ad737261f4fbd7dc1f3c2b7f9d5d04162c454aa3b54974ed1b2346a",
+      "file_size": 17697,
+      "name": "greetpaster_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_2.png",
+      "source_frame": null
+    },
+    "greetpaster_3_png": {
+      "path": "media/stories/greetpaster_3_png.png",
+      "sha256": "eafa7c9ee9981a7bc53cb74689959ccf2e1ba524d58a487dc066956c17b222b4",
+      "file_size": 21229,
+      "name": "greetpaster_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_3.png",
+      "source_frame": null
+    },
+    "greetpaster_4_png": {
+      "path": "media/stories/greetpaster_4_png.png",
+      "sha256": "4e13c509a82b2c956428d3e57457e87d27959b98f6d473ff71aad7ab0a81dea2",
+      "file_size": 20119,
+      "name": "greetpaster_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_4.png",
+      "source_frame": null
+    },
+    "greetpaster_5_png": {
+      "path": "media/stories/greetpaster_5_png.png",
+      "sha256": "9587d594fa20348fbc148c90a4be0e86c88ee88a338a15806cf3488973ca1f34",
+      "file_size": 20053,
+      "name": "greetpaster_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_5.png",
+      "source_frame": null
+    },
+    "greetpaster_6_png": {
+      "path": "media/stories/greetpaster_6_png.png",
+      "sha256": "2423c72a1973859250a851ef147d5e5104e1ebb0e22b7bb8c6a96dd541883ad1",
+      "file_size": 17812,
+      "name": "greetpaster_6_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_6.png",
+      "source_frame": null
+    },
+    "greetpaster_7_png": {
+      "path": "media/stories/greetpaster_7_png.png",
+      "sha256": "60cd3566081d3634bbbdf00a7aa572dd432ff3d5c025767de3e8090ecbd4f947",
+      "file_size": 23080,
+      "name": "greetpaster_7_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_7.png",
+      "source_frame": null
+    },
+    "greetpaster_8_png": {
+      "path": "media/stories/greetpaster_8_png.png",
+      "sha256": "5b2f9c02e9156f311bfc73df4969ca33ea9879529bcfb432778ee052f6efd4ab",
+      "file_size": 30009,
+      "name": "greetpaster_8_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_8.png",
+      "source_frame": null
+    },
+    "greetpaster_9_png": {
+      "path": "media/stories/greetpaster_9_png.png",
+      "sha256": "5bf685571289938c864860a52442552b683f79d747e6b7bcf087c72ab38468a7",
+      "file_size": 23331,
+      "name": "greetpaster_9_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_9.png",
+      "source_frame": null
+    },
+    "storyItem_10_png": {
+      "path": "media/stories/storyItem_10_png.png",
+      "sha256": "57a5f5fb5713e2f015ae91333acef30da1cfafa493d0344017dd266e6ea88d02",
+      "file_size": 31396,
+      "name": "storyItem_10_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_10.png",
+      "source_frame": null
+    },
+    "storyItem_11_png": {
+      "path": "media/stories/storyItem_11_png.png",
+      "sha256": "145362fc42f7efa8f8972d83438cf62402b1a8e395b08b6da4d6dc448166ecec",
+      "file_size": 31136,
+      "name": "storyItem_11_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_11.png",
+      "source_frame": null
+    },
+    "storyItem_12_png": {
+      "path": "media/stories/storyItem_12_png.png",
+      "sha256": "9442f7053ddb568839a580d750cd0d65bb6495ad805d9d08cc16eeca7dbaf7d0",
+      "file_size": 33169,
+      "name": "storyItem_12_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_12.png",
+      "source_frame": null
+    },
+    "storyItem_13_png": {
+      "path": "media/stories/storyItem_13_png.png",
+      "sha256": "137db6b8932eb80081bf2c4aa5587cba6d29994b6da45709bcc98d068b66db7b",
+      "file_size": 25333,
+      "name": "storyItem_13_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_13.png",
+      "source_frame": null
+    },
+    "storyItem_14_png": {
+      "path": "media/stories/storyItem_14_png.png",
+      "sha256": "40bdf4aa3b63854622686f0bf5f289d6760730d1bd88780ff3c456f9de06b823",
+      "file_size": 26749,
+      "name": "storyItem_14_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_14.png",
+      "source_frame": null
+    },
+    "storyItem_15_png": {
+      "path": "media/stories/storyItem_15_png.png",
+      "sha256": "43a6bc8ac5339c0a487b264e56170d005c61a5c03006ab9def297c75fd4405dc",
+      "file_size": 33065,
+      "name": "storyItem_15_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_15.png",
+      "source_frame": null
+    },
+    "storyItem_16_png": {
+      "path": "media/stories/storyItem_16_png.png",
+      "sha256": "2d143b18429c88f012541a58f03b9ae673dbe62d4b75f49f00e3b87f8d03f386",
+      "file_size": 31527,
+      "name": "storyItem_16_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_16.png",
+      "source_frame": null
+    },
+    "storyItem_17_png": {
+      "path": "media/stories/storyItem_17_png.png",
+      "sha256": "078b31e82e9cece877839134b112ab4bba16e1ebb7e70572b05465f2cfc53682",
+      "file_size": 29549,
+      "name": "storyItem_17_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_17.png",
+      "source_frame": null
+    },
+    "storyItem_18_png": {
+      "path": "media/stories/storyItem_18_png.png",
+      "sha256": "1a6557f4d8c0a98384d92cbc8d352a6fa4ba6233e79865a3dcc5b69b7762ae65",
+      "file_size": 39196,
+      "name": "storyItem_18_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_18.png",
+      "source_frame": null
+    },
+    "storyItem_19_png": {
+      "path": "media/stories/storyItem_19_png.png",
+      "sha256": "2121897de758c67038cf403d07950b1f72c8f85b7902baf079617a4b432f9312",
+      "file_size": 58550,
+      "name": "storyItem_19_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_19.png",
+      "source_frame": null
+    },
+    "storyItem_1_png": {
+      "path": "media/stories/storyItem_1_png.png",
+      "sha256": "b037785ac19139b834b56e3ab9e65dc8396a69dc64b09bd565ea73fe8015fddc",
+      "file_size": 21735,
+      "name": "storyItem_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_1.png",
+      "source_frame": null
+    },
+    "storyItem_20_png": {
+      "path": "media/stories/storyItem_20_png.png",
+      "sha256": "1ab44b97ca6690cb6d89658aa9bc3432ea87782a5084cbf50931e0fae90cbab3",
+      "file_size": 64735,
+      "name": "storyItem_20_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_20.png",
+      "source_frame": null
+    },
+    "storyItem_21_png": {
+      "path": "media/stories/storyItem_21_png.png",
+      "sha256": "a619d4321a2584da340f02145b95670c6aba67834bfe3658a23061a5410c9a90",
+      "file_size": 41198,
+      "name": "storyItem_21_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_21.png",
+      "source_frame": null
+    },
+    "storyItem_22_png": {
+      "path": "media/stories/storyItem_22_png.png",
+      "sha256": "da05c3dde1d92fc1e45b46c69f2b759d169bb4d75fafd82cb4159d92c1a30ec2",
+      "file_size": 45835,
+      "name": "storyItem_22_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_22.png",
+      "source_frame": null
+    },
+    "storyItem_23_png": {
+      "path": "media/stories/storyItem_23_png.png",
+      "sha256": "e8918a22985a6be5e1a5046b26967b2a8b930fa817a36f65cfdd299d42a48926",
+      "file_size": 52085,
+      "name": "storyItem_23_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_23.png",
+      "source_frame": null
+    },
+    "storyItem_24_png": {
+      "path": "media/stories/storyItem_24_png.png",
+      "sha256": "ff8446feb5620effa28436d0bfd734cfa172ac0e15a4667e5d5ce16257c498dd",
+      "file_size": 67216,
+      "name": "storyItem_24_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_24.png",
+      "source_frame": null
+    },
+    "storyItem_25_png": {
+      "path": "media/stories/storyItem_25_png.png",
+      "sha256": "0c572687842405a8db11ce8c501ee71b4221c5bb0b34f5bdea68ea7573b2761e",
+      "file_size": 18610,
+      "name": "storyItem_25_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_25.png",
+      "source_frame": null
+    },
+    "storyItem_2_png": {
+      "path": "media/stories/storyItem_2_png.png",
+      "sha256": "e0644ed7d59efbca4acff0514afb52774ecb04ac2feafe31ac01bb62e946b221",
+      "file_size": 28102,
+      "name": "storyItem_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_2.png",
+      "source_frame": null
+    },
+    "storyItem_3_png": {
+      "path": "media/stories/storyItem_3_png.png",
+      "sha256": "5793097139c9cf5d1edf7db6b11367b993d5280796cd6942269172cffa2c4484",
+      "file_size": 41010,
+      "name": "storyItem_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_3.png",
+      "source_frame": null
+    },
+    "storyItem_4_png": {
+      "path": "media/stories/storyItem_4_png.png",
+      "sha256": "f782a5a98870bd06a7e23511e2ca20d8e7fe010cdf345ce535f0486187f68855",
+      "file_size": 43319,
+      "name": "storyItem_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_4.png",
+      "source_frame": null
+    },
+    "storyItem_5_png": {
+      "path": "media/stories/storyItem_5_png.png",
+      "sha256": "113f733ab7ea15b8dac2c013f55ce36ac1aae1cea417606ca710755a3333eb82",
+      "file_size": 33950,
+      "name": "storyItem_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_5.png",
+      "source_frame": null
+    },
+    "storyItem_6_png": {
+      "path": "media/stories/storyItem_6_png.png",
+      "sha256": "14eba2654dc4c5d3149e12c6c548e60fdc5b1054c156615254e5e724fceb209f",
+      "file_size": 33723,
+      "name": "storyItem_6_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_6.png",
+      "source_frame": null
+    },
+    "storyItem_7_png": {
+      "path": "media/stories/storyItem_7_png.png",
+      "sha256": "d85e968b2d7fd918c84d7f8c0014d4b5c68d8e0fd6efde3f1c979e63ad535338",
+      "file_size": 39490,
+      "name": "storyItem_7_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_7.png",
+      "source_frame": null
+    },
+    "storyItem_8_png": {
+      "path": "media/stories/storyItem_8_png.png",
+      "sha256": "c84822f52b6ee4e875806bc0ef23e2d5b9ba904c848a425784331491a139e126",
+      "file_size": 43961,
+      "name": "storyItem_8_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_8.png",
+      "source_frame": null
+    },
+    "storyItem_9_png": {
+      "path": "media/stories/storyItem_9_png.png",
+      "sha256": "284ea74f782daa53a860bf1291eb6e47c567db68f4d03174c9037c07e66f0644",
+      "file_size": 33050,
+      "name": "storyItem_9_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_9.png",
+      "source_frame": null
+    },
+    "after_send_present_png": {
+      "path": "media/stories/after_send_present_png.png",
+      "sha256": "58d387f6d1100ddd7a4248e4991d83600b93170ee362efca1eda4433b0c8dcbc",
+      "file_size": 2886,
+      "name": "after_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/after_send_present.png",
+      "source_frame": null
+    },
+    "back_story_png": {
+      "path": "media/stories/back_story_png.png",
+      "sha256": "c1a5c13713acec1bdbe42486aece21cc05b4defc503bca7ca990eebb9bd3693b",
+      "file_size": 86319,
+      "name": "back_story_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/back_story.png",
+      "source_frame": null
+    },
+    "before_send_present_png": {
+      "path": "media/stories/before_send_present_png.png",
+      "sha256": "3ec47f8fb102bf5e3f2c9f706bf681094c6ce3d9b8eb7e9d5b248c40f123c4d5",
+      "file_size": 3234,
+      "name": "before_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/before_send_present.png",
+      "source_frame": null
+    },
+    "express_send_present_png": {
+      "path": "media/stories/express_send_present_png.png",
+      "sha256": "7a654c3d483bdfe5d57db11da09125db383d72bc59865c8af66739123d239760",
+      "file_size": 3569,
+      "name": "express_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/express_send_present.png",
+      "source_frame": null
+    },
+    "friendNameFrame_png": {
+      "path": "media/stories/friendNameFrame_png.png",
+      "sha256": "3750f645091573b0ef516e9845cad659179ee876c119fad433b29bead5145a38",
+      "file_size": 3875,
+      "name": "friendNameFrame_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/friendNameFrame.png",
+      "source_frame": null
+    },
+    "from_png": {
+      "path": "media/stories/from_png.png",
+      "sha256": "03b5e361db4965aaff961c70569fce99825ec59869fdf3faaa040e1d1ef30f09",
+      "file_size": 2266,
+      "name": "from_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/from.png",
+      "source_frame": null
+    },
+    "go_look_png": {
+      "path": "media/stories/go_look_png.png",
+      "sha256": "ea9935859575af5a4ca038a223529246f5e471119615981a7fee472fc0ff53e3",
+      "file_size": 6593,
+      "name": "go_look_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/go_look.png",
+      "source_frame": null
+    },
+    "page_01_png": {
+      "path": "media/stories/page_01_png.png",
+      "sha256": "29938704ef7da10bae18e4687cbc5882af449eeae6631e8b30ac2144c5969cf5",
+      "file_size": 616,
+      "name": "page_01_png",
+      "source_member": "assets/game/resource/China/images/System/Num/page_01.png",
+      "source_frame": null
+    },
+    "relationship_btn_png": {
+      "path": "media/stories/relationship_btn_png.png",
+      "sha256": "067908f93068ca87fcf82bd3f6a25afb81f80f0efc232e663c8480404ec53973",
+      "file_size": 20133,
+      "name": "relationship_btn_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/relationship_btn.png",
+      "source_frame": null
+    },
+    "relationship_png": {
+      "path": "media/stories/relationship_png.png",
+      "sha256": "b2999072d19a78720cdf0e1a01758ab8c01fc1fdb556e303de8fcaa6b0c5dc6d",
+      "file_size": 9979,
+      "name": "relationship_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/relationship.png",
+      "source_frame": null
+    },
+    "segmentationLine_png": {
+      "path": "media/stories/segmentationLine_png.png",
+      "sha256": "7d5026fe620b3cc98e9a9bcb728dc5a243d7eeb9a8c8d2e74f400b2259bb640a",
+      "file_size": 1356,
+      "name": "segmentationLine_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/segmentationLine.png",
+      "source_frame": null
+    },
+    "send_page_label_png": {
+      "path": "media/stories/send_page_label_png.png",
+      "sha256": "d90e77d5672140ff3b9b6db206da7ba72c4b16f5666279b4bb1b93a9bf849cde",
+      "file_size": 1711,
+      "name": "send_page_label_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/send_page_label.png",
+      "source_frame": null
+    },
+    "send_page_label1_png": {
+      "path": "media/stories/send_page_label1_png.png",
+      "sha256": "56bb8e63430e6478197567e0b3aa8a29fb1d1143b395ba78a89157eee91d21d2",
+      "file_size": 4803,
+      "name": "send_page_label1_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/send_page_label1.png",
+      "source_frame": null
+    },
+    "set_name_png": {
+      "path": "media/stories/set_name_png.png",
+      "sha256": "df1e0d445e7dd83a579cd5865150549062bc86ec58fd4e1f4327a39c023864e8",
+      "file_size": 8249,
+      "name": "set_name_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/set_name.png",
+      "source_frame": null
+    },
+    "signLine_png": {
+      "path": "media/stories/signLine_png.png",
+      "sha256": "0d4b5393b59d361aca6a8eadaaafb85d12930be9c6e11749441ea779fa5f1c41",
+      "file_size": 2384,
+      "name": "signLine_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/signLine.png",
+      "source_frame": null
+    },
+    "story_bg2_png": {
+      "path": "media/stories/story_bg2_png.png",
+      "sha256": "e2d96e610b036a22f5d71d069700206a4c7a0e97082682c1eef0e39105f606c4",
+      "file_size": 2414,
+      "name": "story_bg2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_bg2.png",
+      "source_frame": null
+    },
+    "story_frame_02_png": {
+      "path": "media/stories/story_frame_02_png.png",
+      "sha256": "925ecf0259e9118018f4b279b1f6b1092b1ef756572270a8336e163b7f426c8d",
+      "file_size": 2887,
+      "name": "story_frame_02_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_frame_02.png",
+      "source_frame": null
+    },
+    "story_frame_png": {
+      "path": "media/stories/story_frame_png.png",
+      "sha256": "99bb7fdc6e64f4a125982aea6c7c35f0638a679af06d3e2760db81a5fefea4c8",
+      "file_size": 5183,
+      "name": "story_frame_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_frame.png",
+      "source_frame": null
+    },
+    "story_help_png": {
+      "path": "media/stories/story_help_png.png",
+      "sha256": "7f63eaa7e404c82b59347faede244753315ac7cec339377185e5705776bbdfb5",
+      "file_size": 11289,
+      "name": "story_help_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_help.png",
+      "source_frame": null
+    },
+    "story_item_bg2_png": {
+      "path": "media/stories/story_item_bg2_png.png",
+      "sha256": "c9a56f5683fa8858dac00293a322d183d12de8d76ce5366443156a0b2f5056d8",
+      "file_size": 16728,
+      "name": "story_item_bg2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_item_bg2.png",
+      "source_frame": null
+    },
+    "story_name_bg_png": {
+      "path": "media/stories/story_name_bg_png.png",
+      "sha256": "90f0cb9218404b922efa844d76ca704d015f940e6bc3bfb154ee97dc3ae9b104",
+      "file_size": 9225,
+      "name": "story_name_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_name_bg.png",
+      "source_frame": null
+    },
+    "story_png": {
+      "path": "media/stories/story_png.png",
+      "sha256": "c351670b788cbe2c4a6f448bd808d96bff996346a1d4ff082ebf55eb77287b1c",
+      "file_size": 5831,
+      "name": "story_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story.png",
+      "source_frame": null
+    },
+    "story_state_bg_png": {
+      "path": "media/stories/story_state_bg_png.png",
+      "sha256": "e124087d7e38415571cdc8b71c9b9bd015de7d0163094b5d644e9e74ca7ce573",
+      "file_size": 4846,
+      "name": "story_state_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_state_bg.png",
+      "source_frame": null
+    },
+    "story_title_bg_png": {
+      "path": "media/stories/story_title_bg_png.png",
+      "sha256": "d482a8fbb9de7c9c72fada36790ede9cbf82c0f3d0d3f9ed096eb4112206fd95",
+      "file_size": 2662,
+      "name": "story_title_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_title_bg.png",
+      "source_frame": null
+    },
+    "guide_stroy_gift_png": {
+      "path": "media/stories/guide_stroy_gift_png.png",
+      "sha256": "5c232bafa98de49b08f74b62778a6d8504afff5cb4b2acda58f30835e23a6692",
+      "file_size": 27129,
+      "name": "guide_stroy_gift_png",
+      "source_member": "assets/game/resource/China/images/Guide/guide_stroy_gift.png",
+      "source_frame": null
+    },
+    "back_84_88_png": {
+      "path": "media/stories/back_84_88_png.png",
+      "sha256": "d89206b03f0b0ba5ad3199af9e3f3b7daa6287e09d453f4ee7ea34824e0f9bbc",
+      "file_size": 7188,
+      "name": "back_84_88_png",
+      "source_member": "eab/mainout.eab!images/Scene/Present/back_84_88.png",
+      "source_frame": null
+    },
+    "stroy_travel_off_png": {
+      "path": "media/stories/stroy_travel_off_png.png",
+      "sha256": "c306bd43a1c0836496a6be7bbbba7107f6a571bea295cd18645be3c7407b4deb",
+      "file_size": 8242,
+      "name": "stroy_travel_off_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 1107,
+        "y": 1,
+        "w": 254,
+        "h": 72,
+        "hw": 127,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 254,
+        "sourceH": 72
+      }
+    },
+    "stroy_travel_on_png": {
+      "path": "media/stories/stroy_travel_on_png.png",
+      "sha256": "96aefe8c2a4869690596221bce14c18115de3d032ab20a871304d5bd2eb2d634",
+      "file_size": 8453,
+      "name": "stroy_travel_on_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 833,
+        "y": 92,
+        "w": 254,
+        "h": 72,
+        "hw": 127,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 254,
+        "sourceH": 72
+      }
+    },
+    "stroy_special_off_png": {
+      "path": "media/stories/stroy_special_off_png.png",
+      "sha256": "ae472f770765c170d6dc89634c3f2f2cc0f23a8e451ec10d62b2fd9f4b453255",
+      "file_size": 6788,
+      "name": "stroy_special_off_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 547,
+        "y": 188,
+        "w": 248,
+        "h": 72,
+        "hw": 124,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 248,
+        "sourceH": 72
+      }
+    },
+    "stroy_special_on_png": {
+      "path": "media/stories/stroy_special_on_png.png",
+      "sha256": "3873abe6bef8b83336203b7d2f6de23ef2ad8f29dada3efd1763b670385ed169",
+      "file_size": 6906,
+      "name": "stroy_special_on_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 1107,
+        "y": 75,
+        "w": 248,
+        "h": 72,
+        "hw": 124,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 248,
+        "sourceH": 72
+      }
+    },
+    "story_bg_png": {
+      "path": "media/stories/story_bg_png.png",
+      "sha256": "b96f8618e11c84dcd6fd71c58c86cc261c1e0b9cfd64bd80f67a4acf9f24c291",
+      "file_size": 10706,
+      "name": "story_bg_png",
+      "source_member": "images/Scene/Story/story_bg.png",
+      "source_frame": null
+    },
+    "story_btn_png": {
+      "path": "media/stories/story_btn_png.png",
+      "sha256": "86a7628e0ca37f257982f1c13a2ace56fc8a23fdc214a343b31a229620b87087",
+      "file_size": 19608,
+      "name": "story_btn_png",
+      "source_member": "images/Scene/Story/story_btn.png",
+      "source_frame": null
+    },
+    "story_icon_frame_png": {
+      "path": "media/stories/story_icon_frame_png.png",
+      "sha256": "689f99d7286c84b1e2333ee55cb77c1f42447b80af154faee69467c2f8b83011",
+      "file_size": 4041,
+      "name": "story_icon_frame_png",
+      "source_member": "images/Scene/Story/story_icon_frame.png",
+      "source_frame": null
+    },
+    "story_icon_png": {
+      "path": "media/stories/story_icon_png.png",
+      "sha256": "b0f8c8ffacd9091642749e82c630201106d1f17c43aa84c6bc98dcea9e1132d7",
+      "file_size": 4717,
+      "name": "story_icon_png",
+      "source_member": "images/Scene/Story/story_icon.png",
+      "source_frame": null
+    },
+    "story_item1_bg_png": {
+      "path": "media/stories/story_item1_bg_png.png",
+      "sha256": "543824dd606082ed8e18093e45924a440a51f535245053c4a2f9d2012063d258",
+      "file_size": 18656,
+      "name": "story_item1_bg_png",
+      "source_member": "images/Scene/Story/story_item1_bg.png",
+      "source_frame": null
+    },
+    "story_item2_bg_png": {
+      "path": "media/stories/story_item2_bg_png.png",
+      "sha256": "97ccef424d4b1f5122b48e4dd54387daf9a9caed3025b7fcb851d8b2b144bb9d",
+      "file_size": 20859,
+      "name": "story_item2_bg_png",
+      "source_member": "images/Scene/Story/story_item2_bg.png",
+      "source_frame": null
+    }
+  },
+  "card_backgrounds": [
+    {
+      "id": 1,
+      "layer": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "荷塘月色",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -13,
+          86
+        ],
+        [
+          22,
+          -15
+        ],
+        [
+          171,
+          40
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "res": [
+        "greetcard_1",
+        "greetcard_1_1",
+        "",
+        "",
+        "",
+        "greetcard_1_2"
+      ],
+      "style": [
+        100,
+        100,
+        53,
+        53,
+        53,
+        100
+      ],
+      "tags": [
+        0,
+        0,
+        1,
+        2,
+        3,
+        0
+      ],
+      "preview": "media/stories/greeting-background-1.png"
+    },
+    {
+      "id": 2,
+      "layer": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "阁楼赏月",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          166,
+          5
+        ],
+        [
+          -150,
+          85
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -100,
+          -76
+        ]
+      ],
+      "res": [
+        "greetcard_2",
+        "greetcard_2_1",
+        "",
+        "",
+        "greetcard_2_2",
+        ""
+      ],
+      "style": [
+        100,
+        100,
+        53,
+        53,
+        100,
+        66
+      ],
+      "tags": [
+        0,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "preview": "media/stories/greeting-background-2.png"
+    },
+    {
+      "id": 3,
+      "layer": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "桂花树下",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          148,
+          -33
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -80,
+          36
+        ],
+        [
+          6,
+          -76
+        ]
+      ],
+      "res": [
+        "greetcard_3",
+        "greetcard_3_1",
+        "",
+        "greetcard_3_2",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        100,
+        40,
+        100,
+        53,
+        60
+      ],
+      "tags": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        3
+      ],
+      "preview": "media/stories/greeting-background-3.png"
+    },
+    {
+      "id": 4,
+      "layer": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "屋檐天灯",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          59
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          196,
+          -47
+        ],
+        [
+          117,
+          -39
+        ]
+      ],
+      "res": [
+        "greetcard_4",
+        "greetcard_4_1",
+        "",
+        "greetcard_4_2",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        100,
+        53,
+        100,
+        53,
+        53
+      ],
+      "tags": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        3
+      ],
+      "preview": "media/stories/greeting-background-4.png"
+    },
+    {
+      "id": 5,
+      "layer": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "中秋夜游",
+      "pos": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -130,
+          -82
+        ],
+        [
+          -54,
+          -82
+        ],
+        [
+          157,
+          55
+        ]
+      ],
+      "res": [
+        "greetcard_5",
+        "greetcard_5_1",
+        "",
+        "",
+        ""
+      ],
+      "style": [
+        100,
+        100,
+        57,
+        57,
+        57
+      ],
+      "tags": [
+        0,
+        0,
+        1,
+        2,
+        3
+      ],
+      "preview": "media/stories/greeting-background-5.png"
+    }
+  ],
+  "blessings": [
+    {
+      "desc": "中秋节快乐~",
+      "id": 1
+    },
+    {
+      "desc": "海上生明月，天涯共此时",
+      "id": 2
+    },
+    {
+      "desc": "举杯邀明月，对影成三人",
+      "id": 3
+    },
+    {
+      "desc": "但愿人长久，千里共婵娟",
+      "id": 4
+    },
+    {
+      "desc": "桂子月中落,天香云外飘",
+      "id": 5
+    },
+    {
+      "desc": "不写祝福",
+      "id": 6
+    }
+  ],
+  "decorations": [
+    {
+      "id": 101,
+      "index": 1,
+      "name": "青蛙1",
+      "pic": "greetpaster_1",
+      "type": 1
+    },
+    {
+      "id": 102,
+      "index": 2,
+      "name": "青蛙2",
+      "pic": "greetpaster_2",
+      "type": 1
+    },
+    {
+      "id": 103,
+      "index": 3,
+      "name": "青蛙3",
+      "pic": "greetpaster_3",
+      "type": 1
+    },
+    {
+      "id": 104,
+      "index": 4,
+      "name": "青蛙4",
+      "pic": "greetpaster_4",
+      "type": 1
+    },
+    {
+      "id": 105,
+      "index": 5,
+      "name": "青蛙5",
+      "pic": "greetpaster_5",
+      "type": 1
+    },
+    {
+      "id": 106,
+      "index": 6,
+      "name": "青蛙6",
+      "pic": "greetpaster_6",
+      "type": 1
+    },
+    {
+      "id": 123,
+      "index": 7,
+      "name": "青蛙弹琴",
+      "pic": "greetpaster_23",
+      "type": 1
+    },
+    {
+      "id": 124,
+      "index": 8,
+      "name": "月饼1",
+      "pic": "greetpaster_24",
+      "type": 10
+    },
+    {
+      "id": 125,
+      "index": 9,
+      "name": "月饼2",
+      "pic": "greetpaster_25",
+      "type": 11
+    },
+    {
+      "id": 107,
+      "index": 10,
+      "name": "壁虎1",
+      "pic": "greetpaster_7",
+      "type": 2
+    },
+    {
+      "id": 108,
+      "index": 11,
+      "name": "壁虎2",
+      "pic": "greetpaster_8",
+      "type": 2
+    },
+    {
+      "id": 109,
+      "index": 12,
+      "name": "壁虎3",
+      "pic": "greetpaster_9",
+      "type": 2
+    },
+    {
+      "id": 110,
+      "index": 13,
+      "name": "刺猬1",
+      "pic": "greetpaster_10",
+      "type": 3
+    },
+    {
+      "id": 111,
+      "index": 14,
+      "name": "刺猬2",
+      "pic": "greetpaster_11",
+      "type": 3
+    },
+    {
+      "id": 112,
+      "index": 15,
+      "name": "刺猬3",
+      "pic": "greetpaster_12",
+      "type": 3
+    },
+    {
+      "id": 113,
+      "index": 16,
+      "name": "萤火虫1",
+      "pic": "greetpaster_13",
+      "type": 4
+    },
+    {
+      "id": 114,
+      "index": 17,
+      "name": "萤火虫2",
+      "pic": "greetpaster_14",
+      "type": 4
+    },
+    {
+      "id": 115,
+      "index": 18,
+      "name": "灯1",
+      "pic": "greetpaster_15",
+      "type": 5
+    },
+    {
+      "id": 116,
+      "index": 19,
+      "name": "萤火虫3",
+      "pic": "greetpaster_16",
+      "type": 4
+    },
+    {
+      "id": 117,
+      "index": 20,
+      "name": "萤火虫4",
+      "pic": "greetpaster_17",
+      "type": 4
+    },
+    {
+      "id": 118,
+      "index": 21,
+      "name": "灯2",
+      "pic": "greetpaster_18",
+      "type": 6
+    },
+    {
+      "id": 119,
+      "index": 22,
+      "name": "兔子1",
+      "pic": "greetpaster_19",
+      "type": 7
+    },
+    {
+      "id": 120,
+      "index": 23,
+      "name": "兔子2",
+      "pic": "greetpaster_20",
+      "type": 7
+    },
+    {
+      "id": 121,
+      "index": 24,
+      "name": "月兔",
+      "pic": "greetpaster_21",
+      "type": 8
+    },
+    {
+      "id": 122,
+      "index": 25,
+      "name": "卡片兔子",
+      "pic": "greetpaster_22",
+      "type": 9
+    }
+  ],
+  "account_records": "not_recovered",
+  "file_list": [
+    {
+      "path": "media/stories/greetcard_1_1_png.png",
+      "sha256": "0228b9e0a06d455958e71120ca959992c36d0a19e77272f95ed9ef6b6ee6e6b2",
+      "file_size": 19911,
+      "name": "greetcard_1_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_1_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_1_2_png.png",
+      "sha256": "23af84fcde025b7390d87a20f8d0d57909fb71879fe9d14b2634aed27e22520f",
+      "file_size": 34515,
+      "name": "greetcard_1_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_1_2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_1_png.png",
+      "sha256": "d9b765c08beff506d0c6a57fcb6d7cdcc3e7c38067c54d7517412e9b4217dd30",
+      "file_size": 33837,
+      "name": "greetcard_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_2_1_png.png",
+      "sha256": "1a650924bc1f129ce042a24cc74cdb17572a1c4542bc39f810fa801ed8ca31d5",
+      "file_size": 32529,
+      "name": "greetcard_2_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_2_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_2_2_png.png",
+      "sha256": "da1c22b762646aea95190a2cde37ef7a9592fce993eb416bb4344c9fd3c8be56",
+      "file_size": 27000,
+      "name": "greetcard_2_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_2_2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_2_png.png",
+      "sha256": "9ea07037ae7c440bf82c4fdbab9db2d875596986eebea6277083163e12a25564",
+      "file_size": 40534,
+      "name": "greetcard_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_3_1_png.png",
+      "sha256": "b8d632f6d67da1baf30b9797dd85be26c1cb37f1bbf8cf9041b5609997b3dc43",
+      "file_size": 79989,
+      "name": "greetcard_3_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_3_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_3_2_png.png",
+      "sha256": "e4e2c3d1a1512695b570d44bc97689a87a92674fa651393520a629c19df0caf3",
+      "file_size": 16170,
+      "name": "greetcard_3_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_3_2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_3_png.png",
+      "sha256": "bc422e9249a9aee9dc2369058f8f4d979d928e8487de3729b86bbd0fc750272d",
+      "file_size": 24956,
+      "name": "greetcard_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_3.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_4_1_png.png",
+      "sha256": "d34791c00f5214a3a475e3f0c56d877d9c2e3edc2fd8a2602409ec0c3e232c5e",
+      "file_size": 21645,
+      "name": "greetcard_4_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_4_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_4_2_png.png",
+      "sha256": "acc4ebdc3268ee3508f1bbcd144ff8d6b844a8add20d310fe5a7554ddf394d78",
+      "file_size": 32945,
+      "name": "greetcard_4_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_4_2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_4_png.png",
+      "sha256": "a6f18582082c8df590c91e5c9bf82ce499d1bce1b466a198088acb0ab6c44ab3",
+      "file_size": 51417,
+      "name": "greetcard_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_4.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_5_1_png.png",
+      "sha256": "5d22546e8da333c35e8e5bf106035c78ff33d61c3d468aaaa1e187611cf2aa1a",
+      "file_size": 11355,
+      "name": "greetcard_5_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_5_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetcard_5_png.png",
+      "sha256": "bbd1ed11a2e93cca09c36824493d24d3dc38d04b04d6b341177043eb733ceb25",
+      "file_size": 67153,
+      "name": "greetcard_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Card/greetcard_5.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_10_png.png",
+      "sha256": "72b6dffa2b8f71381a30ded8b0ebfbb86db2dd2794b4df13685ddb17e898c66c",
+      "file_size": 19065,
+      "name": "greetpaster_10_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_10.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_11_png.png",
+      "sha256": "a2bf008a061a7f37c28833595111192fd0f2aa2156823d71aee915f985a3c597",
+      "file_size": 19245,
+      "name": "greetpaster_11_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_11.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_12_png.png",
+      "sha256": "476a5b790346907bc6f506cae236d6cf05f24ae58c99f953933af06b0e31c193",
+      "file_size": 22711,
+      "name": "greetpaster_12_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_12.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_13_png.png",
+      "sha256": "fd16a6b9a8c3e08fca09af01c62f52f075f8733472216b9c28f860da1b3b0253",
+      "file_size": 22522,
+      "name": "greetpaster_13_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_13.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_14_png.png",
+      "sha256": "b30748d85843d5ae0839405486142d2e2bcf6c29d334a5f32d638da6d1a56179",
+      "file_size": 22655,
+      "name": "greetpaster_14_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_14.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_15_png.png",
+      "sha256": "d7e6c065ac0251bf7c0ec5a9954f92a1a0efa0986b6ad71a8e633e0e311b5df1",
+      "file_size": 13754,
+      "name": "greetpaster_15_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_15.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_16_png.png",
+      "sha256": "91c8432d6b276a1538af31860df19b506bca9845cee8a8dfb7bdff2cdd8a4e5c",
+      "file_size": 21610,
+      "name": "greetpaster_16_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_16.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_17_png.png",
+      "sha256": "3910539cce13136448be795e152e4384c3b65828ab51c6ca387fda7d09b4d4d9",
+      "file_size": 21268,
+      "name": "greetpaster_17_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_17.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_18_png.png",
+      "sha256": "3ad03ca22f58e631313fa19a7f1df934d1f79b87fad077947554504c8004fd0d",
+      "file_size": 14123,
+      "name": "greetpaster_18_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_18.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_19_png.png",
+      "sha256": "27d014983b510278c8110512a486f4ec2519ab096a45e562dd039ca731dab31c",
+      "file_size": 19794,
+      "name": "greetpaster_19_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_19.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_1_png.png",
+      "sha256": "0a753df98c81b7bcad429bc42db17f6aded5dd5584ce258acbe87b06cc88894f",
+      "file_size": 17757,
+      "name": "greetpaster_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_20_png.png",
+      "sha256": "b4588ae9abcf8397815aa7b08232b19eb472c0223dcf5eaf64de965e34561b97",
+      "file_size": 19970,
+      "name": "greetpaster_20_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_20.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_21_png.png",
+      "sha256": "d29cb638a9d3f6a2fabe65c9e8604a135784872f99cc4b4d49332366d3615187",
+      "file_size": 31375,
+      "name": "greetpaster_21_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_21.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_22_png.png",
+      "sha256": "3d6f59c8f7fc7d14824941f0e4ddb7c4d64456c7541da017d733a14a5fcbb5b6",
+      "file_size": 21265,
+      "name": "greetpaster_22_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_22.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_23_png.png",
+      "sha256": "01df95591e8e9a6e7b489c09022e5e236755a0023581a642c6bd18aa36d7efc6",
+      "file_size": 20202,
+      "name": "greetpaster_23_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_23.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_24_png.png",
+      "sha256": "d97754bc44200bf1f063d6e7d97d18692cfd2ebc780173417f377a938d2efd6a",
+      "file_size": 21836,
+      "name": "greetpaster_24_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_24.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_25_png.png",
+      "sha256": "49894579c699f39c2f888c4e3abeb2538e63dd84daffd7e9a575c219130a504d",
+      "file_size": 26979,
+      "name": "greetpaster_25_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_25.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_2_png.png",
+      "sha256": "74d2dd7b7ad737261f4fbd7dc1f3c2b7f9d5d04162c454aa3b54974ed1b2346a",
+      "file_size": 17697,
+      "name": "greetpaster_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_3_png.png",
+      "sha256": "eafa7c9ee9981a7bc53cb74689959ccf2e1ba524d58a487dc066956c17b222b4",
+      "file_size": 21229,
+      "name": "greetpaster_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_3.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_4_png.png",
+      "sha256": "4e13c509a82b2c956428d3e57457e87d27959b98f6d473ff71aad7ab0a81dea2",
+      "file_size": 20119,
+      "name": "greetpaster_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_4.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_5_png.png",
+      "sha256": "9587d594fa20348fbc148c90a4be0e86c88ee88a338a15806cf3488973ca1f34",
+      "file_size": 20053,
+      "name": "greetpaster_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_5.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_6_png.png",
+      "sha256": "2423c72a1973859250a851ef147d5e5104e1ebb0e22b7bb8c6a96dd541883ad1",
+      "file_size": 17812,
+      "name": "greetpaster_6_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_6.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_7_png.png",
+      "sha256": "60cd3566081d3634bbbdf00a7aa572dd432ff3d5c025767de3e8090ecbd4f947",
+      "file_size": 23080,
+      "name": "greetpaster_7_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_7.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_8_png.png",
+      "sha256": "5b2f9c02e9156f311bfc73df4969ca33ea9879529bcfb432778ee052f6efd4ab",
+      "file_size": 30009,
+      "name": "greetpaster_8_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_8.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greetpaster_9_png.png",
+      "sha256": "5bf685571289938c864860a52442552b683f79d747e6b7bcf087c72ab38468a7",
+      "file_size": 23331,
+      "name": "greetpaster_9_png",
+      "source_member": "assets/game/resource/China/images/Scene/GreetCard/Paster/greetpaster_9.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_10_png.png",
+      "sha256": "57a5f5fb5713e2f015ae91333acef30da1cfafa493d0344017dd266e6ea88d02",
+      "file_size": 31396,
+      "name": "storyItem_10_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_10.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_11_png.png",
+      "sha256": "145362fc42f7efa8f8972d83438cf62402b1a8e395b08b6da4d6dc448166ecec",
+      "file_size": 31136,
+      "name": "storyItem_11_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_11.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_12_png.png",
+      "sha256": "9442f7053ddb568839a580d750cd0d65bb6495ad805d9d08cc16eeca7dbaf7d0",
+      "file_size": 33169,
+      "name": "storyItem_12_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_12.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_13_png.png",
+      "sha256": "137db6b8932eb80081bf2c4aa5587cba6d29994b6da45709bcc98d068b66db7b",
+      "file_size": 25333,
+      "name": "storyItem_13_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_13.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_14_png.png",
+      "sha256": "40bdf4aa3b63854622686f0bf5f289d6760730d1bd88780ff3c456f9de06b823",
+      "file_size": 26749,
+      "name": "storyItem_14_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_14.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_15_png.png",
+      "sha256": "43a6bc8ac5339c0a487b264e56170d005c61a5c03006ab9def297c75fd4405dc",
+      "file_size": 33065,
+      "name": "storyItem_15_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_15.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_16_png.png",
+      "sha256": "2d143b18429c88f012541a58f03b9ae673dbe62d4b75f49f00e3b87f8d03f386",
+      "file_size": 31527,
+      "name": "storyItem_16_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_16.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_17_png.png",
+      "sha256": "078b31e82e9cece877839134b112ab4bba16e1ebb7e70572b05465f2cfc53682",
+      "file_size": 29549,
+      "name": "storyItem_17_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_17.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_18_png.png",
+      "sha256": "1a6557f4d8c0a98384d92cbc8d352a6fa4ba6233e79865a3dcc5b69b7762ae65",
+      "file_size": 39196,
+      "name": "storyItem_18_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_18.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_19_png.png",
+      "sha256": "2121897de758c67038cf403d07950b1f72c8f85b7902baf079617a4b432f9312",
+      "file_size": 58550,
+      "name": "storyItem_19_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_19.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_1_png.png",
+      "sha256": "b037785ac19139b834b56e3ab9e65dc8396a69dc64b09bd565ea73fe8015fddc",
+      "file_size": 21735,
+      "name": "storyItem_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_20_png.png",
+      "sha256": "1ab44b97ca6690cb6d89658aa9bc3432ea87782a5084cbf50931e0fae90cbab3",
+      "file_size": 64735,
+      "name": "storyItem_20_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_20.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_21_png.png",
+      "sha256": "a619d4321a2584da340f02145b95670c6aba67834bfe3658a23061a5410c9a90",
+      "file_size": 41198,
+      "name": "storyItem_21_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_21.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_22_png.png",
+      "sha256": "da05c3dde1d92fc1e45b46c69f2b759d169bb4d75fafd82cb4159d92c1a30ec2",
+      "file_size": 45835,
+      "name": "storyItem_22_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_22.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_23_png.png",
+      "sha256": "e8918a22985a6be5e1a5046b26967b2a8b930fa817a36f65cfdd299d42a48926",
+      "file_size": 52085,
+      "name": "storyItem_23_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_23.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_24_png.png",
+      "sha256": "ff8446feb5620effa28436d0bfd734cfa172ac0e15a4667e5d5ce16257c498dd",
+      "file_size": 67216,
+      "name": "storyItem_24_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_24.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_25_png.png",
+      "sha256": "0c572687842405a8db11ce8c501ee71b4221c5bb0b34f5bdea68ea7573b2761e",
+      "file_size": 18610,
+      "name": "storyItem_25_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_25.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_2_png.png",
+      "sha256": "e0644ed7d59efbca4acff0514afb52774ecb04ac2feafe31ac01bb62e946b221",
+      "file_size": 28102,
+      "name": "storyItem_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_3_png.png",
+      "sha256": "5793097139c9cf5d1edf7db6b11367b993d5280796cd6942269172cffa2c4484",
+      "file_size": 41010,
+      "name": "storyItem_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_3.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_4_png.png",
+      "sha256": "f782a5a98870bd06a7e23511e2ca20d8e7fe010cdf345ce535f0486187f68855",
+      "file_size": 43319,
+      "name": "storyItem_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_4.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_5_png.png",
+      "sha256": "113f733ab7ea15b8dac2c013f55ce36ac1aae1cea417606ca710755a3333eb82",
+      "file_size": 33950,
+      "name": "storyItem_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_5.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_6_png.png",
+      "sha256": "14eba2654dc4c5d3149e12c6c548e60fdc5b1054c156615254e5e724fceb209f",
+      "file_size": 33723,
+      "name": "storyItem_6_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_6.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_7_png.png",
+      "sha256": "d85e968b2d7fd918c84d7f8c0014d4b5c68d8e0fd6efde3f1c979e63ad535338",
+      "file_size": 39490,
+      "name": "storyItem_7_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_7.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_8_png.png",
+      "sha256": "c84822f52b6ee4e875806bc0ef23e2d5b9ba904c848a425784331491a139e126",
+      "file_size": 43961,
+      "name": "storyItem_8_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_8.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/storyItem_9_png.png",
+      "sha256": "284ea74f782daa53a860bf1291eb6e47c567db68f4d03174c9037c07e66f0644",
+      "file_size": 33050,
+      "name": "storyItem_9_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/icon/storyItem_9.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/after_send_present_png.png",
+      "sha256": "58d387f6d1100ddd7a4248e4991d83600b93170ee362efca1eda4433b0c8dcbc",
+      "file_size": 2886,
+      "name": "after_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/after_send_present.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/back_story_png.png",
+      "sha256": "c1a5c13713acec1bdbe42486aece21cc05b4defc503bca7ca990eebb9bd3693b",
+      "file_size": 86319,
+      "name": "back_story_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/back_story.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/before_send_present_png.png",
+      "sha256": "3ec47f8fb102bf5e3f2c9f706bf681094c6ce3d9b8eb7e9d5b248c40f123c4d5",
+      "file_size": 3234,
+      "name": "before_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/before_send_present.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/express_send_present_png.png",
+      "sha256": "7a654c3d483bdfe5d57db11da09125db383d72bc59865c8af66739123d239760",
+      "file_size": 3569,
+      "name": "express_send_present_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/express_send_present.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/friendNameFrame_png.png",
+      "sha256": "3750f645091573b0ef516e9845cad659179ee876c119fad433b29bead5145a38",
+      "file_size": 3875,
+      "name": "friendNameFrame_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/friendNameFrame.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/from_png.png",
+      "sha256": "03b5e361db4965aaff961c70569fce99825ec59869fdf3faaa040e1d1ef30f09",
+      "file_size": 2266,
+      "name": "from_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/from.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/go_look_png.png",
+      "sha256": "ea9935859575af5a4ca038a223529246f5e471119615981a7fee472fc0ff53e3",
+      "file_size": 6593,
+      "name": "go_look_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/go_look.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/page_01_png.png",
+      "sha256": "29938704ef7da10bae18e4687cbc5882af449eeae6631e8b30ac2144c5969cf5",
+      "file_size": 616,
+      "name": "page_01_png",
+      "source_member": "assets/game/resource/China/images/System/Num/page_01.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/relationship_btn_png.png",
+      "sha256": "067908f93068ca87fcf82bd3f6a25afb81f80f0efc232e663c8480404ec53973",
+      "file_size": 20133,
+      "name": "relationship_btn_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/relationship_btn.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/relationship_png.png",
+      "sha256": "b2999072d19a78720cdf0e1a01758ab8c01fc1fdb556e303de8fcaa6b0c5dc6d",
+      "file_size": 9979,
+      "name": "relationship_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/relationship.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/segmentationLine_png.png",
+      "sha256": "7d5026fe620b3cc98e9a9bcb728dc5a243d7eeb9a8c8d2e74f400b2259bb640a",
+      "file_size": 1356,
+      "name": "segmentationLine_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/segmentationLine.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/send_page_label_png.png",
+      "sha256": "d90e77d5672140ff3b9b6db206da7ba72c4b16f5666279b4bb1b93a9bf849cde",
+      "file_size": 1711,
+      "name": "send_page_label_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/send_page_label.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/send_page_label1_png.png",
+      "sha256": "56bb8e63430e6478197567e0b3aa8a29fb1d1143b395ba78a89157eee91d21d2",
+      "file_size": 4803,
+      "name": "send_page_label1_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/send_page_label1.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/set_name_png.png",
+      "sha256": "df1e0d445e7dd83a579cd5865150549062bc86ec58fd4e1f4327a39c023864e8",
+      "file_size": 8249,
+      "name": "set_name_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/set_name.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/signLine_png.png",
+      "sha256": "0d4b5393b59d361aca6a8eadaaafb85d12930be9c6e11749441ea779fa5f1c41",
+      "file_size": 2384,
+      "name": "signLine_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/signLine.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_bg2_png.png",
+      "sha256": "e2d96e610b036a22f5d71d069700206a4c7a0e97082682c1eef0e39105f606c4",
+      "file_size": 2414,
+      "name": "story_bg2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_bg2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_frame_02_png.png",
+      "sha256": "925ecf0259e9118018f4b279b1f6b1092b1ef756572270a8336e163b7f426c8d",
+      "file_size": 2887,
+      "name": "story_frame_02_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_frame_02.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_frame_png.png",
+      "sha256": "99bb7fdc6e64f4a125982aea6c7c35f0638a679af06d3e2760db81a5fefea4c8",
+      "file_size": 5183,
+      "name": "story_frame_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_frame.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_help_png.png",
+      "sha256": "7f63eaa7e404c82b59347faede244753315ac7cec339377185e5705776bbdfb5",
+      "file_size": 11289,
+      "name": "story_help_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_help.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_item_bg2_png.png",
+      "sha256": "c9a56f5683fa8858dac00293a322d183d12de8d76ce5366443156a0b2f5056d8",
+      "file_size": 16728,
+      "name": "story_item_bg2_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_item_bg2.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_name_bg_png.png",
+      "sha256": "90f0cb9218404b922efa844d76ca704d015f940e6bc3bfb154ee97dc3ae9b104",
+      "file_size": 9225,
+      "name": "story_name_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_name_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_png.png",
+      "sha256": "c351670b788cbe2c4a6f448bd808d96bff996346a1d4ff082ebf55eb77287b1c",
+      "file_size": 5831,
+      "name": "story_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_state_bg_png.png",
+      "sha256": "e124087d7e38415571cdc8b71c9b9bd015de7d0163094b5d644e9e74ca7ce573",
+      "file_size": 4846,
+      "name": "story_state_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_state_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_title_bg_png.png",
+      "sha256": "d482a8fbb9de7c9c72fada36790ede9cbf82c0f3d0d3f9ed096eb4112206fd95",
+      "file_size": 2662,
+      "name": "story_title_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/Story/story_title_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/guide_stroy_gift_png.png",
+      "sha256": "5c232bafa98de49b08f74b62778a6d8504afff5cb4b2acda58f30835e23a6692",
+      "file_size": 27129,
+      "name": "guide_stroy_gift_png",
+      "source_member": "assets/game/resource/China/images/Guide/guide_stroy_gift.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/back_84_88_png.png",
+      "sha256": "d89206b03f0b0ba5ad3199af9e3f3b7daa6287e09d453f4ee7ea34824e0f9bbc",
+      "file_size": 7188,
+      "name": "back_84_88_png",
+      "source_member": "eab/mainout.eab!images/Scene/Present/back_84_88.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/stroy_travel_off_png.png",
+      "sha256": "c306bd43a1c0836496a6be7bbbba7107f6a571bea295cd18645be3c7407b4deb",
+      "file_size": 8242,
+      "name": "stroy_travel_off_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 1107,
+        "y": 1,
+        "w": 254,
+        "h": 72,
+        "hw": 127,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 254,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/stroy_travel_on_png.png",
+      "sha256": "96aefe8c2a4869690596221bce14c18115de3d032ab20a871304d5bd2eb2d634",
+      "file_size": 8453,
+      "name": "stroy_travel_on_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 833,
+        "y": 92,
+        "w": 254,
+        "h": 72,
+        "hw": 127,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 254,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/stroy_special_off_png.png",
+      "sha256": "ae472f770765c170d6dc89634c3f2f2cc0f23a8e451ec10d62b2fd9f4b453255",
+      "file_size": 6788,
+      "name": "stroy_special_off_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 547,
+        "y": 188,
+        "w": 248,
+        "h": 72,
+        "hw": 124,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 248,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/stroy_special_on_png.png",
+      "sha256": "3873abe6bef8b83336203b7d2f6de23ef2ad8f29dada3efd1763b670385ed169",
+      "file_size": 6906,
+      "name": "stroy_special_on_png",
+      "source_member": "sheet/tab.json",
+      "source_frame": {
+        "x": 1107,
+        "y": 75,
+        "w": 248,
+        "h": 72,
+        "hw": 124,
+        "hh": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 248,
+        "sourceH": 72
+      }
+    },
+    {
+      "path": "media/stories/story_bg_png.png",
+      "sha256": "b96f8618e11c84dcd6fd71c58c86cc261c1e0b9cfd64bd80f67a4acf9f24c291",
+      "file_size": 10706,
+      "name": "story_bg_png",
+      "source_member": "images/Scene/Story/story_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_btn_png.png",
+      "sha256": "86a7628e0ca37f257982f1c13a2ace56fc8a23fdc214a343b31a229620b87087",
+      "file_size": 19608,
+      "name": "story_btn_png",
+      "source_member": "images/Scene/Story/story_btn.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_icon_frame_png.png",
+      "sha256": "689f99d7286c84b1e2333ee55cb77c1f42447b80af154faee69467c2f8b83011",
+      "file_size": 4041,
+      "name": "story_icon_frame_png",
+      "source_member": "images/Scene/Story/story_icon_frame.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_icon_png.png",
+      "sha256": "b0f8c8ffacd9091642749e82c630201106d1f17c43aa84c6bc98dcea9e1132d7",
+      "file_size": 4717,
+      "name": "story_icon_png",
+      "source_member": "images/Scene/Story/story_icon.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_item1_bg_png.png",
+      "sha256": "543824dd606082ed8e18093e45924a440a51f535245053c4a2f9d2012063d258",
+      "file_size": 18656,
+      "name": "story_item1_bg_png",
+      "source_member": "images/Scene/Story/story_item1_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/story_item2_bg_png.png",
+      "sha256": "97ccef424d4b1f5122b48e4dd54387daf9a9caed3025b7fcb851d8b2b144bb9d",
+      "file_size": 20859,
+      "name": "story_item2_bg_png",
+      "source_member": "images/Scene/Story/story_item2_bg.png",
+      "source_frame": null
+    },
+    {
+      "path": "media/stories/greeting-background-1.png",
+      "sha256": "8a69e474295a15aa1ef327f44cef0f8a04f25f9feaca6b426824ab34b52ae850",
+      "file_size": 66595
+    },
+    {
+      "path": "media/stories/greeting-background-2.png",
+      "sha256": "0d8606c6dd97e5b20e7cbd3f91ae55fe80290d41a52e8b02a5aac03c193dadf9",
+      "file_size": 79281
+    },
+    {
+      "path": "media/stories/greeting-background-3.png",
+      "sha256": "8e4a9d625a3eef5c2ba2d300a9a1240a1d608a2522916d5e16e5c9b5f0cdb23e",
+      "file_size": 95727
+    },
+    {
+      "path": "media/stories/greeting-background-4.png",
+      "sha256": "5c16bad5e30f5c34dd2354619fb882e18e4e2ab13cdc146657b4da1350ae0d33",
+      "file_size": 87829
+    },
+    {
+      "path": "media/stories/greeting-background-5.png",
+      "sha256": "773f01c08c358fda1c8ee86f04a1302d3d9efc49321cb9649e6a848f7a7283dd",
+      "file_size": 73228
+    }
+  ],
+  "source_config_hashes": {
+    "config/StoryData/story.json": "fdeea55671f172dc7ba783280defcd303c176ac74a4c9e545f7ee6bb2a9b52ae",
+    "config/GreetCard/greetCard.json": "38f4a16277cd196443f1a10b00b4ddf74df76cbf21a20f8f51fefc442714993b"
+  }
+}

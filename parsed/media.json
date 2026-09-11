@@ -15230,6 +15230,60 @@
         "description_status": "user_confirmed"
       },
       "category_source": "user_confirmed"
+    },
+    {
+      "path": "screenshots/e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705.jpg",
+      "file_size": 550096,
+      "sha256": "e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705",
+      "data_source": "user_selected_image:Screenshot_2026-09-11-10-21-55-518_com.aligames.l.jpg",
+      "category": "截图",
+      "backed_up_at": "2026-09-11T11:06:01+08:00",
+      "source_modified_at": "2026-09-11T03:02:04.723219+00:00",
+      "notes": "用户手动选取；原样复制，无有损压缩。",
+      "image": {
+        "format": "JPEG",
+        "width": 1080,
+        "height": 2400
+      },
+      "category_source": "user_selected",
+      "source_created_at": "2026-09-11T03:02:04.580759+00:00",
+      "sources": [
+        {
+          "path": "screenshots/e50648937e5a3846d8f7980d5d363f35722fee770d1382e6765cd92feb78c705.jpg",
+          "data_source": "user_selected_image:Screenshot_2026-09-11-10-21-55-518_com.aligames.l.jpg",
+          "source_modified_at": "2026-09-11T03:02:04.723219+00:00",
+          "source_created_at": "2026-09-11T03:02:04.580759+00:00",
+          "backed_up_at": "2026-09-11T11:06:01+08:00",
+          "category": "截图"
+        }
+      ]
+    },
+    {
+      "path": "screenshots/c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10.jpg",
+      "file_size": 533879,
+      "sha256": "c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10",
+      "data_source": "user_selected_image:Screenshot_2026-09-11-10-21-57-730_com.aligames.l.jpg",
+      "category": "截图",
+      "backed_up_at": "2026-09-11T11:06:01+08:00",
+      "source_modified_at": "2026-09-11T03:02:04.792800+00:00",
+      "notes": "用户手动选取；原样复制，无有损压缩。",
+      "image": {
+        "format": "JPEG",
+        "width": 1080,
+        "height": 2400
+      },
+      "category_source": "user_selected",
+      "source_created_at": "2026-09-11T03:02:04.701407+00:00",
+      "sources": [
+        {
+          "path": "screenshots/c5e557d814367d0bb8611c6912dfea6e3771bfd1b10ed769619014c584817a10.jpg",
+          "data_source": "user_selected_image:Screenshot_2026-09-11-10-21-57-730_com.aligames.l.jpg",
+          "source_modified_at": "2026-09-11T03:02:04.792800+00:00",
+          "source_created_at": "2026-09-11T03:02:04.701407+00:00",
+          "backed_up_at": "2026-09-11T11:06:01+08:00",
+          "category": "截图"
+        }
+      ]
     }
   ]
 }
