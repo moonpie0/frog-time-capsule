@@ -1,88 +1,1020 @@
 {
-  "schema_version": 1,
-  "status": "reserved_for_future_view",
-  "generated_at": "2026-09-10T11:30:34+08:00",
+  "schema_version": 2,
+  "status": "available",
+  "generated_at": "2026-09-12T12:18:31+08:00",
   "museum_count": 5,
-  "displayed_in_postcards": false,
-  "backgrounds": [
+  "scene_count": 15,
+  "collection_count": 20,
+  "ownership_status": "客户端静态资源，不代表账号已拥有",
+  "screenshots_used_for": "页面结构核对，不作为图片素材或账号拥有证据",
+  "source": {
+    "museum_config": "config/Cooking/museumData.json",
+    "museum_config_sha256": "34b8f845b652d01ef1b672ecabcffee08f40bb44eaaf347110d2eb0745af2e88",
+    "collection_config": "config/MainData/Collection.json",
+    "collection_config_sha256": "e76fc73fab51edc86d6a4acca87bb019968803c2c7eb1730126571378ec61e7b",
+    "default_resource_index_sha256": "be89873161d3e95b6ffa4d81309106d2d3d95ba394601d5d2f98df7524a3a4d1",
+    "interface_resource_version": 1073,
+    "interface_resource_base": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/",
+    "scene_source": "verified local MIUI backup"
+  },
+  "interface": {
+    "back_museum": {
+      "path": "media/museum/ui/back_museum.png",
+      "width": 854,
+      "height": 1420,
+      "file_size": 254444,
+      "sha256": "318c9b60f7d2eca5a886e370bb46648dee727d4519717dc9ce7613c2203940bc",
+      "resource_key": "back_museum_png",
+      "source_resource": "images/Back/back_museum.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Back/back_museum.png",
+      "resource_version": 1073
+    },
+    "back_pos": {
+      "path": "media/museum/ui/back_pos.png",
+      "width": 854,
+      "height": 1420,
+      "file_size": 254763,
+      "sha256": "84360d4563a610ddec0b07e7bac6e3e7fb1682c949cac8ad6c6d774c6b4efbaf",
+      "resource_key": "back_pos_png",
+      "source_resource": "images/Scene/Museum/Bg_ui/back_pos.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Bg_ui/back_pos.png",
+      "resource_version": 1073
+    },
+    "info_check": {
+      "path": "media/museum/ui/info_check.png",
+      "width": 76,
+      "height": 76,
+      "file_size": 7655,
+      "sha256": "bb6d2efb0874a5a192165c8a3340b0f231632e78fa1157d27f04418be4fdd1bc",
+      "resource_key": "info_check_png",
+      "source_resource": "images/Scene/Museum/Bg_ui/info_check.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Bg_ui/info_check.png",
+      "resource_version": 1073
+    },
+    "nail_1": {
+      "path": "media/museum/ui/nail_1.png",
+      "width": 46,
+      "height": 46,
+      "file_size": 2570,
+      "sha256": "353e3da97c40c65224d2e2f72f5a363d7d34819fd91d3e385eb4b2c3304410e5",
+      "resource_key": "nail_1_png",
+      "source_resource": "images/Scene/Museum/Bg_ui/nail_1.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Bg_ui/nail_1.png",
+      "resource_version": 1073
+    },
+    "nail_2": {
+      "path": "media/museum/ui/nail_2.png",
+      "width": 51,
+      "height": 45,
+      "file_size": 2889,
+      "sha256": "cf1cc5d551e7da5c5afa7f1498060ec34f3d44103caf2c53631492e42e0eac1d",
+      "resource_key": "nail_2_png",
+      "source_resource": "images/Scene/Museum/Bg_ui/nail_2.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Bg_ui/nail_2.png",
+      "resource_version": 1073
+    },
+    "nail_3": {
+      "path": "media/museum/ui/nail_3.png",
+      "width": 48,
+      "height": 47,
+      "file_size": 2711,
+      "sha256": "afb35cf600711d1ec992e9bc4527f4a667a9df0bf678ce985e3a2de062759d87",
+      "resource_key": "nail_3_png",
+      "source_resource": "images/Scene/Museum/Bg_ui/nail_3.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Bg_ui/nail_3.png",
+      "resource_version": 1073
+    },
+    "share_museum": {
+      "path": "media/museum/ui/share_museum.png",
+      "width": 640,
+      "height": 1365,
+      "file_size": 340661,
+      "sha256": "c14b85b305608a759e805425b9e81b82d56fa165cb3021947c613e7eadb448c5",
+      "resource_key": "share_museum_png",
+      "source_resource": "images/Scene/Museum/Bg_ui/share_museum.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Bg_ui/share_museum.png",
+      "resource_version": 1073
+    },
+    "info_jiangxi": {
+      "path": "media/museum/ui/info_jiangxi.png",
+      "width": 542,
+      "height": 347,
+      "file_size": 149319,
+      "sha256": "b3b3682341c95c0c9c4c677b6ac0d293bccb41036b9141e3d137cc095e55944d",
+      "resource_key": "info_jiangxi_png",
+      "source_resource": "images/Scene/Museum/Place_pic/info_jiangxi.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_jiangxi.png",
+      "resource_version": 1073
+    },
+    "list_jiangxi": {
+      "path": "media/museum/ui/list_jiangxi.png",
+      "width": 424,
+      "height": 200,
+      "file_size": 31849,
+      "sha256": "9dfbfade9d6059e82fd0130f5a15434251808e41bdf754015480b988e7a0cc80",
+      "resource_key": "list_jiangxi_png",
+      "source_resource": "images/Scene/Museum/Place_pic/list_jiangxi.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_jiangxi.png",
+      "resource_version": 1073
+    },
+    "logo_jiangxi": {
+      "path": "media/museum/ui/logo_jiangxi.png",
+      "width": 230,
+      "height": 70,
+      "file_size": 6741,
+      "sha256": "604d6278417eb37655ae3c631a17446ff960475e5490a78b3f5e0004459ddd5b",
+      "resource_key": "logo_jiangxi_png",
+      "source_resource": "images/Scene/Museum/Place_pic/logo_jiangxi.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_jiangxi.png",
+      "resource_version": 1073
+    },
+    "info_shandong": {
+      "path": "media/museum/ui/info_shandong.png",
+      "width": 542,
+      "height": 347,
+      "file_size": 166271,
+      "sha256": "706d06a69692c7ed810a783a890bc820192bc8a3e17917b1273942915590f14e",
+      "resource_key": "info_shandong_png",
+      "source_resource": "images/Scene/Museum/Place_pic/info_shandong.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_shandong.png",
+      "resource_version": 1073
+    },
+    "list_shandong": {
+      "path": "media/museum/ui/list_shandong.png",
+      "width": 424,
+      "height": 200,
+      "file_size": 58097,
+      "sha256": "55b76c6e699abeb220f27cf5b6dc66315ba2ea53671ab30b1bfa4e39633b9d0d",
+      "resource_key": "list_shandong_png",
+      "source_resource": "images/Scene/Museum/Place_pic/list_shandong.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_shandong.png",
+      "resource_version": 1073
+    },
+    "logo_shandong": {
+      "path": "media/museum/ui/logo_shandong.png",
+      "width": 230,
+      "height": 70,
+      "file_size": 24831,
+      "sha256": "cc4a6bf7b573e9fcd251fe3e6366eec126e1fb367e35f03d2290daea84535131",
+      "resource_key": "logo_shandong_png",
+      "source_resource": "images/Scene/Museum/Place_pic/logo_shandong.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_shandong.png",
+      "resource_version": 1073
+    },
+    "info_nanyuewang": {
+      "path": "media/museum/ui/info_nanyuewang.png",
+      "width": 542,
+      "height": 347,
+      "file_size": 185255,
+      "sha256": "51cb9960912c03f1ed5acf5ec04c4b114c20cec92a228bbf13be2e60a374ac38",
+      "resource_key": "info_nanyuewang_png",
+      "source_resource": "images/Scene/Museum/Place_pic/info_nanyuewang.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_nanyuewang.png",
+      "resource_version": 1073
+    },
+    "list_nanyuewang": {
+      "path": "media/museum/ui/list_nanyuewang.png",
+      "width": 424,
+      "height": 200,
+      "file_size": 74550,
+      "sha256": "b788b025896535ec3f2d655f5fd41f4aab6ca903b38ad54a62551de1daa34a38",
+      "resource_key": "list_nanyuewang_png",
+      "source_resource": "images/Scene/Museum/Place_pic/list_nanyuewang.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_nanyuewang.png",
+      "resource_version": 1073
+    },
+    "logo_nanyuewang": {
+      "path": "media/museum/ui/logo_nanyuewang.png",
+      "width": 230,
+      "height": 70,
+      "file_size": 7007,
+      "sha256": "552b2df3a54b88986812fb8d0ffd5cba7605dc89d7231c4768a0db63eb27c56c",
+      "resource_key": "logo_nanyuewang_png",
+      "source_resource": "images/Scene/Museum/Place_pic/logo_nanyuewang.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_nanyuewang.png",
+      "resource_version": 1073
+    },
+    "info_wuwenhua": {
+      "path": "media/museum/ui/info_wuwenhua.png",
+      "width": 542,
+      "height": 347,
+      "file_size": 170734,
+      "sha256": "f6400657e431710b0ccf721bef09bb5e5f18e45e9e545f1892e991209c6f9f0a",
+      "resource_key": "info_wuwenhua_png",
+      "source_resource": "images/Scene/Museum/Place_pic/info_wuwenhua.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_wuwenhua.png",
+      "resource_version": 1073
+    },
+    "list_wuwenhua": {
+      "path": "media/museum/ui/list_wuwenhua.png",
+      "width": 424,
+      "height": 200,
+      "file_size": 53538,
+      "sha256": "0e90cefb1787d4c5944311e0a64d3520b683147eaf34e48f0f9becc72712cf1d",
+      "resource_key": "list_wuwenhua_png",
+      "source_resource": "images/Scene/Museum/Place_pic/list_wuwenhua.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_wuwenhua.png",
+      "resource_version": 1073
+    },
+    "logo_wuwenhua": {
+      "path": "media/museum/ui/logo_wuwenhua.png",
+      "width": 230,
+      "height": 70,
+      "file_size": 18966,
+      "sha256": "df78c8ef1f850e5d6e61478ec17d7fd2cf0cc17571aeffa863ced4900a5cd3ef",
+      "resource_key": "logo_wuwenhua_png",
+      "source_resource": "images/Scene/Museum/Place_pic/logo_wuwenhua.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_wuwenhua.png",
+      "resource_version": 1073
+    },
+    "info_shanxi": {
+      "path": "media/museum/ui/info_shanxi.png",
+      "width": 542,
+      "height": 347,
+      "file_size": 178217,
+      "sha256": "5320d55b2fde250202339f2476c2b72300f8aa2e07ac5d67da72c6032cbf6118",
+      "resource_key": "info_shanxi_png",
+      "source_resource": "images/Scene/Museum/Place_pic/info_shanxi.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_shanxi.png",
+      "resource_version": 1073
+    },
+    "list_shanxi": {
+      "path": "media/museum/ui/list_shanxi.png",
+      "width": 424,
+      "height": 200,
+      "file_size": 59015,
+      "sha256": "39a81def108f2a454d454e4eab2b5777d2faea966ab8da8051c214bd09f8182a",
+      "resource_key": "list_shanxi_png",
+      "source_resource": "images/Scene/Museum/Place_pic/list_shanxi.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_shanxi.png",
+      "resource_version": 1073
+    },
+    "logo_shanxi": {
+      "path": "media/museum/ui/logo_shanxi.png",
+      "width": 230,
+      "height": 70,
+      "file_size": 9704,
+      "sha256": "3b2249f1ef769814da6d4be673f4406f48b7211775fd775a3f6918eef9bc0c21",
+      "resource_key": "logo_shanxi_png",
+      "source_resource": "images/Scene/Museum/Place_pic/logo_shanxi.png",
+      "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_shanxi.png",
+      "resource_version": 1073
+    }
+  },
+  "museums": [
     {
-      "picture_id": 3063,
-      "place_id": 100,
-      "internal_name": "bwg_jiangxi",
-      "title": "江西省博物馆",
-      "path": "media/museum/backgrounds/3063_u_bwg_jiangxi.png",
-      "source_asset": "u_bwg_jiangxi.png",
-      "width": 500,
-      "height": 350,
-      "file_size": 145955,
-      "sha256": "69a894923021bcaeeef49bead45bc6270c64572214af814aa238d6848405a074",
-      "role": "无角色底图",
-      "displayed_in_postcards": false,
-      "purpose": "预留给未来的博物馆侧边栏",
+      "id": 1,
+      "code": "jiangxi",
+      "name": "江西省博物馆",
+      "description": "江西省博物馆筹建于1953年，是全省最大的综合性博物馆，首批国家一级博物馆，全省爱国主义教育基地。",
+      "enabled_in_client_config": true,
+      "ticket": {
+        "path": "media/museum/ui/list_jiangxi.png",
+        "width": 424,
+        "height": 200,
+        "file_size": 31849,
+        "sha256": "9dfbfade9d6059e82fd0130f5a15434251808e41bdf754015480b988e7a0cc80",
+        "resource_key": "list_jiangxi_png",
+        "source_resource": "images/Scene/Museum/Place_pic/list_jiangxi.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_jiangxi.png",
+        "resource_version": 1073
+      },
+      "info_ticket": {
+        "path": "media/museum/ui/info_jiangxi.png",
+        "width": 542,
+        "height": 347,
+        "file_size": 149319,
+        "sha256": "b3b3682341c95c0c9c4c677b6ac0d293bccb41036b9141e3d137cc095e55944d",
+        "resource_key": "info_jiangxi_png",
+        "source_resource": "images/Scene/Museum/Place_pic/info_jiangxi.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_jiangxi.png",
+        "resource_version": 1073
+      },
+      "share_logo": {
+        "path": "media/museum/ui/logo_jiangxi.png",
+        "width": 230,
+        "height": 70,
+        "file_size": 6741,
+        "sha256": "604d6278417eb37655ae3c631a17446ff960475e5490a78b3f5e0004459ddd5b",
+        "resource_key": "logo_jiangxi_png",
+        "source_resource": "images/Scene/Museum/Place_pic/logo_jiangxi.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_jiangxi.png",
+        "resource_version": 1073
+      },
+      "scenes": [
+        {
+          "picture_id": 2109,
+          "title": "江西省博物馆 · 场景 1",
+          "image": {
+            "path": "media/museum/scenes/2109_g_bwg_jiangxi1.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 163831,
+            "sha256": "61555d386fccbe00d77844f9bcfe754e084a3eadb71ab1891db9f630b7a7f549",
+            "source_asset": "g_bwg_jiangxi1.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 2110,
+          "title": "江西省博物馆 · 场景 2",
+          "image": {
+            "path": "media/museum/scenes/2110_g_bwg_jiangxi2.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 205691,
+            "sha256": "07ef111ec64a4bf18e911fe212db4005ce13170bd81b9f3c8259b97520ad5ecb",
+            "source_asset": "g_bwg_jiangxi2.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 3063,
+          "title": "江西省博物馆 · 场景 3",
+          "image": {
+            "path": "media/museum/backgrounds/3063_u_bwg_jiangxi.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 145955,
+            "sha256": "69a894923021bcaeeef49bead45bc6270c64572214af814aa238d6848405a074",
+            "source_asset": "u_bwg_jiangxi.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
+      "collections": [
+        {
+          "id": 34,
+          "name": "伏鸟双尾青铜虎",
+          "summary": "蓄势扑食的老虎形态威武 背部屹立的小鸟神情自若",
+          "description": "通长53.5、通高25.5厘米，重6.2千克\\n1989年 江西省新干县大洋洲出土\\n虎首平视，口张露齿，獠牙尖长，双目圆凸，眉粗横行，两耳竖张，背伏小鸟，腹部略垂，腹空无底，双尾曲卷，呈伏蹲欲纵之姿。虎身遍饰花纹，脸、腹部饰卷云纹，背部则饰云雷纹，鼻面、正脊、尾部与四腿下部饰变形鳞纹，四腿上部则为醒目的雷纹。虎形体大，造型奇特，外表透露威武、勇猛的神情，内中则藏匿诡谲、仙逸的神气。它把虎的神性和人对虎的崇尚表现到了极致。\\n存世最大的先秦青铜虎，虎之王者，群虎之魂；造型奇特，神态诡异，是商代青铜艺术的辉煌之作；地域特色强烈，是新干大洋洲独特青铜文化的重要符号。",
+          "museum": "江西省博物馆",
+          "resource_key": "collection_1001_png",
+          "image": {
+            "path": "media/resource-catalog/images/0325e75682ceb7888368a810f121efb68d649340b0011e5d55fb5fab38e90112.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 39964,
+            "sha256": "0325e75682ceb7888368a810f121efb68d649340b0011e5d55fb5fab38e90112"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 35,
+          "name": "累丝金凤簪",
+          "summary": "踏云展翅的金色凤凰 美出了翩翩起舞的韵味",
+          "description": "通长22.5、凤长7.5、高7.8厘米，重150.5克\\n1972年 江西省南城县益端王墓王妃彭氏棺出土\\n金簪作凤形，除凤头用金片成型外，全身都采用累丝法制成，玲珑剔透。金凤展翅挺胸，足踏祥云，颈、胸、腹、腿等部分的外表用细如发丝的金线制成长长的羽毛，排列整齐。硕大美丽的五根尾羽从体后回旋向上翻卷，及于头部，成为金凤的主要部分之一，使凤鸟隽雅秀美的凤尾具有一种节奏感和韵律美。脚趾有力地抓于用金丝累织而成的云形体上。云体下为簪足，簪脚上分别錾刻“银作局永乐贰拾贰年拾月内成造玖成色金贰两外焊贰分”24字铭文。\\n簪脚錾刻铭文，表明金簪是内府银作局所制，为皇家出品；采用了捶压、累丝等工艺，纤细秀丽、巧夺天工，极为精致，堪称皇家金银器工艺成就的代表之作；为明代益藩端王妃所使用，制作年代明确，物主清晰。",
+          "museum": "江西省博物馆",
+          "resource_key": "collection_1002_png",
+          "image": {
+            "path": "media/resource-catalog/images/4d7f51d55c55380effb5aeac67568ed057403a441265ddc26e6f5416e345fc0c.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 38298,
+            "sha256": "4d7f51d55c55380effb5aeac67568ed057403a441265ddc26e6f5416e345fc0c"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 36,
+          "name": "青花釉里红楼阁式人物谷仓",
+          "summary": "数十艺人立于楼阁 姿态各异活灵活现",
+          "description": "通高29、宽20、底纵10.3厘米\\n1974年 江西省景德镇市郊凌氏墓出土\\n谷仓模型。仓为楼阁式，上下二层，楼面错落，中高侧低，重檐庑殿屋顶，红柱琉璃瓦。庑殿顶正脊中间饰红色莲苞一株，复瓣座，圆苞蕊，两端各有一塑座狮吻。侧旁屋顶斜出三面，上置莲花座顶。仓顶四角均塑成卷云形。底层四周围以栏杆，每面中间均留通道开门，两侧对称布置。前后每侧为二栏相连，侧面每侧则一栏独立。立柱和栏杆串珠连成，柱杆间长方框内夹菱形连珠框，局部镂空通透。柱头莲花，前衬荷叶，杆中增饰如意云头。\\n此仓之造型，前代未见，后世亦无，是目前仅见的重檐庑殿顶楼阁式谷仓，成为元代瓷器雕塑最高水平的代表之一。\\n集青白釉、红釉、青花、釉里红四种高温釉（彩）于一器，为目前发现两件带纪年的元代青花釉里红器之一。\\n此器谷仓冠名，墓志文字丰富，是研究地方历史、民俗文化的宝贵资料。",
+          "museum": "江西省博物馆",
+          "resource_key": "collection_1003_png",
+          "image": {
+            "path": "media/resource-catalog/images/e54c0d86e56a904ba0caf88def85ce5b73c4a6fa5d6b05beb0fdf957d3770cb9.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 80277,
+            "sha256": "e54c0d86e56a904ba0caf88def85ce5b73c4a6fa5d6b05beb0fdf957d3770cb9"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 37,
+          "name": "活环屈蹲羽人玉佩饰",
+          "summary": "屈膝蹲坐的羽人 形成了岁月雕琢的玉器",
+          "description": "通高11.1、身高8.4、厚1.5厘米\\n1989年 江西省新干县大洋洲出土\\n佩饰。叶腊石类质，色呈枣红。羽人造型，作侧身屈臂蹲坐。首如鸟形，圆眼粗眉，长勾鼻作喙状，嘴微微张口，“C”形大耳，顶上扉棱状的高凸冠，顶后部连系三个相套环形成的短链。身亦人亦鸟，体形如人，两臂屈于胸前，拳紧紧握住，拳心朝内，双膝弯曲蹲坐。身体两侧各雕一翼，脊背雕刻层叠的羽纹。这是迄今为止发现的唯一的商代羽人玉佩饰，具有神人意味，人、兽、鸟集于一身，想象丰富，琢制巧妙。\\n造型神秘，亦人亦鸟，是迄今发现最早的玉“羽人”。\\n因材设计，制作巧妙，掏雕高超，三环相扣，是最早的活链玉器。\\n内涵丰富，文化独特，是南方地区远古土著民族鸟图腾崇拜的遗俗和变异，在中国玉器史上有着崇高的地位。",
+          "museum": "江西省博物馆",
+          "resource_key": "collection_1004_png",
+          "image": {
+            "path": "media/resource-catalog/images/7be18265d772b045617a0fe2b8dad6b04786e85078e3fe262dc8dfd43d9c6bc2.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 36735,
+            "sha256": "7be18265d772b045617a0fe2b8dad6b04786e85078e3fe262dc8dfd43d9c6bc2"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
       "ownership_status": "客户端静态资源，不代表账号已拥有"
     },
     {
-      "picture_id": 3064,
-      "place_id": 101,
-      "internal_name": "bwg_shandong",
-      "title": "山东博物馆",
-      "path": "media/museum/backgrounds/3064_u_bwg_shandong.png",
-      "source_asset": "u_bwg_shandong.png",
-      "width": 500,
-      "height": 350,
-      "file_size": 154753,
-      "sha256": "dc85b0b7066322ca98eeb782358071101ce6753d7db61c176f0ea5cd1bc5becd",
-      "role": "无角色底图",
-      "displayed_in_postcards": false,
-      "purpose": "预留给未来的博物馆侧边栏",
+      "id": 2,
+      "code": "shandong",
+      "name": "山东博物馆",
+      "description": "山东博物馆成立于1954年，为国家一级博物馆，也是目前国内面积最大、设施最先进的省级博物馆之一。",
+      "enabled_in_client_config": true,
+      "ticket": {
+        "path": "media/museum/ui/list_shandong.png",
+        "width": 424,
+        "height": 200,
+        "file_size": 58097,
+        "sha256": "55b76c6e699abeb220f27cf5b6dc66315ba2ea53671ab30b1bfa4e39633b9d0d",
+        "resource_key": "list_shandong_png",
+        "source_resource": "images/Scene/Museum/Place_pic/list_shandong.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_shandong.png",
+        "resource_version": 1073
+      },
+      "info_ticket": {
+        "path": "media/museum/ui/info_shandong.png",
+        "width": 542,
+        "height": 347,
+        "file_size": 166271,
+        "sha256": "706d06a69692c7ed810a783a890bc820192bc8a3e17917b1273942915590f14e",
+        "resource_key": "info_shandong_png",
+        "source_resource": "images/Scene/Museum/Place_pic/info_shandong.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_shandong.png",
+        "resource_version": 1073
+      },
+      "share_logo": {
+        "path": "media/museum/ui/logo_shandong.png",
+        "width": 230,
+        "height": 70,
+        "file_size": 24831,
+        "sha256": "cc4a6bf7b573e9fcd251fe3e6366eec126e1fb367e35f03d2290daea84535131",
+        "resource_key": "logo_shandong_png",
+        "source_resource": "images/Scene/Museum/Place_pic/logo_shandong.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_shandong.png",
+        "resource_version": 1073
+      },
+      "scenes": [
+        {
+          "picture_id": 2111,
+          "title": "山东博物馆 · 场景 1",
+          "image": {
+            "path": "media/museum/scenes/2111_g_bwg_shandong1.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 173679,
+            "sha256": "0c4989b31c0fb2b39cf36d31a8608eddf086e6fc6b202ca8494f725f1ff4c48a",
+            "source_asset": "g_bwg_shandong1.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 2112,
+          "title": "山东博物馆 · 场景 2",
+          "image": {
+            "path": "media/museum/scenes/2112_g_bwg_shandong2.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 194727,
+            "sha256": "03e60c845a62f488d938c307d79b468e0d3aeb583675a0e7ebf3975977499082",
+            "source_asset": "g_bwg_shandong2.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 3064,
+          "title": "山东博物馆 · 场景 3",
+          "image": {
+            "path": "media/museum/backgrounds/3064_u_bwg_shandong.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 154753,
+            "sha256": "dc85b0b7066322ca98eeb782358071101ce6753d7db61c176f0ea5cd1bc5becd",
+            "source_asset": "u_bwg_shandong.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
+      "collections": [
+        {
+          "id": 38,
+          "name": "红陶兽形壶",
+          "summary": "外观憨憨的兽型壶 装了满肚子的水",
+          "description": "通高21.8、通长22.3、体宽14.5、足高7.9-8.4厘米\\n1959年 山东泰安大汶口遗址出土\\n酒器。夹砂红陶，通体磨光，圆面耸耳，遍施红色陶衣，光润亮泽。拱鼻，张口，鼓腹，四足，短尾上翘，耳穿小孔，背装弧形提手，尾根部一筒形注水口，可受水，嘴可出水，体肥壮，腹部鼓起加大了容积，四足立起便于加热，造型生动美观，近似猪或狗形。\\n全器构思巧妙，即是使用器，又不失艺术情趣，准确的把握了动物各部位的比例结构和体形特征，表现出大汶口先民们高超的制陶水平。",
+          "museum": "山东博物馆",
+          "resource_key": "collection_1011_png",
+          "image": {
+            "path": "media/resource-catalog/images/968100709d2a54916cc4c5c2ebaaf1008ec7194e63b30352d71fcc2ccb8fea18.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 31797,
+            "sha256": "968100709d2a54916cc4c5c2ebaaf1008ec7194e63b30352d71fcc2ccb8fea18"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 39,
+          "name": "九旒冕",
+          "summary": "前后都垂有旒的冕 摇晃的珠子叮当响",
+          "description": "通高18厘米、长49.4厘米、宽30厘米\\n出土于鲁荒王朱檀墓\\n为藤篾编制，表面敷罗绢黑漆，镶以金圈、金边；冠的两侧有梅花金穿，贯一金簪。冕的顶部有“綖板”，綖板前圆后方，綖板上面涂着黑漆，以示庄重。板前后系垂旒，前后共垂9道旒。每道旒上计有9颗，红、白、青、黄、黑五种颜色的玉珠，共用珠162颗，板下有玉衡，连接于冠上两边凹槽内；衡两端有孔，两边垂挂丝绳直到耳旁，两根丝绳是黑颜色的，叫做“玄紞”。 丝绳垂至耳处系着一块美玉，材质是黄玉。冕左右下垂的两块玉，即所谓的“充耳”。",
+          "museum": "山东博物馆",
+          "resource_key": "collection_1012_png",
+          "image": {
+            "path": "media/resource-catalog/images/13a4dec82230f1a9d3c37e6674c1e7493bbadeb64b46df2578fdd9a32948d81c.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 55444,
+            "sha256": "13a4dec82230f1a9d3c37e6674c1e7493bbadeb64b46df2578fdd9a32948d81c"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 40,
+          "name": "鲁国大玉璧",
+          "summary": "形象朴质的大玉璧 充满了厚厚的年代感",
+          "description": "外径32.8厘米、孔径11.6厘米、厚0.6厘米\\n1977年 山东曲阜鲁国故城乙组52号墓出土\\n大玉璧。玉料呈青碧色，玉质晶莹温润，半透明，油脂光泽。玉璧肉部内、外缘各有一周廓，肉两面纹饰相同，以两组微凸起的绹索纹分隔成内、中、外三层纹饰。内、外两层为阴线刻纹，中间以斜向交叉排列的蒲纹为地，其间浅浮雕饰排列均匀的谷纹；内层为合首双身龙纹，其间以三道绹索纹相隔成三组；外层为五组合首双身龙纹，每组龙尾两两相交，纹饰布局紧密匀称，繁缛精美，线条流畅，工艺纯熟，属战国玉璧中的精品，也是战国玉璧中形制最大的一件。",
+          "museum": "山东博物馆",
+          "resource_key": "collection_1013_png",
+          "image": {
+            "path": "media/resource-catalog/images/2ca614c94f8a5a7698ba2422c004e36ec7dda857e51937f6bf793cc53c10e293.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 65508,
+            "sha256": "2ca614c94f8a5a7698ba2422c004e36ec7dda857e51937f6bf793cc53c10e293"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 41,
+          "name": "蛋壳黑陶高柄杯",
+          "summary": "高挑的杯子 带有一种纤细的优美",
+          "description": "1973年 山东日照东海峪遗址出土\\n蛋壳黑陶高柄杯器壁薄如蛋壳，杯体修长，杯身饰以细密的镂孔，长柄纤细，是黑陶艺术品中的登峰造极之作。蛋壳陶表面乌黑发亮，有“黑如漆，明如镜，薄如纸，硬如瓷”的特点，是典型龙山文化的特征性器物，代表了中国远古时期制陶工艺的最高水平，在世界范围内也是绝无仅有的，被考古界誉为“四千年前地球文明最精致之制作”。",
+          "museum": "山东博物馆",
+          "resource_key": "collection_1014_png",
+          "image": {
+            "path": "media/resource-catalog/images/2fbc3b7fc356ad3e9a47ddd8bf6ee76da76f7e0abeb9e8d860ccfb6b0dd8d47f.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 12235,
+            "sha256": "2fbc3b7fc356ad3e9a47ddd8bf6ee76da76f7e0abeb9e8d860ccfb6b0dd8d47f"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
       "ownership_status": "客户端静态资源，不代表账号已拥有"
     },
     {
-      "picture_id": 3065,
-      "place_id": 102,
-      "internal_name": "bwg_nanyuewang",
-      "title": "南越王博物院",
-      "path": "media/museum/backgrounds/3065_u_bwg_nanyuewang.png",
-      "source_asset": "u_bwg_nanyuewang.png",
-      "width": 500,
-      "height": 350,
-      "file_size": 120784,
-      "sha256": "bd357aafec320f25c966e5766d80d8bf86d8b02119b38de7129933d51272be53",
-      "role": "无角色底图",
-      "displayed_in_postcards": false,
-      "purpose": "预留给未来的博物馆侧边栏",
+      "id": 3,
+      "code": "nanyuewang",
+      "name": "南越王博物院",
+      "description": "南越王博物院是以南越国重要考古遗存为依托的大型遗址类博物院，2021年由西汉南越王博物馆、南越王宫博物馆合并成立。",
+      "enabled_in_client_config": true,
+      "ticket": {
+        "path": "media/museum/ui/list_nanyuewang.png",
+        "width": 424,
+        "height": 200,
+        "file_size": 74550,
+        "sha256": "b788b025896535ec3f2d655f5fd41f4aab6ca903b38ad54a62551de1daa34a38",
+        "resource_key": "list_nanyuewang_png",
+        "source_resource": "images/Scene/Museum/Place_pic/list_nanyuewang.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_nanyuewang.png",
+        "resource_version": 1073
+      },
+      "info_ticket": {
+        "path": "media/museum/ui/info_nanyuewang.png",
+        "width": 542,
+        "height": 347,
+        "file_size": 185255,
+        "sha256": "51cb9960912c03f1ed5acf5ec04c4b114c20cec92a228bbf13be2e60a374ac38",
+        "resource_key": "info_nanyuewang_png",
+        "source_resource": "images/Scene/Museum/Place_pic/info_nanyuewang.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_nanyuewang.png",
+        "resource_version": 1073
+      },
+      "share_logo": {
+        "path": "media/museum/ui/logo_nanyuewang.png",
+        "width": 230,
+        "height": 70,
+        "file_size": 7007,
+        "sha256": "552b2df3a54b88986812fb8d0ffd5cba7605dc89d7231c4768a0db63eb27c56c",
+        "resource_key": "logo_nanyuewang_png",
+        "source_resource": "images/Scene/Museum/Place_pic/logo_nanyuewang.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_nanyuewang.png",
+        "resource_version": 1073
+      },
+      "scenes": [
+        {
+          "picture_id": 2113,
+          "title": "南越王博物院 · 场景 1",
+          "image": {
+            "path": "media/museum/scenes/2113_g_bwg_nanyuewang1.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 179577,
+            "sha256": "20d154429fca5dce4e3d5f50c402d98f4ca88155deb4893245194c8a69a29ddc",
+            "source_asset": "g_bwg_nanyuewang1.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 2114,
+          "title": "南越王博物院 · 场景 2",
+          "image": {
+            "path": "media/museum/scenes/2114_g_bwg_nanyuewang2.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 245279,
+            "sha256": "d19b3238beccf219f7e822208d8b5ab73ce9ab7eea0a0d28fdc1cb012095dd62",
+            "source_asset": "g_bwg_nanyuewang2.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 3065,
+          "title": "南越王博物院 · 场景 3",
+          "image": {
+            "path": "media/museum/backgrounds/3065_u_bwg_nanyuewang.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 120784,
+            "sha256": "bd357aafec320f25c966e5766d80d8bf86d8b02119b38de7129933d51272be53",
+            "source_asset": "u_bwg_nanyuewang.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
+      "collections": [
+        {
+          "id": 42,
+          "name": "透雕龙凤纹重环玉佩",
+          "summary": "精雕细镂的玉佩 光照中似乎有龙凤在游动",
+          "description": "直径10.6厘米，厚0.5厘米\\n南越文王墓出土\\n这件玉佩的名称已将特点概括其中。“透雕”指雕刻工艺，整块玉器主要使用透雕工艺镂空制成；“重环”指在设计上，玉佩分为内外两圈；“龙凤纹”是说内圈透雕一条游龙，前后爪与龙尾伸向外圈，外圈透雕一只凤鸟，站在龙的前爪之上，凤冠和尾羽上下延伸成卷云纹，把外圈空间填满，凤鸟回眸凝望游龙，龙凤似在喃喃细语，妙韵天成。\\n这件玉佩雕镂精细，构思奇巧，将“龙凤呈祥”“阴阳协调”的和谐思想完美展现，是汉玉中不可多得的珍品。",
+          "museum": "南越王博物院",
+          "resource_key": "collection_1021_png",
+          "image": {
+            "path": "media/resource-catalog/images/3853664815af8c34482d65d484b242ac81b9fcc6c94bc3419ee7df7e3ef6de62.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 86527,
+            "sha256": "3853664815af8c34482d65d484b242ac81b9fcc6c94bc3419ee7df7e3ef6de62"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 43,
+          "name": "蟠龙鎏金铜托座",
+          "summary": "不可挡的龙威 亦有护蛙的温柔",
+          "description": "通高33.5厘米、通长27.8厘米\\n南越文王墓出土\\n蟠龙托座是屏风下面的构件，由一条龙、两条蛇、三只青蛙组成。龙的四足踩在一个由两条蛇组成的支座之上，支座为双蛇合体，蛇身各缠着一只青蛙，另有一只青蛙伏在龙口之中，前肢抓住龙口的两缘，神态安稳。表现了蛇缠青蛙、龙踩蛇护蛙的场景。蛇、蛙是古越人的图腾，而龙是中原人崇拜的四神之一。",
+          "museum": "南越王博物院",
+          "resource_key": "collection_1022_png",
+          "image": {
+            "path": "media/resource-catalog/images/be2eea3fc4756b7fa2623b17c9bb247d27fc972cf05e47d7a81b7a1787c4e7a5.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 30120,
+            "sha256": "be2eea3fc4756b7fa2623b17c9bb247d27fc972cf05e47d7a81b7a1787c4e7a5"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 44,
+          "name": "连筒“万岁”文字瓦当",
+          "summary": "画满线条的瓦当 笔记里找不到能对上的图案",
+          "description": "瓦当是古代建筑檐上筒瓦的瓦头，有遮挡风雨侵蚀和装饰作用。秦汉以前，“万岁”是欢呼祝颂的代语，用来表达对某人的敬佩或祝福，寓意吉祥。",
+          "museum": "南越王博物院",
+          "resource_key": "collection_1023_png",
+          "image": {
+            "path": "media/resource-catalog/images/f29df9cab945d544f8e9c27bb2703083b293c28f4a0d1843e5e6fa8a4e0008f9.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 38868,
+            "sha256": "f29df9cab945d544f8e9c27bb2703083b293c28f4a0d1843e5e6fa8a4e0008f9"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 45,
+          "name": "熊饰踏跺",
+          "summary": "躲在石块里的熊 似乎在等待着什么",
+          "description": "此踏跺为长方体，两端饰以熊的浮雕，为宫殿台阶建筑构件。熊在古代是勇猛、祥瑞的象征。",
+          "museum": "南越王博物院",
+          "resource_key": "collection_1024_png",
+          "image": {
+            "path": "media/resource-catalog/images/6d25fd956f08f0cf9639beaaa628e2c3eb8b1ee198eaf0a81ddd0c018a2f615b.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 41449,
+            "sha256": "6d25fd956f08f0cf9639beaaa628e2c3eb8b1ee198eaf0a81ddd0c018a2f615b"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
       "ownership_status": "客户端静态资源，不代表账号已拥有"
     },
     {
-      "picture_id": 3066,
-      "place_id": 103,
-      "internal_name": "bwg_wuwenhua",
-      "title": "吴文化博物馆",
-      "path": "media/museum/backgrounds/3066_u_bwg_wuwenhua.png",
-      "source_asset": "u_bwg_wuwenhua.png",
-      "width": 500,
-      "height": 350,
-      "file_size": 150522,
-      "sha256": "b470e3480fd2a29753d830bdcda00e4520afd752271d16000e9f1025d0c5492d",
-      "role": "无角色底图",
-      "displayed_in_postcards": false,
-      "purpose": "预留给未来的博物馆侧边栏",
+      "id": 4,
+      "code": "wuwenhua",
+      "name": "吴文化博物馆",
+      "description": "吴文化博物馆于2020年6月28日正式开馆，是全国第一座全面展示吴地文化的地方综合性博物馆。",
+      "enabled_in_client_config": true,
+      "ticket": {
+        "path": "media/museum/ui/list_wuwenhua.png",
+        "width": 424,
+        "height": 200,
+        "file_size": 53538,
+        "sha256": "0e90cefb1787d4c5944311e0a64d3520b683147eaf34e48f0f9becc72712cf1d",
+        "resource_key": "list_wuwenhua_png",
+        "source_resource": "images/Scene/Museum/Place_pic/list_wuwenhua.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_wuwenhua.png",
+        "resource_version": 1073
+      },
+      "info_ticket": {
+        "path": "media/museum/ui/info_wuwenhua.png",
+        "width": 542,
+        "height": 347,
+        "file_size": 170734,
+        "sha256": "f6400657e431710b0ccf721bef09bb5e5f18e45e9e545f1892e991209c6f9f0a",
+        "resource_key": "info_wuwenhua_png",
+        "source_resource": "images/Scene/Museum/Place_pic/info_wuwenhua.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_wuwenhua.png",
+        "resource_version": 1073
+      },
+      "share_logo": {
+        "path": "media/museum/ui/logo_wuwenhua.png",
+        "width": 230,
+        "height": 70,
+        "file_size": 18966,
+        "sha256": "df78c8ef1f850e5d6e61478ec17d7fd2cf0cc17571aeffa863ced4900a5cd3ef",
+        "resource_key": "logo_wuwenhua_png",
+        "source_resource": "images/Scene/Museum/Place_pic/logo_wuwenhua.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_wuwenhua.png",
+        "resource_version": 1073
+      },
+      "scenes": [
+        {
+          "picture_id": 2115,
+          "title": "吴文化博物馆 · 场景 1",
+          "image": {
+            "path": "media/museum/scenes/2115_g_bwg_wuwenhua1.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 188172,
+            "sha256": "adf2d673f9f6262afd41e34a65b63aa7b275d499267c154bb9dbb96f8406b4c6",
+            "source_asset": "g_bwg_wuwenhua1.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 2116,
+          "title": "吴文化博物馆 · 场景 2",
+          "image": {
+            "path": "media/museum/scenes/2116_g_bwg_wuwenhua2.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 227465,
+            "sha256": "03b5f0b1cddeeb6888cef50e0f9f66b1d9271b3a1800d3d58541f729f6047fdd",
+            "source_asset": "g_bwg_wuwenhua2.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 3066,
+          "title": "吴文化博物馆 · 场景 3",
+          "image": {
+            "path": "media/museum/backgrounds/3066_u_bwg_wuwenhua.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 150522,
+            "sha256": "b470e3480fd2a29753d830bdcda00e4520afd752271d16000e9f1025d0c5492d",
+            "source_asset": "u_bwg_wuwenhua.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
+      "collections": [
+        {
+          "id": 46,
+          "name": "黑衣陶刻符贯耳罐",
+          "summary": "黑不溜秋的罐子 刻的图案跟笔记有得一比",
+          "description": "高12厘米、口径8.8厘米\\n新石器时代良渚文化时期 澄湖遗址出土\\n泥质黑衣陶、直口、高领、溜肩鼓腹、平底，颈下部饰凸弦纹一周，两侧置对称贯耳，器表打磨光滑。外腹部有四个刻划符号，呈左高右低中间略高的形式横向排列，为陶器烧成后用锋刃器刻出。关于这四个刻划符号的考释，学术界众说纷纭，或说为文字的先行形态。",
+          "museum": "吴文化博物馆",
+          "resource_key": "collection_1031_png",
+          "image": {
+            "path": "media/resource-catalog/images/4ffbd9c6f6168fde0185731468e8ff5dbc5e8f11e787a82d86463a8257f1a894.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 32701,
+            "sha256": "4ffbd9c6f6168fde0185731468e8ff5dbc5e8f11e787a82d86463a8257f1a894"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 47,
+          "name": "楚途盉",
+          "summary": "酷似困困的青铜酒器 三只脚就站得很稳",
+          "description": "通高25.2厘米、提梁高8.5厘米、足高6.8厘米、口径10.8厘米，重4105克\\n春秋时期 何山东周墓出土\\n盉为古代青铜酒器，大腹敛口，前有长流，后有鋬，有盖，下多为三足，盛行于商代及西周初期。此器器身有铭 “楚叔之孙途为之盉”。“途”当为人名，文献中未见记载，但根据李零等同志对“楚叔之孙倗”的考证，认为“倗”应该是蓬子冯。“楚叔之孙途”也应与楚王族同出，并可能与蓬子冯有亲属关系，当属于楚国贵族用器。\\n周敬王十四年(前506年) ，吴王阖闾、伍员率兵攻入楚之郢都。因此，此墓出土的楚国铜器，很可能是吴人掠回的战利品，赐给攻楚的功臣，死后随葬的。墓主人可能是这次攻楚有功之人。墓葬的年代，估计应在周敬王十四年吴楚战争结束后或稍晚。",
+          "museum": "吴文化博物馆",
+          "resource_key": "collection_1032_png",
+          "image": {
+            "path": "media/resource-catalog/images/482f535331e927215794f9a540c1d741aa3b7bdc983caa75f181afeb382f4dac.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 49365,
+            "sha256": "482f535331e927215794f9a540c1d741aa3b7bdc983caa75f181afeb382f4dac"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 48,
+          "name": "双鸾瑞兽纹铜镜",
+          "summary": "绕过有花纹的镜子背面 蛙脸清晰可见",
+          "description": "高0.9厘米、直径26.8厘米，重3525克\\n唐代\\n铜镜是以铜锡合金为原料铸造，镜面光素用以照容，镜背装饰花纹或铭文。该镜呈八瓣菱花形，镜背分三层纹饰布局，镜背中央伏卧一兽，腹下有一孔，形成镜纽。内切圆将纹饰分为内外两区，外区分饰八组飞鸟、蝴蝶和花草纹，内区饰双鸾双兽，间饰缠枝莲纹。鸾鸟瑞兽纹铜镜是盛唐时期最流行的镜类，从纪年镜的资料中可知，大约成镜于武则天长寿年间，菱花镜也始铸于这一时期。此镜中鸾鸟、瑞兽和花鸟线条简练流畅，鸟羽细腻分明，是唐镜中的精品。",
+          "museum": "吴文化博物馆",
+          "resource_key": "collection_1033_png",
+          "image": {
+            "path": "media/resource-catalog/images/a9f388730456460cf09fd457b272da4b92629fba5ec59d036efb3cb452da0ce4.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 83014,
+            "sha256": "a9f388730456460cf09fd457b272da4b92629fba5ec59d036efb3cb452da0ce4"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 49,
+          "name": "至正乙酉朱碧山造银槎杯",
+          "summary": "犹如扁舟的银酒杯 仙人乘舟似云端遨游",
+          "description": "斜长22厘米、宽7.5厘米、高11.4厘米\\n元代\\n此器以仙人乘槎凌空飞越到达银河的神话故事为题材，将银酒杯巧制成树槎形的一叶扁舟，有一老人背靠槎尾而坐。槎背部有细瘦阴刻铭文“至正乙酉朱碧山造”，为元代银工朱碧山制作。\\n这件作品设计精巧，造型奇特，在制作工艺上成功地运用了镂刻、焊等多种技法，结合圆雕、浮雕工艺将人与舟、舟与云气、人与槎树间的层次交待得既简练清晰又融为一体。人物镂刻生动逼真，面部丰颐宽额，隆准凤目，飘动的长须根根分明，细腻而流畅，达到了完美的艺术效果,属难得的工艺珍品。",
+          "museum": "吴文化博物馆",
+          "resource_key": "collection_1034_png",
+          "image": {
+            "path": "media/resource-catalog/images/d5dee4413b4ab1a8905f1b35417529ce5a6dd11c9f4cb24968865c533a291e40.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 34530,
+            "sha256": "d5dee4413b4ab1a8905f1b35417529ce5a6dd11c9f4cb24968865c533a291e40"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
       "ownership_status": "客户端静态资源，不代表账号已拥有"
     },
     {
-      "picture_id": 3067,
-      "place_id": 104,
-      "internal_name": "bwg_shanxi",
-      "title": "山西博物院",
-      "path": "media/museum/backgrounds/3067_u_bwg_shanxi.png",
-      "source_asset": "u_bwg_shanxi.png",
-      "width": 500,
-      "height": 350,
-      "file_size": 121345,
-      "sha256": "30f8a5fee660bc413a31cb93cd9f550cab898419c036ba8ff6b91eaa9f116b55",
-      "role": "无角色底图",
-      "displayed_in_postcards": false,
-      "purpose": "预留给未来的博物馆侧边栏",
+      "id": 5,
+      "code": "shanxi",
+      "name": "山西博物院",
+      "description": "山西博物院的前身为1919年创建的山西教育图书博物馆，新馆2005年对外开放，是全省最大的文物征集、收藏、保护、研究和展示中心。",
+      "enabled_in_client_config": false,
+      "ticket": {
+        "path": "media/museum/ui/list_shanxi.png",
+        "width": 424,
+        "height": 200,
+        "file_size": 59015,
+        "sha256": "39a81def108f2a454d454e4eab2b5777d2faea966ab8da8051c214bd09f8182a",
+        "resource_key": "list_shanxi_png",
+        "source_resource": "images/Scene/Museum/Place_pic/list_shanxi.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/list_shanxi.png",
+        "resource_version": 1073
+      },
+      "info_ticket": {
+        "path": "media/museum/ui/info_shanxi.png",
+        "width": 542,
+        "height": 347,
+        "file_size": 178217,
+        "sha256": "5320d55b2fde250202339f2476c2b72300f8aa2e07ac5d67da72c6032cbf6118",
+        "resource_key": "info_shanxi_png",
+        "source_resource": "images/Scene/Museum/Place_pic/info_shanxi.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/info_shanxi.png",
+        "resource_version": 1073
+      },
+      "share_logo": {
+        "path": "media/museum/ui/logo_shanxi.png",
+        "width": 230,
+        "height": 70,
+        "file_size": 9704,
+        "sha256": "3b2249f1ef769814da6d4be673f4406f48b7211775fd775a3f6918eef9bc0c21",
+        "resource_key": "logo_shanxi_png",
+        "source_resource": "images/Scene/Museum/Place_pic/logo_shanxi.png",
+        "source_url": "https://ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Museum/Place_pic/logo_shanxi.png",
+        "resource_version": 1073
+      },
+      "scenes": [
+        {
+          "picture_id": 2119,
+          "title": "山西博物院 · 场景 1",
+          "image": {
+            "path": "media/museum/scenes/2119_g_bwg_shanxi1.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 180791,
+            "sha256": "f22a767c2b725ac0ee8f33cb9d3d81895aba460fdc144bc4e6959eb2db0507e8",
+            "source_asset": "g_bwg_shanxi1.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 2120,
+          "title": "山西博物院 · 场景 2",
+          "image": {
+            "path": "media/museum/scenes/2120_g_bwg_shanxi2.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 185133,
+            "sha256": "493c4e4d0a431c758ac2e0a5f82a6b6b1393f7dca5e90d78dd1959ecb64762e3",
+            "source_asset": "g_bwg_shanxi2.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "picture_id": 3067,
+          "title": "山西博物院 · 场景 3",
+          "image": {
+            "path": "media/museum/backgrounds/3067_u_bwg_shanxi.png",
+            "width": 500,
+            "height": 350,
+            "file_size": 121345,
+            "sha256": "30f8a5fee660bc413a31cb93cd9f550cab898419c036ba8ff6b91eaa9f116b55",
+            "source_asset": "u_bwg_shanxi.png",
+            "source_kind": "verified local MIUI backup"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
+      "collections": [
+        {
+          "id": 50,
+          "name": "杂技俑",
+          "summary": "数名胡人围观杂技表演 连连拍手叫绝",
+          "description": "高20-26厘米\\n北魏 山西省大同市曹夫楼村出土\\n由7件胡人俑组成，均为深目高鼻的胡人。一件俑伫立仰首，额正中有圆孔，头顶长杆，上有两个儿童正在做惊险表演，这种杂技叫缘橦。其余六件神态各异。",
+          "museum": "山西博物院",
+          "resource_key": "collection_1041_png",
+          "image": {
+            "path": "media/resource-catalog/images/5090ee09a725abb7cd12ebfdc1687a58319f79b126a1cfb592a8b3e13ec8c055.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 51416,
+            "sha256": "5090ee09a725abb7cd12ebfdc1687a58319f79b126a1cfb592a8b3e13ec8c055"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 51,
+          "name": "鸮卣",
+          "summary": "形似胖胖的青铜酒器 透出了一丝丝萌感",
+          "description": "高19.7厘米、口长径12厘米、短径8.6厘米\\n1956年 石楼县二郎坡村出土\\n盛酒器。形如两鸮相背而立。盖为双鸮首，环目，尖喙，弯眉，盖中央置四阿顶方柱钮，饰雷纹。腹作双鸮身，子口微敛，垂鼓腹饰卷曲羽翼纹。身下为四爪，两两相背。盖腹相合，两鸮昂首背立。商代晚期青铜器精品。不仅实用，也是精美的艺术品。鸮是我国古代对猫头鹰一类鸟的统称。",
+          "museum": "山西博物院",
+          "resource_key": "collection_1042_png",
+          "image": {
+            "path": "media/resource-catalog/images/6cd8f9c000f684d0e9ae78d3e4a5d30209aca9d2c478be989bc43f9f015a544e.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 41856,
+            "sha256": "6cd8f9c000f684d0e9ae78d3e4a5d30209aca9d2c478be989bc43f9f015a544e"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 52,
+          "name": "释迦头像",
+          "summary": "玉石制成的释迦头像 内敛的嘴角像是在微笑",
+          "description": "高33.5厘米\\n北齐\\n1954年 太原市花塔村出土\\n汉白玉质地，螺发高耸，脸庞圆润，双目轻合，鼻梁劲挺，嘴角微微内敛。",
+          "museum": "山西博物院",
+          "resource_key": "collection_1043_png",
+          "image": {
+            "path": "media/resource-catalog/images/6c7514bb562b6afeb3a8f7d9a7d2e97af0915db5a084b898e5774aec865ad226.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 54890,
+            "sha256": "6c7514bb562b6afeb3a8f7d9a7d2e97af0915db5a084b898e5774aec865ad226"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        },
+        {
+          "id": 53,
+          "name": "虞弘墓石椁",
+          "summary": "做工奢华的石椁 所绘的浮雕精美绝伦",
+          "description": "通高217厘米、通长295厘米、宽220 厘米\\n隋代\\n1999年 太原市王郭村开皇十二年(592年)虞弘墓出土\\n整体呈仿木构三开间歇山顶房屋。汉白玉石，由底座、椁身、顶三部分组成，以及支撑石椁的石狮8件。石椁内外皆雕刻并施彩绘，由50多个单体图案组成，内容有宴饮、乐舞、射猎、家居、行旅等。图案中的人物深目高鼻黑发，属于地中海高加索人种，服饰、器皿、乐器、舞蹈及花草树木等，均具有浓厚的中亚和波斯风格，部分画面带有祆教的内容。展现了墓主人不同的文化背景，是研究中外文化交流的重要史料。虞弘是中亚鱼国人，北齐时入华，曾任职于北齐、北周和隋三个朝代。",
+          "museum": "山西博物院",
+          "resource_key": "collection_1044_png",
+          "image": {
+            "path": "media/resource-catalog/images/4cda531369c407d8db3dbb79bdefabf95574eaad47b0b384cc75b77678c1f36a.png",
+            "width": 250,
+            "height": 250,
+            "file_size": 44498,
+            "sha256": "4cda531369c407d8db3dbb79bdefabf95574eaad47b0b384cc75b77678c1f36a"
+          },
+          "ownership_status": "客户端静态资源，不代表账号已拥有"
+        }
+      ],
       "ownership_status": "客户端静态资源，不代表账号已拥有"
     }
   ]

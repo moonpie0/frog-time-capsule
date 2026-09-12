@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "source": "user_confirmed",
+  "confirmed_date": "2026-09-12",
+  "note": "前四家博物馆的场景与典藏解锁状态由本人确认；山西博物院仅确认客户端保留资源且静态配置未启用，不据此判断解锁状态。",
+  "museums": {
+    "jiangxi": {
+      "availability": "implemented",
+      "scenes": {
+        "2109": "unlocked",
+        "2110": "unlocked",
+        "3063": "unlocked"
+      },
+      "collections": {
+        "collection_1001_png": "unlocked",
+        "collection_1002_png": "unlocked",
+        "collection_1003_png": "unlocked",
+        "collection_1004_png": "unlocked"
+      }
+    },
+    "shandong": {
+      "availability": "implemented",
+      "scenes": {
+        "2111": "unlocked",
+        "2112": "unlocked",
+        "3064": "unlocked"
+      },
+      "collections": {
+        "collection_1011_png": "unlocked",
+        "collection_1012_png": "unlocked",
+        "collection_1013_png": "unlocked",
+        "collection_1014_png": "unlocked"
+      }
+    },
+    "nanyuewang": {
+      "availability": "implemented",
+      "scenes": {
+        "2113": "unlocked",
+        "2114": "unlocked",
+        "3065": "not_unlocked"
+      },
+      "collections": {
+        "collection_1021_png": "unlocked",
+        "collection_1022_png": "unlocked",
+        "collection_1023_png": "unlocked",
+        "collection_1024_png": "unlocked"
+      }
+    },
+    "wuwenhua": {
+      "availability": "implemented",
+      "scenes": {
+        "2115": "unlocked",
+        "2116": "unlocked",
+        "3066": "unlocked"
+      },
+      "collections": {
+        "collection_1031_png": "unlocked",
+        "collection_1032_png": "unlocked",
+        "collection_1033_png": "unlocked",
+        "collection_1034_png": "not_unlocked"
+      }
+    },
+    "shanxi": {
+      "availability": "not_confirmed_implemented",
+      "availability_note": "相关资源随客户端保留，但静态配置未启用，目前未确认在游戏内实装开放。",
+      "scenes": {
+        "2119": "unknown",
+        "2120": "unknown",
+        "3067": "unknown"
+      },
+      "collections": {
+        "collection_1041_png": "unknown",
+        "collection_1042_png": "unknown",
+        "collection_1043_png": "unknown",
+        "collection_1044_png": "unknown"
+      }
+    }
+  }
+}

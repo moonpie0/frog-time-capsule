@@ -18,6 +18,15 @@
       "height": 138,
       "resource_name": "zukan_panel2_png",
       "source_entry": "images/Scene/Present/zukan_panel2.png"
+    },
+    "museum": {
+      "path": "media/catalog-ui/zukan_panel3_png.png",
+      "sha256": "4ff5989800ba4394648620a994e3d6c818baca60ebcc3a469d8a0f11c09a4c65",
+      "file_size": 5004,
+      "width": 138,
+      "height": 138,
+      "resource_name": "zukan_panel3_png",
+      "source_entry": "images/Scene/Present/zukan_panel3.png"
     }
   },
   "mooncake_ids": [
@@ -38,5 +47,5 @@
     "item_size": 74,
     "item_vertical_center": 5
   },
-  "note": "Original CollectionItem frame assets; seven mooncakes pinned per owner reference. Ownership unchanged."
+  "note": "Original CollectionItem frame assets; normal, mooncake and museum variants preserved. Seven mooncakes pinned per owner reference. Ownership unchanged."
 }
