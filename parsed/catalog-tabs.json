@@ -1,0 +1,90 @@
+{
+  "tabs": {
+    "纪念品": {
+      "on": {
+        "path": "media/catalog-ui/zukan_ippin_on_png.png",
+        "width": 155,
+        "height": 60,
+        "file_size": 6723,
+        "sha256": "440b6291088820df4082d3e1b8cd659e3424162d4752d7cb15cf049247898b5a",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/Present/zukan_ippin_on.png"
+      },
+      "off": {
+        "path": "media/catalog-ui/zukan_ippin_off_png.png",
+        "width": 155,
+        "height": 60,
+        "file_size": 6397,
+        "sha256": "c451672354ec398768770bc86459b4dfc105f61c75d2c265811fbdadfa2130d9",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/Present/zukan_ippin_off.png"
+      }
+    },
+    "特产": {
+      "on": {
+        "path": "media/catalog-ui/zukan_meibutsu_on_png.png",
+        "width": 155,
+        "height": 60,
+        "file_size": 4649,
+        "sha256": "fc0744c2d8a38450b10d31932a4b5ef8ce2d7eba2b865233666473d9556c4e67",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/Present/zukan_meibutsu_on.png"
+      },
+      "off": {
+        "path": "media/catalog-ui/zukan_meibutsu_off_png.png",
+        "width": 155,
+        "height": 60,
+        "file_size": 4467,
+        "sha256": "1f58f0858db80e7f1016665d132e5333e8da4ef400a9a10d15eb676f2f953061",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/Present/zukan_meibutsu_off.png"
+      }
+    },
+    "藏品": {
+      "on": {
+        "path": "media/catalog-ui/zukan_picbook_on_png.png",
+        "width": 155,
+        "height": 60,
+        "file_size": 4791,
+        "sha256": "5acf81bccbe436fabadea584f7cb7e39546931264510303fbec0637d20075d69",
+        "source_kind": "sprite_sheet",
+        "source_frame": {
+          "x": 1579,
+          "y": 142,
+          "w": 155,
+          "h": 60,
+          "hw": 77.5,
+          "hh": 30,
+          "offX": 0,
+          "offY": 0,
+          "sourceW": 155,
+          "sourceH": 60
+        },
+        "source_index_sha256": "f9612c9d3c6773f876229f77ce895603f66b93f537ecd5b0e07b17f988b5ba03",
+        "source_sheet_sha256": "10faed0c209b8aaaf5af6519dee02de5f9a09574bf393d9eb42241a9f2d318c1"
+      },
+      "off": {
+        "path": "media/catalog-ui/zukan_picbook_off_png.png",
+        "width": 155,
+        "height": 60,
+        "file_size": 4703,
+        "sha256": "e4d58f62a882a66905512e3c1e13942fdc623fec13ff5a8a63c95c9682a2eb50",
+        "source_kind": "sprite_sheet",
+        "source_frame": {
+          "x": 577,
+          "y": 295,
+          "w": 155,
+          "h": 60,
+          "hw": 77.5,
+          "hh": 30,
+          "offX": 0,
+          "offY": 0,
+          "sourceW": 155,
+          "sourceH": 60
+        },
+        "source_index_sha256": "f9612c9d3c6773f876229f77ce895603f66b93f537ecd5b0e07b17f988b5ba03",
+        "source_sheet_sha256": "10faed0c209b8aaaf5af6519dee02de5f9a09574bf393d9eb42241a9f2d318c1"
+      }
+    }
+  }
+}

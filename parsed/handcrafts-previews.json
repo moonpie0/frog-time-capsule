@@ -1,0 +1,2548 @@
+{
+  "source": "original_parts_and_static_config",
+  "account_ownership_inferred": false,
+  "counts": {
+    "pray_combinations": 140,
+    "pray_unfinished": 14,
+    "pray_images": 154,
+    "stamp_images": 81,
+    "total": 235
+  },
+  "composition": {
+    "pray": "250x250, wood and paper centered horizontally at y=0; blank paper for stages 1 and 2",
+    "stamp": "StampCraftPageSkin: base (23,119), paper (37,37), pattern scale .35 centerX 76 bottom 94; stamp scale .5 rotation -45 centerX 75 bottom 181; rendered at 2x"
+  },
+  "detail_composition": "StampCraftItemSkin: 280x280 panel centered in 350x350 frame; stamp 200x200 at (5,70), pattern 150x150 at (117,10); rendered at 2x with recreated frame",
+  "detail_files": [
+    {
+      "key": "stamp-1-1",
+      "path": "media/handcrafts/previews/stamp-1-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 142843,
+      "sha256": "80be7b5f4332cde5c399506dcfe55440c5d91fbced06a5a5b630a09f6d53a81f"
+    },
+    {
+      "key": "stamp-1-2",
+      "path": "media/handcrafts/previews/stamp-1-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 125535,
+      "sha256": "5eb5a457e1c9711cd76c18c2648278a82b9f208d0c6949886154a4e12b053b0d"
+    },
+    {
+      "key": "stamp-1-3",
+      "path": "media/handcrafts/previews/stamp-1-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 136498,
+      "sha256": "347216b76d4a0a5eac6519c5afc4427653d03bbef08167ae69470d58c4d38dfa"
+    },
+    {
+      "key": "stamp-2-1",
+      "path": "media/handcrafts/previews/stamp-2-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 154156,
+      "sha256": "62808bc5431e1fba938d43b21a7e4ae29c0a072785b33b919a08bf7268a43638"
+    },
+    {
+      "key": "stamp-2-2",
+      "path": "media/handcrafts/previews/stamp-2-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 137531,
+      "sha256": "99bd4d36c246c2f47aaea4cc5cb00aa70cb0c1d773fcd6935e781a4e5450606e"
+    },
+    {
+      "key": "stamp-2-3",
+      "path": "media/handcrafts/previews/stamp-2-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 149797,
+      "sha256": "ad88ac9c9bc301e050a65c82664bedb1beeacef446cb764273bb4d59de94c1a4"
+    },
+    {
+      "key": "stamp-3-1",
+      "path": "media/handcrafts/previews/stamp-3-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 150257,
+      "sha256": "906d239f784a127347b669f665edf839bb15d36b27655fba17d1daecd342cb18"
+    },
+    {
+      "key": "stamp-3-2",
+      "path": "media/handcrafts/previews/stamp-3-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 134116,
+      "sha256": "d15296eab243ce05744b375152d174a727a8754993ac1c4788118ada806f8cff"
+    },
+    {
+      "key": "stamp-3-3",
+      "path": "media/handcrafts/previews/stamp-3-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 149985,
+      "sha256": "ab0c62e4ba35e5b0cf62735b80745330df2a01d384ccc9f9a991eb10cd2ab0da"
+    },
+    {
+      "key": "stamp-4-1",
+      "path": "media/handcrafts/previews/stamp-4-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 157101,
+      "sha256": "3abc7db18bd68a67640ab707903c90f3de4ca03121bd874db56ccf3e074381bc"
+    },
+    {
+      "key": "stamp-4-2",
+      "path": "media/handcrafts/previews/stamp-4-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 141451,
+      "sha256": "a4fb06739c0886a866c51c8211548fcb870177fefa8d9c5bdc342167a49ec211"
+    },
+    {
+      "key": "stamp-4-3",
+      "path": "media/handcrafts/previews/stamp-4-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 154348,
+      "sha256": "18dce7efa9f9361dc8fdbc71a8dc121d94b4683a94c489f77cd8197cb29c3252"
+    },
+    {
+      "key": "stamp-5-1",
+      "path": "media/handcrafts/previews/stamp-5-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 148908,
+      "sha256": "943cb31b420cef5bbe7845cf189a2f23e23437995f8c7701f4ba5d023fbb87bf"
+    },
+    {
+      "key": "stamp-5-2",
+      "path": "media/handcrafts/previews/stamp-5-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 136620,
+      "sha256": "7ed1eeef00ff7a0cc1ef8395f7f2f0acdb71764cb48bcf6e54444a787a4a525e"
+    },
+    {
+      "key": "stamp-5-3",
+      "path": "media/handcrafts/previews/stamp-5-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 147120,
+      "sha256": "2a0c47a02abeeb695a90468065a194110440b63210e7b501e38d4eb039821406"
+    },
+    {
+      "key": "stamp-6-1",
+      "path": "media/handcrafts/previews/stamp-6-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 147085,
+      "sha256": "1d5a7c3b8adf1eee8e461ac8aa8e38d2411dcdab6075a6bbff7343ef927a26ac"
+    },
+    {
+      "key": "stamp-6-2",
+      "path": "media/handcrafts/previews/stamp-6-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 133084,
+      "sha256": "5b2d2cdeb42d622007825b5dba06cb59bae2b0221c78ec9dcb4010cd7804df1b"
+    },
+    {
+      "key": "stamp-6-3",
+      "path": "media/handcrafts/previews/stamp-6-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 144953,
+      "sha256": "d57c370423121f7746b590b778a28d1b7d7a9ca0af5c3ed8d27eaac3f4bf048c"
+    },
+    {
+      "key": "stamp-7-1",
+      "path": "media/handcrafts/previews/stamp-7-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 149310,
+      "sha256": "95f0a1fe358a0b50a5a2a9081bf27f0049184f4e9dcfd8f5f50623e7c287f234"
+    },
+    {
+      "key": "stamp-7-2",
+      "path": "media/handcrafts/previews/stamp-7-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 135242,
+      "sha256": "1ac3b74e3742d422a2703f098668418b944a81e806c3d44af442ca7ed81fe9eb"
+    },
+    {
+      "key": "stamp-7-3",
+      "path": "media/handcrafts/previews/stamp-7-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 143580,
+      "sha256": "5571135e5949db0e3914575299b6b1c06b84dc80362b43f2e85379893ac99c17"
+    },
+    {
+      "key": "stamp-8-1",
+      "path": "media/handcrafts/previews/stamp-8-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 150397,
+      "sha256": "4d58c26888554b9943494feb9fe336594aca0866e5d3025a06ee8f08bf3a6d42"
+    },
+    {
+      "key": "stamp-8-2",
+      "path": "media/handcrafts/previews/stamp-8-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 136286,
+      "sha256": "315e3943b4950ba4fd6050ec26d2c389c9113ba03cfc87d04168435ce3cb2645"
+    },
+    {
+      "key": "stamp-8-3",
+      "path": "media/handcrafts/previews/stamp-8-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 150434,
+      "sha256": "97b06fbc111d2f304857553a5f37eb29d8ba138ca4f94fed78d89f05884940fe"
+    },
+    {
+      "key": "stamp-9-1",
+      "path": "media/handcrafts/previews/stamp-9-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 147590,
+      "sha256": "af68c6caadd5b4703e2b991d2164c37a35d2ee504c9102d8562ce13869c01060"
+    },
+    {
+      "key": "stamp-9-2",
+      "path": "media/handcrafts/previews/stamp-9-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 128833,
+      "sha256": "6997ee339f412c86aa8841db4e4b2c04e75cd996e418526d96481026dc862484"
+    },
+    {
+      "key": "stamp-9-3",
+      "path": "media/handcrafts/previews/stamp-9-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 139406,
+      "sha256": "35b6a72ec7f0f75757f42cc980f303d371d209ac33cedf1c9216279170f3186f"
+    },
+    {
+      "key": "stamp-101-1",
+      "path": "media/handcrafts/previews/stamp-101-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 147024,
+      "sha256": "a06d2ae6779923cb356d9f313ee606bb00f29583a8e08e6f7a25b66b5ec7fe45"
+    },
+    {
+      "key": "stamp-101-2",
+      "path": "media/handcrafts/previews/stamp-101-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 127409,
+      "sha256": "d11408b4adabb5464ceac149d0e208c75c5022311e8667f8edc0fc94422d20ca"
+    },
+    {
+      "key": "stamp-101-3",
+      "path": "media/handcrafts/previews/stamp-101-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 137679,
+      "sha256": "68addfee98e2631a672d09ff236324d4b1f44374f3f0a79ae3558421e715ef71"
+    },
+    {
+      "key": "stamp-102-1",
+      "path": "media/handcrafts/previews/stamp-102-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 141472,
+      "sha256": "05209ffe1cc2421b009b3b99015dfe804c27746ea573e7b47a2fbca4060ef893"
+    },
+    {
+      "key": "stamp-102-2",
+      "path": "media/handcrafts/previews/stamp-102-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 122395,
+      "sha256": "b1f48c8629a07d592a9ab6ecc2eabc3e4c500420e6b6d86d67738639b883e06e"
+    },
+    {
+      "key": "stamp-102-3",
+      "path": "media/handcrafts/previews/stamp-102-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 134623,
+      "sha256": "37292007b6f5384eb79a6262605dcb063a6d174291c94a3d33ffae166078d20e"
+    },
+    {
+      "key": "stamp-103-1",
+      "path": "media/handcrafts/previews/stamp-103-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 142909,
+      "sha256": "b969dd24dcb1200b79968cf6f5c10759348e67f24d973f0d431b2c066a995ab1"
+    },
+    {
+      "key": "stamp-103-2",
+      "path": "media/handcrafts/previews/stamp-103-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 128658,
+      "sha256": "eb0d4f150ddec9c2d9c84a73543059d4fcab13a73393aeb8dc254729fab41168"
+    },
+    {
+      "key": "stamp-103-3",
+      "path": "media/handcrafts/previews/stamp-103-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 142953,
+      "sha256": "ea994f82feeea8f01b84f9c384612560c4eb304cd67be02629e1217661c468da"
+    },
+    {
+      "key": "stamp-104-1",
+      "path": "media/handcrafts/previews/stamp-104-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 143386,
+      "sha256": "18a09e5e03a86e948035d75b0983096a4a8140964b1e96f7181d05e54f240dd2"
+    },
+    {
+      "key": "stamp-104-2",
+      "path": "media/handcrafts/previews/stamp-104-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 132652,
+      "sha256": "a5a9fbd4b9d6bc4639bae920199fc8816d85e1a2fd784dadfefc7a4f3fa78e14"
+    },
+    {
+      "key": "stamp-104-3",
+      "path": "media/handcrafts/previews/stamp-104-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 145613,
+      "sha256": "0603da24b08621207267af9f8ec7182a812e94efdb269f7822f7507340911676"
+    },
+    {
+      "key": "stamp-105-1",
+      "path": "media/handcrafts/previews/stamp-105-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 142573,
+      "sha256": "4c80bd7489098f4f4e60e49511822f90f93951735ffdbcdd956b402531485f7a"
+    },
+    {
+      "key": "stamp-105-2",
+      "path": "media/handcrafts/previews/stamp-105-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 127039,
+      "sha256": "5cd47199b60c443479e6d942fb7ac7dfbd3c7fc3762e525e927fbad6897467e7"
+    },
+    {
+      "key": "stamp-105-3",
+      "path": "media/handcrafts/previews/stamp-105-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 138034,
+      "sha256": "d0108043e40bd49950be39fc08ada194adde700bb513780b02665ed92fc0bd40"
+    },
+    {
+      "key": "stamp-106-1",
+      "path": "media/handcrafts/previews/stamp-106-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 142380,
+      "sha256": "54c406168172f463b0329ce8478e838556b4782a77ae79ba75173951913e38ff"
+    },
+    {
+      "key": "stamp-106-2",
+      "path": "media/handcrafts/previews/stamp-106-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 122963,
+      "sha256": "0f836841b5fc040dfdd364db941cbaf0094d29b2d6617b04d25e739125822bfd"
+    },
+    {
+      "key": "stamp-106-3",
+      "path": "media/handcrafts/previews/stamp-106-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 135222,
+      "sha256": "f9e888805c7c683d88bd3bcae043714e6a9f154b66f83791fdb1895cca447b9e"
+    },
+    {
+      "key": "stamp-107-1",
+      "path": "media/handcrafts/previews/stamp-107-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 144302,
+      "sha256": "8cafa9ca54925392abe8351b0030e5d97d54030f31d72b466864caf751b69cec"
+    },
+    {
+      "key": "stamp-107-2",
+      "path": "media/handcrafts/previews/stamp-107-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 129080,
+      "sha256": "72853c8a6d14291c8507c306c9452c1522ece2d0645a0b5c68efc8dea6d46322"
+    },
+    {
+      "key": "stamp-107-3",
+      "path": "media/handcrafts/previews/stamp-107-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 138967,
+      "sha256": "8f7153bda7bdfe6a0768fff6d4d40ae008ddb4c11d3ec04938fa9db2085867ac"
+    },
+    {
+      "key": "stamp-108-1",
+      "path": "media/handcrafts/previews/stamp-108-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 148080,
+      "sha256": "cd18fc6042005e79f1f8c4ffbd78502001a65589826f063ff1111a93a1f26ad0"
+    },
+    {
+      "key": "stamp-108-2",
+      "path": "media/handcrafts/previews/stamp-108-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 130182,
+      "sha256": "8b655edc582fd8156e68d555996d39273b3428da3d95688b8095a05420b9530f"
+    },
+    {
+      "key": "stamp-108-3",
+      "path": "media/handcrafts/previews/stamp-108-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 143136,
+      "sha256": "b760cb2814f8bba54be5534409153b0c313f956a28b2d6556a40e125951b03d2"
+    },
+    {
+      "key": "stamp-109-1",
+      "path": "media/handcrafts/previews/stamp-109-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 140398,
+      "sha256": "4fbf85c15408b951e941cdf428297670492db8d14ae81640208933fbde4ec2fb"
+    },
+    {
+      "key": "stamp-109-2",
+      "path": "media/handcrafts/previews/stamp-109-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 126845,
+      "sha256": "3716a6a754ce99c0ff89fcc63b19335134764707005657084d9efa3998bf022b"
+    },
+    {
+      "key": "stamp-109-3",
+      "path": "media/handcrafts/previews/stamp-109-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 136921,
+      "sha256": "5f4c59c60aefe1aba036e14d463504a75d5169989cd2be416d93e150b2377e58"
+    },
+    {
+      "key": "stamp-201-1",
+      "path": "media/handcrafts/previews/stamp-201-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 145637,
+      "sha256": "747f85964a6a1c10de679600d73c7108b7c15fbaae026ec7ed97d117ad11a79f"
+    },
+    {
+      "key": "stamp-201-2",
+      "path": "media/handcrafts/previews/stamp-201-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 128111,
+      "sha256": "9adb0489c666e05b778b4652af2df17b8b627c8dd3343dee4c394890393c6aab"
+    },
+    {
+      "key": "stamp-201-3",
+      "path": "media/handcrafts/previews/stamp-201-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 139754,
+      "sha256": "cda8c3dcdf0afcd79f0261a3ef96e588c8a9e5d70a8a814c7340562977bb1172"
+    },
+    {
+      "key": "stamp-202-1",
+      "path": "media/handcrafts/previews/stamp-202-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 153845,
+      "sha256": "8b9e6bbe0c25768884d7c431f123f73c9526dc8a24dd616b5eed754771127336"
+    },
+    {
+      "key": "stamp-202-2",
+      "path": "media/handcrafts/previews/stamp-202-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 133822,
+      "sha256": "9ea963c9fafb8203b97395a6893254f9d6d3032cd0f524cc0e00b0640619e545"
+    },
+    {
+      "key": "stamp-202-3",
+      "path": "media/handcrafts/previews/stamp-202-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 148456,
+      "sha256": "d6e43878087f1a38ce9f6d5719a2c1781d0a7cb7e49e50ccb2888d61deaba5c7"
+    },
+    {
+      "key": "stamp-203-1",
+      "path": "media/handcrafts/previews/stamp-203-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 148256,
+      "sha256": "1b93cb54cde59c58aa5dd6197cc07bd0222d09437e5c38802b73cd694b046e13"
+    },
+    {
+      "key": "stamp-203-2",
+      "path": "media/handcrafts/previews/stamp-203-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 129232,
+      "sha256": "9b5c9f4cd84e5f7dc720edb5e4fdfddf6c3b3c2dd8b212faf6863a26a2a4bec1"
+    },
+    {
+      "key": "stamp-203-3",
+      "path": "media/handcrafts/previews/stamp-203-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 141679,
+      "sha256": "5c299f6c97593e7eb9abb02c007fcb6df6e8e26559d2f4f69c60c2b4520d0979"
+    },
+    {
+      "key": "stamp-204-1",
+      "path": "media/handcrafts/previews/stamp-204-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 155334,
+      "sha256": "e6bf08e1df13eb96495c9bdd31b33992906f2694cfa9b53084d9507acdb7b3f6"
+    },
+    {
+      "key": "stamp-204-2",
+      "path": "media/handcrafts/previews/stamp-204-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 131668,
+      "sha256": "d4b66157bedee1429290eb49e0e6bedd40ba7d853398eebee5b727af0d76969a"
+    },
+    {
+      "key": "stamp-204-3",
+      "path": "media/handcrafts/previews/stamp-204-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 146891,
+      "sha256": "a9b4a083e769e628ea92268bf8122e0dc6a8d81ddfcd51ea09dcd293c2547dbe"
+    },
+    {
+      "key": "stamp-205-1",
+      "path": "media/handcrafts/previews/stamp-205-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 136244,
+      "sha256": "8048e7337e23f85e708931065d38d174e9a6a95e8b61661d8dffcffbd9c7eb13"
+    },
+    {
+      "key": "stamp-205-2",
+      "path": "media/handcrafts/previews/stamp-205-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 122931,
+      "sha256": "9d4dd17662696b1b15f7ba18951327d35ad7f51d3e69e2c789501f741e7fda10"
+    },
+    {
+      "key": "stamp-205-3",
+      "path": "media/handcrafts/previews/stamp-205-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 134782,
+      "sha256": "00429909993a8fea49f14bea39d4d6d37f280824d102fb0772fd4b58aef5b25b"
+    },
+    {
+      "key": "stamp-206-1",
+      "path": "media/handcrafts/previews/stamp-206-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 141497,
+      "sha256": "b0951f7ff723d7b368cf461c8df973a6e1dafb2b68fc7d500070f7f8788fec39"
+    },
+    {
+      "key": "stamp-206-2",
+      "path": "media/handcrafts/previews/stamp-206-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 123542,
+      "sha256": "19848e5f02d6a85311106dbab471cd3ebafe3fec13a7106425bcadbff9b2a5eb"
+    },
+    {
+      "key": "stamp-206-3",
+      "path": "media/handcrafts/previews/stamp-206-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 136579,
+      "sha256": "06838934d130ccabac0f338b497844ae56ec4a6f0deae3a12c58392308623da3"
+    },
+    {
+      "key": "stamp-207-1",
+      "path": "media/handcrafts/previews/stamp-207-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 152018,
+      "sha256": "40290db2d8e8c367a4bf3cb3188c9a8cdfb4659750c569532b7066b28b2069cf"
+    },
+    {
+      "key": "stamp-207-2",
+      "path": "media/handcrafts/previews/stamp-207-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 131841,
+      "sha256": "e742353eaca793b9a9d927df8cdcf1a3b83f0368a9bf20362bb487bd7d50ba4a"
+    },
+    {
+      "key": "stamp-207-3",
+      "path": "media/handcrafts/previews/stamp-207-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 145906,
+      "sha256": "999f37e2d229a7037b5c5f06268a7c751b4a38f026a50d78016a6f919a4b0e23"
+    },
+    {
+      "key": "stamp-208-1",
+      "path": "media/handcrafts/previews/stamp-208-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 144256,
+      "sha256": "9105acebcd9b3f09c94e256db4052234e9468b9bb317a788075b2bb0ed3a0ddb"
+    },
+    {
+      "key": "stamp-208-2",
+      "path": "media/handcrafts/previews/stamp-208-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 129994,
+      "sha256": "415010cadd78acb98e47e4eac7bb094c3c04de70631feaf55238adbea2ccd863"
+    },
+    {
+      "key": "stamp-208-3",
+      "path": "media/handcrafts/previews/stamp-208-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 145114,
+      "sha256": "2201542f64fc877fd988e34a155ff09b9111932015d33fbc7bd6d58ebfc871d6"
+    },
+    {
+      "key": "stamp-209-1",
+      "path": "media/handcrafts/previews/stamp-209-1-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 145032,
+      "sha256": "e3116102c6bae5425b9d1609f7c5cbb06deb55d6ebd1af726cea2835ab6a5f3f"
+    },
+    {
+      "key": "stamp-209-2",
+      "path": "media/handcrafts/previews/stamp-209-2-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 126663,
+      "sha256": "1e230e689cffff83c4be7181d3f4d8ad5ea8327a6e7165a6e8989072d61baf8f"
+    },
+    {
+      "key": "stamp-209-3",
+      "path": "media/handcrafts/previews/stamp-209-3-detail.png",
+      "width": 700,
+      "height": 700,
+      "file_size": 138216,
+      "sha256": "d292919a48f68a4731b2d8f379b2fd264ebc259f4d0b643f94e7d41ae1b9d587"
+    }
+  ],
+  "files": [
+    {
+      "key": "pray-1-101-0",
+      "path": "media/handcrafts/previews/pray-1-101-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40138,
+      "sha256": "b8d465a82c93360c10138f41db674a707303c2d57568417453bda18393da55a7"
+    },
+    {
+      "key": "pray-1-102-0",
+      "path": "media/handcrafts/previews/pray-1-102-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36995,
+      "sha256": "ad4dc3b0d62a8d50b34972d38e12309b91b803d4c2685abe4e73a83c12dae06e"
+    },
+    {
+      "key": "pray-1-102-1001",
+      "path": "media/handcrafts/previews/pray-1-102-1001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 33576,
+      "sha256": "16ff0b63a05917d8da1ff00c50888e86e6cdd05e02144b8d5a467c0a7c5a2ef8"
+    },
+    {
+      "key": "pray-1-102-1002",
+      "path": "media/handcrafts/previews/pray-1-102-1002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 33486,
+      "sha256": "e5247afb6bcbf9b33b8698f94181bf7852ebacd87b28670bf222874819dc2541"
+    },
+    {
+      "key": "pray-1-102-1003",
+      "path": "media/handcrafts/previews/pray-1-102-1003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 33798,
+      "sha256": "7347d410ae407ab2d7cad385d2c24fd3c540ad8d8f562f8282cd1f5bf5585e89"
+    },
+    {
+      "key": "pray-1-102-1004",
+      "path": "media/handcrafts/previews/pray-1-102-1004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 33623,
+      "sha256": "353f50fec56c2082b15baae59bcd4b0527c238d6da370c0412bca5222ddc6d98"
+    },
+    {
+      "key": "pray-1-103-1001",
+      "path": "media/handcrafts/previews/pray-1-103-1001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29853,
+      "sha256": "431f0684e664186772643b03a01da199a82390d51d91b01d19dc54e118875eca"
+    },
+    {
+      "key": "pray-1-103-1002",
+      "path": "media/handcrafts/previews/pray-1-103-1002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29771,
+      "sha256": "3a7100602c5c272a97935674052301724a5d2b98b13d067e6fe2dfeff07eff39"
+    },
+    {
+      "key": "pray-1-103-1003",
+      "path": "media/handcrafts/previews/pray-1-103-1003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30077,
+      "sha256": "1d5cae9560af50fa96448a927f04b07bc7de4d74caee716ba40ce62ffebba689"
+    },
+    {
+      "key": "pray-1-103-1004",
+      "path": "media/handcrafts/previews/pray-1-103-1004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29895,
+      "sha256": "3d9bcd6bed85782449fc931cfe665ee751666ba1380ae1d2e364a1d1ec4b2a37"
+    },
+    {
+      "key": "pray-1-104-1001",
+      "path": "media/handcrafts/previews/pray-1-104-1001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30016,
+      "sha256": "32ff6b2c2a0d13232636a02ae5addbc69a1e6185a18196ca7ecb33065e3254fd"
+    },
+    {
+      "key": "pray-1-104-1002",
+      "path": "media/handcrafts/previews/pray-1-104-1002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29925,
+      "sha256": "70d69f5cf49aa9b766294e1f2c5ed5c98d996f6eda50be5aceab6f4f2897627c"
+    },
+    {
+      "key": "pray-1-104-1003",
+      "path": "media/handcrafts/previews/pray-1-104-1003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30236,
+      "sha256": "075b358dc89dbabf656bfb6c61fcdb2b7e0f1072b0e2e085e3eb8dd23ea32df0"
+    },
+    {
+      "key": "pray-1-104-1004",
+      "path": "media/handcrafts/previews/pray-1-104-1004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30054,
+      "sha256": "9fd1af4ba6a8835648b0849efcd28865e51459187ebd57421fca7bd723d44a55"
+    },
+    {
+      "key": "pray-1-105-1001",
+      "path": "media/handcrafts/previews/pray-1-105-1001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34985,
+      "sha256": "5428647d0d22c9a132e6d7132ddcf61f4065d2a61dd759e1e05138a33b80ff24"
+    },
+    {
+      "key": "pray-1-105-1002",
+      "path": "media/handcrafts/previews/pray-1-105-1002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34902,
+      "sha256": "389c408090a80c6a4aa6dc0c800399012fddc70393b257fc4b636f0cc228473f"
+    },
+    {
+      "key": "pray-1-105-1003",
+      "path": "media/handcrafts/previews/pray-1-105-1003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35211,
+      "sha256": "7276085a63a8297ba9dae0ac3e2fd343c2d6cca37ebfd850c32eb796d385d586"
+    },
+    {
+      "key": "pray-1-105-1004",
+      "path": "media/handcrafts/previews/pray-1-105-1004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35050,
+      "sha256": "94f19630f473b0df2bca636b4a2ec72c17c3768eb772379eb6c017b92c3c3a16"
+    },
+    {
+      "key": "pray-1-106-1001",
+      "path": "media/handcrafts/previews/pray-1-106-1001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 31761,
+      "sha256": "ced1aef08dfdeecb04c9f5e1be6d4ca95669e2cd9c884c077013f9f644883774"
+    },
+    {
+      "key": "pray-1-106-1002",
+      "path": "media/handcrafts/previews/pray-1-106-1002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 31675,
+      "sha256": "96060a2b4b3650968855aa6bfd4c417e49efd005674289cefbbd3acf1e5181f9"
+    },
+    {
+      "key": "pray-1-106-1003",
+      "path": "media/handcrafts/previews/pray-1-106-1003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 31976,
+      "sha256": "ca40282918c490587730950704f736610f528dbb28441de911e605d0a089d63c"
+    },
+    {
+      "key": "pray-1-106-1004",
+      "path": "media/handcrafts/previews/pray-1-106-1004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 31795,
+      "sha256": "267c571b559fdb309e594568d2e1dab49bd4feb2b129f8a74126cf95d22950a5"
+    },
+    {
+      "key": "pray-2-201-0",
+      "path": "media/handcrafts/previews/pray-2-201-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 43659,
+      "sha256": "11be3443caa9abd89db6c6354c186aa8b4f0c70e634f75e677b6c3f5e576d740"
+    },
+    {
+      "key": "pray-2-202-0",
+      "path": "media/handcrafts/previews/pray-2-202-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 43127,
+      "sha256": "743b4e272437cfa98d21bfea26a1ee0b5cab557a86fdc23c09c2203f30467eac"
+    },
+    {
+      "key": "pray-2-202-2001",
+      "path": "media/handcrafts/previews/pray-2-202-2001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 38063,
+      "sha256": "f2f12f1b522327c0d061d0b2dd56336e20eed0433b051ca8555b386264fa58ad"
+    },
+    {
+      "key": "pray-2-202-2002",
+      "path": "media/handcrafts/previews/pray-2-202-2002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37792,
+      "sha256": "6ca43e43322f00780b72b06f8ee13ad81108af115b8166d135a11e7a8cddccc8"
+    },
+    {
+      "key": "pray-2-202-2003",
+      "path": "media/handcrafts/previews/pray-2-202-2003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37718,
+      "sha256": "53f3e0767ed227a4232e1d8d5595e2da5dad7e2484a60342c5364941b62caac4"
+    },
+    {
+      "key": "pray-2-202-2004",
+      "path": "media/handcrafts/previews/pray-2-202-2004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37604,
+      "sha256": "ff1d5f6d819ed94f96b43f611b822f0241dcdc895ae6d1f928de747e6ec1a72a"
+    },
+    {
+      "key": "pray-2-203-2001",
+      "path": "media/handcrafts/previews/pray-2-203-2001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 41163,
+      "sha256": "2aff7628379730389e16000d62e70b106924d8dc8c10f251faf737f4790c45d0"
+    },
+    {
+      "key": "pray-2-203-2002",
+      "path": "media/handcrafts/previews/pray-2-203-2002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40886,
+      "sha256": "a23e0ee873528626527ea63d740030227c825d5306f7a594ccfb779e5a8108f1"
+    },
+    {
+      "key": "pray-2-203-2003",
+      "path": "media/handcrafts/previews/pray-2-203-2003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40800,
+      "sha256": "82254de6bb5dbd5570d5f51441eb89e8bc737272860032c72c857aee69f39f48"
+    },
+    {
+      "key": "pray-2-203-2004",
+      "path": "media/handcrafts/previews/pray-2-203-2004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40698,
+      "sha256": "a47d84e8aaf4889b5ba4326699510b12e7d44f547c7a898e8b752f73296cff38"
+    },
+    {
+      "key": "pray-2-204-2001",
+      "path": "media/handcrafts/previews/pray-2-204-2001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39682,
+      "sha256": "2ac434e4cf9928718422a406c75c08cd4f568b025b93d723750a570da075d1b8"
+    },
+    {
+      "key": "pray-2-204-2002",
+      "path": "media/handcrafts/previews/pray-2-204-2002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39416,
+      "sha256": "2a141eebe1cc42871e2c0424d959fa4764e96d248a5e1249a4dd9cc29fdcd503"
+    },
+    {
+      "key": "pray-2-204-2003",
+      "path": "media/handcrafts/previews/pray-2-204-2003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39323,
+      "sha256": "507ce24a8aa2effe5016a3aa4779ee2ddae60eb63c441269adcbdb3501519fdf"
+    },
+    {
+      "key": "pray-2-204-2004",
+      "path": "media/handcrafts/previews/pray-2-204-2004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39223,
+      "sha256": "0386bb222bcb811d78595d49e813d961affb374b23020615a274773d4759cace"
+    },
+    {
+      "key": "pray-2-205-2001",
+      "path": "media/handcrafts/previews/pray-2-205-2001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36279,
+      "sha256": "a65ae975f542b00fa8358ce084fa92f524ee84e029089d6a6d0d290245901e17"
+    },
+    {
+      "key": "pray-2-205-2002",
+      "path": "media/handcrafts/previews/pray-2-205-2002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36028,
+      "sha256": "7466f13b091e9e58ea1545b66e0ab4f1406e5bec571058d0300c9ccbd1be744c"
+    },
+    {
+      "key": "pray-2-205-2003",
+      "path": "media/handcrafts/previews/pray-2-205-2003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35925,
+      "sha256": "2521f43e45ff4338b0d9c48e85da4e22f3009554719879b1f2e084752aa49e36"
+    },
+    {
+      "key": "pray-2-205-2004",
+      "path": "media/handcrafts/previews/pray-2-205-2004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35833,
+      "sha256": "3cea2ddfe9d35d65511ac6e3c57c06a9a2cb3767aec87e594c0d56037f33fb32"
+    },
+    {
+      "key": "pray-2-206-2001",
+      "path": "media/handcrafts/previews/pray-2-206-2001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36108,
+      "sha256": "2b83e6b46d3f7da1bcacda83d09e13e84964752556a05135cc4781a790f465a1"
+    },
+    {
+      "key": "pray-2-206-2002",
+      "path": "media/handcrafts/previews/pray-2-206-2002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35850,
+      "sha256": "45e10b114be732f16552588ea2b8d393527fc191357a2a26315a6703fb50ba2e"
+    },
+    {
+      "key": "pray-2-206-2003",
+      "path": "media/handcrafts/previews/pray-2-206-2003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35752,
+      "sha256": "1788532123726ed7e43d7b00fd0136bf866963866c4e0cc22a2d4313793d7caa"
+    },
+    {
+      "key": "pray-2-206-2004",
+      "path": "media/handcrafts/previews/pray-2-206-2004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35656,
+      "sha256": "357f43ee51365a883068d26a9bcb9d1c8a69ad4125ace630ba2623efd154c0a8"
+    },
+    {
+      "key": "pray-3-301-0",
+      "path": "media/handcrafts/previews/pray-3-301-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40822,
+      "sha256": "033921726e0ad1982572fc0c1a1eff2b387f4bb6e18c8140fed3ce50d5cf4c23"
+    },
+    {
+      "key": "pray-3-302-0",
+      "path": "media/handcrafts/previews/pray-3-302-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29991,
+      "sha256": "06e35791ed845ac7cfa595c99040c410dfe78e6c3c394df0c9ec4b0b755147f8"
+    },
+    {
+      "key": "pray-3-302-3001",
+      "path": "media/handcrafts/previews/pray-3-302-3001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 27121,
+      "sha256": "368a8101a1e9ef3ad1f4597df990ca00d8472f5efb584f4f7d61808fac2cf918"
+    },
+    {
+      "key": "pray-3-302-3002",
+      "path": "media/handcrafts/previews/pray-3-302-3002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 27125,
+      "sha256": "f18ec72f0dd7135bc3fb84d534847bbd4f9aea84919ccab5135963a72ec470f7"
+    },
+    {
+      "key": "pray-3-302-3003",
+      "path": "media/handcrafts/previews/pray-3-302-3003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 27344,
+      "sha256": "c9d41d9fe6017b1703a77644a0e0f641d64a71e11ed7883972d51b7ce9591588"
+    },
+    {
+      "key": "pray-3-302-3004",
+      "path": "media/handcrafts/previews/pray-3-302-3004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 27129,
+      "sha256": "1b9342419baf841897a4d5e4f0225091a0b0e06d095fc066cc79ea1d3debe1f7"
+    },
+    {
+      "key": "pray-3-303-3001",
+      "path": "media/handcrafts/previews/pray-3-303-3001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30379,
+      "sha256": "a00426bb57b0316342323594dbd6e8b9804f7540e4e1c9aeed9bde78b0fb2814"
+    },
+    {
+      "key": "pray-3-303-3002",
+      "path": "media/handcrafts/previews/pray-3-303-3002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30382,
+      "sha256": "d3e4538f870af9ea26b5d4e4a3ab5612df17ccfd89ac5999007de94ded4824b3"
+    },
+    {
+      "key": "pray-3-303-3003",
+      "path": "media/handcrafts/previews/pray-3-303-3003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30590,
+      "sha256": "6b9924ebafb7cc99626fa68f6d13501194c119a2fb24ec06698cf6f1260cd0a0"
+    },
+    {
+      "key": "pray-3-303-3004",
+      "path": "media/handcrafts/previews/pray-3-303-3004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 30406,
+      "sha256": "3e3e23d4e40fc36529104e26645ab02bf946210dee182af3ac072ef3eeafa8fb"
+    },
+    {
+      "key": "pray-3-304-3001",
+      "path": "media/handcrafts/previews/pray-3-304-3001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25286,
+      "sha256": "6ccf0e47394900a88f2d9fb06c955318a8ee8733518c5c8a8a3d9c0c3f2e2e05"
+    },
+    {
+      "key": "pray-3-304-3002",
+      "path": "media/handcrafts/previews/pray-3-304-3002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25298,
+      "sha256": "ba60937a22b36fe783da44b575ef4b50f10ad6ce9cadfab329911e2c762d2f2d"
+    },
+    {
+      "key": "pray-3-304-3003",
+      "path": "media/handcrafts/previews/pray-3-304-3003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25515,
+      "sha256": "171ae54c20bdaf55b9a19a97da89068ac6c626dafc57881fad79cc618b089d87"
+    },
+    {
+      "key": "pray-3-304-3004",
+      "path": "media/handcrafts/previews/pray-3-304-3004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25312,
+      "sha256": "da9dfa5cbb645812c1a26aa48be0f6a791a758e7569a5f5326dcd9efa065519b"
+    },
+    {
+      "key": "pray-3-305-3001",
+      "path": "media/handcrafts/previews/pray-3-305-3001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25455,
+      "sha256": "3ca43f8848f8208c3b510e5f37315112bacee1faae70665efd7963eb530c0c8f"
+    },
+    {
+      "key": "pray-3-305-3002",
+      "path": "media/handcrafts/previews/pray-3-305-3002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25464,
+      "sha256": "3b8d5d6e9b52c4da7712046b9725da2044acd4f2bb7f5ec0cd0e7e61e6cb1502"
+    },
+    {
+      "key": "pray-3-305-3003",
+      "path": "media/handcrafts/previews/pray-3-305-3003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25682,
+      "sha256": "1dba2c5e74998cac619df1f9abd7c0a51bb7c5bfdbf8a33f3eaf16d11b563333"
+    },
+    {
+      "key": "pray-3-305-3004",
+      "path": "media/handcrafts/previews/pray-3-305-3004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25477,
+      "sha256": "7e7932b1e8cab5f84afcec1fbfdf3d4deed1833905dc50aa2b0d74b95f244090"
+    },
+    {
+      "key": "pray-3-306-3001",
+      "path": "media/handcrafts/previews/pray-3-306-3001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29285,
+      "sha256": "c658db59dd6a8dcb747e9988e0aefb4ffee19d680cc0b8dbe86073d5eb4880df"
+    },
+    {
+      "key": "pray-3-306-3002",
+      "path": "media/handcrafts/previews/pray-3-306-3002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29280,
+      "sha256": "bc8ec41c33d878902a825c8995b4cc76de2193d594b136bcda05aa85fcfba8d6"
+    },
+    {
+      "key": "pray-3-306-3003",
+      "path": "media/handcrafts/previews/pray-3-306-3003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29506,
+      "sha256": "2fa63adf7ea1577b6f663b2f7f5d2c770f10b45de1c28c6a9d18846e4b6b1672"
+    },
+    {
+      "key": "pray-3-306-3004",
+      "path": "media/handcrafts/previews/pray-3-306-3004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29297,
+      "sha256": "334a64442894256f63b82ce4f79d7dc464094db19c51fcfec11adc2cbb2f78c6"
+    },
+    {
+      "key": "pray-4-401-0",
+      "path": "media/handcrafts/previews/pray-4-401-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40044,
+      "sha256": "dd065b455b7948de4b2bb76cf0b26a206556c4317a971c79d5ef14ce3eca34ec"
+    },
+    {
+      "key": "pray-4-402-0",
+      "path": "media/handcrafts/previews/pray-4-402-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36731,
+      "sha256": "45d813517af69a82c3894c12d06c2e0de3d0fdddda5c035c24345e52f7c7535e"
+    },
+    {
+      "key": "pray-4-402-4001",
+      "path": "media/handcrafts/previews/pray-4-402-4001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34659,
+      "sha256": "c62da02376b46e28d8a90b3b04e0d8b6e6e72978975d1606abcecf82ca416af6"
+    },
+    {
+      "key": "pray-4-402-4002",
+      "path": "media/handcrafts/previews/pray-4-402-4002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34191,
+      "sha256": "ac9551ed4fa4fee7038b5d48ecb5857456ae317c50f4f7bbf95d589f52912a37"
+    },
+    {
+      "key": "pray-4-402-4003",
+      "path": "media/handcrafts/previews/pray-4-402-4003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34347,
+      "sha256": "af10fff35beec18ee813609691ccf50bc0aeaf84adafc7028bac32ec2d646e5d"
+    },
+    {
+      "key": "pray-4-402-4004",
+      "path": "media/handcrafts/previews/pray-4-402-4004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34294,
+      "sha256": "01f9669997674bbd1cc141b0096c2615dbdabd948a24b5cd9b8d9225c0c1c763"
+    },
+    {
+      "key": "pray-4-403-4001",
+      "path": "media/handcrafts/previews/pray-4-403-4001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37982,
+      "sha256": "b9d22aef9cd94e254b4c38a92d2cc21154ef7e58ef40ade8c85834ddec93079f"
+    },
+    {
+      "key": "pray-4-403-4002",
+      "path": "media/handcrafts/previews/pray-4-403-4002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37497,
+      "sha256": "a7bde93a64897134367ebbb0d5fed22076a1657b70de09ab5196db26087890a1"
+    },
+    {
+      "key": "pray-4-403-4003",
+      "path": "media/handcrafts/previews/pray-4-403-4003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37690,
+      "sha256": "b3d43f946efaffb731ff1c314527571c31fcd4ddc7ea41be4af73ac66c8e5564"
+    },
+    {
+      "key": "pray-4-403-4004",
+      "path": "media/handcrafts/previews/pray-4-403-4004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37615,
+      "sha256": "a0e3d75641aa2cbce7b3cdd485f8b7e8ba2c670a6549ef877374717f61e88c7c"
+    },
+    {
+      "key": "pray-4-404-4001",
+      "path": "media/handcrafts/previews/pray-4-404-4001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34492,
+      "sha256": "a6836d661df6521c295771d24381e7496566aa3fe3a7871687a6a33f382f112f"
+    },
+    {
+      "key": "pray-4-404-4002",
+      "path": "media/handcrafts/previews/pray-4-404-4002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34020,
+      "sha256": "f51fc4fe4214a8953e95f3782c1779eb0c560b3fcd2ef06de9b8229508ac1ce3"
+    },
+    {
+      "key": "pray-4-404-4003",
+      "path": "media/handcrafts/previews/pray-4-404-4003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34179,
+      "sha256": "fb211168fbd3b45932b902b9510b716af25bf0e02b429e34330b0e89cf6942f7"
+    },
+    {
+      "key": "pray-4-404-4004",
+      "path": "media/handcrafts/previews/pray-4-404-4004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34119,
+      "sha256": "9e1704789a78a0d4b54cc4a82b3e2ce9abc923d841a3d8430c7916f78120f2f6"
+    },
+    {
+      "key": "pray-4-405-4001",
+      "path": "media/handcrafts/previews/pray-4-405-4001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39616,
+      "sha256": "8489c1a094c8254ad1fbcdd0b82bacdcbe7c81aaa3a1a773125bb5b5f2ba3377"
+    },
+    {
+      "key": "pray-4-405-4002",
+      "path": "media/handcrafts/previews/pray-4-405-4002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39144,
+      "sha256": "a0361b71ca97d1e7308f7d7345b39f4ebc7e858e9e09839e107465cca71b9619"
+    },
+    {
+      "key": "pray-4-405-4003",
+      "path": "media/handcrafts/previews/pray-4-405-4003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39325,
+      "sha256": "9fe5e20eab91bbd820e13fe7552871018cf0bb880f2c285e43958253270401ee"
+    },
+    {
+      "key": "pray-4-405-4004",
+      "path": "media/handcrafts/previews/pray-4-405-4004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39263,
+      "sha256": "98d7c4d62ac217d572e10b3ce7ccca890d0cc1352db3758ba68bf6ae44b6e5b6"
+    },
+    {
+      "key": "pray-4-406-4001",
+      "path": "media/handcrafts/previews/pray-4-406-4001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36286,
+      "sha256": "43304244b682674fb80fa01bfb5872c0a5903cd99d1156ec1378a77baa287c6e"
+    },
+    {
+      "key": "pray-4-406-4002",
+      "path": "media/handcrafts/previews/pray-4-406-4002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35816,
+      "sha256": "7c3e051abc29affc56031f53e1999af5357071448520ae95b710c5f0609cea00"
+    },
+    {
+      "key": "pray-4-406-4003",
+      "path": "media/handcrafts/previews/pray-4-406-4003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35979,
+      "sha256": "b253e4f4643aad0b12a4735006befbc9f0c14b0f6552522392535ee081f39cfb"
+    },
+    {
+      "key": "pray-4-406-4004",
+      "path": "media/handcrafts/previews/pray-4-406-4004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35914,
+      "sha256": "bd7dde09f7f3bec8320ff7ff549e5d42eab858199c58e2ba766680d60d606e9a"
+    },
+    {
+      "key": "pray-5-501-0",
+      "path": "media/handcrafts/previews/pray-5-501-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 43529,
+      "sha256": "380eca0900940110b26e7cf89fd2026099effb6da53d153f2f6fa53efc4cda45"
+    },
+    {
+      "key": "pray-5-502-0",
+      "path": "media/handcrafts/previews/pray-5-502-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 41472,
+      "sha256": "adb7fab0421bce5e730a225f9625630d4bb7d057f8b297812f85040e1b8503ec"
+    },
+    {
+      "key": "pray-5-502-5001",
+      "path": "media/handcrafts/previews/pray-5-502-5001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35757,
+      "sha256": "004428fd6eab4d00070650841dfd93627c041453ecdec09130b07f8f3afa8c28"
+    },
+    {
+      "key": "pray-5-502-5002",
+      "path": "media/handcrafts/previews/pray-5-502-5002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35780,
+      "sha256": "2a4a3012171437e12d541f0640070cb3ba588b513f7064279c8876dacfee9c85"
+    },
+    {
+      "key": "pray-5-502-5003",
+      "path": "media/handcrafts/previews/pray-5-502-5003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36071,
+      "sha256": "ea43cfb75f5831384b73eefe5486fd0782006f06a02c7148209608eb53a9084e"
+    },
+    {
+      "key": "pray-5-502-5004",
+      "path": "media/handcrafts/previews/pray-5-502-5004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35829,
+      "sha256": "2a1eddf650f2f52de529e6c109e35460c8ec8cbe557b4c8a9cbd8124ce8fc12e"
+    },
+    {
+      "key": "pray-5-503-5001",
+      "path": "media/handcrafts/previews/pray-5-503-5001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32418,
+      "sha256": "03d0846ae6dd50971e6e0d487d17d6198819e8af0198cebcc9c29fb71137be96"
+    },
+    {
+      "key": "pray-5-503-5002",
+      "path": "media/handcrafts/previews/pray-5-503-5002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32440,
+      "sha256": "511a19de6e5c45b373370c4dfffad4b1914d9cba5de6052d7dd0186ad79b655d"
+    },
+    {
+      "key": "pray-5-503-5003",
+      "path": "media/handcrafts/previews/pray-5-503-5003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32732,
+      "sha256": "5a6ef587f6de4d9c79f5ee90926f2f56e53821e0c442caecc97236042f58a8e0"
+    },
+    {
+      "key": "pray-5-503-5004",
+      "path": "media/handcrafts/previews/pray-5-503-5004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32493,
+      "sha256": "ecdf6d86e13a4e1b059aa6e5118da78602f55ec546e2bcde2c009dceaa2c68cc"
+    },
+    {
+      "key": "pray-5-504-5001",
+      "path": "media/handcrafts/previews/pray-5-504-5001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32259,
+      "sha256": "f95c42ede7c6732eb3ddc1b26d939cb1fa84a6487fab6e429bc8d998e8d59c94"
+    },
+    {
+      "key": "pray-5-504-5002",
+      "path": "media/handcrafts/previews/pray-5-504-5002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32277,
+      "sha256": "a8eae3b9e1c9cf39e4161227ab20ea07b73f2d8a86cff5f2879bb3816f93c8dd"
+    },
+    {
+      "key": "pray-5-504-5003",
+      "path": "media/handcrafts/previews/pray-5-504-5003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32567,
+      "sha256": "0601cb47da8a8d8d424ceed4719d8e11572bf4fb86bfb60011f69345311d5ebc"
+    },
+    {
+      "key": "pray-5-504-5004",
+      "path": "media/handcrafts/previews/pray-5-504-5004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 32325,
+      "sha256": "c04149137fc997443ad6cb38f46fc0d330e2f9b1828a153c0d696fabc08f3344"
+    },
+    {
+      "key": "pray-5-505-5001",
+      "path": "media/handcrafts/previews/pray-5-505-5001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37262,
+      "sha256": "f1e91ce20b71ca4da191f81336b03b1adb6c024e87ba7f2f1694ade4c3a653dc"
+    },
+    {
+      "key": "pray-5-505-5002",
+      "path": "media/handcrafts/previews/pray-5-505-5002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37271,
+      "sha256": "ba45c1e4546d0f901fcc8b4af2d3d9e1bff23922a6c5ac2f35a6ab96ba5ab526"
+    },
+    {
+      "key": "pray-5-505-5003",
+      "path": "media/handcrafts/previews/pray-5-505-5003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37583,
+      "sha256": "4da72025dbfccc17128db3d10472ccf018d16cb9b565e055e761dd8a63e4ba08"
+    },
+    {
+      "key": "pray-5-505-5004",
+      "path": "media/handcrafts/previews/pray-5-505-5004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37326,
+      "sha256": "f0668c6f92e206f4a2e583eaf577dda8db85b3763dbdcb376c58e5be02d9cdf1"
+    },
+    {
+      "key": "pray-5-506-5001",
+      "path": "media/handcrafts/previews/pray-5-506-5001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34101,
+      "sha256": "9ea031a8909eddae0bb37afb017fc49e9cba8969090166a7b9e07d8038db486d"
+    },
+    {
+      "key": "pray-5-506-5002",
+      "path": "media/handcrafts/previews/pray-5-506-5002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34105,
+      "sha256": "3902a135a2acfc38777a55fba2e991e1a5a8b1e99306c34aa1f206e76b5a5e91"
+    },
+    {
+      "key": "pray-5-506-5003",
+      "path": "media/handcrafts/previews/pray-5-506-5003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34419,
+      "sha256": "4b4fcc1f350b499c8b01298b15101fc2406c84b7acb517ca6c14c1e90aee9bba"
+    },
+    {
+      "key": "pray-5-506-5004",
+      "path": "media/handcrafts/previews/pray-5-506-5004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34169,
+      "sha256": "f5120eda6b205475a5199772a6f12d35fb94fcbffce90a88409dfc80087040a3"
+    },
+    {
+      "key": "pray-6-601-0",
+      "path": "media/handcrafts/previews/pray-6-601-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40623,
+      "sha256": "38aaad55f85397e250c35d034bcd21575424d1a391dab52d5fd0d16f33c3b055"
+    },
+    {
+      "key": "pray-6-602-0",
+      "path": "media/handcrafts/previews/pray-6-602-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 42513,
+      "sha256": "ba280b8294249a006aa0166ed1446499f1d8faada8ffa1ae10cd4098bd1d2321"
+    },
+    {
+      "key": "pray-6-602-6001",
+      "path": "media/handcrafts/previews/pray-6-602-6001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35168,
+      "sha256": "fd6a2dc67a7dab2528ae944d8f11164d9e07e170250f9aa2bab4cff9115f0b51"
+    },
+    {
+      "key": "pray-6-602-6002",
+      "path": "media/handcrafts/previews/pray-6-602-6002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34917,
+      "sha256": "6771ecd81bece7fdb483db25e5218a1e40f846e3454d1be93e02732484984c8c"
+    },
+    {
+      "key": "pray-6-602-6003",
+      "path": "media/handcrafts/previews/pray-6-602-6003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35240,
+      "sha256": "6affd0e4aada5b04f8d03b2b2b6e6dbfe4ef56b4b01d3e87ee289201fe31954a"
+    },
+    {
+      "key": "pray-6-602-6004",
+      "path": "media/handcrafts/previews/pray-6-602-6004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 34993,
+      "sha256": "f36654805e484f207af8522a50e52996fee4366f281c9144af3aee701685d32f"
+    },
+    {
+      "key": "pray-6-603-6001",
+      "path": "media/handcrafts/previews/pray-6-603-6001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40502,
+      "sha256": "0b6a5f7d27988451fe8e913750f0e97d99d9d0f78a622628f23e7883c93cdd96"
+    },
+    {
+      "key": "pray-6-603-6002",
+      "path": "media/handcrafts/previews/pray-6-603-6002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40241,
+      "sha256": "29732f7085c146a9dcd44c094620223df584001cea28ced1d293e48684a22cdc"
+    },
+    {
+      "key": "pray-6-603-6003",
+      "path": "media/handcrafts/previews/pray-6-603-6003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40565,
+      "sha256": "a697f094d05f92f1175d6fa9245715f7ef53450b3387281b59f36aabca2558f5"
+    },
+    {
+      "key": "pray-6-603-6004",
+      "path": "media/handcrafts/previews/pray-6-603-6004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 40313,
+      "sha256": "f642574e5ce11a532a8202b511f82bbd59c64c2bf5a1d024cb69231e442cd126"
+    },
+    {
+      "key": "pray-6-604-6001",
+      "path": "media/handcrafts/previews/pray-6-604-6001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37093,
+      "sha256": "34bd805de3cb490f874d4cc4a40fd4c23ca7ba1ff58dbf2ef57e496b8238d34f"
+    },
+    {
+      "key": "pray-6-604-6002",
+      "path": "media/handcrafts/previews/pray-6-604-6002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36848,
+      "sha256": "6ce64b259649dcb62b92a810411ab42b4dbd7ed746f5ba30db80d126f62082ac"
+    },
+    {
+      "key": "pray-6-604-6003",
+      "path": "media/handcrafts/previews/pray-6-604-6003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 37160,
+      "sha256": "faa3ab0ee0efc46ef194544ba8dd396142efabbd90cde8ec300556114c48c9cf"
+    },
+    {
+      "key": "pray-6-604-6004",
+      "path": "media/handcrafts/previews/pray-6-604-6004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36912,
+      "sha256": "e41b31d231f563f7420696efbeeb78b9681e8a368056daa10142fdb5bf97f303"
+    },
+    {
+      "key": "pray-6-605-6001",
+      "path": "media/handcrafts/previews/pray-6-605-6001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35319,
+      "sha256": "2a3a7a240baad211eaee1a0f3112223f8cc61fdfc9c11125e4a167cbf65ac6e0"
+    },
+    {
+      "key": "pray-6-605-6002",
+      "path": "media/handcrafts/previews/pray-6-605-6002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35068,
+      "sha256": "91368a933612e78b1415cba15031251cc929f4eab4180ed9e8739858d312d633"
+    },
+    {
+      "key": "pray-6-605-6003",
+      "path": "media/handcrafts/previews/pray-6-605-6003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35391,
+      "sha256": "ab2f905631506a172f7b925d5dd5ae06c68e0f5d604b3a17e27e5855885ca4c3"
+    },
+    {
+      "key": "pray-6-605-6004",
+      "path": "media/handcrafts/previews/pray-6-605-6004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 35146,
+      "sha256": "6e5136ac73a14cc906ee02359c203c5c90cec02285f2ef4bfe719616c5901c84"
+    },
+    {
+      "key": "pray-6-606-6001",
+      "path": "media/handcrafts/previews/pray-6-606-6001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39032,
+      "sha256": "cf750032364c779981629b8efe766aef66f51d628f8b44aa8ab0c80dce2c7c57"
+    },
+    {
+      "key": "pray-6-606-6002",
+      "path": "media/handcrafts/previews/pray-6-606-6002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 38784,
+      "sha256": "27adfa2d5ce9ecc2aa554dbd12692de06637f46cf30ea713b1a9766fe481f433"
+    },
+    {
+      "key": "pray-6-606-6003",
+      "path": "media/handcrafts/previews/pray-6-606-6003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39105,
+      "sha256": "3206e0f4d8002be08d612252737a2e55d983ff55c5796f42878c19a1edd8e674"
+    },
+    {
+      "key": "pray-6-606-6004",
+      "path": "media/handcrafts/previews/pray-6-606-6004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 38851,
+      "sha256": "ddf49eeec6a27851b6064716e2366f1ad498c414c859e233ca36a1e9ff482031"
+    },
+    {
+      "key": "pray-7-701-0",
+      "path": "media/handcrafts/previews/pray-7-701-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 36907,
+      "sha256": "0f00b79710dc80ef07f9b87daa053bc0c3ea86a67fc05a6113d956673505343d"
+    },
+    {
+      "key": "pray-7-702-0",
+      "path": "media/handcrafts/previews/pray-7-702-0.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 39143,
+      "sha256": "42af26612003adac0d2d9a3a570763ecc468fee08bf2f52da73a37964e762d34"
+    },
+    {
+      "key": "pray-7-702-7001",
+      "path": "media/handcrafts/previews/pray-7-702-7001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29649,
+      "sha256": "0761ccce26648a1e692141418bf7096489207f7f7f75a628a3c6a10c862a4f8a"
+    },
+    {
+      "key": "pray-7-702-7002",
+      "path": "media/handcrafts/previews/pray-7-702-7002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29761,
+      "sha256": "1470b49230829a17ec13a102920bc1d428ada25ca576e8a313186874122270ee"
+    },
+    {
+      "key": "pray-7-702-7003",
+      "path": "media/handcrafts/previews/pray-7-702-7003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29989,
+      "sha256": "7d21ae2d47fa8e5de4f3eae32bac1ea07592bdf5b991710f9f229aef5a8447a3"
+    },
+    {
+      "key": "pray-7-702-7004",
+      "path": "media/handcrafts/previews/pray-7-702-7004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 29729,
+      "sha256": "05da7c8efeab3dfcb141a31151ba3e4c834f42d742443316a9fbdba60f046b62"
+    },
+    {
+      "key": "pray-7-703-7001",
+      "path": "media/handcrafts/previews/pray-7-703-7001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 28332,
+      "sha256": "c539f6e04c126ca9c56383fb0c28616bff4104ed808a02209c77b5f3d243c4fe"
+    },
+    {
+      "key": "pray-7-703-7002",
+      "path": "media/handcrafts/previews/pray-7-703-7002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 28440,
+      "sha256": "a64236bca9fbe0597b7d57f32e64389ddafe10d1ef1cfac65f3bf8c131d73cda"
+    },
+    {
+      "key": "pray-7-703-7003",
+      "path": "media/handcrafts/previews/pray-7-703-7003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 28670,
+      "sha256": "f8e907a9515ac6424c429b70d1407a65b35b5a4b9a5fa311aeb9e8c8ad73e1c2"
+    },
+    {
+      "key": "pray-7-703-7004",
+      "path": "media/handcrafts/previews/pray-7-703-7004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 28413,
+      "sha256": "f3c7f6299233e4a6d2dc77f5ac98b6c6b7d908fa2a881a5a070b47c28a22f541"
+    },
+    {
+      "key": "pray-7-704-7001",
+      "path": "media/handcrafts/previews/pray-7-704-7001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 24712,
+      "sha256": "9b3b52808e8ee6c4f2110956a587e66e5aa301306e4df951f94af687602ef232"
+    },
+    {
+      "key": "pray-7-704-7002",
+      "path": "media/handcrafts/previews/pray-7-704-7002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 24825,
+      "sha256": "83d4ff50198508253392415fa4242c4d34d71bb0ab8a4d5c65b517cf8dff6db1"
+    },
+    {
+      "key": "pray-7-704-7003",
+      "path": "media/handcrafts/previews/pray-7-704-7003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 25040,
+      "sha256": "7417f1ca03e92da3f59df6e4ded29e073511ff64a4b37d0e171360ad5bacbfa7"
+    },
+    {
+      "key": "pray-7-704-7004",
+      "path": "media/handcrafts/previews/pray-7-704-7004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 24791,
+      "sha256": "4604cab928f12ac2ac61da09060966991cd3dd78f22cb8243b00af707346944b"
+    },
+    {
+      "key": "pray-7-705-7001",
+      "path": "media/handcrafts/previews/pray-7-705-7001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 24548,
+      "sha256": "bf3cdceeeaf7e0f65ce5a14155efec0d095e12b8381667465ac9c8c45ee311eb"
+    },
+    {
+      "key": "pray-7-705-7002",
+      "path": "media/handcrafts/previews/pray-7-705-7002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 24659,
+      "sha256": "75756762361c751c4b89e7b30f5243b5d823888140f8e1487eb05a740e04b1e9"
+    },
+    {
+      "key": "pray-7-705-7003",
+      "path": "media/handcrafts/previews/pray-7-705-7003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 24870,
+      "sha256": "cff357ff4f87a5b9e815f3e47c047ebeeda508209d44ad4c7bd7030eca9e953e"
+    },
+    {
+      "key": "pray-7-705-7004",
+      "path": "media/handcrafts/previews/pray-7-705-7004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 24626,
+      "sha256": "6ac0135fc6be9324cbe77f3ec2aec5c4443678c12ff7511c236a4420df102c3a"
+    },
+    {
+      "key": "pray-7-706-7001",
+      "path": "media/handcrafts/previews/pray-7-706-7001.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 26437,
+      "sha256": "55fc905bbce3e73232374d978562904a43b6d92568a76aa9eee63170608bdcf8"
+    },
+    {
+      "key": "pray-7-706-7002",
+      "path": "media/handcrafts/previews/pray-7-706-7002.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 26534,
+      "sha256": "ff392f48286afd5632af7a1f20514ccb05fc4f4cc3e8fd88daf2010ab9507c9a"
+    },
+    {
+      "key": "pray-7-706-7003",
+      "path": "media/handcrafts/previews/pray-7-706-7003.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 26750,
+      "sha256": "76f29b57946c94f230b32be9beca2ea10a34bd42cae68720db9cfea0770249ed"
+    },
+    {
+      "key": "pray-7-706-7004",
+      "path": "media/handcrafts/previews/pray-7-706-7004.png",
+      "width": 250,
+      "height": 250,
+      "file_size": 26505,
+      "sha256": "a72fcbd0497346bc8b1e429d4319c13aee00a4031db0230f92fc5174bcebeeb2"
+    },
+    {
+      "key": "stamp-1-1",
+      "path": "media/handcrafts/previews/stamp-1-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59662,
+      "sha256": "9100bc411e553c4219933dcb1e22a8aa5a36b8a4814bbfaf593cdba5bf64d618"
+    },
+    {
+      "key": "stamp-1-2",
+      "path": "media/handcrafts/previews/stamp-1-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53805,
+      "sha256": "4f12249a6f0c8b6e47c75991c4903dc01ad4838d0daf42d7b93d713bc6a725a5"
+    },
+    {
+      "key": "stamp-1-3",
+      "path": "media/handcrafts/previews/stamp-1-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 57964,
+      "sha256": "23c8e8a34eec4223de60bd194f6efdcef32815aa48738e602108e8499299b645"
+    },
+    {
+      "key": "stamp-2-1",
+      "path": "media/handcrafts/previews/stamp-2-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 61126,
+      "sha256": "e0c3f5f16b836cfe4cbc864148b624a79496900f88cef89ed61ec5e80395ea4c"
+    },
+    {
+      "key": "stamp-2-2",
+      "path": "media/handcrafts/previews/stamp-2-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 55647,
+      "sha256": "1665dfdfe2072babde11278e28286ba969ecd122b479ec9c629c524505cbeedb"
+    },
+    {
+      "key": "stamp-2-3",
+      "path": "media/handcrafts/previews/stamp-2-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60134,
+      "sha256": "9efeaf0488325d35d806ea75d9ddcec4b1dfe0d5923150f3489ea1b093dc1366"
+    },
+    {
+      "key": "stamp-3-1",
+      "path": "media/handcrafts/previews/stamp-3-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60634,
+      "sha256": "418ba333ae0e3b726e439abd107960e893d300d97e8fe09188e2b044892e36fa"
+    },
+    {
+      "key": "stamp-3-2",
+      "path": "media/handcrafts/previews/stamp-3-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54863,
+      "sha256": "b02d803753f9ba1b5158460ba67ff74dbdfd955e93df92e1b3374e0631cd984c"
+    },
+    {
+      "key": "stamp-3-3",
+      "path": "media/handcrafts/previews/stamp-3-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60010,
+      "sha256": "1e73b661abdc90183a1f126ecb0bcc33e2ecfc77cfa8f7f9fff5139de8c4d9ae"
+    },
+    {
+      "key": "stamp-4-1",
+      "path": "media/handcrafts/previews/stamp-4-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 61495,
+      "sha256": "7e7c214457868ac5d7ab6278faaacc2f1f38f76833f41f4e6ea0f2ca81202234"
+    },
+    {
+      "key": "stamp-4-2",
+      "path": "media/handcrafts/previews/stamp-4-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 56164,
+      "sha256": "db96b99584c30b09d13710f7f37cee5a6b50ae81f3b7684373e0ec16ba596bf9"
+    },
+    {
+      "key": "stamp-4-3",
+      "path": "media/handcrafts/previews/stamp-4-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 61294,
+      "sha256": "886dd5a806477d0d7717f1fc39a53ab5405658858a5d5133259d07c2bd44fd2c"
+    },
+    {
+      "key": "stamp-5-1",
+      "path": "media/handcrafts/previews/stamp-5-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60647,
+      "sha256": "aa8134eb9b251ef0ca2c6b34ed24e6bb2a17f00d118500672a2d6508320844ea"
+    },
+    {
+      "key": "stamp-5-2",
+      "path": "media/handcrafts/previews/stamp-5-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 55755,
+      "sha256": "cefd41191b66ccfc1f385a1d7895498f22231ce1fda12457fac28ac62d1165dc"
+    },
+    {
+      "key": "stamp-5-3",
+      "path": "media/handcrafts/previews/stamp-5-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59745,
+      "sha256": "0cd8ed587bb28df012786cb4a68814832ab81241605a1bd7d00959f54ff93b91"
+    },
+    {
+      "key": "stamp-6-1",
+      "path": "media/handcrafts/previews/stamp-6-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60070,
+      "sha256": "024a158bcd40eaeacf91b4a5dde370b34fc0f7cf42ee32434b17678361f385b8"
+    },
+    {
+      "key": "stamp-6-2",
+      "path": "media/handcrafts/previews/stamp-6-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54908,
+      "sha256": "30ce11cea3cfc9ce40aa1bb3bddab182aa26adef43d22856a8c689581112d43b"
+    },
+    {
+      "key": "stamp-6-3",
+      "path": "media/handcrafts/previews/stamp-6-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59282,
+      "sha256": "60c488c6f14f3132224849866fe25af52edb017b69ef5b9731145df12f232e78"
+    },
+    {
+      "key": "stamp-7-1",
+      "path": "media/handcrafts/previews/stamp-7-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60353,
+      "sha256": "803d02ceb1b5d8adb372dac518dda701e89c74b28651b648c9a48855d89b61a7"
+    },
+    {
+      "key": "stamp-7-2",
+      "path": "media/handcrafts/previews/stamp-7-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 55310,
+      "sha256": "1ded807816a378690bfbf02937711af3ad826a6203e170ae586634bb3e6e32b2"
+    },
+    {
+      "key": "stamp-7-3",
+      "path": "media/handcrafts/previews/stamp-7-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58751,
+      "sha256": "ae0370241b80899fc7482be8df04e34e21ea2405ce252f54d9504f0bbdf089c7"
+    },
+    {
+      "key": "stamp-8-1",
+      "path": "media/handcrafts/previews/stamp-8-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60560,
+      "sha256": "3dfaa609d1a59100c30236220309bceef5965651dcfd721b5cf7d78ca8e5b7ff"
+    },
+    {
+      "key": "stamp-8-2",
+      "path": "media/handcrafts/previews/stamp-8-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 55601,
+      "sha256": "b61f03d56585e51e4953d8c8701634318fc3a71d165300c939aba1773dc47afd"
+    },
+    {
+      "key": "stamp-8-3",
+      "path": "media/handcrafts/previews/stamp-8-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60600,
+      "sha256": "64d5260ad54e6b08950dd9e55c8b02872cb6611b972c4f9ca1da32ec13e66e54"
+    },
+    {
+      "key": "stamp-9-1",
+      "path": "media/handcrafts/previews/stamp-9-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60018,
+      "sha256": "b5f1b98322251ca92468dcb63910d09f7a22b3cc81ce3efd1b4c06f11a01c599"
+    },
+    {
+      "key": "stamp-9-2",
+      "path": "media/handcrafts/previews/stamp-9-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54388,
+      "sha256": "f06c5fddb3a64fe1572b1834bd47c81076653aa6330a042d98ce9f5498389098"
+    },
+    {
+      "key": "stamp-9-3",
+      "path": "media/handcrafts/previews/stamp-9-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58197,
+      "sha256": "67111deee1cef99b0766c555847637d8f5e94a6c444c0b454196212667713435"
+    },
+    {
+      "key": "stamp-101-1",
+      "path": "media/handcrafts/previews/stamp-101-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59943,
+      "sha256": "307c86f2e9c990ea57d7c910627095566d2824a680e34ea89225bfa26be8fb9d"
+    },
+    {
+      "key": "stamp-101-2",
+      "path": "media/handcrafts/previews/stamp-101-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54040,
+      "sha256": "3e8818672eb1aef1337c9006dbb00cfd363ee049365ca4dfbc09b499fbc536f8"
+    },
+    {
+      "key": "stamp-101-3",
+      "path": "media/handcrafts/previews/stamp-101-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58173,
+      "sha256": "32730aa15ba925774189d66306aa867279e508993b94cd9d2c6fe6b713b80edc"
+    },
+    {
+      "key": "stamp-102-1",
+      "path": "media/handcrafts/previews/stamp-102-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58869,
+      "sha256": "6278f9459083fba6f36c9f585a4f747796ca0c2021b1121be749e3d60a238d9c"
+    },
+    {
+      "key": "stamp-102-2",
+      "path": "media/handcrafts/previews/stamp-102-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53015,
+      "sha256": "acc36ba20a8e968218004e6fc8b7bce36d21a1fe6aa02d87a6a3df0eba63e04a"
+    },
+    {
+      "key": "stamp-102-3",
+      "path": "media/handcrafts/previews/stamp-102-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 57683,
+      "sha256": "6ed3856719d9ebe31ad97380aac95d8c98d1efc4c8335c6afbc2ec07366e74b0"
+    },
+    {
+      "key": "stamp-103-1",
+      "path": "media/handcrafts/previews/stamp-103-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59406,
+      "sha256": "5828d7a5e6cbc860af82c1616f3b0a3be6814f6e2a9e83ffbd46e85a24ceeb5c"
+    },
+    {
+      "key": "stamp-103-2",
+      "path": "media/handcrafts/previews/stamp-103-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54056,
+      "sha256": "f6255344e57273ff87318b249ee72644ed5837300438847781dcff0be0bc433f"
+    },
+    {
+      "key": "stamp-103-3",
+      "path": "media/handcrafts/previews/stamp-103-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58834,
+      "sha256": "701a085cd6a4c3a406a03d3e584420b24c9d2f021a456a29313aa1eff2632927"
+    },
+    {
+      "key": "stamp-104-1",
+      "path": "media/handcrafts/previews/stamp-104-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59500,
+      "sha256": "7a9681392605728486812ece4c1499303c52302adf1c6f350b8d315cc28df670"
+    },
+    {
+      "key": "stamp-104-2",
+      "path": "media/handcrafts/previews/stamp-104-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54533,
+      "sha256": "263a42b69de9f97ebfcebb4e79b72af3ce64eecf30382b750ad624485e0a9031"
+    },
+    {
+      "key": "stamp-104-3",
+      "path": "media/handcrafts/previews/stamp-104-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59838,
+      "sha256": "6df81aed73ff504bfbd412add045a11c9b318e48aa4700ec84b3f0af172b3d3a"
+    },
+    {
+      "key": "stamp-105-1",
+      "path": "media/handcrafts/previews/stamp-105-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59223,
+      "sha256": "363cef6cdd350a2f15e1b04641b342550ae83e228ceeb938c2259637845516a8"
+    },
+    {
+      "key": "stamp-105-2",
+      "path": "media/handcrafts/previews/stamp-105-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53874,
+      "sha256": "a2708e3963781c326b619c7cf7ee06c248ce7eb508b38a2e688fb5237f8c32d4"
+    },
+    {
+      "key": "stamp-105-3",
+      "path": "media/handcrafts/previews/stamp-105-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 57841,
+      "sha256": "962125140d72ca39a6c122f116065b9f1568a80c833576dcecaa3f2183f6928d"
+    },
+    {
+      "key": "stamp-106-1",
+      "path": "media/handcrafts/previews/stamp-106-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59056,
+      "sha256": "3497e11b6865d4d94d27650a5a68f0db4b8c8d50972abe8f87892a67d98f9a68"
+    },
+    {
+      "key": "stamp-106-2",
+      "path": "media/handcrafts/previews/stamp-106-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53239,
+      "sha256": "9e5ff751a78aec49b18e4ab40b190d8eb5565259fd99a3540a04fd1c639c3270"
+    },
+    {
+      "key": "stamp-106-3",
+      "path": "media/handcrafts/previews/stamp-106-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 57739,
+      "sha256": "5b1ef97bca8170a49a2fcc1583009cc2212b71aaad2eddb53413858d248e2dda"
+    },
+    {
+      "key": "stamp-107-1",
+      "path": "media/handcrafts/previews/stamp-107-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59412,
+      "sha256": "8ec0beb18c9a2fa75efe7071e089c9d19f282b64986b97232fa36274b82b40a5"
+    },
+    {
+      "key": "stamp-107-2",
+      "path": "media/handcrafts/previews/stamp-107-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53977,
+      "sha256": "3240712a50e9a48df3f66479979d0a512b9150dd0823fadd769c5f7037009fdb"
+    },
+    {
+      "key": "stamp-107-3",
+      "path": "media/handcrafts/previews/stamp-107-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58249,
+      "sha256": "d14098cbc228885dcb764ed0201e844fd2fc40eec6ff9d93a2751a9ac372865c"
+    },
+    {
+      "key": "stamp-108-1",
+      "path": "media/handcrafts/previews/stamp-108-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59905,
+      "sha256": "3c32cd8b5e6ba035effdac3ead59f4f8e2eea0865052ab6de637fb17785ce68e"
+    },
+    {
+      "key": "stamp-108-2",
+      "path": "media/handcrafts/previews/stamp-108-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54120,
+      "sha256": "1e8a2f4763ae861935c56781a5a78f7f88592a6f80dd5ecb04aa891a69530759"
+    },
+    {
+      "key": "stamp-108-3",
+      "path": "media/handcrafts/previews/stamp-108-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59313,
+      "sha256": "51e45dea57ce36e5fc80623b9ed228bfa63aa173e3a8c6a973dad4d824545731"
+    },
+    {
+      "key": "stamp-109-1",
+      "path": "media/handcrafts/previews/stamp-109-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58819,
+      "sha256": "fa2abd08a89d4b82d592796966ba8e86b2e0ca102a7328c87769274b3ef5a74d"
+    },
+    {
+      "key": "stamp-109-2",
+      "path": "media/handcrafts/previews/stamp-109-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53718,
+      "sha256": "1231ff9a51aa81ee1f677e9a7d25774ee7f9c2367e8a858dd26bcaaca27ca022"
+    },
+    {
+      "key": "stamp-109-3",
+      "path": "media/handcrafts/previews/stamp-109-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 57780,
+      "sha256": "83d52b3a870de2a7d516e7a0e91fc0c149143fdb1c3dea8d2ccccf78065ef158"
+    },
+    {
+      "key": "stamp-201-1",
+      "path": "media/handcrafts/previews/stamp-201-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59646,
+      "sha256": "e63b905f69c452582bb9f812a984fe88cc654a79b576e65246e7c54351883baa"
+    },
+    {
+      "key": "stamp-201-2",
+      "path": "media/handcrafts/previews/stamp-201-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54140,
+      "sha256": "c62c46ca64c296d4200bebacae76d9fc2f43ac057d520c307aada4b69984750d"
+    },
+    {
+      "key": "stamp-201-3",
+      "path": "media/handcrafts/previews/stamp-201-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58205,
+      "sha256": "696adb75362f41804af3ac5553c2ee28e14225ac18b566575af0bd7a6acbf930"
+    },
+    {
+      "key": "stamp-202-1",
+      "path": "media/handcrafts/previews/stamp-202-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60711,
+      "sha256": "0ede22156ccb509ba24e8e38d0779249b132bd526bd653fd82514c0f132b2f08"
+    },
+    {
+      "key": "stamp-202-2",
+      "path": "media/handcrafts/previews/stamp-202-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54775,
+      "sha256": "b9728790c22ca67466f23f55964956dbdb8e9a13ea163be94e840e6f773db01b"
+    },
+    {
+      "key": "stamp-202-3",
+      "path": "media/handcrafts/previews/stamp-202-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59628,
+      "sha256": "dbc3a1c05141442df8740648f89a4be6a851814e52d73a0500c3948c7be2f22b"
+    },
+    {
+      "key": "stamp-203-1",
+      "path": "media/handcrafts/previews/stamp-203-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60293,
+      "sha256": "45d0f2f4104a04da6b314883ff647db5b67019f761c16b6a21a867fc6c5c4910"
+    },
+    {
+      "key": "stamp-203-2",
+      "path": "media/handcrafts/previews/stamp-203-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54124,
+      "sha256": "e1ee58ba7f2b01739741bf96ce2cbb08d1bd6f6876bfc03acbcfa4abdcaf07b0"
+    },
+    {
+      "key": "stamp-203-3",
+      "path": "media/handcrafts/previews/stamp-203-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58479,
+      "sha256": "4d62c61f96002181682fbdeef23661695124e7f60ae1e3940dd2f90866925c37"
+    },
+    {
+      "key": "stamp-204-1",
+      "path": "media/handcrafts/previews/stamp-204-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 61181,
+      "sha256": "20b547f184c310d903a8eef09c37a5bd3582803bde78410356d32eb14e5baaf4"
+    },
+    {
+      "key": "stamp-204-2",
+      "path": "media/handcrafts/previews/stamp-204-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54428,
+      "sha256": "704060859de2228a79c5ad7faebdf89c6cc42d32c2bb7b65c58cd1839b401802"
+    },
+    {
+      "key": "stamp-204-3",
+      "path": "media/handcrafts/previews/stamp-204-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59831,
+      "sha256": "ef285f85bbc460cd9e893294690ae23c23d615cb6c1871ed418e9d6fa06ab992"
+    },
+    {
+      "key": "stamp-205-1",
+      "path": "media/handcrafts/previews/stamp-205-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58164,
+      "sha256": "80c3f7e9d676e5eb0a37342ec2e349d90da46eaa06af4fdfad6410d44473385c"
+    },
+    {
+      "key": "stamp-205-2",
+      "path": "media/handcrafts/previews/stamp-205-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53200,
+      "sha256": "34ed4dea95bad56437b7994aff4fcf239c4eea4dafb28baec14b02c370a3d90b"
+    },
+    {
+      "key": "stamp-205-3",
+      "path": "media/handcrafts/previews/stamp-205-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 57234,
+      "sha256": "3a0de2e2f58766fe5f2abb8b95d767a87b99d3fee1fd0e2c0f949ea80d5c28b5"
+    },
+    {
+      "key": "stamp-206-1",
+      "path": "media/handcrafts/previews/stamp-206-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58924,
+      "sha256": "3e9dab22d7c10386f9968555c7d24821a79490568ff037c3e9cb74c7fa9426c1"
+    },
+    {
+      "key": "stamp-206-2",
+      "path": "media/handcrafts/previews/stamp-206-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53268,
+      "sha256": "cd3493100d9f8c31546e2335abbf8dbb8bea6bc9210c3a15881fede2ea2e76c9"
+    },
+    {
+      "key": "stamp-206-3",
+      "path": "media/handcrafts/previews/stamp-206-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 57690,
+      "sha256": "7815acf74b689c9eafd565012d8257fb46041489121f184f49cbed6a2e5bd4b5"
+    },
+    {
+      "key": "stamp-207-1",
+      "path": "media/handcrafts/previews/stamp-207-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 60526,
+      "sha256": "3894e78b02f0f95127fe75c343df5e154a4f24faa02303e5104d6d8ce76d0ec2"
+    },
+    {
+      "key": "stamp-207-2",
+      "path": "media/handcrafts/previews/stamp-207-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54188,
+      "sha256": "ffd717bf9dd1ba3a2db1668a6cb57cdf6ea70ce8664d1b7163bda3e3f7eb3aff"
+    },
+    {
+      "key": "stamp-207-3",
+      "path": "media/handcrafts/previews/stamp-207-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59079,
+      "sha256": "afb4c422f8b1a5a1f9d9da4701e7dcdbd3452ea56306c3170efb1aaec6a04c66"
+    },
+    {
+      "key": "stamp-208-1",
+      "path": "media/handcrafts/previews/stamp-208-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59503,
+      "sha256": "1defffff3bb8d996cbf5365cd78165f41343238b22e9f136466726d3f852dd2b"
+    },
+    {
+      "key": "stamp-208-2",
+      "path": "media/handcrafts/previews/stamp-208-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 54242,
+      "sha256": "b233d7c5b5f1acbca40dde28401d845081efb69827ea4b8857bdc7e294250153"
+    },
+    {
+      "key": "stamp-208-3",
+      "path": "media/handcrafts/previews/stamp-208-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59586,
+      "sha256": "1bee6d18c6455a43563810cf11a994544fa386ebf208bce4e98ba42e607412c9"
+    },
+    {
+      "key": "stamp-209-1",
+      "path": "media/handcrafts/previews/stamp-209-1.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 59483,
+      "sha256": "f1a5c007f7b77f586528b5b7b618dfe8433427c52edff6fadfe5bf2a4f063ab8"
+    },
+    {
+      "key": "stamp-209-2",
+      "path": "media/handcrafts/previews/stamp-209-2.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 53850,
+      "sha256": "c61f7a179e4fc4ff1a110ad7da3699c3765ec3908214b656692cdad60cd9e56c"
+    },
+    {
+      "key": "stamp-209-3",
+      "path": "media/handcrafts/previews/stamp-209-3.png",
+      "width": 300,
+      "height": 364,
+      "file_size": 58011,
+      "sha256": "f2dde843fe035eba04aa41d58ffbf475b435cf6362df9268d2bc8b7bf7218a66"
+    }
+  ]
+}

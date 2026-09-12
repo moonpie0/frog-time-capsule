@@ -1,0 +1,501 @@
+{
+  "schema_version": 2,
+  "source": "user_screenshots",
+  "records": [
+    {
+      "record_id": "pray-slot-1-2022-08-26",
+      "key": "pray-1-102-1001",
+      "collection_key": "pray-1-102-1001",
+      "shelf_slot": 1,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2022-08-26",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 2,
+      "stamp_id": 103,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-12-507_com.aligames.l.jpg",
+      "source_sha256": "ea0c4f492851d4b9aa313356fe1029d7915170bcccde67afd4ae756f7ebabb74",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages.",
+      "additional_evidence": [
+        {
+          "source_file": "Screenshot_2026-09-12-08-41-45-832_com.aligames.l.jpg",
+          "source_sha256": "ea0c4f492851d4b9aa313356fe1029d7915170bcccde67afd4ae756f7ebabb74"
+        }
+      ]
+    },
+    {
+      "record_id": "pray-slot-1-2022-08-21",
+      "key": "pray-1-102-0",
+      "collection_key": "pray-1-102-1001",
+      "shelf_slot": 1,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-08-21",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 5,
+      "stamp_id": 1,
+      "stamp_state": 2,
+      "source_file": "Screenshot_2026-09-12-09-09-14-691_com.aligames.l.jpg",
+      "source_sha256": "5cada03730466f2c6be5d53a31daf2e804d08e8298adc6c7a098276086230e5d",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-1-2022-08-04",
+      "key": "pray-1-101-0",
+      "collection_key": "pray-1-102-1001",
+      "shelf_slot": 1,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-08-04",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 2,
+      "stamp_id": 201,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-16-637_com.aligames.l.jpg",
+      "source_sha256": "94ae355390c192ddd3c9e02f0deb9aaa50f3b93359dfd2e076695e36419572b5",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-2-2024-11-03",
+      "key": "pray-1-102-1003",
+      "collection_key": "pray-1-102-1003",
+      "shelf_slot": 2,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2024-11-03",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 4,
+      "stamp_id": 3,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-23-894_com.aligames.l.jpg",
+      "source_sha256": "bfb5521f40e54a746729fae523e05cd559c022abf523521fc73f32d6caaf1c6d",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-3-2022-11-10",
+      "key": "pray-1-105-1002",
+      "collection_key": "pray-1-105-1002",
+      "shelf_slot": 3,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2022-11-10",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 3,
+      "stamp_id": 103,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-27-661_com.aligames.l.jpg",
+      "source_sha256": "a9d343fdb0cd2a29a49628ec58435cba03fc6d52c75fc2aca24beaef4d6472d1",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-4-2022-11-22",
+      "key": "pray-1-103-1004",
+      "collection_key": "pray-1-103-1004",
+      "shelf_slot": 4,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2022-11-22",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 4,
+      "stamp_id": 1,
+      "stamp_state": 2,
+      "source_file": "Screenshot_2026-09-12-09-09-31-050_com.aligames.l.jpg",
+      "source_sha256": "c24f11669666b0b2d367aa4de702a519c37c156374d7062cbd86c87cdcf7c5bb",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-5-2022-09-18",
+      "key": "pray-3-302-3001",
+      "collection_key": "pray-3-302-3001",
+      "shelf_slot": 5,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2022-09-18",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 23,
+      "stamp_id": 101,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-33-525_com.aligames.l.jpg",
+      "source_sha256": "f6a927f9b50e53a9199d85bc101026ee3743f6a61910f32509910df6e610457a",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-5-2022-08-02",
+      "key": "pray-3-302-0",
+      "collection_key": "pray-3-302-3001",
+      "shelf_slot": 5,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-08-02",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 22,
+      "stamp_id": 101,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-35-391_com.aligames.l.jpg",
+      "source_sha256": "b8db32e7f68f9f75fa2fda98cd5be6486f733184f4e57c491675fee14f31d58c",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-5-2022-07-22",
+      "key": "pray-3-301-0",
+      "collection_key": "pray-3-302-3001",
+      "shelf_slot": 5,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-07-22",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 23,
+      "stamp_id": 1,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-37-311_com.aligames.l.jpg",
+      "source_sha256": "bb6e75c5c4c911666682105936952e2bed8948a42d00a12ccfaf72f561824c56",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-6-2023-07-06",
+      "key": "pray-3-303-3003",
+      "collection_key": "pray-3-303-3003",
+      "shelf_slot": 6,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2023-07-06",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 24,
+      "stamp_id": 3,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-40-218_com.aligames.l.jpg",
+      "source_sha256": "4077650065ec908380f702c7c0bf86693c8974f4934627d386f69c7a79bb743c",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-7-2023-07-26",
+      "key": "pray-5-502-5001",
+      "collection_key": "pray-5-502-5001",
+      "shelf_slot": 7,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2023-07-26",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 45,
+      "stamp_id": 101,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-42-322_com.aligames.l.jpg",
+      "source_sha256": "295ae420a634e55837a25af53a5eb7a8559b0cb4c1bd11bc4d20ab8cf7ebeda7",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-7-2022-08-28",
+      "key": "pray-5-502-5001",
+      "collection_key": "pray-5-502-5001",
+      "shelf_slot": 7,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-08-28",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 44,
+      "stamp_id": 101,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-43-960_com.aligames.l.jpg",
+      "source_sha256": "bb87ba45f93e27520cd16036fe1d2b526e86a31b50bfed3cbf5133555524bbce",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-7-2022-08-15",
+      "key": "pray-5-502-0",
+      "collection_key": "pray-5-502-5001",
+      "shelf_slot": 7,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-08-15",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 43,
+      "stamp_id": 101,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-45-692_com.aligames.l.jpg",
+      "source_sha256": "c613d7f1e4ab0c9ab461553436b1dc93401de3a45ca4e72e1ff388bb4a9c6660",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-7-2022-07-24",
+      "key": "pray-5-501-0",
+      "collection_key": "pray-5-502-5001",
+      "shelf_slot": 7,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-07-24",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 42,
+      "stamp_id": 101,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-50-060_com.aligames.l.jpg",
+      "source_sha256": "380dd0d495e9b8add9dc7c07e8b2793338b76f08121590d51bb26f14db10658c",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-8-2022-09-27",
+      "key": "pray-5-502-5002",
+      "collection_key": "pray-5-502-5002",
+      "shelf_slot": 8,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2022-09-27",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 41,
+      "stamp_id": 1,
+      "stamp_state": 2,
+      "source_file": "Screenshot_2026-09-12-09-09-52-944_com.aligames.l.jpg",
+      "source_sha256": "542e7935e5c88a0497e36ec44f4d5061aaa2db63988188d11f0a0742f2fc5a8a",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-8-2022-09-03",
+      "key": "pray-5-502-5002",
+      "collection_key": "pray-5-502-5002",
+      "shelf_slot": 8,
+      "is_current": false,
+      "ownership": "obtained",
+      "stamp_date": "2022-09-03",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 44,
+      "stamp_id": 103,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-09-54-496_com.aligames.l.jpg",
+      "source_sha256": "801aa546db0c2221d00247a2521d0bf9469505d3f86ab48f7c43b2d993598f39",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-9-2022-09-11",
+      "key": "pray-5-503-5004",
+      "collection_key": "pray-5-503-5004",
+      "shelf_slot": 9,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2022-09-11",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 45,
+      "stamp_id": 201,
+      "stamp_state": 1,
+      "source_file": "Screenshot_2026-09-12-09-10-02-738_com.aligames.l.jpg",
+      "source_sha256": "0d9310bb1791656ee329c25d81ed2ca966a9ce361a25193ba0df3826395a6c0e",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    },
+    {
+      "record_id": "pray-slot-10-2024-06-03",
+      "key": "pray-6-601-0",
+      "collection_key": "pray-6-601-0",
+      "shelf_slot": 10,
+      "is_current": true,
+      "ownership": "obtained",
+      "stamp_date": "2024-06-03",
+      "date_field": "stamp_time",
+      "make_date": null,
+      "content_id": 55,
+      "stamp_id": 203,
+      "stamp_state": 2,
+      "source_file": "Screenshot_2026-09-12-09-10-06-980_com.aligames.l.jpg",
+      "source_sha256": "616d222cfe4df7469a8ed635276b9807ea6e6f783c4c329f17265e4d3cbb5c02",
+      "basis": "Matched visible wood, paper, glyph sequence and imprint to original assets; date transcribed from game detail. Shelf slot groups consecutive detail pages."
+    }
+  ],
+  "sources": [
+    {
+      "file": "Screenshot_2026-09-12-08-41-45-832_com.aligames.l.jpg",
+      "sha256": "ea0c4f492851d4b9aa313356fe1029d7915170bcccde67afd4ae756f7ebabb74"
+    },
+    {
+      "file": "Screenshot_2026-09-12-08-56-04-513_com.aligames.l.jpg",
+      "sha256": "1330a774ede01e8073a9cf2a94cd469989241f43737af83d4ad8309e396db35e"
+    },
+    {
+      "file": "Screenshot_2026-09-12-08-55-54-296_com.aligames.l.jpg",
+      "sha256": "7b0c7321153ca9c80d4c9f07f8321c244a4aa1d0b6b0320ea550738046d83bee"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-12-507_com.aligames.l.jpg",
+      "sha256": "ea0c4f492851d4b9aa313356fe1029d7915170bcccde67afd4ae756f7ebabb74"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-14-691_com.aligames.l.jpg",
+      "sha256": "5cada03730466f2c6be5d53a31daf2e804d08e8298adc6c7a098276086230e5d"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-16-637_com.aligames.l.jpg",
+      "sha256": "94ae355390c192ddd3c9e02f0deb9aaa50f3b93359dfd2e076695e36419572b5"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-23-894_com.aligames.l.jpg",
+      "sha256": "bfb5521f40e54a746729fae523e05cd559c022abf523521fc73f32d6caaf1c6d"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-27-661_com.aligames.l.jpg",
+      "sha256": "a9d343fdb0cd2a29a49628ec58435cba03fc6d52c75fc2aca24beaef4d6472d1"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-31-050_com.aligames.l.jpg",
+      "sha256": "c24f11669666b0b2d367aa4de702a519c37c156374d7062cbd86c87cdcf7c5bb"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-33-525_com.aligames.l.jpg",
+      "sha256": "f6a927f9b50e53a9199d85bc101026ee3743f6a61910f32509910df6e610457a"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-35-391_com.aligames.l.jpg",
+      "sha256": "b8db32e7f68f9f75fa2fda98cd5be6486f733184f4e57c491675fee14f31d58c"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-37-311_com.aligames.l.jpg",
+      "sha256": "bb6e75c5c4c911666682105936952e2bed8948a42d00a12ccfaf72f561824c56"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-40-218_com.aligames.l.jpg",
+      "sha256": "4077650065ec908380f702c7c0bf86693c8974f4934627d386f69c7a79bb743c"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-42-322_com.aligames.l.jpg",
+      "sha256": "295ae420a634e55837a25af53a5eb7a8559b0cb4c1bd11bc4d20ab8cf7ebeda7"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-43-960_com.aligames.l.jpg",
+      "sha256": "bb87ba45f93e27520cd16036fe1d2b526e86a31b50bfed3cbf5133555524bbce"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-45-692_com.aligames.l.jpg",
+      "sha256": "c613d7f1e4ab0c9ab461553436b1dc93401de3a45ca4e72e1ff388bb4a9c6660"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-50-060_com.aligames.l.jpg",
+      "sha256": "380dd0d495e9b8add9dc7c07e8b2793338b76f08121590d51bb26f14db10658c"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-52-944_com.aligames.l.jpg",
+      "sha256": "542e7935e5c88a0497e36ec44f4d5061aaa2db63988188d11f0a0742f2fc5a8a"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-09-54-496_com.aligames.l.jpg",
+      "sha256": "801aa546db0c2221d00247a2521d0bf9469505d3f86ab48f7c43b2d993598f39"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-10-02-738_com.aligames.l.jpg",
+      "sha256": "0d9310bb1791656ee329c25d81ed2ca966a9ce361a25193ba0df3826395a6c0e"
+    },
+    {
+      "file": "Screenshot_2026-09-12-09-10-06-980_com.aligames.l.jpg",
+      "sha256": "616d222cfe4df7469a8ed635276b9807ea6e6f783c4c329f17265e4d3cbb5c02"
+    },
+    {
+      "file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c"
+    }
+  ],
+  "stamps": [
+    {
+      "key": "stamp-101-1",
+      "stamp_id": 101,
+      "state": 1,
+      "ownership": "obtained",
+      "shelf_slot": 1,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    },
+    {
+      "key": "stamp-1-2",
+      "stamp_id": 1,
+      "state": 2,
+      "ownership": "obtained",
+      "shelf_slot": 2,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    },
+    {
+      "key": "stamp-103-1",
+      "stamp_id": 103,
+      "state": 1,
+      "ownership": "obtained",
+      "shelf_slot": 3,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    },
+    {
+      "key": "stamp-203-2",
+      "stamp_id": 203,
+      "state": 2,
+      "ownership": "obtained",
+      "shelf_slot": 4,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    },
+    {
+      "key": "stamp-102-2",
+      "stamp_id": 102,
+      "state": 2,
+      "ownership": "obtained",
+      "shelf_slot": 5,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    },
+    {
+      "key": "stamp-201-2",
+      "stamp_id": 201,
+      "state": 2,
+      "ownership": "obtained",
+      "shelf_slot": 6,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    },
+    {
+      "key": "stamp-3-1",
+      "stamp_id": 3,
+      "state": 1,
+      "ownership": "obtained",
+      "shelf_slot": 7,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    },
+    {
+      "key": "stamp-2-2",
+      "stamp_id": 2,
+      "state": 2,
+      "ownership": "obtained",
+      "shelf_slot": 8,
+      "source_file": "codex-clipboard-32fdf66a-e750-41b9-bec0-485407297157.png",
+      "source_sha256": "693479513d0375c47da5881e7c8caf31baa77f1c037240f82aa9350e51473b0c",
+      "basis": "Current shelf imprint matched by drawing and wear pattern to the original stage asset."
+    }
+  ],
+  "notes": [
+    "Dates are the displayed stamp_time, not screenshot creation times or make_time.",
+    "Current shelf ownership and earlier imprint stages are separate; history does not assert current ownership of an earlier stamp stage.",
+    "Same appearance with different dates or glyphs is retained as separate evidence."
+  ],
+  "counts": {
+    "current_pray": 10,
+    "pray_date_records": 18,
+    "historical_pray": 8,
+    "current_stamps": 8
+  }
+}
