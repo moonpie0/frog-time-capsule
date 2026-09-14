@@ -22116,98 +22116,2990 @@
             "z": 26000
           }
         ]
+      },
+      "vase": {
+        "flowers": [
+          {
+            "id": 100,
+            "name": "蜡梅",
+            "description": "带一枝蜡梅回家 等待满屋的幽香 和一抹冬日的亮黄",
+            "visible_bounds": [
+              2,
+              1,
+              199,
+              220
+            ],
+            "image": {
+              "path": "media/furniture-vase/liwu_huaduo.png",
+              "file_size": 20163,
+              "sha256": "ff7e3f4a501624a24c9d18b7055f89c85acfb7048ee0113b27f1c881c4e56013",
+              "width": 200,
+              "height": 220,
+              "resource_key": "liwu_huaduo_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/liwu_huaduo.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/liwu_lamei.png",
+              "file_size": 57402,
+              "sha256": "13bef8ae3bdfaefecc5b23432ef48e3964bb31f2bf862783b51cacf4f012fa60",
+              "width": 250,
+              "height": 250,
+              "resource_key": "liwu_lamei_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/liwu_lamei.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 101,
+            "name": "木槿",
+            "description": "带一枝木槿回家 轻抚一抹淡香 品味一种温柔的坚持",
+            "visible_bounds": [
+              37,
+              4,
+              188,
+              218
+            ],
+            "image": {
+              "path": "media/furniture-vase/mujin_huaduo.png",
+              "file_size": 25898,
+              "sha256": "78aa08e3563d6dd4b3ed1a0e24b4701cae8ae576e89c4d7f7ad1dfe28180964e",
+              "width": 200,
+              "height": 220,
+              "resource_key": "mujin_huaduo_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/mujin_huaduo.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/liwu_mujin.png",
+              "file_size": 44689,
+              "sha256": "58979b0fc6fc92362bcf448d0ad4bffc5ce10a8ce316f8764f4bacfe4bb2ddaa",
+              "width": 250,
+              "height": 250,
+              "resource_key": "liwu_mujin_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/liwu_mujin.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 102,
+            "name": "桂花",
+            "description": "采一枝桂花 今夜月明人尽望 不知秋思落谁家",
+            "visible_bounds": [
+              20,
+              30,
+              180,
+              202
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_liwu_guihua_2.png",
+              "file_size": 43233,
+              "sha256": "cc850a7c3e34d88d3cd4808f6d41bd6e55e8826936de8efdb5bf7acd02dba8be",
+              "width": 200,
+              "height": 220,
+              "resource_key": "chahua_liwu_guihua_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_liwu_guihua_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_liwu_guihua.png",
+              "file_size": 47164,
+              "sha256": "c54da1c72386b113a3f5360f30565e473e09c7da900e7463794f576ca82872b4",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_liwu_guihua_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_liwu_guihua.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 103,
+            "name": "丁香",
+            "description": "撑一把油纸伞 希望逢着一位丁香一般的姑娘",
+            "visible_bounds": [
+              6,
+              27,
+              113,
+              211
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_liwu_dingxiang_2.png",
+              "file_size": 33667,
+              "sha256": "209408eb639f38fdd16955f83c91ccc5441fd183ac305484cd208e14f1bcf225",
+              "width": 140,
+              "height": 220,
+              "resource_key": "chahua_liwu_dingxiang_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_liwu_dingxiang_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_liwu_dingxiang.png",
+              "file_size": 62728,
+              "sha256": "9eb91802deec8862b16abd44e6048462686c443136a1d49dfc6eb9ead175e992",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_liwu_dingxiang_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_liwu_dingxiang.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 104,
+            "name": "建兰",
+            "description": "拾幽兰一支 含薰待清风",
+            "visible_bounds": [
+              25,
+              24,
+              174,
+              208
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_liwu_jianlan_2.png",
+              "file_size": 18055,
+              "sha256": "0be198c53be3cb319c181430dd8ca68f0731d7fa0ca3a022a737ad5b993a7d7f",
+              "width": 200,
+              "height": 220,
+              "resource_key": "chahua_liwu_jianlan_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_liwu_jianlan_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_liwu_jianlan.png",
+              "file_size": 47218,
+              "sha256": "c0552a8efb8d42c6f6d463de06ad13c97d9b8d0e767cd34a98d25b887cf8977b",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_liwu_jianlan_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_liwu_jianlan.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 105,
+            "name": "水仙",
+            "description": "撷水仙一支 时有天香散远风",
+            "visible_bounds": [
+              25,
+              41,
+              163,
+              220
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_liwu_shuixian_2.png",
+              "file_size": 25359,
+              "sha256": "f489fcb601d6be7198869258d9c3693d74867aa118e9827bb1ad211814f9eef6",
+              "width": 200,
+              "height": 220,
+              "resource_key": "chahua_liwu_shuixian_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_liwu_shuixian_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_liwu_shuixian.png",
+              "file_size": 44997,
+              "sha256": "4c38e931b5455de2f1722618089191435d8f2d606226adb4b1de4fe60a16eef7",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_liwu_shuixian_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_liwu_shuixian.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 1001,
+            "name": "狗尾草",
+            "description": "",
+            "visible_bounds": [
+              49,
+              3,
+              152,
+              234
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_yc_gouweicao_2.png",
+              "file_size": 22080,
+              "sha256": "66dda4d0e755c462a4f4d52c5526e276954fd9a946b6cffffdeb149a78fdcdac",
+              "width": 200,
+              "height": 240,
+              "resource_key": "chahua_yc_gouweicao_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_yc_gouweicao_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/chahua_yc_gouweicao_icon.png",
+              "file_size": 28694,
+              "sha256": "3a64597f574a583724158fd7342c75f3dd4e60fa3746cd41b6fc8dc09015a1de",
+              "width": 250,
+              "height": 250,
+              "resource_key": "chahua_yc_gouweicao_icon_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/chahua_yc_gouweicao_icon.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 1002,
+            "name": "知风草",
+            "description": "",
+            "visible_bounds": [
+              54,
+              20,
+              147,
+              214
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_yc_zhifengcao_2.png",
+              "file_size": 25543,
+              "sha256": "a8c6477afd747eee24f4d2f2f2028570a94246f73feb161df15b22156bcee1ba",
+              "width": 200,
+              "height": 240,
+              "resource_key": "chahua_yc_zhifengcao_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_yc_zhifengcao_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/chahua_yc_zhifengcao_icon.png",
+              "file_size": 37628,
+              "sha256": "af9aec6f6d50796c2564fff058ddfa7ea86ca4eba6ebca2ae91c9aef0b4bc6a7",
+              "width": 250,
+              "height": 250,
+              "resource_key": "chahua_yc_zhifengcao_icon_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/chahua_yc_zhifengcao_icon.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 1003,
+            "name": "蓼",
+            "description": "",
+            "visible_bounds": [
+              60,
+              16,
+              156,
+              227
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_yc_hongliao_2.png",
+              "file_size": 19895,
+              "sha256": "de331b5de917dc3b6eec4392cf43be96f956e9316d65cc6d9c1013ccea38dcc7",
+              "width": 200,
+              "height": 240,
+              "resource_key": "chahua_yc_hongliao_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_yc_hongliao_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/chahua_yc_hongliao_icon.png",
+              "file_size": 30623,
+              "sha256": "13967912e36649fb9da6a7c1373290f7f83cc4e84506c61bd9910d02ed2806ee",
+              "width": 250,
+              "height": 250,
+              "resource_key": "chahua_yc_hongliao_icon_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/chahua_yc_hongliao_icon.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 1004,
+            "name": "蒲公英",
+            "description": "",
+            "visible_bounds": [
+              50,
+              72,
+              131,
+              222
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_yc_pugongying_2.png",
+              "file_size": 18358,
+              "sha256": "03950382ba3f538ca3860a5640dc7e194822878bcf7c20eae1ae7b995756e34c",
+              "width": 200,
+              "height": 240,
+              "resource_key": "chahua_yc_pugongying_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_yc_pugongying_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/chahua_yc_pugongying_icon.png",
+              "file_size": 22967,
+              "sha256": "976817bce73f439562b1acff1d8ccaeafbf55ebb167a3c082e5417ae86310230",
+              "width": 250,
+              "height": 250,
+              "resource_key": "chahua_yc_pugongying_icon_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/chahua_yc_pugongying_icon.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 1005,
+            "name": "兔尾草",
+            "description": "",
+            "visible_bounds": [
+              70,
+              22,
+              125,
+              198
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_yc_tuweicao_2.png",
+              "file_size": 19303,
+              "sha256": "533dd2107b80999723d9f68c0a3b5001ecc8f9c0489ee25ad7c0eb970c6ac978",
+              "width": 200,
+              "height": 240,
+              "resource_key": "chahua_yc_tuweicao_2_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_yc_tuweicao_2.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/chahua_yc_tuweicao_icon.png",
+              "file_size": 23386,
+              "sha256": "08be01b98a082ec96a7f391696a8f327a2e9933f246eb1b1b0d60b7e9c594ada",
+              "width": 250,
+              "height": 250,
+              "resource_key": "chahua_yc_tuweicao_icon_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/chahua_yc_tuweicao_icon.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10011,
+            "name": "角堇·火龙果",
+            "description": "",
+            "visible_bounds": [
+              1,
+              63,
+              96,
+              184
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_jiaojin_kw.png",
+              "file_size": 12917,
+              "sha256": "9c779736059c93237728bcc3e9226a33d8946c65e2b746e78d6062b3f36cda59",
+              "width": 100,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_jiaojin_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_jiaojin_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_jiaojin_1.png",
+              "file_size": 43555,
+              "sha256": "9abcb1ea9629ebdf1df9c2ce5b7550de9142be96cc8aea0366803bf264d690e4",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_jiaojin_1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_jiaojin_1.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10012,
+            "name": "角堇·柠檬黄唇",
+            "description": "",
+            "visible_bounds": [
+              1,
+              63,
+              96,
+              184
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_jiaojin_kw.png",
+              "file_size": 12917,
+              "sha256": "9c779736059c93237728bcc3e9226a33d8946c65e2b746e78d6062b3f36cda59",
+              "width": 100,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_jiaojin_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_jiaojin_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_jiaojin_2.png",
+              "file_size": 44341,
+              "sha256": "d20aa321236dd34449585ca52e8b13e2c75a8bc118186151522122837be820be",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_jiaojin_2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_jiaojin_2.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10013,
+            "name": "角堇·彩蝶",
+            "description": "",
+            "visible_bounds": [
+              1,
+              63,
+              96,
+              184
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_jiaojin_kw.png",
+              "file_size": 12917,
+              "sha256": "9c779736059c93237728bcc3e9226a33d8946c65e2b746e78d6062b3f36cda59",
+              "width": 100,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_jiaojin_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_jiaojin_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_jiaojin_3.png",
+              "file_size": 45067,
+              "sha256": "5f0aebe661ff5ef7e36a70f1d4a04c3838ed823e29b1dd77bd139bf0cfc9413f",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_jiaojin_3_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_jiaojin_3.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10021,
+            "name": "葡风·日出",
+            "description": "",
+            "visible_bounds": [
+              62,
+              49,
+              132,
+              196
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_pufeng_kw.png",
+              "file_size": 14138,
+              "sha256": "9749aaefeabb020c74cf4b7ca0d320ad584c7966b951d9ca0a646f0375647cc9",
+              "width": 200,
+              "height": 220,
+              "resource_key": "chahua_zhongzhi_pufeng_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_pufeng_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_pufeng_1.png",
+              "file_size": 30820,
+              "sha256": "0237af52d8f87daeb34d8d39de159be1506685c5b41b1314e7ba5311420c4257",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_pufeng_1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_pufeng_1.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10022,
+            "name": "葡风·白色魔术",
+            "description": "",
+            "visible_bounds": [
+              62,
+              49,
+              132,
+              196
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_pufeng_kw.png",
+              "file_size": 14138,
+              "sha256": "9749aaefeabb020c74cf4b7ca0d320ad584c7966b951d9ca0a646f0375647cc9",
+              "width": 200,
+              "height": 220,
+              "resource_key": "chahua_zhongzhi_pufeng_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_pufeng_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_pufeng_2.png",
+              "file_size": 33266,
+              "sha256": "5ea4529239c68bf84c1a0065bcacc69717ce6a58c25a26a92979e9fa9fa393e5",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_pufeng_2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_pufeng_2.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10023,
+            "name": "葡风·黑眼睛",
+            "description": "",
+            "visible_bounds": [
+              62,
+              49,
+              132,
+              196
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_pufeng_kw.png",
+              "file_size": 14138,
+              "sha256": "9749aaefeabb020c74cf4b7ca0d320ad584c7966b951d9ca0a646f0375647cc9",
+              "width": 200,
+              "height": 220,
+              "resource_key": "chahua_zhongzhi_pufeng_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_pufeng_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_pufeng_3.png",
+              "file_size": 29151,
+              "sha256": "5138b3401d152926acf5469d32628f0b4516a542eb00574dd76a7ac22832e9aa",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_pufeng_3_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_pufeng_3.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10031,
+            "name": "风信子·白珍珠",
+            "description": "",
+            "visible_bounds": [
+              7,
+              35,
+              66,
+              188
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_fengxinzi_kw.png",
+              "file_size": 16274,
+              "sha256": "1e5b4d971b1b4d9c5e085918589d7f1cbbe18765e245e6b9ca7126f81a8d5631",
+              "width": 100,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_fengxinzi_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_fengxinzi_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_fengxinzi_1.png",
+              "file_size": 28597,
+              "sha256": "c01caa39f25ec19de57e053efa5dcb73dc98e0ad83a390eaf60afc30a0ed8c50",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_fengxinzi_1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_fengxinzi_1.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10032,
+            "name": "风信子·吉普赛女王",
+            "description": "",
+            "visible_bounds": [
+              7,
+              35,
+              66,
+              188
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_fengxinzi_kw.png",
+              "file_size": 16274,
+              "sha256": "1e5b4d971b1b4d9c5e085918589d7f1cbbe18765e245e6b9ca7126f81a8d5631",
+              "width": 100,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_fengxinzi_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_fengxinzi_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_fengxinzi_2.png",
+              "file_size": 27797,
+              "sha256": "772c7079047c2d8119e06330ab3ef192be6d1164f5caaf69e8c02f1a455dc070",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_fengxinzi_2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_fengxinzi_2.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10033,
+            "name": "风信子·蓝星",
+            "description": "",
+            "visible_bounds": [
+              7,
+              35,
+              66,
+              188
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_fengxinzi_kw.png",
+              "file_size": 16274,
+              "sha256": "1e5b4d971b1b4d9c5e085918589d7f1cbbe18765e245e6b9ca7126f81a8d5631",
+              "width": 100,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_fengxinzi_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_fengxinzi_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_fengxinzi_3.png",
+              "file_size": 26635,
+              "sha256": "66c448c9275138f8a07877b7aa304c6d04620b477c6d97298fdd8dfc23a14871",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_fengxinzi_3_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_fengxinzi_3.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10041,
+            "name": "网脉鸢尾·冰冻星球",
+            "description": "",
+            "visible_bounds": [
+              17,
+              67,
+              92,
+              192
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_wmyw_kw.png",
+              "file_size": 9591,
+              "sha256": "13394937a7579e54484d57ae7002e276bcbc3928837727bd1400941d855f2581",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_wmyw_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_wmyw_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_wmyw_1.png",
+              "file_size": 24612,
+              "sha256": "e94e2c0fdbc20e8e99a14f13f07eba7510946b3ab4613a509032112b02a12ca3",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_wmyw_1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_wmyw_1.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10042,
+            "name": "网脉鸢尾·艾丽达",
+            "description": "",
+            "visible_bounds": [
+              17,
+              67,
+              92,
+              192
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_wmyw_kw.png",
+              "file_size": 9591,
+              "sha256": "13394937a7579e54484d57ae7002e276bcbc3928837727bd1400941d855f2581",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_wmyw_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_wmyw_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_wmyw_2.png",
+              "file_size": 28683,
+              "sha256": "72fb715c93d7c5210ead615b54f5ab335ab3d48ee84709e833b02be465f54a01",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_wmyw_2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_wmyw_2.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10043,
+            "name": "网脉鸢尾·狂想曲",
+            "description": "",
+            "visible_bounds": [
+              17,
+              67,
+              92,
+              192
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_wmyw_kw.png",
+              "file_size": 9591,
+              "sha256": "13394937a7579e54484d57ae7002e276bcbc3928837727bd1400941d855f2581",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_wmyw_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_wmyw_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_wmyw_3.png",
+              "file_size": 19511,
+              "sha256": "ee20764c5c8754c7ec0054e0148a9a77af041823898c02bb93532a5fac73a3ce",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_wmyw_3_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_wmyw_3.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10044,
+            "name": "网脉鸢尾·迪特",
+            "description": "",
+            "visible_bounds": [
+              17,
+              67,
+              92,
+              192
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_wmyw_kw.png",
+              "file_size": 9591,
+              "sha256": "13394937a7579e54484d57ae7002e276bcbc3928837727bd1400941d855f2581",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_wmyw_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_wmyw_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_wmyw_4.png",
+              "file_size": 19666,
+              "sha256": "9ce457b55b06f82a57f80deb411e1981f553e5e0553dcdc5050ed42e3f354cc8",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_wmyw_4_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_wmyw_4.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10051,
+            "name": "郁金香·皇家红",
+            "description": "",
+            "visible_bounds": [
+              21,
+              19,
+              92,
+              181
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_yujinxiang_kw.png",
+              "file_size": 11573,
+              "sha256": "3db4a2ccf0169d564d050aa5880c59ea8729d9eabcad4da85ca4189cea12b36e",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_yujinxiang_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_yujinxiang_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_yujinxiang_1.png",
+              "file_size": 17040,
+              "sha256": "9de528d4fcd8c905a580e289b5be7867c75852efbc4aa47808dc134fc9263417",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_yujinxiang_1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_yujinxiang_1.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10052,
+            "name": "郁金香·命运女神",
+            "description": "",
+            "visible_bounds": [
+              21,
+              19,
+              92,
+              181
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_yujinxiang_kw.png",
+              "file_size": 11573,
+              "sha256": "3db4a2ccf0169d564d050aa5880c59ea8729d9eabcad4da85ca4189cea12b36e",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_yujinxiang_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_yujinxiang_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_yujinxiang_2.png",
+              "file_size": 21624,
+              "sha256": "e92e9c4eb71349ee0f366c7f708c5f5c0b9c10e0986d11d4cd5d060119bdacfb",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_yujinxiang_2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_yujinxiang_2.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10053,
+            "name": "郁金香·黄金岁月",
+            "description": "",
+            "visible_bounds": [
+              21,
+              19,
+              92,
+              181
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_yujinxiang_kw.png",
+              "file_size": 11573,
+              "sha256": "3db4a2ccf0169d564d050aa5880c59ea8729d9eabcad4da85ca4189cea12b36e",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_yujinxiang_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_yujinxiang_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_yujinxiang_3.png",
+              "file_size": 17451,
+              "sha256": "ac7c134a2195b3ec6dcff744c22ad91d11d4dccbf0479fbd94881b355c7f5e51",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_yujinxiang_3_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_yujinxiang_3.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10054,
+            "name": "郁金香·夜皇后",
+            "description": "",
+            "visible_bounds": [
+              21,
+              19,
+              92,
+              181
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_yujinxiang_kw.png",
+              "file_size": 11573,
+              "sha256": "3db4a2ccf0169d564d050aa5880c59ea8729d9eabcad4da85ca4189cea12b36e",
+              "width": 120,
+              "height": 200,
+              "resource_key": "chahua_zhongzhi_yujinxiang_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_yujinxiang_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_yujinxiang_4.png",
+              "file_size": 16874,
+              "sha256": "16d49c3151dab84f1a6f4347c4c0efe86820746b75804370335606503021d4c2",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_yujinxiang_4_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_yujinxiang_4.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10061,
+            "name": "铃兰·原生白",
+            "description": "",
+            "visible_bounds": [
+              34,
+              91,
+              96,
+              219
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_linglan_kw.png",
+              "file_size": 8070,
+              "sha256": "4e892b0c68538ef468dac7085a82606d7c9d0c35d2177e2da88397214e956c78",
+              "width": 100,
+              "height": 220,
+              "resource_key": "chahua_zhongzhi_linglan_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_linglan_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_linglan_1.png",
+              "file_size": 19790,
+              "sha256": "ca4cd128325ae4b5cb61b8a7deacaf19d6e49d1596c662537ecb88616a31dae6",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_linglan_1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_linglan_1.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10062,
+            "name": "铃兰·粉天使",
+            "description": "",
+            "visible_bounds": [
+              34,
+              91,
+              96,
+              219
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_linglan_kw.png",
+              "file_size": 8070,
+              "sha256": "4e892b0c68538ef468dac7085a82606d7c9d0c35d2177e2da88397214e956c78",
+              "width": 100,
+              "height": 220,
+              "resource_key": "chahua_zhongzhi_linglan_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_linglan_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_linglan_2.png",
+              "file_size": 19899,
+              "sha256": "7e5af0904a6fc48c2764925c869a0f011b1ca3edcce5026815d0cb40f4bfbb9b",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_linglan_2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_linglan_2.png",
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": 10063,
+            "name": "铃兰·蒙大拿",
+            "description": "",
+            "visible_bounds": [
+              34,
+              91,
+              96,
+              219
+            ],
+            "image": {
+              "path": "media/furniture-vase/chahua_zhongzhi_linglan_kw.png",
+              "file_size": 8070,
+              "sha256": "4e892b0c68538ef468dac7085a82606d7c9d0c35d2177e2da88397214e956c78",
+              "width": 100,
+              "height": 220,
+              "resource_key": "chahua_zhongzhi_linglan_kw_png",
+              "source_kind": "hot_update_cache",
+              "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/eab/reward.eab#/c98d632e324cda273f76118bf243abcf",
+              "resource_version": 1073,
+              "source_entry": "images/Decoration/chahua_zhongzhi_linglan_kw.png"
+            },
+            "icon": {
+              "path": "media/furniture-vase/icon_chahua_zhongzhi_linglan_3.png",
+              "file_size": 20470,
+              "sha256": "a77278a1ab6ddebc44c1d798a1581b121665a0248a9badf3e2cbdda5bba9b814",
+              "width": 250,
+              "height": 250,
+              "resource_key": "icon_chahua_zhongzhi_linglan_3_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/texture/courtyard/icon_chahua_zhongzhi_linglan_3.png",
+              "resource_version": "APK 1.0.20"
+            }
+          }
+        ],
+        "position": {
+          "anchor_x": 292,
+          "anchor_y": 343,
+          "z": 15001,
+          "layout_source": "furniture_slot_10_layers_and_reference_screenshot"
+        }
       }
     },
     "courtyard": {
       "width": 1152,
       "height": 1420,
-      "layers": [
-        {
-          "image": {
-            "path": "media/furniture-courtyard/mainout_season41_bg_png.png",
-            "file_size": 615774,
-            "sha256": "1681af1c8963e5a843844e15d57eabe06828fc3c94506fc2cf5dffe51e54d9a1",
-            "width": 1152,
-            "height": 1420,
-            "resource_key": "mainout_season41_bg_png",
-            "source_kind": "bundled_eab",
-            "source_member": "assets/game/resource/China/eab/season41.eab",
-            "source_entry": "images/Back/Mainout/season41/mainout_season41_bg.png",
-            "resource_version": "APK 1.0.20"
+      "hours": {
+        "1": [
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season41_bg_png.png",
+              "file_size": 615774,
+              "sha256": "1681af1c8963e5a843844e15d57eabe06828fc3c94506fc2cf5dffe51e54d9a1",
+              "width": 1152,
+              "height": 1420,
+              "resource_key": "mainout_season41_bg_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season41.eab",
+              "source_entry": "images/Back/Mainout/season41/mainout_season41_bg.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 0,
+            "y": 0,
+            "z": 100
           },
-          "x": 0,
-          "y": 0,
-          "z": 100
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season41_gzt_png.png",
+              "file_size": 44835,
+              "sha256": "929bdcea780f37fb8472e3ca993e8fd0d4986b4c070060909b8fe8752b90ba3f",
+              "width": 174,
+              "height": 179,
+              "resource_key": "mainout_season41_gzt_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season41.eab",
+              "source_entry": "images/Back/Mainout/season41/mainout_season41_gzt.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": 69,
+            "vertical_center": -92.5,
+            "z": 200
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season41_ct_png.png",
+              "file_size": 229277,
+              "sha256": "d45e9054c56ea65ca8f9414ea3d935fdd417b09af2fcc9730853198f3c10553c",
+              "width": 929,
+              "height": 654,
+              "resource_key": "mainout_season41_ct_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season41.eab",
+              "source_entry": "images/Back/Mainout/season41/mainout_season41_ct.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": -111.5,
+            "vertical_center": 118,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season41_td_fw_png.png",
+              "file_size": 33224,
+              "sha256": "b8196206942dd7bd4dcd65addc8156170f45142f162b4ad8379a2959b9467c15",
+              "width": 597,
+              "height": 224,
+              "resource_key": "mainout_season41_td_fw_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season41.eab",
+              "source_entry": "images/Back/Mainout/season41/mainout_season41_td_fw.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 221,
+            "y": 851,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season41_fz_png.png",
+              "file_size": 304846,
+              "sha256": "0d4453ff90989c7849b882a60d2e155ca1e75ddad01d301e02f85c56b440445a",
+              "width": 450,
+              "height": 884,
+              "resource_key": "mainout_season41_fz_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season41.eab",
+              "source_entry": "images/Back/Mainout/season41/mainout_season41_fz.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "right": 0,
+            "y": 0,
+            "z": 200
+          }
+        ],
+        "2": [
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season42_bg_png.png",
+              "file_size": 709912,
+              "sha256": "216596c9333a44aaf886906d38c68671efcd307a88c90d5f2ac079cfbe4eca01",
+              "width": 1152,
+              "height": 1420,
+              "resource_key": "mainout_season42_bg_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season42.eab",
+              "source_entry": "images/Back/Mainout/season42/mainout_season42_bg.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 0,
+            "y": 0,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season42_gzt_png.png",
+              "file_size": 45244,
+              "sha256": "76d127a829fcbbf3f9e7df574bb7c757849e560883c47e1f420da36208938bc0",
+              "width": 174,
+              "height": 179,
+              "resource_key": "mainout_season42_gzt_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season42.eab",
+              "source_entry": "images/Back/Mainout/season42/mainout_season42_gzt.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": 69,
+            "vertical_center": -92.5,
+            "z": 200
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season42_ct_png.png",
+              "file_size": 276322,
+              "sha256": "a0d24ad71afd7683f07403525fbce8af66f0c4a406aa51a43f28fa5b90e8d034",
+              "width": 929,
+              "height": 654,
+              "resource_key": "mainout_season42_ct_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season42.eab",
+              "source_entry": "images/Back/Mainout/season42/mainout_season42_ct.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": -111.5,
+            "vertical_center": 118,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season42_td_fw_png.png",
+              "file_size": 38516,
+              "sha256": "6b6245f142d1609f47f2ede0760b4dfa454c6b6739044a70cd7abbb25f208c4e",
+              "width": 597,
+              "height": 224,
+              "resource_key": "mainout_season42_td_fw_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season42.eab",
+              "source_entry": "images/Back/Mainout/season42/mainout_season42_td_fw.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 221,
+            "y": 851,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season42_fz_png.png",
+              "file_size": 392487,
+              "sha256": "ab9c2e7b0e81eb5ff5c3172ce73e920b42bf16e8c211f476484050e40580fd1c",
+              "width": 450,
+              "height": 884,
+              "resource_key": "mainout_season42_fz_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season42.eab",
+              "source_entry": "images/Back/Mainout/season42/mainout_season42_fz.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "right": 0,
+            "y": 0,
+            "z": 200
+          }
+        ],
+        "3": [
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season43_bg_png.png",
+              "file_size": 1012180,
+              "sha256": "84a853e300e04f65bfcdf4534dd7621f34f094b479336735f8daf4e0d3290650",
+              "width": 1152,
+              "height": 1420,
+              "resource_key": "mainout_season43_bg_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season43.eab",
+              "source_entry": "images/Back/Mainout/season43/mainout_season43_bg.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 0,
+            "y": 0,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season43_gzt_png.png",
+              "file_size": 45996,
+              "sha256": "3b9f092f905f629b49f9671a83e7911058ba04b84bd977777845a2c4b6d2bef6",
+              "width": 174,
+              "height": 179,
+              "resource_key": "mainout_season43_gzt_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season43.eab",
+              "source_entry": "images/Back/Mainout/season43/mainout_season43_gzt.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": 69,
+            "vertical_center": -92.5,
+            "z": 200
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season43_ct_png.png",
+              "file_size": 328312,
+              "sha256": "378398f89bd2ad29617f06ff424ec2fc6f4f476a2cce4b566bacc77603c081c7",
+              "width": 929,
+              "height": 654,
+              "resource_key": "mainout_season43_ct_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season43.eab",
+              "source_entry": "images/Back/Mainout/season43/mainout_season43_ct.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": -111.5,
+            "vertical_center": 118,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season43_td_fw_png.png",
+              "file_size": 69501,
+              "sha256": "075a73ee0f3aeae04d598e27a0554856f3b6d577282515bcfd4cb312f417c773",
+              "width": 597,
+              "height": 224,
+              "resource_key": "mainout_season43_td_fw_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season43.eab",
+              "source_entry": "images/Back/Mainout/season43/mainout_season43_td_fw.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 221,
+            "y": 851,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season43_fz_png.png",
+              "file_size": 336160,
+              "sha256": "7e507eb851c8f5b1da3a9f62bffe82af3431201d576f0233f247eae5aee4ac39",
+              "width": 450,
+              "height": 884,
+              "resource_key": "mainout_season43_fz_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season43.eab",
+              "source_entry": "images/Back/Mainout/season43/mainout_season43_fz.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "right": 0,
+            "y": 0,
+            "z": 200
+          }
+        ],
+        "4": [
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season44_bg_png.png",
+              "file_size": 899223,
+              "sha256": "1fc18d8ea8c0593380d2600fa315fa193ac637a130ac63b8d7c2089c5eb10341",
+              "width": 1152,
+              "height": 1420,
+              "resource_key": "mainout_season44_bg_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season44.eab",
+              "source_entry": "images/Back/Mainout/season44/mainout_season44_bg.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 0,
+            "y": 0,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season44_gzt_png.png",
+              "file_size": 46168,
+              "sha256": "407a868f0003e41841f951c4268905c0d8bd79b8c0955e1a25295b39a072bfd1",
+              "width": 174,
+              "height": 179,
+              "resource_key": "mainout_season44_gzt_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season44.eab",
+              "source_entry": "images/Back/Mainout/season44/mainout_season44_gzt.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": 69,
+            "vertical_center": -92.5,
+            "z": 200
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season44_ct_png.png",
+              "file_size": 328452,
+              "sha256": "6b2341ccf36fde04acdf7fc13dfd7a0f92c4e6eb8d95032caf7330e9496f4b6c",
+              "width": 929,
+              "height": 654,
+              "resource_key": "mainout_season44_ct_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season44.eab",
+              "source_entry": "images/Back/Mainout/season44/mainout_season44_ct.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": -111.5,
+            "vertical_center": 118,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season44_td_fw_png.png",
+              "file_size": 67969,
+              "sha256": "2b29a02493a16f4e59b99bd2a4602955a989f0ca33f4a1c86428b1e0ab3307b7",
+              "width": 597,
+              "height": 224,
+              "resource_key": "mainout_season44_td_fw_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season44.eab",
+              "source_entry": "images/Back/Mainout/season44/mainout_season44_td_fw.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "x": 221,
+            "y": 851,
+            "z": 100
+          },
+          {
+            "image": {
+              "path": "media/furniture-courtyard/mainout_season44_fz_png.png",
+              "file_size": 391445,
+              "sha256": "e81aea0541cff3494b34a767f50fa7867309f90d7b072b92c52e43293045b3f9",
+              "width": 450,
+              "height": 884,
+              "resource_key": "mainout_season44_fz_png",
+              "source_kind": "bundled_eab",
+              "source_member": "assets/game/resource/China/eab/season44.eab",
+              "source_entry": "images/Back/Mainout/season44/mainout_season44_fz.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "right": 0,
+            "y": 0,
+            "z": 200
+          }
+        ]
+      },
+      "hour_names": {
+        "1": "白天",
+        "2": "傍晚",
+        "3": "夜晚",
+        "4": "深夜"
+      },
+      "weather": {
+        "names": {
+          "1": "晴天",
+          "2": "阴天",
+          "3": "小雨",
+          "4": "大雨"
+        },
+        "overcast": {
+          "path": "media/furniture-courtyard/shade_overcast.png",
+          "file_size": 140747,
+          "sha256": "59c79a5feea75a8a3ba2da315df69ed4a3c8b9c6db8c7cb46148ec45ea498bae",
+          "width": 1152,
+          "height": 1420,
+          "resource_key": "shade_overcast_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Back/Mainout/shade_overcast.png",
+          "resource_version": "APK 1.0.20"
+        }
+      },
+      "field": {
+        "points": [
+          [
+            340,
+            875
+          ],
+          [
+            440,
+            860
+          ],
+          [
+            540,
+            865
+          ],
+          [
+            640,
+            880
+          ],
+          [
+            740,
+            900
+          ],
+          [
+            320,
+            930
+          ],
+          [
+            420,
+            915
+          ],
+          [
+            520,
+            920
+          ],
+          [
+            620,
+            935
+          ],
+          [
+            720,
+            955
+          ],
+          [
+            310,
+            990
+          ],
+          [
+            410,
+            970
+          ],
+          [
+            510,
+            980
+          ],
+          [
+            610,
+            995
+          ],
+          [
+            710,
+            1015
+          ],
+          [
+            330,
+            1055
+          ],
+          [
+            430,
+            1038
+          ],
+          [
+            530,
+            1050
+          ],
+          [
+            630,
+            1065
+          ],
+          [
+            730,
+            1090
+          ]
+        ],
+        "scale": 0.65,
+        "clovers": [
+          {
+            "id": "clover_154",
+            "name": "三叶草",
+            "image": {
+              "path": "media/furniture-courtyard/clover_154_png.png",
+              "file_size": 7760,
+              "sha256": "1ca6d7e18e3f47010e2ab8b9dc5ccfae577f092618be45d5bb13eef91574adad",
+              "width": 92,
+              "height": 154,
+              "resource_key": "clover_154_png",
+              "source_kind": "sprite_sheet",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_frame": {
+                "x": 80,
+                "y": 610,
+                "w": 92,
+                "h": 154,
+                "hw": 46,
+                "hh": 77,
+                "offX": 0,
+                "offY": 0,
+                "sourceW": 92,
+                "sourceH": 154
+              },
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "clover_160",
+            "name": "三叶草",
+            "image": {
+              "path": "media/furniture-courtyard/clover_160_png.png",
+              "file_size": 7353,
+              "sha256": "ff20d1f4a5376baea690e9512f053b4a1ab5a711dded6d4b11243659a89b361e",
+              "width": 97,
+              "height": 160,
+              "resource_key": "clover_160_png",
+              "source_kind": "sprite_sheet",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_frame": {
+                "x": 71,
+                "y": 229,
+                "w": 97,
+                "h": 160,
+                "hw": 48.5,
+                "hh": 80,
+                "offX": 0,
+                "offY": 0,
+                "sourceW": 97,
+                "sourceH": 160
+              },
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "clover_166",
+            "name": "四叶草",
+            "image": {
+              "path": "media/furniture-courtyard/clover_166_png.png",
+              "file_size": 8626,
+              "sha256": "0e363da20f23b9c722076c155f554f0f47c30b4eb4b330fdbcc2383c5fce2fdf",
+              "width": 95,
+              "height": 166,
+              "resource_key": "clover_166_png",
+              "source_kind": "sprite_sheet",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_frame": {
+                "x": 1,
+                "y": 442,
+                "w": 95,
+                "h": 166,
+                "hw": 47.5,
+                "hh": 83,
+                "offX": 0,
+                "offY": 0,
+                "sourceW": 95,
+                "sourceH": 166
+              },
+              "resource_version": "APK 1.0.20"
+            }
+          }
+        ],
+        "lucky_flowers": [
+          {
+            "id": "lucky_1",
+            "name": "幸运花·蛋黄",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1201_detail_png.png",
+              "file_size": 10835,
+              "sha256": "853764bde7442847a11ab878f89e8420678f6a3da0ab2424a3a44a7eec2c8409",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1201_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_1_png",
+                "xyh_xr_1_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1201_icon_png.png",
+              "file_size": 12569,
+              "sha256": "a3c6334874d7c68b6ff225c4761f397eed89a1783ef0ac1ddafd17eb9daf16bd",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1201_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_1_png",
+                "xyh_xr_1_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_2",
+            "name": "幸运花·蜜桃糖果盒",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1202_detail_png.png",
+              "file_size": 9774,
+              "sha256": "0a82befdd2f1684b712b8eedd5f42a4174f69d64869f98c24f2fd40c6fe8dde7",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1202_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_2_png",
+                "xyh_xr_2_png",
+                "xyh_cr_2_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1202_icon_png.png",
+              "file_size": 11153,
+              "sha256": "0a92bc9fcf44d03a7fb01c6ffd758e9f761d7da6c7b858c9a40c2dc51ee7eba9",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1202_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_2_png",
+                "xyh_xr_2_png",
+                "xyh_cr_2_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_3",
+            "name": "幸运花·香芋冰淇淋",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1203_detail_png.png",
+              "file_size": 8546,
+              "sha256": "c0decf4a06c9d97286dc2ba7bf42b90f7eb42fc50e1720837a70cc5281b9b9c8",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1203_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_3_png",
+                "xyh_xr_3_png",
+                "xyh_cr_3_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1203_icon_png.png",
+              "file_size": 9987,
+              "sha256": "39be25c0db9914c7c03f7687acb8a8c1883a4d0898682ad609eb8c84b1533c5c",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1203_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_3_png",
+                "xyh_xr_3_png",
+                "xyh_cr_3_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_4",
+            "name": "幸运花·铜红",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1204_detail_png.png",
+              "file_size": 8796,
+              "sha256": "5022454e4674da4c4b2098e1d6e5c98ce12d371a741176bb6429ff340abcc0c5",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1204_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_4_png",
+                "xyh_xr_4_png",
+                "xyh_cr_4_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1204_icon_png.png",
+              "file_size": 10263,
+              "sha256": "a3b71499c325fcd242362ca46038299016dbbcb65ea4d231e63f25433afd907c",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1204_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_4_png",
+                "xyh_xr_4_png",
+                "xyh_cr_4_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_5",
+            "name": "幸运花·杏仁冰淇淋",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1205_detail_png.png",
+              "file_size": 7347,
+              "sha256": "497097f0c20e8b98f44091a9dadef875f16aab5fa006dfc84c33eb9cb1d00748",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1205_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_5_png",
+                "xyh_xr_5_png",
+                "xyh_cr_5_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1205_icon_png.png",
+              "file_size": 8932,
+              "sha256": "6b3f91c447cbd79187e7bfbb629ef010de73f259649352843919921074774ba4",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1205_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_5_png",
+                "xyh_xr_5_png",
+                "xyh_cr_5_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_6",
+            "name": "幸运花·银环",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1206_detail_png.png",
+              "file_size": 10988,
+              "sha256": "234e674c39eaf5cb1e62d333e2dbba0d6674e27a40409210011d206f728c83f1",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1206_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_1_1_png",
+                "xyh_xr_1_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1206_icon_png.png",
+              "file_size": 12713,
+              "sha256": "ee492b6839c0af8c9749e7997ba6ba9ccea6fd27aa57f6d6092300c9dd0a5bf6",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1206_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_1_1_png",
+                "xyh_xr_1_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_7",
+            "name": "幸运花·芭乐糖果盒",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1207_detail_png.png",
+              "file_size": 9711,
+              "sha256": "b78c8fa1b7881f500ac474bc104416d8c4c7c087e47087714b1c0ebf18bd4a24",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1207_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_2_1_png",
+                "xyh_xr_2_png",
+                "xyh_cr_2_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1207_icon_png.png",
+              "file_size": 11082,
+              "sha256": "592f24820302a0ec82919168234e5a4cdccb93bc4333afe2937f0e9c84e95a96",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1207_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_2_1_png",
+                "xyh_xr_2_png",
+                "xyh_cr_2_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_8",
+            "name": "幸运花·西柚冰淇淋",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1208_detail_png.png",
+              "file_size": 9921,
+              "sha256": "8d3c23f8d590736020f40ed6718ddd3ee38493ade09dd8c0f379500109e8f143",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1208_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_3_1_png",
+                "xyh_xr_3_1_png",
+                "xyh_cr_3_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1208_icon_png.png",
+              "file_size": 11467,
+              "sha256": "4a6c10fb856d27488e79e0d44db390a4d643e0c3a406408b718e0a3c306dcd51",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1208_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_3_1_png",
+                "xyh_xr_3_1_png",
+                "xyh_cr_3_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_9",
+            "name": "幸运花·霞光",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1209_detail_png.png",
+              "file_size": 11529,
+              "sha256": "2382bbec882c8445519605d5ffa6845cce744f6828a248d86cfdd00ff0a9d249",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1209_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_4_1_png",
+                "xyh_xr_4_png",
+                "xyh_cr_4_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1209_icon_png.png",
+              "file_size": 13023,
+              "sha256": "aa245054490a94c5d88fa4b3f6356666e458374316f78228d6de2a19b94721be",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1209_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_4_1_png",
+                "xyh_xr_4_png",
+                "xyh_cr_4_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_10",
+            "name": "幸运花·小橘饼",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1210_detail_png.png",
+              "file_size": 6717,
+              "sha256": "9fa189e4193a9d375c75af69137de19d79c4deff5206c50534f4b48d00304cb7",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1210_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_5_1_png",
+                "xyh_xr_5_png",
+                "xyh_cr_5_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1210_icon_png.png",
+              "file_size": 8372,
+              "sha256": "ca13d43e02f024d89b5cea557af3610505978a8d84d1e33328322c70965e8247",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1210_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_5_1_png",
+                "xyh_xr_5_png",
+                "xyh_cr_5_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_11",
+            "name": "幸运花·蝴蝶",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1211_detail_png.png",
+              "file_size": 8629,
+              "sha256": "63b2a37cc11111aaae0bc04a4892f3216e3fb01cbab28eb3eb21bedb20dab955",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1211_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_1_2_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1211_icon_png.png",
+              "file_size": 10313,
+              "sha256": "4a0f614d9837cb1d4a9cf0ac993bd422bbc7f0c796c70064a887e7523c45c7d1",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1211_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_1_2_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_12",
+            "name": "幸运花·葡萄糖果盒",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1212_detail_png.png",
+              "file_size": 9205,
+              "sha256": "1ef3b958b1574fafee8503332cc280565d059c4f06be4253781ad356f1560733",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1212_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_2_2_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1212_icon_png.png",
+              "file_size": 10621,
+              "sha256": "bd6080e69be777820086191f0cc7dd36c8d8803070e1e758e1945aec210d10e5",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1212_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_2_2_png",
+                "xyh_cr_1_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_13",
+            "name": "幸运花·奶茶冰淇淋",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1213_detail_png.png",
+              "file_size": 11318,
+              "sha256": "7e782c3440431e5cec606b28c87f7ecaf7d096e109882b93ba5373220b6ac397",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1213_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_3_2_png",
+                "xyh_xr_3_png",
+                "xyh_cr_3_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1213_icon_png.png",
+              "file_size": 12892,
+              "sha256": "647ac816cbf2ce0e4dd1aa79543aa47f2d5fb9b1b6f27c8e8a4950b70aa3e6be",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1213_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_3_2_png",
+                "xyh_xr_3_png",
+                "xyh_cr_3_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_14",
+            "name": "幸运花·阳光",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1214_detail_png.png",
+              "file_size": 12600,
+              "sha256": "a971c06fdd4512317e264c0a2658a64f5cef44f9eec52a5c7955f3150f9ae8a6",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1214_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_4_2_png",
+                "xyh_cr_4_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1214_icon_png.png",
+              "file_size": 14032,
+              "sha256": "a4bb1616ea272c72a8a4458fdc4e02eacf7fd82a55f4794911009600bb6d731a",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1214_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_4_2_png",
+                "xyh_cr_4_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          },
+          {
+            "id": "lucky_15",
+            "name": "幸运花·奶油冰淇淋",
+            "image": {
+              "path": "media/encyclopedia/plants/lucky_flower_1215_detail_png.png",
+              "file_size": 10376,
+              "sha256": "d6e8b298b8e18447c4f6568c3ce5c01e9a649636044c1b20db2ba47ad938790d",
+              "width": 110,
+              "height": 165,
+              "resource_key": "lucky_flower_1215_detail_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "xyh_hg_0_png",
+              "source_layers": [
+                "xyh_hb_5_2_png",
+                "xyh_xr_5_png",
+                "xyh_cr_5_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            },
+            "icon": {
+              "path": "media/encyclopedia/plants/lucky_flower_1215_icon_png.png",
+              "file_size": 11983,
+              "sha256": "7777ebef393ea6dfb6fb6ec30eb11d2492dc1e4e93baddcc8f442a99e36f96b4",
+              "width": 170,
+              "height": 135,
+              "resource_key": "lucky_flower_1215_icon_png",
+              "source_kind": "client_composite",
+              "source_member": "assets/game/resource/China/sheet/clover.png",
+              "source_index_member": "assets/game/resource/China/sheet/clover.json",
+              "source_base_member": "assets/game/resource/China/texture/courtyard/icon_xyh_hg_0.png",
+              "source_layers": [
+                "xyh_hb_5_2_png",
+                "xyh_xr_5_png",
+                "xyh_cr_5_png"
+              ],
+              "resource_version": "APK 1.0.20"
+            }
+          }
+        ],
+        "simulation": {
+          "slot_count": 20,
+          "growth_seconds": {
+            "mean": 7200,
+            "standard_deviation": 1800,
+            "min": 300,
+            "max": 14400
+          },
+          "four_leaf_percent": 0.5,
+          "lucky_flower_percent": null,
+          "preview_lucky_flower_percent": 2,
+          "position_jitter": 10,
+          "source": "client_constants_and_server_record_display_logic"
+        }
+      },
+      "plants": [
+        {
+          "id": 2010101,
+          "name": "角堇·火龙果",
+          "visible_bounds": [
+            14,
+            24,
+            133,
+            129
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_jiaojin_1.png",
+            "file_size": 17307,
+            "sha256": "21cb013c4f8f08b705021c283b7bb3933c160fd09fd749750a8fe4957d1b07c3",
+            "width": 150,
+            "height": 200,
+            "resource_key": "zhongzhi_jiaojin_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_jiaojin_1.png",
+            "resource_version": "APK 1.0.20"
+          }
         },
         {
+          "id": 2010102,
+          "name": "角堇·柠檬黄唇",
+          "visible_bounds": [
+            14,
+            23,
+            133,
+            128
+          ],
           "image": {
-            "path": "media/furniture-courtyard/mainout_season41_gzt_png.png",
-            "file_size": 44835,
-            "sha256": "929bdcea780f37fb8472e3ca993e8fd0d4986b4c070060909b8fe8752b90ba3f",
-            "width": 174,
-            "height": 179,
-            "resource_key": "mainout_season41_gzt_png",
-            "source_kind": "bundled_eab",
-            "source_member": "assets/game/resource/China/eab/season41.eab",
-            "source_entry": "images/Back/Mainout/season41/mainout_season41_gzt.png",
+            "path": "media/furniture-plants/zhongzhi_jiaojin_2.png",
+            "file_size": 16941,
+            "sha256": "f98c3b90a9c8c109e3b3ace9897f230250f2ada8234a7c6a50369e5b070550bd",
+            "width": 150,
+            "height": 200,
+            "resource_key": "zhongzhi_jiaojin_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_jiaojin_2.png",
             "resource_version": "APK 1.0.20"
-          },
-          "horizontal_center": 69,
-          "vertical_center": -92.5,
-          "z": 200
+          }
         },
         {
+          "id": 2010103,
+          "name": "角堇·彩蝶",
+          "visible_bounds": [
+            14,
+            23,
+            133,
+            129
+          ],
           "image": {
-            "path": "media/furniture-courtyard/mainout_season41_ct_png.png",
-            "file_size": 229277,
-            "sha256": "d45e9054c56ea65ca8f9414ea3d935fdd417b09af2fcc9730853198f3c10553c",
-            "width": 929,
-            "height": 654,
-            "resource_key": "mainout_season41_ct_png",
-            "source_kind": "bundled_eab",
-            "source_member": "assets/game/resource/China/eab/season41.eab",
-            "source_entry": "images/Back/Mainout/season41/mainout_season41_ct.png",
+            "path": "media/furniture-plants/zhongzhi_jiaojin_3.png",
+            "file_size": 17495,
+            "sha256": "abbfdfef518a609452b3c10611959de4a193bf6c544bd70586e162dfa70844dc",
+            "width": 150,
+            "height": 200,
+            "resource_key": "zhongzhi_jiaojin_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_jiaojin_3.png",
             "resource_version": "APK 1.0.20"
-          },
-          "horizontal_center": -111.5,
-          "vertical_center": 118,
-          "z": 100
+          }
         },
         {
+          "id": 2010201,
+          "name": "葡风·日出",
+          "visible_bounds": [
+            15,
+            24,
+            77,
+            159
+          ],
           "image": {
-            "path": "media/furniture-courtyard/mainout_season41_td_fw_png.png",
-            "file_size": 33224,
-            "sha256": "b8196206942dd7bd4dcd65addc8156170f45142f162b4ad8379a2959b9467c15",
-            "width": 597,
-            "height": 224,
-            "resource_key": "mainout_season41_td_fw_png",
-            "source_kind": "bundled_eab",
-            "source_member": "assets/game/resource/China/eab/season41.eab",
-            "source_entry": "images/Back/Mainout/season41/mainout_season41_td_fw.png",
+            "path": "media/furniture-plants/zhongzhi_pufeng_1.png",
+            "file_size": 13888,
+            "sha256": "cbf923b06289cafca78837d5a17b3d85c69c116c88b381e366c76865eee20b1f",
+            "width": 100,
+            "height": 300,
+            "resource_key": "zhongzhi_pufeng_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_pufeng_1.png",
             "resource_version": "APK 1.0.20"
-          },
-          "x": 221,
-          "y": 851,
-          "z": 100
+          }
         },
         {
+          "id": 2010202,
+          "name": "葡风·白色魔术",
+          "visible_bounds": [
+            15,
+            24,
+            76,
+            159
+          ],
           "image": {
-            "path": "media/furniture-courtyard/mainout_season41_fz_png.png",
-            "file_size": 304846,
-            "sha256": "0d4453ff90989c7849b882a60d2e155ca1e75ddad01d301e02f85c56b440445a",
-            "width": 450,
-            "height": 884,
-            "resource_key": "mainout_season41_fz_png",
-            "source_kind": "bundled_eab",
-            "source_member": "assets/game/resource/China/eab/season41.eab",
-            "source_entry": "images/Back/Mainout/season41/mainout_season41_fz.png",
+            "path": "media/furniture-plants/zhongzhi_pufeng_2.png",
+            "file_size": 14030,
+            "sha256": "d30dea7b9629c1a9b3b9716cd59d03d7bc0dfb172b47390bbfb1b097fe1054e4",
+            "width": 100,
+            "height": 300,
+            "resource_key": "zhongzhi_pufeng_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_pufeng_2.png",
             "resource_version": "APK 1.0.20"
-          },
-          "right": 0,
-          "y": 0,
-          "z": 200
+          }
+        },
+        {
+          "id": 2010203,
+          "name": "葡风·黑眼睛",
+          "visible_bounds": [
+            14,
+            24,
+            77,
+            159
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_pufeng_3.png",
+            "file_size": 14239,
+            "sha256": "9f7b3b4339720b3241c060599d2ea104d7917c97e81fab15dee466ce6e604345",
+            "width": 100,
+            "height": 300,
+            "resource_key": "zhongzhi_pufeng_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_pufeng_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010301,
+          "name": "拇指萝卜·小拇指",
+          "visible_bounds": [
+            11,
+            10,
+            72,
+            128
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_huluobo_1.png",
+            "file_size": 10613,
+            "sha256": "63ed16f0ac8afcd82e27ff95c96cff1146efd8d5e47c54b9aa500ecdb7a3011b",
+            "width": 80,
+            "height": 240,
+            "resource_key": "zhongzhi_huluobo_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_huluobo_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010302,
+          "name": "拇指萝卜·黄玛丽",
+          "visible_bounds": [
+            12,
+            10,
+            73,
+            129
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_huluobo_2.png",
+            "file_size": 10441,
+            "sha256": "59b7e49fadf3147f044c2fd6bf9b959355410348a4bbb67758e3a18709795d01",
+            "width": 80,
+            "height": 240,
+            "resource_key": "zhongzhi_huluobo_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_huluobo_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010303,
+          "name": "拇指萝卜·紫伶",
+          "visible_bounds": [
+            12,
+            10,
+            73,
+            129
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_huluobo_3.png",
+            "file_size": 10171,
+            "sha256": "2b557fb11b3c5364f5b908e83a8f2f98626e71486b134d4ea1ce8ea0568b688a",
+            "width": 80,
+            "height": 240,
+            "resource_key": "zhongzhi_huluobo_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_huluobo_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010401,
+          "name": "风信子·白珍珠",
+          "visible_bounds": [
+            10,
+            1,
+            113,
+            163
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_fengxinzi_1.png",
+            "file_size": 22091,
+            "sha256": "a3ec4d623c17edffc69e679c4c22556f77d834c8609ad15807c8a54e87b9e461",
+            "width": 120,
+            "height": 300,
+            "resource_key": "zhongzhi_fengxinzi_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_fengxinzi_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010402,
+          "name": "风信子·吉普赛女王",
+          "visible_bounds": [
+            10,
+            4,
+            111,
+            163
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_fengxinzi_2.png",
+            "file_size": 24265,
+            "sha256": "158ee032145ed59d14d38eaf06377717b14151495ea929a3563f9e258562cc50",
+            "width": 120,
+            "height": 300,
+            "resource_key": "zhongzhi_fengxinzi_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_fengxinzi_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010403,
+          "name": "风信子·蓝星",
+          "visible_bounds": [
+            11,
+            4,
+            112,
+            163
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_fengxinzi_3.png",
+            "file_size": 23716,
+            "sha256": "4080c47c739efb18a8769174999c49e22cc5e4cd5d1f233373bca522f3569ca1",
+            "width": 120,
+            "height": 300,
+            "resource_key": "zhongzhi_fengxinzi_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_fengxinzi_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010501,
+          "name": "网脉鸢尾·冰冻星球",
+          "visible_bounds": [
+            9,
+            7,
+            109,
+            160
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_wmyw_1.png",
+            "file_size": 20367,
+            "sha256": "954542aeae39af14f7d053464a060cf151f88fdbfe53b790cc7a9de4cc7b58fe",
+            "width": 120,
+            "height": 300,
+            "resource_key": "zhongzhi_wmyw_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_wmyw_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010502,
+          "name": "网脉鸢尾·艾丽达",
+          "visible_bounds": [
+            10,
+            7,
+            109,
+            160
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_wmyw_2.png",
+            "file_size": 19191,
+            "sha256": "d83a1b15333d7b529064c1f13076730d2b9e33bee1ba5cecb3023a56b668bb2e",
+            "width": 120,
+            "height": 300,
+            "resource_key": "zhongzhi_wmyw_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_wmyw_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010503,
+          "name": "网脉鸢尾·狂想曲",
+          "visible_bounds": [
+            10,
+            7,
+            110,
+            160
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_wmyw_3.png",
+            "file_size": 20409,
+            "sha256": "fe48ec563a4c525b70d255b7a5fb02460fc1a9b3e815673be4794e63e8595a79",
+            "width": 120,
+            "height": 300,
+            "resource_key": "zhongzhi_wmyw_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_wmyw_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010504,
+          "name": "网脉鸢尾·迪特",
+          "visible_bounds": [
+            10,
+            7,
+            109,
+            160
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_wmyw_4.png",
+            "file_size": 19163,
+            "sha256": "5dbcf77eb6a0f943521e089f519e409f5c2ed5096ffcaff46917bca59d00195c",
+            "width": 120,
+            "height": 300,
+            "resource_key": "zhongzhi_wmyw_4_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_wmyw_4.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010601,
+          "name": "郁金香·皇家红",
+          "visible_bounds": [
+            28,
+            14,
+            86,
+            187
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_yujinxiang_1.png",
+            "file_size": 14764,
+            "sha256": "38b500217bf0aabf62c8da131c37777b6c6200b30b9aeb006c16c5db98d4ef26",
+            "width": 120,
+            "height": 340,
+            "resource_key": "zhongzhi_yujinxiang_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_yujinxiang_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010602,
+          "name": "郁金香·命运女神",
+          "visible_bounds": [
+            28,
+            14,
+            86,
+            187
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_yujinxiang_2.png",
+            "file_size": 15222,
+            "sha256": "81be92ba97158ef099a8586c878fde174dd748c0fc3adea3a9b84447dc578161",
+            "width": 120,
+            "height": 340,
+            "resource_key": "zhongzhi_yujinxiang_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_yujinxiang_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010603,
+          "name": "郁金香·黄金岁月",
+          "visible_bounds": [
+            28,
+            14,
+            86,
+            187
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_yujinxiang_3.png",
+            "file_size": 15033,
+            "sha256": "04264cd2502e03a3ea61249b810963337d0d4c9deb27c0cb577f03af2677ba0b",
+            "width": 120,
+            "height": 340,
+            "resource_key": "zhongzhi_yujinxiang_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_yujinxiang_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010604,
+          "name": "郁金香·夜皇后",
+          "visible_bounds": [
+            28,
+            14,
+            86,
+            187
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_yujinxiang_4.png",
+            "file_size": 14553,
+            "sha256": "e3ffef58f7f2c8a353a2af24f07058710e70b0dceb912302951b64736cdb7871",
+            "width": 120,
+            "height": 340,
+            "resource_key": "zhongzhi_yujinxiang_4_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_yujinxiang_4.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010701,
+          "name": "樱桃萝卜·芜菁",
+          "visible_bounds": [
+            19,
+            10,
+            146,
+            168
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_ytluobo_1.png",
+            "file_size": 16992,
+            "sha256": "654cd5a879cb1fc96457ed3504fc724a4d540271d4fe330a5c34a98b9b2daa4e",
+            "width": 150,
+            "height": 300,
+            "resource_key": "zhongzhi_ytluobo_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_ytluobo_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010702,
+          "name": "樱桃萝卜·红顶",
+          "visible_bounds": [
+            19,
+            10,
+            146,
+            168
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_ytluobo_2.png",
+            "file_size": 17572,
+            "sha256": "5f4ded5ec9f614e974254285edb47e3bdc47c31ca0adbcdca7e8ef0ff093322b",
+            "width": 150,
+            "height": 300,
+            "resource_key": "zhongzhi_ytluobo_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_ytluobo_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010703,
+          "name": "樱桃萝卜·红樱桃",
+          "visible_bounds": [
+            19,
+            10,
+            147,
+            168
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_ytluobo_3.png",
+            "file_size": 14922,
+            "sha256": "84e3efb333fc5faa04454e83486d6af892c326d983b4d8fff4d811b731fdcceb",
+            "width": 150,
+            "height": 300,
+            "resource_key": "zhongzhi_ytluobo_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_ytluobo_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010801,
+          "name": "樱桃番茄·红鸟",
+          "visible_bounds": [
+            9,
+            24,
+            160,
+            147
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_fanqie_1.png",
+            "file_size": 19402,
+            "sha256": "65a717a0460323421492a47ab06571b8f9a73e0cd5d4f8d8af131042fd85fce2",
+            "width": 160,
+            "height": 260,
+            "resource_key": "zhongzhi_fanqie_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_fanqie_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010802,
+          "name": "樱桃番茄·绿博士",
+          "visible_bounds": [
+            8,
+            24,
+            160,
+            146
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_fanqie_2.png",
+            "file_size": 21347,
+            "sha256": "0b83f53936fce73605e1412d1db9adf395e609bb228cf40f54ac51a30d35c66e",
+            "width": 160,
+            "height": 260,
+            "resource_key": "zhongzhi_fanqie_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_fanqie_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010803,
+          "name": "樱桃番茄·樱桃迪",
+          "visible_bounds": [
+            10,
+            24,
+            160,
+            146
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_fanqie_3.png",
+            "file_size": 21544,
+            "sha256": "3b081d9c14625df1780179b11ea90c2df3511e11d77529ab4fcc9b08a4d821bb",
+            "width": 160,
+            "height": 260,
+            "resource_key": "zhongzhi_fanqie_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_fanqie_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010901,
+          "name": "草莓·雪兔",
+          "visible_bounds": [
+            3,
+            7,
+            150,
+            151
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_caomei_1.png",
+            "file_size": 26100,
+            "sha256": "b57bab6d5f2ecd999ef2ea175bd159a5e59a79f267e1c5a19ddc4531604ae7a7",
+            "width": 160,
+            "height": 270,
+            "resource_key": "zhongzhi_caomei_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_caomei_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010902,
+          "name": "草莓·白雪公主",
+          "visible_bounds": [
+            3,
+            7,
+            150,
+            150
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_caomei_2.png",
+            "file_size": 24314,
+            "sha256": "172241b18b2539f3f3641c7b4079679e91ea2bb8ce8b81d3f4a540db98503d05",
+            "width": 160,
+            "height": 270,
+            "resource_key": "zhongzhi_caomei_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_caomei_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2010903,
+          "name": "草莓·红颜",
+          "visible_bounds": [
+            3,
+            7,
+            150,
+            151
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_caomei_3.png",
+            "file_size": 25775,
+            "sha256": "d6fc7446189814cebbd77a81b236381ae341b7599df348b4cbe346dbcc18c09b",
+            "width": 160,
+            "height": 270,
+            "resource_key": "zhongzhi_caomei_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_caomei_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2011001,
+          "name": "迷你南瓜·红贝贝",
+          "visible_bounds": [
+            8,
+            26,
+            207,
+            141
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_mnnangua_1.png",
+            "file_size": 27030,
+            "sha256": "1a9697357b99ec3e15fb22c8c724669b410d261b84d818697ddcf536af316772",
+            "width": 220,
+            "height": 200,
+            "resource_key": "zhongzhi_mnnangua_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_mnnangua_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2011002,
+          "name": "迷你南瓜·金银桔",
+          "visible_bounds": [
+            8,
+            26,
+            206,
+            141
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_mnnangua_2.png",
+            "file_size": 28044,
+            "sha256": "e4935d2a9a4cf74c53a35b7d590538a51deeee4279c5aebcc187af6994be37b2",
+            "width": 220,
+            "height": 200,
+            "resource_key": "zhongzhi_mnnangua_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_mnnangua_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2011003,
+          "name": "迷你南瓜·翠贝贝",
+          "visible_bounds": [
+            8,
+            26,
+            208,
+            141
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_mnnangua_3.png",
+            "file_size": 25594,
+            "sha256": "5ff2d8a7c9babab6cff56551c1f2030da595ab0493e592d841a2545a1fbd1e60",
+            "width": 220,
+            "height": 200,
+            "resource_key": "zhongzhi_mnnangua_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_mnnangua_3.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2011101,
+          "name": "铃兰·原生白",
+          "visible_bounds": [
+            9,
+            3,
+            98,
+            157
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_linglan_1.png",
+            "file_size": 12748,
+            "sha256": "b9e35369e650618b4e1a1ad5be19fe81ec1513fbfdadfc38d14f10d491b6b0c6",
+            "width": 100,
+            "height": 300,
+            "resource_key": "zhongzhi_linglan_1_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_linglan_1.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2011102,
+          "name": "铃兰·粉天使",
+          "visible_bounds": [
+            9,
+            3,
+            98,
+            157
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_linglan_2.png",
+            "file_size": 13718,
+            "sha256": "6a939087b6e650ab3f4d5ad791a16218afe91cfbdef388051522ae8aea13aafa",
+            "width": 100,
+            "height": 300,
+            "resource_key": "zhongzhi_linglan_2_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_linglan_2.png",
+            "resource_version": "APK 1.0.20"
+          }
+        },
+        {
+          "id": 2011103,
+          "name": "铃兰·蒙大拿",
+          "visible_bounds": [
+            9,
+            3,
+            98,
+            157
+          ],
+          "image": {
+            "path": "media/furniture-plants/zhongzhi_linglan_3.png",
+            "file_size": 13959,
+            "sha256": "a03acbcd2420ed60c65c1bcfe17b15e3d81c1eb7ef021de6359d7a0296571303",
+            "width": 100,
+            "height": 300,
+            "resource_key": "zhongzhi_linglan_3_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Scene/Plant/zhongzhi_linglan_3.png",
+            "resource_version": "APK 1.0.20"
+          }
         }
       ],
+      "flowerpot_slots": {
+        "23001": [
+          [
+            -30,
+            -40
+          ],
+          [
+            27,
+            28
+          ]
+        ],
+        "23002": [
+          [
+            -37,
+            -45
+          ],
+          [
+            40,
+            14
+          ]
+        ]
+      },
       "positions": {
         "tumbler": {
           "x": 364.72,
@@ -22425,6 +25317,27 @@
       "file_size": 4534,
       "sha256": "0487603b78c6c4aa762f02dee7b9b60c3bba1619c043334b43d511e2c12b9522",
       "source_entry": "config/Thumbler/tumblerPathData.json",
+      "resource_version": 1088
+    },
+    {
+      "path": "parsed/furniture-source/flowerData_json.json",
+      "file_size": 2517,
+      "sha256": "efb687d3c7f01cc81ce06328a1436a24ab816364d13d43359e0406306f04cfb6",
+      "source_entry": "config/Compost/flowerData.json",
+      "resource_version": 1088
+    },
+    {
+      "path": "parsed/furniture-source/decoration_json.json",
+      "file_size": 16278,
+      "sha256": "8e0bc34afb29a57afafa91fe45699943c2bb1556de6b2ec7a1c751b09f3a5107",
+      "source_entry": "config/Decoration/decoration.json",
+      "resource_version": 1088
+    },
+    {
+      "path": "parsed/furniture-source/drawingCollectData_json.json",
+      "file_size": 18412,
+      "sha256": "14a857821fca1057df27b13c6627a1724c6505a09cadab08fe69cdad78675c9d",
+      "source_entry": "config/Drawing/drawingCollectData.json",
       "resource_version": 1088
     }
   ],

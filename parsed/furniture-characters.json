@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "status": "available",
   "source": "verified_static_client_config_and_local_backup",
   "source_backup_sha256": "fc7fe7f037f5f5e68aef7594089313629ff566495a292cfa9519f1511e868553",
@@ -8,6 +8,77 @@
     "client_program_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1"
   },
   "house": {
+    "pens": [
+      {
+        "id": "write",
+        "name": "普通毛笔",
+        "format": "text"
+      },
+      {
+        "id": "write1",
+        "name": "彩色画笔",
+        "icon": {
+          "path": "media/furniture-characters/pens/draw_icon_102.png",
+          "file_size": 15097,
+          "sha256": "a1a0329e4bd26fc1c1f9e21c70ac807143653584d385ffc02f855118b70e23be",
+          "resource_key": "draw_icon_102_png",
+          "source_entry": "texture/drawing/draw_icon_102.png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/texture/drawing/draw_icon_102.png",
+          "resource_version": "APK 1.0.20",
+          "width": 250,
+          "height": 250
+        }
+      },
+      {
+        "id": "write2",
+        "name": "蓝色画笔",
+        "icon": {
+          "path": "media/furniture-characters/pens/draw_icon_103.png",
+          "file_size": 15494,
+          "sha256": "ee52b46c913cf26307640b0ebdd5d6735b9a6ba17faa79cd997a14cc7650ce5b",
+          "resource_key": "draw_icon_103_png",
+          "source_entry": "texture/drawing/draw_icon_103.png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/texture/drawing/draw_icon_103.png",
+          "resource_version": "APK 1.0.20",
+          "width": 250,
+          "height": 250
+        }
+      },
+      {
+        "id": "write3",
+        "name": "红色画笔",
+        "icon": {
+          "path": "media/furniture-characters/pens/draw_icon_104.png",
+          "file_size": 15547,
+          "sha256": "f4ab5d20469caa72f2d5be8448c83f402637bf120e385ee5847b31be3a5b1eb9",
+          "resource_key": "draw_icon_104_png",
+          "source_entry": "texture/drawing/draw_icon_104.png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/texture/drawing/draw_icon_104.png",
+          "resource_version": "APK 1.0.20",
+          "width": 250,
+          "height": 250
+        }
+      },
+      {
+        "id": "write4",
+        "name": "黄色画笔",
+        "icon": {
+          "path": "media/furniture-characters/pens/draw_icon_105.png",
+          "file_size": 23372,
+          "sha256": "fb50f22dde0454636bcd8c3890de0e978cf1351b16b7db961194881cb4d29da7",
+          "resource_key": "draw_icon_105_png",
+          "source_entry": "texture/drawing/draw_icon_105.png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/texture/drawing/draw_icon_105.png",
+          "resource_version": "APK 1.0.20",
+          "width": 250,
+          "height": 250
+        }
+      }
+    ],
     "frog": [
       {
         "id": "none",
@@ -197,21 +268,24 @@
         "name": "困困",
         "format": "dragonbones",
         "armature": "Armature",
-        "animation": "idle"
+        "animation": "idle",
+        "rain_resource": "egg_103_rain_kk"
       },
       {
         "id": "maotouying3",
         "name": "胖胖",
         "format": "dragonbones",
         "armature": "Armature",
-        "animation": "idle"
+        "animation": "idle",
+        "rain_resource": "egg_104_rain_pp"
       },
       {
         "id": "songshu",
         "name": "跳跳",
         "format": "dragonbones",
         "armature": "Armature",
-        "animation": "newAnimation"
+        "animation": "newAnimation",
+        "rain_resource": "egg_102_rain_tt"
       }
     ],
     "friend_position": {
@@ -322,6 +396,24 @@
       "position": {
         "x": 692.13,
         "y": 1206
+      }
+    },
+    "weather": {
+      "3": {
+        "resource": "rain_2",
+        "animation": "animation",
+        "position": {
+          "x": 576,
+          "y": 710
+        }
+      },
+      "4": {
+        "resource": "rain_1",
+        "animation": "animation",
+        "position": {
+          "x": 576,
+          "y": 710
+        }
       }
     }
   },
@@ -731,6 +823,70 @@
       "resource_version": "APK 1.0.20",
       "width": 1366,
       "height": 1142
+    },
+    "rain_1_atlas": {
+      "path": "media/furniture-characters/spine/rain_1.atlas",
+      "file_size": 614,
+      "sha256": "00ed22a12c118013b2cfc7829e9f838ab9b5da6144967bbf00f8917d30310192",
+      "resource_key": "rain_1_atlas",
+      "source_entry": "animation/courtyard/rain/rain_1.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/courtyard/rain/rain_1.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "rain_1_json": {
+      "path": "media/furniture-characters/spine/rain_1.json",
+      "file_size": 807,
+      "sha256": "48a48e7c23e80ea9c30990043e4ef42b88b8bd09a798706a4030e44e0cc6bfe6",
+      "resource_key": "rain_1_json",
+      "source_entry": "animation/courtyard/rain/rain_1.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/courtyard/rain/rain_1.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "rain_1_png": {
+      "path": "media/furniture-characters/spine/rain_1.png",
+      "file_size": 85586,
+      "sha256": "e363297a5019c5e5807fdce6abcd2c3c471cce2106ddf544d77c1bd9c1a17474",
+      "resource_key": "rain_1_png",
+      "source_entry": "animation/courtyard/rain/rain_1.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/courtyard/rain/rain_1.png",
+      "resource_version": "APK 1.0.20",
+      "width": 2178,
+      "height": 570
+    },
+    "rain_2_atlas": {
+      "path": "media/furniture-characters/spine/rain_2.atlas",
+      "file_size": 699,
+      "sha256": "84d7d85819f8bdd959b67317927396c4cff6184c78f32d6e25e1b33b29b18df3",
+      "resource_key": "rain_2_atlas",
+      "source_entry": "animation/courtyard/rain/rain_2.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/courtyard/rain/rain_2.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "rain_2_json": {
+      "path": "media/furniture-characters/spine/rain_2.json",
+      "file_size": 866,
+      "sha256": "12b0c2d60ebbf9c93f0235e6de078537f285c2a47673821da9ff92b5d8c14911",
+      "resource_key": "rain_2_json",
+      "source_entry": "animation/courtyard/rain/rain_2.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/courtyard/rain/rain_2.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "rain_2_png": {
+      "path": "media/furniture-characters/spine/rain_2.png",
+      "file_size": 34008,
+      "sha256": "2423c3ff265b5287ca2316b59b22027bf18eaf0d09d696c1a236b6fbdad1a10d",
+      "resource_key": "rain_2_png",
+      "source_entry": "animation/courtyard/rain/rain_2.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/courtyard/rain/rain_2.png",
+      "resource_version": "APK 1.0.20",
+      "width": 1253,
+      "height": 1117
     },
     "LW_writing_ske_json": {
       "path": "media/furniture-characters/dragonbones/LW_writing/LW_writing_ske.json",
@@ -1212,6 +1368,102 @@
       "width": 512,
       "height": 512
     },
+    "egg_102_rain_tt_ske_json": {
+      "path": "media/furniture-characters/dragonbones/egg_102_rain_tt/egg_102_rain_tt_ske.json",
+      "file_size": 40498,
+      "sha256": "ec947263e1a69aabc1ce0fa8381249c4f16fd110bb85b2afbd18c9189118ac44",
+      "resource_key": "egg_102_rain_tt_ske_json",
+      "source_entry": "animation/game_egg/egg_102_rain_tt_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_102_rain_tt_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_102_rain_tt_tex_json": {
+      "path": "media/furniture-characters/dragonbones/egg_102_rain_tt/egg_102_rain_tt_tex.json",
+      "file_size": 836,
+      "sha256": "a08a883670601af226230c5747d7bc7e91238cc14d5dea92eb7f4f11640e25fa",
+      "resource_key": "egg_102_rain_tt_tex_json",
+      "source_entry": "animation/game_egg/egg_102_rain_tt_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_102_rain_tt_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_102_rain_tt_tex_png": {
+      "path": "media/furniture-characters/dragonbones/egg_102_rain_tt/egg_102_rain_tt_tex.png",
+      "file_size": 58425,
+      "sha256": "82a9258b40f958ee0e957120603a19bdd4f7403f38aeaee6b5f71b5c0cd617c9",
+      "resource_key": "egg_102_rain_tt_tex_png",
+      "source_entry": "animation/game_egg/egg_102_rain_tt_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_102_rain_tt_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 256,
+      "height": 512
+    },
+    "egg_103_rain_kk_ske_json": {
+      "path": "media/furniture-characters/dragonbones/egg_103_rain_kk/egg_103_rain_kk_ske.json",
+      "file_size": 17932,
+      "sha256": "6a36bd8590092365724d1477ace177adec04c54077531881ae1a702f33678a74",
+      "resource_key": "egg_103_rain_kk_ske_json",
+      "source_entry": "animation/game_egg/egg_103_rain_kk_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_103_rain_kk_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_103_rain_kk_tex_json": {
+      "path": "media/furniture-characters/dragonbones/egg_103_rain_kk/egg_103_rain_kk_tex.json",
+      "file_size": 1166,
+      "sha256": "4e483e6c2247175b2b30188fe48dcb915958de1cdfe48d22dc7b890c0c5be065",
+      "resource_key": "egg_103_rain_kk_tex_json",
+      "source_entry": "animation/game_egg/egg_103_rain_kk_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_103_rain_kk_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_103_rain_kk_tex_png": {
+      "path": "media/furniture-characters/dragonbones/egg_103_rain_kk/egg_103_rain_kk_tex.png",
+      "file_size": 29584,
+      "sha256": "fcf60d06e51993f31e5667fc742905a35f835aafb802c84b7968aa18c51d945a",
+      "resource_key": "egg_103_rain_kk_tex_png",
+      "source_entry": "animation/game_egg/egg_103_rain_kk_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_103_rain_kk_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 256,
+      "height": 256
+    },
+    "egg_104_rain_pp_ske_json": {
+      "path": "media/furniture-characters/dragonbones/egg_104_rain_pp/egg_104_rain_pp_ske.json",
+      "file_size": 17357,
+      "sha256": "68c5e75ba11cf57617ff74ae885c1f0ffee63332603bc9fea32162db2dc138c5",
+      "resource_key": "egg_104_rain_pp_ske_json",
+      "source_entry": "animation/game_egg/egg_104_rain_pp_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_104_rain_pp_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_104_rain_pp_tex_json": {
+      "path": "media/furniture-characters/dragonbones/egg_104_rain_pp/egg_104_rain_pp_tex.json",
+      "file_size": 918,
+      "sha256": "3c160d8bdf7e66f8a8b4a3940a99bde398a1b887455187cd0f2a3805f9e61c3c",
+      "resource_key": "egg_104_rain_pp_tex_json",
+      "source_entry": "animation/game_egg/egg_104_rain_pp_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_104_rain_pp_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_104_rain_pp_tex_png": {
+      "path": "media/furniture-characters/dragonbones/egg_104_rain_pp/egg_104_rain_pp_tex.png",
+      "file_size": 22144,
+      "sha256": "3544ef5983eb936e7e5dcec86c465f6ef87be35dc82b45768d87cf65920c2acd",
+      "resource_key": "egg_104_rain_pp_tex_png",
+      "source_entry": "animation/game_egg/egg_104_rain_pp_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_104_rain_pp_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 256,
+      "height": 256
+    },
     "visitor_carpet_1_png": {
       "path": "media/furniture-characters/carpets/visitor_carpet_1.png",
       "file_size": 22113,
@@ -1307,6 +1559,54 @@
       "resource_version": "APK 1.0.20",
       "width": 220,
       "height": 130
+    },
+    "draw_icon_102_png": {
+      "path": "media/furniture-characters/pens/draw_icon_102.png",
+      "file_size": 15097,
+      "sha256": "a1a0329e4bd26fc1c1f9e21c70ac807143653584d385ffc02f855118b70e23be",
+      "resource_key": "draw_icon_102_png",
+      "source_entry": "texture/drawing/draw_icon_102.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/drawing/draw_icon_102.png",
+      "resource_version": "APK 1.0.20",
+      "width": 250,
+      "height": 250
+    },
+    "draw_icon_103_png": {
+      "path": "media/furniture-characters/pens/draw_icon_103.png",
+      "file_size": 15494,
+      "sha256": "ee52b46c913cf26307640b0ebdd5d6735b9a6ba17faa79cd997a14cc7650ce5b",
+      "resource_key": "draw_icon_103_png",
+      "source_entry": "texture/drawing/draw_icon_103.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/drawing/draw_icon_103.png",
+      "resource_version": "APK 1.0.20",
+      "width": 250,
+      "height": 250
+    },
+    "draw_icon_104_png": {
+      "path": "media/furniture-characters/pens/draw_icon_104.png",
+      "file_size": 15547,
+      "sha256": "f4ab5d20469caa72f2d5be8448c83f402637bf120e385ee5847b31be3a5b1eb9",
+      "resource_key": "draw_icon_104_png",
+      "source_entry": "texture/drawing/draw_icon_104.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/drawing/draw_icon_104.png",
+      "resource_version": "APK 1.0.20",
+      "width": 250,
+      "height": 250
+    },
+    "draw_icon_105_png": {
+      "path": "media/furniture-characters/pens/draw_icon_105.png",
+      "file_size": 23372,
+      "sha256": "fb50f22dde0454636bcd8c3890de0e978cf1351b16b7db961194881cb4d29da7",
+      "resource_key": "draw_icon_105_png",
+      "source_entry": "texture/drawing/draw_icon_105.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/drawing/draw_icon_105.png",
+      "resource_version": "APK 1.0.20",
+      "width": 250,
+      "height": 250
     },
     "drummer_atlas": {
       "path": "media/furniture-characters/spine/drummer.atlas",
