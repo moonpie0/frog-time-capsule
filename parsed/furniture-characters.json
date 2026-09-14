@@ -5,7 +5,29 @@
   "source_backup_sha256": "fc7fe7f037f5f5e68aef7594089313629ff566495a292cfa9519f1511e868553",
   "coordinate_source": {
     "skin": "resource/China/skins/MainIn/MainIn.exml and MainOut/MainOut.exml",
-    "client_program_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1"
+    "client_program_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+    "friend_position": {
+      "group_mid": {
+        "x": 0,
+        "y": 142
+      },
+      "c_friend": {
+        "x": 805.83,
+        "y": 695.49
+      },
+      "client_absolute": {
+        "x": 805.83,
+        "y": 837.49
+      },
+      "viewer_calibrated": {
+        "x": 805.83,
+        "y": 695.49
+      },
+      "reference_screenshot": {
+        "source_file": "Screenshot_2026-09-14-17-14-27-004_com.xingin.xhs.jpg",
+        "source_sha256": "3917632277150bb516e3974ea152ec2d195f19ef22e99ea50416d650ad14cf2d"
+      }
+    }
   },
   "house": {
     "pens": [
@@ -290,7 +312,7 @@
     ],
     "friend_position": {
       "x": 805.83,
-      "y": 837.49
+      "y": 695.49
     },
     "visitor": {
       "actions": [
