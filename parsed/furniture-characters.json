@@ -1,0 +1,1376 @@
+{
+  "schema_version": 1,
+  "status": "available",
+  "source": "verified_static_client_config_and_local_backup",
+  "source_backup_sha256": "fc7fe7f037f5f5e68aef7594089313629ff566495a292cfa9519f1511e868553",
+  "coordinate_source": {
+    "skin": "resource/China/skins/MainIn/MainIn.exml and MainOut/MainOut.exml",
+    "client_program_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1"
+  },
+  "house": {
+    "frog": [
+      {
+        "id": "none",
+        "name": "不放青蛙",
+        "format": "none"
+      },
+      {
+        "id": "dokusyo_ie",
+        "name": "读书",
+        "format": "anm",
+        "container": "bed",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "inemuri_ie",
+        "name": "打瞌睡",
+        "format": "anm",
+        "container": "bed",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "hikki_ie",
+        "name": "写信",
+        "format": "dragonbones",
+        "resource": "LW_writing",
+        "armature": "write",
+        "animation": "newAnimation",
+        "container": "desk",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "sagyou_ie",
+        "name": "做手工",
+        "format": "anm",
+        "container": "chair",
+        "offset": [
+          -3,
+          0
+        ]
+      },
+      {
+        "id": "syokuzi_ie",
+        "name": "吃饭",
+        "format": "anm",
+        "container": "chair",
+        "offset": [
+          -10,
+          0
+        ]
+      },
+      {
+        "id": "sleep_1",
+        "name": "睡觉姿势 1",
+        "format": "spine",
+        "resource": "sleep_1",
+        "animation": "animation",
+        "container": "sleep",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "sleep_2",
+        "name": "睡觉姿势 2",
+        "format": "spine",
+        "resource": "sleep_2",
+        "animation": "animation",
+        "container": "sleep",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "sleep_3",
+        "name": "睡觉姿势 3",
+        "format": "spine",
+        "resource": "sleep_3",
+        "animation": "animation",
+        "container": "sleep",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "sleep_4",
+        "name": "睡觉姿势 4",
+        "format": "spine",
+        "resource": "sleep_4",
+        "animation": "animation",
+        "container": "sleep",
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "containers": {
+      "bed": {
+        "x": 292,
+        "y": 453,
+        "z": 0
+      },
+      "desk": {
+        "x": 523,
+        "y": 396,
+        "z": 21002
+      },
+      "chair": {
+        "x": 550.72,
+        "y": 934.2,
+        "z": 32001
+      },
+      "sleep": {
+        "x": 265,
+        "y": 442,
+        "z": 17001
+      }
+    }
+  },
+  "courtyard": {
+    "frog": [
+      {
+        "id": "none",
+        "name": "不放青蛙",
+        "format": "none"
+      },
+      {
+        "id": "saw",
+        "name": "锯木",
+        "format": "spine",
+        "resource": "saw",
+        "animation": "default"
+      },
+      {
+        "id": "brush",
+        "name": "刷漆",
+        "format": "spine",
+        "resource": "brush",
+        "animation": "default"
+      },
+      {
+        "id": "knock",
+        "name": "敲打",
+        "format": "spine",
+        "resource": "knock",
+        "animation": "default"
+      },
+      {
+        "id": "knit",
+        "name": "编织",
+        "format": "spine",
+        "resource": "knit",
+        "animation": "default"
+      },
+      {
+        "id": "cut",
+        "name": "裁剪",
+        "format": "spine",
+        "resource": "cut",
+        "animation": "default"
+      }
+    ],
+    "frog_position": {
+      "x": 588,
+      "y": 769
+    },
+    "friends": [
+      {
+        "id": "none",
+        "name": "无人拜访",
+        "format": "none"
+      },
+      {
+        "id": "wugui",
+        "name": "困困",
+        "format": "dragonbones",
+        "armature": "Armature",
+        "animation": "idle"
+      },
+      {
+        "id": "maotouying3",
+        "name": "胖胖",
+        "format": "dragonbones",
+        "armature": "Armature",
+        "animation": "idle"
+      },
+      {
+        "id": "songshu",
+        "name": "跳跳",
+        "format": "dragonbones",
+        "armature": "Armature",
+        "animation": "newAnimation"
+      }
+    ],
+    "friend_position": {
+      "x": 805.83,
+      "y": 837.49
+    },
+    "visitor": {
+      "actions": [
+        {
+          "food_id": 0,
+          "resource": "huafubing"
+        },
+        {
+          "food_id": 1,
+          "resource": "kelibing"
+        },
+        {
+          "food_id": 2,
+          "resource": "pitabing"
+        },
+        {
+          "food_id": 3,
+          "resource": "danbaofan"
+        },
+        {
+          "food_id": 4,
+          "resource": "rebaozi_zhuzhen"
+        },
+        {
+          "food_id": 5,
+          "resource": "doufu_zhuzhen"
+        },
+        {
+          "food_id": 6,
+          "resource": "doufu_zhuzhen"
+        },
+        {
+          "food_id": 7,
+          "resource": "doufu_zhuzhen"
+        },
+        {
+          "food_id": 8,
+          "resource": "doufu_zhuzhen"
+        },
+        {
+          "food_id": 9,
+          "resource": "doufu_zhuzhen"
+        },
+        {
+          "food_id": 10,
+          "resource": "doufu_zhuzhen"
+        },
+        {
+          "food_id": 11,
+          "resource": "danbaofan"
+        },
+        {
+          "food_id": 12,
+          "resource": "danbaofan"
+        },
+        {
+          "food_id": 13,
+          "resource": "danbaofan"
+        },
+        {
+          "food_id": 14,
+          "resource": "danbaofan"
+        },
+        {
+          "food_id": 15,
+          "resource": "guihuagao"
+        },
+        {
+          "food_id": 16,
+          "resource": "xianbing"
+        },
+        {
+          "food_id": 17,
+          "resource": "kelibing"
+        },
+        {
+          "food_id": 18,
+          "resource": "kelibing"
+        }
+      ],
+      "role_resources": [
+        "danbaofan",
+        "doufu_zhuzhen",
+        "guihuagao",
+        "huafubing",
+        "kelibing",
+        "pitabing",
+        "rebaozi_zhuzhen",
+        "xianbing"
+      ],
+      "position": {
+        "x": 478,
+        "y": 544
+      },
+      "carpet_position": {
+        "x": 448,
+        "y": 567
+      }
+    },
+    "merchant": {
+      "resource": "drummer",
+      "animation": "default",
+      "position": {
+        "x": 692.13,
+        "y": 1206
+      }
+    }
+  },
+  "visitors_source": {
+    "path": "parsed/furniture-character-source/visitors_json.json",
+    "file_size": 30771,
+    "sha256": "82ec439671e452d09a5fd79b17a9807d27cb3d84d0df7a9b82f59b07c9cc2dcb",
+    "source_kind": "decoded_static_config",
+    "source_entry": "config/VisitorsData/visitors.json",
+    "resource_version": 1088
+  },
+  "resources": {
+    "dokusyo_ie_png": {
+      "path": "media/furniture-characters/anm/dokusyo_ie.png",
+      "file_size": 9158,
+      "sha256": "e77b55d163063cfaaa09b83d69d62b94f76182decf45aa81b14cbb1f693cc16e",
+      "resource_key": "dokusyo_ie_png",
+      "source_entry": "animation/MainIn/dokusyo_ie.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/dokusyo_ie.png",
+      "resource_version": "APK 1.0.20",
+      "width": 301,
+      "height": 104
+    },
+    "dokusyo_ie.anm_bytes": {
+      "path": "media/furniture-characters/anm/dokusyo_ie.anm.bytes",
+      "file_size": 110,
+      "sha256": "efcd77c06b189c6c61c9a99f66b1f3be8b4d8bc6bf20fabbbf6eb7acee7b133d",
+      "resource_key": "dokusyo_ie.anm_bytes",
+      "source_entry": "animation/MainIn/dokusyo_ie.anm.bytes",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/dokusyo_ie.anm.bytes",
+      "resource_version": "APK 1.0.20"
+    },
+    "inemuri_ie_png": {
+      "path": "media/furniture-characters/anm/inemuri_ie.png",
+      "file_size": 41467,
+      "sha256": "160b9bcba1c2a6993e9a3a592791f3b6c1089488146a541e638c028adf007c5f",
+      "resource_key": "inemuri_ie_png",
+      "source_entry": "animation/MainIn/inemuri_ie.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/inemuri_ie.png",
+      "resource_version": "APK 1.0.20",
+      "width": 422,
+      "height": 210
+    },
+    "inemuri_ie.anm_bytes": {
+      "path": "media/furniture-characters/anm/inemuri_ie.anm.bytes",
+      "file_size": 277,
+      "sha256": "c3183c708d7f91dcd10601a09d818b57a842990f91e4e6c9d6b001632ba7d252",
+      "resource_key": "inemuri_ie.anm_bytes",
+      "source_entry": "animation/MainIn/inemuri_ie.anm.bytes",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/inemuri_ie.anm.bytes",
+      "resource_version": "APK 1.0.20"
+    },
+    "hikki_ie_png": {
+      "path": "media/furniture-characters/anm/hikki_ie.png",
+      "file_size": 23743,
+      "sha256": "312a5fddfed51f2c878881ae030a1875a08d09fdb4310047ef7b2b46f028ca03",
+      "resource_key": "hikki_ie_png",
+      "source_entry": "animation/MainIn/hikki_ie.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/hikki_ie.png",
+      "resource_version": "APK 1.0.20",
+      "width": 463,
+      "height": 194
+    },
+    "hikki_ie.anm_bytes": {
+      "path": "media/furniture-characters/anm/hikki_ie.anm.bytes",
+      "file_size": 235,
+      "sha256": "a004bf65fd71624b8d44234f87ecc6b7584b740d02e6aa2a87d483126f3380ea",
+      "resource_key": "hikki_ie.anm_bytes",
+      "source_entry": "animation/MainIn/hikki_ie.anm.bytes",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/hikki_ie.anm.bytes",
+      "resource_version": "APK 1.0.20"
+    },
+    "sagyou_ie_png": {
+      "path": "media/furniture-characters/anm/sagyou_ie.png",
+      "file_size": 34121,
+      "sha256": "9fd452d2b5b58700d9cee4bee25e54e04298040bbb121f58ecfbe36a317285e1",
+      "resource_key": "sagyou_ie_png",
+      "source_entry": "animation/MainIn/sagyou_ie.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/sagyou_ie.png",
+      "resource_version": "APK 1.0.20",
+      "width": 499,
+      "height": 244
+    },
+    "sagyou_ie.anm_bytes": {
+      "path": "media/furniture-characters/anm/sagyou_ie.anm.bytes",
+      "file_size": 205,
+      "sha256": "fd78e25f7380257ec362722c52b07e47f6e61209d3b5b7ab6393c61a016a9343",
+      "resource_key": "sagyou_ie.anm_bytes",
+      "source_entry": "animation/MainIn/sagyou_ie.anm.bytes",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/sagyou_ie.anm.bytes",
+      "resource_version": "APK 1.0.20"
+    },
+    "syokuzi_ie_png": {
+      "path": "media/furniture-characters/anm/syokuzi_ie.png",
+      "file_size": 99278,
+      "sha256": "100b81744e6d9a216118cd6cf69e71719d3d908af4af345d066d54a1afc6e13b",
+      "resource_key": "syokuzi_ie_png",
+      "source_entry": "animation/MainIn/syokuzi_ie.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/syokuzi_ie.png",
+      "resource_version": "APK 1.0.20",
+      "width": 793,
+      "height": 343
+    },
+    "syokuzi_ie.anm_bytes": {
+      "path": "media/furniture-characters/anm/syokuzi_ie.anm.bytes",
+      "file_size": 417,
+      "sha256": "e536b49669adfdd671690c3246b89db47248adc631f3069dd14d11fe371c67fd",
+      "resource_key": "syokuzi_ie.anm_bytes",
+      "source_entry": "animation/MainIn/syokuzi_ie.anm.bytes",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/MainIn/syokuzi_ie.anm.bytes",
+      "resource_version": "APK 1.0.20"
+    },
+    "sleep_1_atlas": {
+      "path": "media/furniture-characters/spine/sleep_1.atlas",
+      "file_size": 1863,
+      "sha256": "ecb7f0bb4a4f3ae41976844247af06315f41d14ff364764dbdf0326494667f73",
+      "resource_key": "sleep_1_atlas",
+      "source_entry": "animation/sleep/sleep_1.atlas",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_1.atlas#/961a60c9d1f5f4d0066a91971b8a7d51",
+      "resource_version": 1080
+    },
+    "sleep_1_json": {
+      "path": "media/furniture-characters/spine/sleep_1.json",
+      "file_size": 2498,
+      "sha256": "0c195bad98f7400892ae92c0e8a2d6c7b2918f17d332a54e1fce8099df4e51fa",
+      "resource_key": "sleep_1_json",
+      "source_entry": "animation/sleep/sleep_1.json",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_1.json#/1f63a6ea5ef2250e481288cff2d5a09d",
+      "resource_version": 1080
+    },
+    "sleep_1_png": {
+      "path": "media/furniture-characters/spine/sleep_1.png",
+      "file_size": 227970,
+      "sha256": "bb1b84f47ddfd608852a23005a2ee0a350aa3a03f4508ca4af9c36b4b6841acd",
+      "resource_key": "sleep_1_png",
+      "source_entry": "animation/sleep/sleep_1.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_1.png#/bf15712cc83018358572b506bc9fa2b4",
+      "resource_version": 1080,
+      "width": 292,
+      "height": 1042
+    },
+    "sleep_2_atlas": {
+      "path": "media/furniture-characters/spine/sleep_2.atlas",
+      "file_size": 4634,
+      "sha256": "0cbfaf4a8aa5869cea83d09a2a880cb230451524f8fb61907a3cf71bb37145a0",
+      "resource_key": "sleep_2_atlas",
+      "source_entry": "animation/sleep/sleep_2.atlas",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_2.atlas#/6168e4ed882b97f4b41d2ed86c58ed0e",
+      "resource_version": 1080
+    },
+    "sleep_2_json": {
+      "path": "media/furniture-characters/spine/sleep_2.json",
+      "file_size": 92011,
+      "sha256": "5f07ea8416c7f9c53d19b0c9c867c5bc02221d43a5bc48d7c224eee025e7b34a",
+      "resource_key": "sleep_2_json",
+      "source_entry": "animation/sleep/sleep_2.json",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_2.json#/9da642dca447df82976eb97092bcb5eb",
+      "resource_version": 1080
+    },
+    "sleep_2_png": {
+      "path": "media/furniture-characters/spine/sleep_2.png",
+      "file_size": 269058,
+      "sha256": "e646f1c78b28513b8a473c05ab5f63e0e800e3ba58b93260cf0992b1aabab07d",
+      "resource_key": "sleep_2_png",
+      "source_entry": "animation/sleep/sleep_2.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_2.png#/749b5e76b0f549f0104f5524e0bc9acf",
+      "resource_version": 1080,
+      "width": 1380,
+      "height": 269
+    },
+    "sleep_3_atlas": {
+      "path": "media/furniture-characters/spine/sleep_3.atlas",
+      "file_size": 3580,
+      "sha256": "98184151c4ae94b3f05e9cf3e5a001fba9b31f2f14ca297a11c3806084d1dead",
+      "resource_key": "sleep_3_atlas",
+      "source_entry": "animation/sleep/sleep_3.atlas",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_3.atlas#/fc20be0c75b4a483154da757e91c6d41",
+      "resource_version": 1080
+    },
+    "sleep_3_json": {
+      "path": "media/furniture-characters/spine/sleep_3.json",
+      "file_size": 35620,
+      "sha256": "e6090b1087be34f763edf7dc506b90b3de69b8dea899979705b86daa10b267b0",
+      "resource_key": "sleep_3_json",
+      "source_entry": "animation/sleep/sleep_3.json",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_3.json#/d907c7a1e77eac745e60e5e27036d267",
+      "resource_version": 1080
+    },
+    "sleep_3_png": {
+      "path": "media/furniture-characters/spine/sleep_3.png",
+      "file_size": 693956,
+      "sha256": "193b3601b2c14479f0583dbe1776ad06f5e95a85726a33b4fbd3e1d7972c6a2e",
+      "resource_key": "sleep_3_png",
+      "source_entry": "animation/sleep/sleep_3.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_3.png#/435e48de2480aeba94058047bcb51c6b",
+      "resource_version": 1080,
+      "width": 621,
+      "height": 2519
+    },
+    "sleep_4_atlas": {
+      "path": "media/furniture-characters/spine/sleep_4.atlas",
+      "file_size": 5125,
+      "sha256": "1e85581cd964905f3a6ac8d631f0f75a9a6d76b416c51789a6881aed09d05f1c",
+      "resource_key": "sleep_4_atlas",
+      "source_entry": "animation/sleep/sleep_4.atlas",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_4.atlas#/b9007d0deadfb467a4c2f299899025a9",
+      "resource_version": 1080
+    },
+    "sleep_4_json": {
+      "path": "media/furniture-characters/spine/sleep_4.json",
+      "file_size": 86849,
+      "sha256": "2cbf8a79398ffe9d39bf667c5b10151ed517ba0d96c4a8bc75e1b7013be60732",
+      "resource_key": "sleep_4_json",
+      "source_entry": "animation/sleep/sleep_4.json",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_4.json#/c31d08673d0dcf6b599067d2c70b78ad",
+      "resource_version": 1080
+    },
+    "sleep_4_png": {
+      "path": "media/furniture-characters/spine/sleep_4.png",
+      "file_size": 812712,
+      "sha256": "dbdc9143571c4282d42beb0b357c8362f44e5756ffb87afedfd5f58a3740c738",
+      "resource_key": "sleep_4_png",
+      "source_entry": "animation/sleep/sleep_4.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1080/resource/China/animation/sleep/sleep_4.png#/749e618a0016c88b322c61cde81c3352",
+      "resource_version": 1080,
+      "width": 2746,
+      "height": 589
+    },
+    "saw_atlas": {
+      "path": "media/furniture-characters/spine/saw.atlas",
+      "file_size": 1100,
+      "sha256": "ebb31b24080a019e4f820dbd2d9ecc4e46fdfc79ac5167d090919c5587700f51",
+      "resource_key": "saw_atlas",
+      "source_entry": "animation/furniture/saw.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/saw.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "saw_json": {
+      "path": "media/furniture-characters/spine/saw.json",
+      "file_size": 71163,
+      "sha256": "08bf264dac79bb2ed58cb617089369500578fc51c5142ce200e6a15758feeab2",
+      "resource_key": "saw_json",
+      "source_entry": "animation/furniture/saw.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/saw.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "saw_png": {
+      "path": "media/furniture-characters/spine/saw.png",
+      "file_size": 59144,
+      "sha256": "3b4043e5f82daf3ea2aa335150989b783a8a48cf6e31ab847c2b1dab6b072c58",
+      "resource_key": "saw_png",
+      "source_entry": "animation/furniture/saw.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/saw.png",
+      "resource_version": "APK 1.0.20",
+      "width": 494,
+      "height": 271
+    },
+    "brush_atlas": {
+      "path": "media/furniture-characters/spine/brush.atlas",
+      "file_size": 1152,
+      "sha256": "8ac3952f14682a4d44e4357a3ab747aafef7a9bf2a1a7851d900af28062642de",
+      "resource_key": "brush_atlas",
+      "source_entry": "animation/furniture/brush.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/brush.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "brush_json": {
+      "path": "media/furniture-characters/spine/brush.json",
+      "file_size": 100704,
+      "sha256": "50cb948378a0b7c2dea8d450101e1745cc3e868aa9d3d9004cf61761eb328b41",
+      "resource_key": "brush_json",
+      "source_entry": "animation/furniture/brush.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/brush.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "brush_png": {
+      "path": "media/furniture-characters/spine/brush.png",
+      "file_size": 51714,
+      "sha256": "cc6b206f6ecf4b7fe4e68c4630b5dfaf0d757fef1f7e744b62e4fa3adcdcac30",
+      "resource_key": "brush_png",
+      "source_entry": "animation/furniture/brush.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/brush.png",
+      "resource_version": "APK 1.0.20",
+      "width": 203,
+      "height": 465
+    },
+    "knock_atlas": {
+      "path": "media/furniture-characters/spine/knock.atlas",
+      "file_size": 1220,
+      "sha256": "2a1f30e421455982a73a59384e386adb04d4021bd1626664b3b42da9a9283b76",
+      "resource_key": "knock_atlas",
+      "source_entry": "animation/furniture/knock.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/knock.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "knock_json": {
+      "path": "media/furniture-characters/spine/knock.json",
+      "file_size": 62495,
+      "sha256": "9a6fffb23d1c5a82618a32f7f58494f65a7ff24d8934916d68d45e19dc2d47c8",
+      "resource_key": "knock_json",
+      "source_entry": "animation/furniture/knock.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/knock.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "knock_png": {
+      "path": "media/furniture-characters/spine/knock.png",
+      "file_size": 59168,
+      "sha256": "231ef12e4b3d62c43b540042b6e15fbe8d78315a2a5f3c544f81240c6a6b39a2",
+      "resource_key": "knock_png",
+      "source_entry": "animation/furniture/knock.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/knock.png",
+      "resource_version": "APK 1.0.20",
+      "width": 206,
+      "height": 515
+    },
+    "knit_atlas": {
+      "path": "media/furniture-characters/spine/knit.atlas",
+      "file_size": 1009,
+      "sha256": "861746ffb49407974d0d367663dae4ef26db170aca5999276fa58a1f4f14bc5b",
+      "resource_key": "knit_atlas",
+      "source_entry": "animation/furniture/knit.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/knit.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "knit_json": {
+      "path": "media/furniture-characters/spine/knit.json",
+      "file_size": 230799,
+      "sha256": "aa159f858a96f8ef2f0ed959ceef598c678688a70294f0795890056fcbeb2844",
+      "resource_key": "knit_json",
+      "source_entry": "animation/furniture/knit.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/knit.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "knit_png": {
+      "path": "media/furniture-characters/spine/knit.png",
+      "file_size": 49969,
+      "sha256": "2ab556dee65640d8c6394e08a82f821fed03302c652b64d2beda5edc14190ea7",
+      "resource_key": "knit_png",
+      "source_entry": "animation/furniture/knit.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/knit.png",
+      "resource_version": "APK 1.0.20",
+      "width": 610,
+      "height": 172
+    },
+    "cut_atlas": {
+      "path": "media/furniture-characters/spine/cut.atlas",
+      "file_size": 1556,
+      "sha256": "7a7d67c310ab775324f04d10bd9d621994acfc52ef124f8d932f8526fc445e9b",
+      "resource_key": "cut_atlas",
+      "source_entry": "animation/furniture/cut.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/cut.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "cut_json": {
+      "path": "media/furniture-characters/spine/cut.json",
+      "file_size": 117135,
+      "sha256": "5c265dc415fe82ea940fae73428513f70e5662a2f4f81d5ace17b856135cbf43",
+      "resource_key": "cut_json",
+      "source_entry": "animation/furniture/cut.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/cut.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "cut_png": {
+      "path": "media/furniture-characters/spine/cut.png",
+      "file_size": 125426,
+      "sha256": "3eb1106fe4ea09332fbd58d048acba34a13263e197c5824419c7e81ecbe185ab",
+      "resource_key": "cut_png",
+      "source_entry": "animation/furniture/cut.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/furniture/cut.png",
+      "resource_version": "APK 1.0.20",
+      "width": 1366,
+      "height": 1142
+    },
+    "LW_writing_ske_json": {
+      "path": "media/furniture-characters/dragonbones/LW_writing/LW_writing_ske.json",
+      "file_size": 36197,
+      "sha256": "3dc71646567e3be0280f4a65134f9724be0dcae9abd16d48021e0d94fe77c5eb",
+      "resource_key": "LW_writing_ske_json",
+      "source_entry": "animation/LW_writing/LW_writing_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/LW_writing/LW_writing_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "LW_writing_tex_json": {
+      "path": "media/furniture-characters/dragonbones/LW_writing/LW_writing_tex.json",
+      "file_size": 711,
+      "sha256": "82294ef71b304395833f68a489df7c471f92206483e9a12466fcdca207a8aa2a",
+      "resource_key": "LW_writing_tex_json",
+      "source_entry": "animation/LW_writing/LW_writing_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/LW_writing/LW_writing_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "LW_writing_tex_png": {
+      "path": "media/furniture-characters/dragonbones/LW_writing/LW_writing_tex.png",
+      "file_size": 22173,
+      "sha256": "ea27cd9768c2895f30b17004a5384dc9e00cd1bcc6bc763a9ae6616bcd2abca0",
+      "resource_key": "LW_writing_tex_png",
+      "source_entry": "animation/LW_writing/LW_writing_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/LW_writing/LW_writing_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 128,
+      "height": 256
+    },
+    "wugui_ske_json": {
+      "path": "media/furniture-characters/dragonbones/wugui/wugui_ske.json",
+      "file_size": 11948,
+      "sha256": "10c55924f39173d7993d0308c87cdde211ab169c249495e1dc00e42910142165",
+      "resource_key": "wugui_ske_json",
+      "source_entry": "animation/wugui/wugui_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/wugui/wugui_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "wugui_tex_json": {
+      "path": "media/furniture-characters/dragonbones/wugui/wugui_tex.json",
+      "file_size": 934,
+      "sha256": "5661bde5bd5f44e18ee8a471c239be95c1b7440e6daafc338fa2d485236b2fa2",
+      "resource_key": "wugui_tex_json",
+      "source_entry": "animation/wugui/wugui_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/wugui/wugui_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "wugui_tex_png": {
+      "path": "media/furniture-characters/dragonbones/wugui/wugui_tex.png",
+      "file_size": 16033,
+      "sha256": "be2e21010e2cc04f0c4e93bb6bd2e546a71a24a43ab975b8cfdf1d30e615f159",
+      "resource_key": "wugui_tex_png",
+      "source_entry": "animation/wugui/wugui_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/wugui/wugui_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 128,
+      "height": 256
+    },
+    "maotouying3_ske_json": {
+      "path": "media/furniture-characters/dragonbones/maotouying3/maotouying3_ske.json",
+      "file_size": 14698,
+      "sha256": "8ed8bd87cf36959e02bbd452bacba7f01f0c16e44222cfb7ca86f08d15c657af",
+      "resource_key": "maotouying3_ske_json",
+      "source_entry": "animation/maotouying3/maotouying3_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/maotouying3/maotouying3_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "maotouying3_tex_json": {
+      "path": "media/furniture-characters/dragonbones/maotouying3/maotouying3_tex.json",
+      "file_size": 899,
+      "sha256": "ef9364b5b9a1230e7608c1cf29b35072639fc824a854e3c6d8a000caffee2ab6",
+      "resource_key": "maotouying3_tex_json",
+      "source_entry": "animation/maotouying3/maotouying3_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/maotouying3/maotouying3_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "maotouying3_tex_png": {
+      "path": "media/furniture-characters/dragonbones/maotouying3/maotouying3_tex.png",
+      "file_size": 18286,
+      "sha256": "26a043846b2b08870f6bbb87f95d19d1ea34df720520cfcce179e8fc6ee4c850",
+      "resource_key": "maotouying3_tex_png",
+      "source_entry": "animation/maotouying3/maotouying3_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/maotouying3/maotouying3_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 256,
+      "height": 256
+    },
+    "songshu_ske_json": {
+      "path": "media/furniture-characters/dragonbones/songshu/songshu_ske.json",
+      "file_size": 25078,
+      "sha256": "d4c0369435fdfd5c56693c3d992bd6743116834e02654e8a736d4e85a6257cd0",
+      "resource_key": "songshu_ske_json",
+      "source_entry": "animation/songshu/songshu_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/songshu/songshu_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "songshu_tex_json": {
+      "path": "media/furniture-characters/dragonbones/songshu/songshu_tex.json",
+      "file_size": 827,
+      "sha256": "6f066be51c2567004d8fe08e5e4b5f6d3633c99bd8595f86fe524488b6b0cd2c",
+      "resource_key": "songshu_tex_json",
+      "source_entry": "animation/songshu/songshu_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/songshu/songshu_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "songshu_tex_png": {
+      "path": "media/furniture-characters/dragonbones/songshu/songshu_tex.png",
+      "file_size": 23523,
+      "sha256": "adc271ae680f6f260152355210830d5cee83e5cc38540b60342071f0f63adf1d",
+      "resource_key": "songshu_tex_png",
+      "source_entry": "animation/songshu/songshu_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/songshu/songshu_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 256,
+      "height": 256
+    },
+    "chihuasheng_zhuzhen_ske_json": {
+      "path": "media/furniture-characters/dragonbones/chihuasheng_zhuzhen/chihuasheng_zhuzhen_ske.json",
+      "file_size": 1478,
+      "sha256": "bc551b82868a6c72727b5ad08e8954537cbf64f81b45f2fa1f1721c050fcf2ae",
+      "resource_key": "chihuasheng_zhuzhen_ske_json",
+      "source_entry": "animation/visitor/chihuasheng_zhuzhen/chihuasheng_zhuzhen_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/chihuasheng_zhuzhen/chihuasheng_zhuzhen_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "chihuasheng_zhuzhen_tex_json": {
+      "path": "media/furniture-characters/dragonbones/chihuasheng_zhuzhen/chihuasheng_zhuzhen_tex.json",
+      "file_size": 2173,
+      "sha256": "7de2a05caf7234cf5452793708ba72e67cc7df89b608cd19961b1a4c1757af0f",
+      "resource_key": "chihuasheng_zhuzhen_tex_json",
+      "source_entry": "animation/visitor/chihuasheng_zhuzhen/chihuasheng_zhuzhen_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/chihuasheng_zhuzhen/chihuasheng_zhuzhen_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "chihuasheng_zhuzhen_tex_png": {
+      "path": "media/furniture-characters/dragonbones/chihuasheng_zhuzhen/chihuasheng_zhuzhen_tex.png",
+      "file_size": 293445,
+      "sha256": "12b622197a6ed69fa1d4f19ddf7e5ddf0bf495fc1726eecfc4962ea948bb7ddd",
+      "resource_key": "chihuasheng_zhuzhen_tex_png",
+      "source_entry": "animation/visitor/chihuasheng_zhuzhen/chihuasheng_zhuzhen_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/chihuasheng_zhuzhen/chihuasheng_zhuzhen_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 1024
+    },
+    "danbaofan_ske_json": {
+      "path": "media/furniture-characters/dragonbones/danbaofan/danbaofan_ske.json",
+      "file_size": 954,
+      "sha256": "4ef3edc97edda9919ea75700411a0f32bd2c9f0d66ee26b31a426635a66222f5",
+      "resource_key": "danbaofan_ske_json",
+      "source_entry": "animation/visitor/danbaofan/danbaofan_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/danbaofan/danbaofan_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "danbaofan_tex_json": {
+      "path": "media/furniture-characters/dragonbones/danbaofan/danbaofan_tex.json",
+      "file_size": 1455,
+      "sha256": "8aeccacbb2d12daddee02f64209a0fc6339e058058f900dd6cd418bc03bf888f",
+      "resource_key": "danbaofan_tex_json",
+      "source_entry": "animation/visitor/danbaofan/danbaofan_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/danbaofan/danbaofan_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "danbaofan_tex_png": {
+      "path": "media/furniture-characters/dragonbones/danbaofan/danbaofan_tex.png",
+      "file_size": 196013,
+      "sha256": "5f95cf72e67f6858c9d6cb73c4af0e9c2e12bcb57cc70c779eb50e0303fe5189",
+      "resource_key": "danbaofan_tex_png",
+      "source_entry": "animation/visitor/danbaofan/danbaofan_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/danbaofan/danbaofan_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 1024
+    },
+    "doufu_zhuzhen_ske_json": {
+      "path": "media/furniture-characters/dragonbones/doufu_zhuzhen/doufu_zhuzhen_ske.json",
+      "file_size": 1618,
+      "sha256": "7e9ec79e1dc55d8baef90b1d430a5339e1c85f7840e54e898b0d6c29aabb3633",
+      "resource_key": "doufu_zhuzhen_ske_json",
+      "source_entry": "animation/visitor/doufu_zhuzhen/doufu_zhuzhen_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/doufu_zhuzhen/doufu_zhuzhen_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "doufu_zhuzhen_tex_json": {
+      "path": "media/furniture-characters/dragonbones/doufu_zhuzhen/doufu_zhuzhen_tex.json",
+      "file_size": 1570,
+      "sha256": "9aadcf5f47e7eaa3f74bbe02b124f77c5501415e378494a11092fe1492392d1f",
+      "resource_key": "doufu_zhuzhen_tex_json",
+      "source_entry": "animation/visitor/doufu_zhuzhen/doufu_zhuzhen_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/doufu_zhuzhen/doufu_zhuzhen_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "doufu_zhuzhen_tex_png": {
+      "path": "media/furniture-characters/dragonbones/doufu_zhuzhen/doufu_zhuzhen_tex.png",
+      "file_size": 159821,
+      "sha256": "07e5aec0f2986e1adf344bf75e2c1f9007394c4b36b127a3d7320b328f168c57",
+      "resource_key": "doufu_zhuzhen_tex_png",
+      "source_entry": "animation/visitor/doufu_zhuzhen/doufu_zhuzhen_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/doufu_zhuzhen/doufu_zhuzhen_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "guihuagao_ske_json": {
+      "path": "media/furniture-characters/dragonbones/guihuagao/guihuagao_ske.json",
+      "file_size": 1036,
+      "sha256": "9ad2669ed0d6f1878eddc40d9c074117e0eb2145569b7cacd4c7698fdc8ddfb9",
+      "resource_key": "guihuagao_ske_json",
+      "source_entry": "animation/visitor/guihuagao/guihuagao_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/guihuagao/guihuagao_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "guihuagao_tex_json": {
+      "path": "media/furniture-characters/dragonbones/guihuagao/guihuagao_tex.json",
+      "file_size": 1453,
+      "sha256": "7a4f14ebc0b7b08b8aa4f4c89b9f86953e21cd1ee03136f1ced23b4fd82a43e8",
+      "resource_key": "guihuagao_tex_json",
+      "source_entry": "animation/visitor/guihuagao/guihuagao_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/guihuagao/guihuagao_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "guihuagao_tex_png": {
+      "path": "media/furniture-characters/dragonbones/guihuagao/guihuagao_tex.png",
+      "file_size": 162294,
+      "sha256": "65eadfb9b8b346c68f61cfcf89b44aacfd497736f4aabcf71cd3e423cfe32918",
+      "resource_key": "guihuagao_tex_png",
+      "source_entry": "animation/visitor/guihuagao/guihuagao_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/guihuagao/guihuagao_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "guozhi_zhuzhen_ske_json": {
+      "path": "media/furniture-characters/dragonbones/guozhi_zhuzhen/guozhi_zhuzhen_ske.json",
+      "file_size": 1980,
+      "sha256": "28044370481db90a0e8ce64ab629417809bddf3f96b6d1bf4dd1480da7c60d1e",
+      "resource_key": "guozhi_zhuzhen_ske_json",
+      "source_entry": "animation/visitor/guozhi_zhuzhen/guozhi_zhuzhen_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/guozhi_zhuzhen/guozhi_zhuzhen_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "guozhi_zhuzhen_tex_json": {
+      "path": "media/furniture-characters/dragonbones/guozhi_zhuzhen/guozhi_zhuzhen_tex.json",
+      "file_size": 1483,
+      "sha256": "fb8d367d39fb3abe1382c1619451445bd9f75e66706bc27e1d4655b75245d927",
+      "resource_key": "guozhi_zhuzhen_tex_json",
+      "source_entry": "animation/visitor/guozhi_zhuzhen/guozhi_zhuzhen_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/guozhi_zhuzhen/guozhi_zhuzhen_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "guozhi_zhuzhen_tex_png": {
+      "path": "media/furniture-characters/dragonbones/guozhi_zhuzhen/guozhi_zhuzhen_tex.png",
+      "file_size": 184075,
+      "sha256": "0ecdb4332d442e5d59db5c2c992ccda4774f35c0ef475ee7733e5c981860673a",
+      "resource_key": "guozhi_zhuzhen_tex_png",
+      "source_entry": "animation/visitor/guozhi_zhuzhen/guozhi_zhuzhen_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/guozhi_zhuzhen/guozhi_zhuzhen_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "huafubing_ske_json": {
+      "path": "media/furniture-characters/dragonbones/huafubing/huafubing_ske.json",
+      "file_size": 919,
+      "sha256": "1eb1107d12cd3dcc8cd48e359e00d89b7bbbd5a845c2aed40f07392db7ca3325",
+      "resource_key": "huafubing_ske_json",
+      "source_entry": "animation/visitor/huafubing/huafubing_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/huafubing/huafubing_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "huafubing_tex_json": {
+      "path": "media/furniture-characters/dragonbones/huafubing/huafubing_tex.json",
+      "file_size": 1330,
+      "sha256": "a51b48924385468ecb5d037e4c2bde19a0fcc28df9bdaceb9eecc97b72f19f71",
+      "resource_key": "huafubing_tex_json",
+      "source_entry": "animation/visitor/huafubing/huafubing_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/huafubing/huafubing_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "huafubing_tex_png": {
+      "path": "media/furniture-characters/dragonbones/huafubing/huafubing_tex.png",
+      "file_size": 154846,
+      "sha256": "e461e56a248c2bc72316c0099e36a62c47be5ba6e46de809090a08e40b59bcfd",
+      "resource_key": "huafubing_tex_png",
+      "source_entry": "animation/visitor/huafubing/huafubing_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/huafubing/huafubing_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "kelibing_ske_json": {
+      "path": "media/furniture-characters/dragonbones/kelibing/kelibing_ske.json",
+      "file_size": 916,
+      "sha256": "d04f1717bae84cde3e1c4e5ce744f558f28d932271e72628dfafdd3b17c65344",
+      "resource_key": "kelibing_ske_json",
+      "source_entry": "animation/visitor/kelibing/kelibing_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/kelibing/kelibing_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "kelibing_tex_json": {
+      "path": "media/furniture-characters/dragonbones/kelibing/kelibing_tex.json",
+      "file_size": 1453,
+      "sha256": "c8e7afc1ffc81a9b284a0a61657a23035f1053a870cc151b64bad985278da34c",
+      "resource_key": "kelibing_tex_json",
+      "source_entry": "animation/visitor/kelibing/kelibing_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/kelibing/kelibing_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "kelibing_tex_png": {
+      "path": "media/furniture-characters/dragonbones/kelibing/kelibing_tex.png",
+      "file_size": 144600,
+      "sha256": "bc12f1ead6623ec4f70cedabb1ca9f733b0b2e3b7f222b9eda8bf9643d2f2643",
+      "resource_key": "kelibing_tex_png",
+      "source_entry": "animation/visitor/kelibing/kelibing_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/kelibing/kelibing_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "pitabing_ske_json": {
+      "path": "media/furniture-characters/dragonbones/pitabing/pitabing_ske.json",
+      "file_size": 1151,
+      "sha256": "d994f0056bb293bf8469e2c9ed24b9eae5967ca0460fef0dfb3f51301512e384",
+      "resource_key": "pitabing_ske_json",
+      "source_entry": "animation/visitor/pitabing/pitabing_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/pitabing/pitabing_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "pitabing_tex_json": {
+      "path": "media/furniture-characters/dragonbones/pitabing/pitabing_tex.json",
+      "file_size": 1454,
+      "sha256": "c0d1299b79dd5526b5669149c22c42f2eeb807a5fe65de2fd4c45cbe6fe7517b",
+      "resource_key": "pitabing_tex_json",
+      "source_entry": "animation/visitor/pitabing/pitabing_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/pitabing/pitabing_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "pitabing_tex_png": {
+      "path": "media/furniture-characters/dragonbones/pitabing/pitabing_tex.png",
+      "file_size": 135005,
+      "sha256": "ccee470fa511d0e4bb2d39adedab167b55d2cf142b944ed524170b560fd011af",
+      "resource_key": "pitabing_tex_png",
+      "source_entry": "animation/visitor/pitabing/pitabing_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/pitabing/pitabing_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "rebaozi_zhuzhen_ske_json": {
+      "path": "media/furniture-characters/dragonbones/rebaozi_zhuzhen/rebaozi_zhuzhen_ske.json",
+      "file_size": 1189,
+      "sha256": "1e1615c4452f829b068a7de6d8b862883c30132584a646c58ccba4fb17d3bc11",
+      "resource_key": "rebaozi_zhuzhen_ske_json",
+      "source_entry": "animation/visitor/rebaozi_zhuzhen/rebaozi_zhuzhen_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/rebaozi_zhuzhen/rebaozi_zhuzhen_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "rebaozi_zhuzhen_tex_json": {
+      "path": "media/furniture-characters/dragonbones/rebaozi_zhuzhen/rebaozi_zhuzhen_tex.json",
+      "file_size": 1685,
+      "sha256": "c411b52115e10ce5f99b20cf87f1f8fbf1ee132f7a377097167c4c67e8678251",
+      "resource_key": "rebaozi_zhuzhen_tex_json",
+      "source_entry": "animation/visitor/rebaozi_zhuzhen/rebaozi_zhuzhen_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/rebaozi_zhuzhen/rebaozi_zhuzhen_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "rebaozi_zhuzhen_tex_png": {
+      "path": "media/furniture-characters/dragonbones/rebaozi_zhuzhen/rebaozi_zhuzhen_tex.png",
+      "file_size": 302944,
+      "sha256": "ed1665d918764ee07efd0a43e77f1ee697d3ce79d06e464af4d6dbe228d5e175",
+      "resource_key": "rebaozi_zhuzhen_tex_png",
+      "source_entry": "animation/visitor/rebaozi_zhuzhen/rebaozi_zhuzhen_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/rebaozi_zhuzhen/rebaozi_zhuzhen_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 1024,
+      "height": 512
+    },
+    "xianbing_ske_json": {
+      "path": "media/furniture-characters/dragonbones/xianbing/xianbing_ske.json",
+      "file_size": 1503,
+      "sha256": "6bf653daa6cf0ea9a87134ff043cc9c5842afa6373518adba062812ab20738a6",
+      "resource_key": "xianbing_ske_json",
+      "source_entry": "animation/visitor/xianbing/xianbing_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/xianbing/xianbing_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "xianbing_tex_json": {
+      "path": "media/furniture-characters/dragonbones/xianbing/xianbing_tex.json",
+      "file_size": 1506,
+      "sha256": "592b268c8a570f26e463955b7b2a2f41eaffb17fa99984af9d5c45e2e5a16c12",
+      "resource_key": "xianbing_tex_json",
+      "source_entry": "animation/visitor/xianbing/xianbing_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/xianbing/xianbing_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "xianbing_tex_png": {
+      "path": "media/furniture-characters/dragonbones/xianbing/xianbing_tex.png",
+      "file_size": 203330,
+      "sha256": "aa03c9f9395878920da0c87f55d0b6939d05b3842b4353a3eb1812e1044478a2",
+      "resource_key": "xianbing_tex_png",
+      "source_entry": "animation/visitor/xianbing/xianbing_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/xianbing/xianbing_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "zongzi_ske_json": {
+      "path": "media/furniture-characters/dragonbones/zongzi/zongzi_ske.json",
+      "file_size": 2600,
+      "sha256": "464bb8b032c72fb5eb55decbb213710201ad2573f03b85ed673bf422a2706e33",
+      "resource_key": "zongzi_ske_json",
+      "source_entry": "animation/visitor/zongzi/zongzi_ske.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/zongzi/zongzi_ske.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "zongzi_tex_json": {
+      "path": "media/furniture-characters/dragonbones/zongzi/zongzi_tex.json",
+      "file_size": 1324,
+      "sha256": "72300b799a3c4a228b53c4c57d7237a09cb2f47a5aa8e3191a45af9e115196e1",
+      "resource_key": "zongzi_tex_json",
+      "source_entry": "animation/visitor/zongzi/zongzi_tex.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/zongzi/zongzi_tex.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "zongzi_tex_png": {
+      "path": "media/furniture-characters/dragonbones/zongzi/zongzi_tex.png",
+      "file_size": 122736,
+      "sha256": "77880ef3c3c785c0200d1634c65ad372f84f9e241dad9a2541be9fcb1d6afc89",
+      "resource_key": "zongzi_tex_png",
+      "source_entry": "animation/visitor/zongzi/zongzi_tex.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/visitor/zongzi/zongzi_tex.png",
+      "resource_version": "APK 1.0.20",
+      "width": 512,
+      "height": 512
+    },
+    "visitor_carpet_1_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_1.png",
+      "file_size": 22113,
+      "sha256": "14b5662cfa0acfee588c52d57be0a9c0ec161368cd5a33b933d90859d1851980",
+      "resource_key": "visitor_carpet_1_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_1.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_1.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "visitor_carpet_2_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_2.png",
+      "file_size": 14051,
+      "sha256": "cfe40bda930bb2fe10e91d7458d9f666d28f4349dd372d2bfd7c15a361d3e04c",
+      "resource_key": "visitor_carpet_2_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_2.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_2.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "visitor_carpet_3_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_3.png",
+      "file_size": 18195,
+      "sha256": "a7b58674236b49cd7720b4f1cb15df3917ff97d8200ff26ad8c8b9b18c128b0e",
+      "resource_key": "visitor_carpet_3_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_3.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_3.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "visitor_carpet_4_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_4.png",
+      "file_size": 21925,
+      "sha256": "df4a6c4215599cfb1410f721cda2ef6fb1943cf32a31fcf55d853e618ed23d80",
+      "resource_key": "visitor_carpet_4_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_4.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_4.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "visitor_carpet_5_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_5.png",
+      "file_size": 20159,
+      "sha256": "d98befc841243733cee76fcb5d044c48493d35ee0588c1cb4840e7865dfee5be",
+      "resource_key": "visitor_carpet_5_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_5.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_5.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "visitor_carpet_6_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_6.png",
+      "file_size": 14333,
+      "sha256": "98808bedf2ffa1f017c72082ac8c12a831e668e70513f4bdea7738eac5c13a70",
+      "resource_key": "visitor_carpet_6_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_6.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_6.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "visitor_carpet_7_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_7.png",
+      "file_size": 13283,
+      "sha256": "bbd20e5496af8b8f23603e46b117c83a36e765d82f812542d4d8fcf101bc1aae",
+      "resource_key": "visitor_carpet_7_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_7.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_7.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "visitor_carpet_8_png": {
+      "path": "media/furniture-characters/carpets/visitor_carpet_8.png",
+      "file_size": 18257,
+      "sha256": "9ba876a2b0064e5ca5adbde91cb090133b5984586ad6cf78ef88ef6fc5c95736",
+      "resource_key": "visitor_carpet_8_png",
+      "source_entry": "images/visitor/carpet/visitor_carpet_8.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/visitor/carpet/visitor_carpet_8.png",
+      "resource_version": "APK 1.0.20",
+      "width": 220,
+      "height": 130
+    },
+    "drummer_atlas": {
+      "path": "media/furniture-characters/spine/drummer.atlas",
+      "file_size": 1291,
+      "sha256": "d6bac7ba89ab1118c79cd2c98859bc7bec364363f072a77bc4cab93ec2b702d5",
+      "resource_key": "drummer_atlas",
+      "source_kind": "bundled_eab",
+      "source_member": "assets/game/resource/China/eab/mainout.eab",
+      "source_entry": "animation/furniture/drummer.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "drummer_json": {
+      "path": "media/furniture-characters/spine/drummer.json",
+      "file_size": 69525,
+      "sha256": "c21a520146731abeae5b7a76b7897b54b05e7017994e5fc71510960fd7e96bc4",
+      "resource_key": "drummer_json",
+      "source_kind": "bundled_eab",
+      "source_member": "assets/game/resource/China/eab/mainout.eab",
+      "source_entry": "animation/furniture/drummer.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "drummer_png": {
+      "path": "media/furniture-characters/spine/drummer.png",
+      "file_size": 65189,
+      "sha256": "5c32f9df56d43d91d605752f7b9c62ccd349f718257e080b4a8ebad4bc5c8482",
+      "resource_key": "drummer_png",
+      "source_kind": "bundled_eab",
+      "source_member": "assets/game/resource/China/eab/mainout.eab",
+      "source_entry": "animation/furniture/drummer.png",
+      "resource_version": "APK 1.0.20",
+      "width": 404,
+      "height": 242
+    },
+    "egret.min.js": {
+      "path": "viewer/runtime/dragonbones/egret.min.js",
+      "file_size": 201424,
+      "sha256": "bb5a6d3bd59f532ffd6f3644c3e84243ed214cd9344754ccb848ac9774dbaef9",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/js/egret.min.js",
+      "resource_version": "APK 1.0.20"
+    },
+    "egret.web.min.js": {
+      "path": "viewer/runtime/dragonbones/egret.web.min.js",
+      "file_size": 133353,
+      "sha256": "f15e10d68d91ba32c686692a501d375e6cbf9f2af31aa286f32b6ce9a7f7ae15",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/js/egret.web.min.js",
+      "resource_version": "APK 1.0.20"
+    },
+    "game.min.js": {
+      "path": "viewer/runtime/dragonbones/game.min.js",
+      "file_size": 41240,
+      "sha256": "63f4aa648450a7bcb7f30b84aa493b5ffde427d222b6dc30a7b8e11c1b2f917c",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/js/game.min.js",
+      "resource_version": "APK 1.0.20"
+    },
+    "dragonBones.min.js": {
+      "path": "viewer/runtime/dragonbones/dragonBones.min.js",
+      "file_size": 258742,
+      "sha256": "bfec4f9c59bfe6d0ae088dadddbe921cb9e39a68f420a9bee61a5360b2f002d2",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/js/dragonBones.min.js",
+      "resource_version": "APK 1.0.20"
+    }
+  }
+}

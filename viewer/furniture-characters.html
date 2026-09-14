@@ -1,0 +1,120 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'self'; base-uri 'none'"><style>html,body,#character-stage,.egret-player{margin:0;width:100%;height:100%;overflow:hidden;background:transparent}#character-stage{position:relative}.egret-player,#character-anm,#character-spine{position:absolute;inset:0;width:100%;height:100%}canvas{display:block;background:transparent!important}.egret-player{pointer-events:none}</style></head><body><div id="character-stage"><canvas id="character-anm" width="1152" height="1420"></canvas><canvas id="character-spine" width="1152" height="1420"></canvas><div class="egret-player" data-entry-class="FurnitureCharacterMain" data-orientation="auto" data-scale-mode="showAll" data-frame-rate="30" data-content-width="1152" data-content-height="1420" data-multi-fingered="2" data-show-fps="false" data-show-log="false"></div></div><script>const originalGetContext=HTMLCanvasElement.prototype.getContext;HTMLCanvasElement.prototype.getContext=function(type,options){if(type==='webgl'||type==='experimental-webgl')options={...(options||{}),alpha:true,preserveDrawingBuffer:true};return originalGetContext.call(this,type,options)};</script><script src="vendor/spine-3.8/spine-webgl.js"></script><script src="runtime/dragonbones/egret.min.js"></script><script src="runtime/dragonbones/egret.web.min.js"></script><script src="runtime/dragonbones/game.min.js"></script><script src="runtime/dragonbones/dragonBones.min.js"></script><script>const characterData={"house": {"frog": [{"id": "none", "name": "不放青蛙", "format": "none"}, {"id": "dokusyo_ie", "name": "读书", "format": "anm", "container": "bed", "offset": [0, 0]}, {"id": "inemuri_ie", "name": "打瞌睡", "format": "anm", "container": "bed", "offset": [0, 0]}, {"id": "hikki_ie", "name": "写信", "format": "dragonbones", "resource": "LW_writing", "armature": "write", "animation": "newAnimation", "container": "desk", "offset": [0, 0]}, {"id": "sagyou_ie", "name": "做手工", "format": "anm", "container": "chair", "offset": [-3, 0]}, {"id": "syokuzi_ie", "name": "吃饭", "format": "anm", "container": "chair", "offset": [-10, 0]}, {"id": "sleep_1", "name": "睡觉姿势 1", "format": "spine", "resource": "sleep_1", "animation": "animation", "container": "sleep", "offset": [0, 0]}, {"id": "sleep_2", "name": "睡觉姿势 2", "format": "spine", "resource": "sleep_2", "animation": "animation", "container": "sleep", "offset": [0, 0]}, {"id": "sleep_3", "name": "睡觉姿势 3", "format": "spine", "resource": "sleep_3", "animation": "animation", "container": "sleep", "offset": [0, 0]}, {"id": "sleep_4", "name": "睡觉姿势 4", "format": "spine", "resource": "sleep_4", "animation": "animation", "container": "sleep", "offset": [0, 0]}], "containers": {"bed": {"x": 292, "y": 453, "z": 0}, "desk": {"x": 523, "y": 396, "z": 21002}, "chair": {"x": 550.72, "y": 934.2, "z": 32001}, "sleep": {"x": 265, "y": 442, "z": 17001}}}, "courtyard": {"frog": [{"id": "none", "name": "不放青蛙", "format": "none"}, {"id": "saw", "name": "锯木", "format": "spine", "resource": "saw", "animation": "default"}, {"id": "brush", "name": "刷漆", "format": "spine", "resource": "brush", "animation": "default"}, {"id": "knock", "name": "敲打", "format": "spine", "resource": "knock", "animation": "default"}, {"id": "knit", "name": "编织", "format": "spine", "resource": "knit", "animation": "default"}, {"id": "cut", "name": "裁剪", "format": "spine", "resource": "cut", "animation": "default"}], "frog_position": {"x": 588, "y": 769}, "friends": [{"id": "none", "name": "无人拜访", "format": "none"}, {"id": "wugui", "name": "困困", "format": "dragonbones", "armature": "Armature", "animation": "idle"}, {"id": "maotouying3", "name": "胖胖", "format": "dragonbones", "armature": "Armature", "animation": "idle"}, {"id": "songshu", "name": "跳跳", "format": "dragonbones", "armature": "Armature", "animation": "newAnimation"}], "friend_position": {"x": 805.83, "y": 837.49}, "visitor": {"actions": [{"food_id": 0, "resource": "huafubing"}, {"food_id": 1, "resource": "kelibing"}, {"food_id": 2, "resource": "pitabing"}, {"food_id": 3, "resource": "danbaofan"}, {"food_id": 4, "resource": "rebaozi_zhuzhen"}, {"food_id": 5, "resource": "doufu_zhuzhen"}, {"food_id": 6, "resource": "doufu_zhuzhen"}, {"food_id": 7, "resource": "doufu_zhuzhen"}, {"food_id": 8, "resource": "doufu_zhuzhen"}, {"food_id": 9, "resource": "doufu_zhuzhen"}, {"food_id": 10, "resource": "doufu_zhuzhen"}, {"food_id": 11, "resource": "danbaofan"}, {"food_id": 12, "resource": "danbaofan"}, {"food_id": 13, "resource": "danbaofan"}, {"food_id": 14, "resource": "danbaofan"}, {"food_id": 15, "resource": "guihuagao"}, {"food_id": 16, "resource": "xianbing"}, {"food_id": 17, "resource": "kelibing"}, {"food_id": 18, "resource": "kelibing"}], "role_resources": ["danbaofan", "doufu_zhuzhen", "guihuagao", "huafubing", "kelibing", "pitabing", "rebaozi_zhuzhen", "xianbing"], "position": {"x": 478, "y": 544}, "carpet_position": {"x": 448, "y": 567}}, "merchant": {"resource": "drummer", "animation": "default", "position": {"x": 692.13, "y": 1206}}}, "paths": {"anm": "media/furniture-characters/anm/", "spine": "media/furniture-characters/spine/", "dragonbones": "media/furniture-characters/dragonbones/"}};</script><script>(() => {
+'use strict';
+const anmCanvas = document.getElementById('character-anm');
+const anmContext = anmCanvas.getContext('2d');
+const spineCanvas = document.getElementById('character-spine');
+const cache = new Map();
+let renderer, gl, current = null, spineLayers = [], dragonStage = null, dragonDisplays = [];
+let frameRequest = 0, lastFrame = 0, anmFrame = 0, generation = 0, visible = true;
+const asset = path => '../' + path.split('/').map(encodeURIComponent).join('/');
+const image = path => cache.get('image:' + path) || (cache.set('image:' + path, new Promise((resolve, reject) => {
+  const value = new Image(); value.onload = () => resolve(value); value.onerror = reject; value.src = asset(path);
+})), cache.get('image:' + path));
+const bytes = path => cache.get('bytes:' + path) || (cache.set('bytes:' + path, fetch(asset(path)).then(response => {
+  if (!response.ok) throw new Error('动画文件载入失败'); return response.arrayBuffer();
+})), cache.get('bytes:' + path));
+const json = path => cache.get('json:' + path) || (cache.set('json:' + path, fetch(asset(path)).then(response => {
+  if (!response.ok) throw new Error('动画配置载入失败'); return response.json();
+})), cache.get('json:' + path));
+const text = path => cache.get('text:' + path) || (cache.set('text:' + path, fetch(asset(path)).then(response => {
+  if (!response.ok) throw new Error('动画配置载入失败'); return response.text();
+})), cache.get('text:' + path));
+
+function parseAnm(buffer) {
+  const view = new DataView(buffer); let at = 0;
+  const u8 = () => view.getUint8(at++);
+  const i16 = () => { const value = view.getInt16(at, false); at += 2; return value; };
+  const modules = Array.from({length:u8()}, () => ({x:u8(), y:u8(), w:u8(), h:u8()}));
+  for (let count = u8(); count; count--) { const index=u8(), field=u8(), value=u8()<<8; modules[index][['x','y','w','h'][field]] |= value; }
+  for (let count=u8(); count; count--) { i16(); u8(); for(let n=0;n<8;n++) i16(); }
+  const sprites = Array.from({length:i16()}, () => ({module:u8(), x:i16(), y:i16(), flip:u8()}));
+  for (let count=u8(); count; count--) { i16(); u8(); u8(); u8(); }
+  const sequences=[]; for(let total=i16(); sequences.length<total;) { const frame=u8(), repeat=u8(); for(let n=0;n<repeat;n++) sequences.push(frame); }
+  return {modules, sprites, sequences};
+}
+
+async function loadAnm(name) {
+  const key='anm:'+name; if(cache.has(key)) return cache.get(key);
+  const promise=Promise.all([bytes(characterData.paths.anm + name + '.anm.bytes'), image(characterData.paths.anm + name + '.png')])
+    .then(([buffer, atlas]) => ({...parseAnm(buffer), atlas}));
+  cache.set(key,promise); return promise;
+}
+
+async function loadSpine(name, animation, position, skinName) {
+  const prefix=characterData.paths.spine + name;
+  const [atlasText, skeletonJson, textureImage]=await Promise.all([text(prefix+'.atlas'),json(prefix+'.json'),image(prefix+'.png')]);
+  const texture=new spine.webgl.GLTexture(gl,textureImage);
+  const atlas=new spine.TextureAtlas(atlasText,()=>texture);
+  const reader=new spine.SkeletonJson(new spine.AtlasAttachmentLoader(atlas));
+  const skeletonData=reader.readSkeletonData(skeletonJson);
+  const skeleton=new spine.Skeleton(skeletonData);
+  const skin=skeletonData.findSkin(skinName || 'default') || skeletonData.skins[0]; if(skin) skeleton.setSkin(skin);
+  skeleton.x=position.x; skeleton.y=-position.y;
+  const motion=skeletonData.findAnimation(animation) || skeletonData.animations[0];
+  if(!motion) throw new Error('Spine 动作缺失：'+name);
+  return {skeleton,motion,texture,time:0};
+}
+
+async function loadDragon(name, armature, animation, position) {
+  const prefix=characterData.paths.dragonbones + name + '/' + name + '_';
+  const [ske,tex,img]=await Promise.all([json(prefix+'ske.json'),json(prefix+'tex.json'),image(prefix+'tex.png')]);
+  const factory=dragonBones.EgretFactory.factory;
+  if(!factory.getDragonBonesData(name)) factory.parseDragonBonesData(ske,name);
+  if(!(factory.getTextureAtlasData(name) || []).length) { const texture=new egret.Texture(); texture.bitmapData=new egret.BitmapData(img); factory.parseTextureAtlasData(tex,texture,name); }
+  const display=factory.buildArmatureDisplay(armature,name); if(!display) throw new Error('DragonBones 骨架缺失：'+name);
+  display.x=position.x; display.y=position.y; display.animation.play(animation);
+  return display;
+}
+
+function clearDragon() { for(const display of dragonDisplays){ display.armature?.dispose(); display.parent?.removeChild(display); } dragonDisplays=[]; }
+function housePosition(row) { const base=characterData.house.containers[row.container]; return {x:base.x+row.offset[0],y:base.y+row.offset[1]}; }
+
+async function applyState(state) {
+  const token=++generation, nextSpine=[], nextDragon=[]; let nextAnm=null;
+  try {
+    if(state.area==='house') {
+      const row=characterData.house.frog.find(item=>item.id===state.frog);
+      if(row?.format==='anm') nextAnm={row,data:await loadAnm(row.id),position:housePosition(row)};
+      else if(row?.format==='spine') nextSpine.push(await loadSpine(row.resource,row.animation,housePosition(row),state.skin));
+      else if(row?.format==='dragonbones') nextDragon.push(await loadDragon(row.resource,row.armature,row.animation,housePosition(row)));
+    } else {
+      const frog=characterData.courtyard.frog.find(item=>item.id===state.frog);
+      if(frog?.format==='spine') nextSpine.push(await loadSpine(frog.resource,frog.animation,characterData.courtyard.frog_position));
+      const friend=characterData.courtyard.friends.find(item=>item.id===state.friend);
+      if(friend?.format==='dragonbones') nextDragon.push(await loadDragon(friend.id,friend.armature,friend.animation,characterData.courtyard.friend_position));
+      if(state.visitor && state.visitor!=='none') nextDragon.push(await loadDragon(state.visitor,'Sprite','Sprite',characterData.courtyard.visitor.position));
+      if(state.merchant) {
+        const merchant=characterData.courtyard.merchant;
+        nextSpine.push(await loadSpine(merchant.resource,merchant.animation,merchant.position));
+      }
+    }
+    if(token!==generation) { nextSpine.forEach(layer=>layer.texture.dispose()); nextDragon.forEach(display=>display.armature?.dispose()); return; }
+    spineLayers.forEach(layer=>layer.texture.dispose()); clearDragon();
+    spineLayers=nextSpine; dragonDisplays=nextDragon; dragonDisplays.forEach(display=>dragonStage.addChild(display));
+    current={...state, anm:nextAnm}; anmFrame=0; anmContext.clearRect(0,0,anmCanvas.width,anmCanvas.height);
+    document.body.dataset.ready='true'; window.parent.postMessage({type:'frog-furniture-characters-ready'},'*'); resume();
+  } catch(error) { console.error(error); window.parent.postMessage({type:'frog-furniture-characters-error',message:error.message},'*'); }
+}
+
+function drawAnm() {
+  anmContext.clearRect(0,0,anmCanvas.width,anmCanvas.height); const active=current?.anm; if(!active) return;
+  const frame=active.data.sequences[Math.floor(anmFrame)%active.data.sequences.length];
+  const sprite=active.data.sprites[frame], module=active.data.modules[frame];
+  anmContext.drawImage(active.data.atlas,module.x,module.y,module.w,module.h,active.position.x+sprite.x,active.position.y+sprite.y,module.w,module.h);
+}
+function drawSpine(delta) {
+  gl.viewport(0,0,spineCanvas.width,spineCanvas.height); gl.clearColor(0,0,0,0); gl.clear(gl.COLOR_BUFFER_BIT);
+  renderer.begin(); for(const layer of spineLayers){ layer.time+=delta; layer.skeleton.setToSetupPose(); layer.motion.apply(layer.skeleton,0,layer.time,true,[],1,spine.MixBlend.replace,spine.MixDirection.mixIn); layer.skeleton.updateWorldTransform(); renderer.drawSkeleton(layer.skeleton,false); } renderer.end();
+}
+function tick(now){ frameRequest=requestAnimationFrame(tick); const delta=lastFrame?Math.min((now-lastFrame)/1000,.1):0; lastFrame=now; anmFrame+=delta*15; drawAnm(); drawSpine(delta); }
+function resume(){ if(frameRequest) cancelAnimationFrame(frameRequest); frameRequest=0; lastFrame=0; if(!document.hidden && visible) frameRequest=requestAnimationFrame(tick); }
+
+window.addEventListener('message',event=>{ if(event.source===window.parent && event.data?.type==='frog-furniture-character-state') applyState(event.data.state); });
+window.addEventListener('message',event=>{ if(event.source===window.parent && event.data?.type==='frog-furniture-characters-visible'){ visible=Boolean(event.data.visible); resume(); } });
+document.addEventListener('visibilitychange',resume);
+window.FurnitureCharacterMain=(function(_super){ __extends(FurnitureCharacterMain,_super); function FurnitureCharacterMain(){ const self=_super.call(this)||this; self.addEventListener(egret.Event.ADDED_TO_STAGE,()=>{dragonStage=self; window.parent.postMessage({type:'frog-furniture-characters-stage'},'*');},self); return self; } return FurnitureCharacterMain; })(egret.DisplayObjectContainer);
+__reflect(window.FurnitureCharacterMain.prototype,'FurnitureCharacterMain');
+gl=spineCanvas.getContext('webgl',{alpha:true,preserveDrawingBuffer:true,antialias:true}); renderer=new spine.webgl.SceneRenderer(spineCanvas,gl); renderer.camera.position.x=spineCanvas.width/2; renderer.camera.position.y=-spineCanvas.height/2; renderer.camera.setViewport(spineCanvas.width,spineCanvas.height);
+egret.runEgret({renderMode:'webgl',audioType:0,calculateCanvasScaleFactor:function(){return 1}});
+})();
+</script></body></html>
