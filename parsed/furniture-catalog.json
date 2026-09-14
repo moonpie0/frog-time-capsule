@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "status": "available",
   "source": "verified_static_client_config_and_local_backup",
   "resource_version": 1088,
@@ -1076,7 +1076,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1026,
@@ -2111,7 +2115,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1126,
@@ -3146,7 +3154,10 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1
+      ]
     },
     {
       "id": 1226,
@@ -4181,7 +4192,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1326,
@@ -5216,7 +5231,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "not_obtained"
+      "ownership": "not_obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1426,
@@ -6289,7 +6308,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1526,
@@ -7363,7 +7386,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "unknown"
+      "ownership": "unknown",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1626,
@@ -8398,7 +8425,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1726,
@@ -9433,7 +9464,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 1826,
@@ -10469,7 +10504,10 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1
+      ]
     },
     {
       "id": 1926,
@@ -11504,7 +11542,11 @@
         },
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 2026,
@@ -12264,7 +12306,11 @@
         "derived_from": "xw11_25_1_png",
         "source_sha256": "45f771dada23b571a2bdfb711e06774be0b7674d30b254af6807751d61df79ae"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 2126,
@@ -13002,7 +13048,11 @@
         "derived_from": "xw12_25_1_png",
         "source_sha256": "2a5e54ba2a9a2bb5524d4ad7e7aaa6af5e9dd8655e157a58b86c93aff5128b8e"
       },
-      "ownership": "unknown"
+      "ownership": "unknown",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 2226,
@@ -13741,7 +13791,11 @@
         "derived_from": "xw13_25_1_png",
         "source_sha256": "4a824cfaa6fecd5cbc46f87df67d79a29d6b62853b70cf25165ab54b269bf7ea"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1,
+        2
+      ]
     },
     {
       "id": 2326,
@@ -14286,7 +14340,10 @@
         "source_member": "assets/game/resource/China/texture/drawing/draw_icon_204.png",
         "resource_version": "APK 1.0.20"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "night_lights": [
+        1
+      ]
     },
     {
       "id": 10001,
@@ -15371,7 +15428,48 @@
         "source_sha256": "081939dc63e87838813ac5be8838a0ca63abdc2668dac1fa26e651950fa63de7",
         "decoder": "Client-compatible XXTEA static image decoder"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "variants": {
+        "none": {
+          "path": "media/furniture-zakka/gd_1_1.png",
+          "file_size": 11845,
+          "sha256": "bd3a8e9a2ece88457f10770581027277e73cffa08dc155a758ecd888b2d4ed8e",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_1_1_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_1_1.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "4749ae6aec49af5667db077065c8e31e9912cd9af92dd41208ca19c90f485123",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "have": {
+          "path": "media/furniture-zakka/gd_1_2.png",
+          "file_size": 12936,
+          "sha256": "378621e82024d668cfead4993dec1672e2a83fc9ff4be880716ea69affc358ae",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_1_2_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_1_2.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "e649b326772d048e3efe7b2e20eec578a5be041198a071d96874e67e02439db8",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "full": {
+          "path": "media/furniture-zakka/gd_1_3.png",
+          "file_size": 16430,
+          "sha256": "29fafce81ee285bd1e638bd34792930a71ee040733587ed8990a166f792b55d9",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_1_3_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_1_3.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "081939dc63e87838813ac5be8838a0ca63abdc2668dac1fa26e651950fa63de7",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        }
+      }
     },
     {
       "id": 22011,
@@ -15391,7 +15489,48 @@
         "source_sha256": "859adb10ecd681baa3d49e76cbbe10a4750e1068c12fb276ff467d899178e2b6",
         "decoder": "Client-compatible XXTEA static image decoder"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "variants": {
+        "none": {
+          "path": "media/furniture-zakka/gd_11_1.png",
+          "file_size": 17078,
+          "sha256": "ce0aaba6bc6423d2d717cdec13ca3b9af25bfde758eca759851be3274d4063cf",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_11_1_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_11_1.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "599b79ffc1e29e253e6b75e6e9d3f0b7170e3d665dd26284e77b18d31b51f4a7",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "have": {
+          "path": "media/furniture-zakka/gd_11_2.png",
+          "file_size": 18023,
+          "sha256": "33d1f082c086a6d13ea377140bacb143e9b182dca018900b31c017874d9e9d8c",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_11_2_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_11_2.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "79b0c05c8d490bb9161c6b0a32511817d8b13a36d4ac6a5b559d4363bf605e35",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "full": {
+          "path": "media/furniture-zakka/gd_11_3.png",
+          "file_size": 20113,
+          "sha256": "e51ff3c12055c5612746e71787168df6fce828effc68edf6fdbe242314589c18",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_11_3_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_11_3.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "859adb10ecd681baa3d49e76cbbe10a4750e1068c12fb276ff467d899178e2b6",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        }
+      }
     },
     {
       "id": 22012,
@@ -15411,7 +15550,48 @@
         "source_sha256": "9a858db0d577743d5725a0a547180735306e0311434aad1738abdb6e5be54229",
         "decoder": "Client-compatible XXTEA static image decoder"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "variants": {
+        "none": {
+          "path": "media/furniture-zakka/gd_12_1.png",
+          "file_size": 18051,
+          "sha256": "a860ab04d2c0291d54ad53209ef7e208793659f171d2bce1139627f1db652ea2",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_12_1_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_12_1.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "eb08b6eebce2b89188138bab8bcc072444bf04a5ea89c169ef68a1c5794005b3",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "have": {
+          "path": "media/furniture-zakka/gd_12_2.png",
+          "file_size": 18902,
+          "sha256": "f6c46abd71f7e0cfa4189f0914ef54e063730b0dad3501a7708be6621adad38b",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_12_2_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_12_2.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "8f1666ef72538ed300c3ac150b312c9823105941c6d2649902ed0565c62d4197",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "full": {
+          "path": "media/furniture-zakka/gd_12_3.png",
+          "file_size": 20051,
+          "sha256": "96a6700bbefb34e079cbe851632685cfe03a36b90c6fb2172d0ae8b222b902e9",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_12_3_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_12_3.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "9a858db0d577743d5725a0a547180735306e0311434aad1738abdb6e5be54229",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        }
+      }
     },
     {
       "id": 22013,
@@ -15431,7 +15611,48 @@
         "source_sha256": "38f0162e46a1b5fe0959b5eb141498fa04033eba4f5997ce756141e2f6682914",
         "decoder": "Client-compatible XXTEA static image decoder"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "variants": {
+        "none": {
+          "path": "media/furniture-zakka/gd_13_1.png",
+          "file_size": 17942,
+          "sha256": "da5e826cc3b1a3ce1f472ce037b100a74d11b758aaff17b06b5912c2e6c9694b",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_13_1_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_13_1.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "1a6d69459b9592be6590848e24f775a6eab5f93860d3c76c685609636379ba86",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "have": {
+          "path": "media/furniture-zakka/gd_13_2.png",
+          "file_size": 18865,
+          "sha256": "9bf79d985c2ab2d752ad870e952f949862e0e4a15bf1b95e5d946ccb6080b2a3",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_13_2_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_13_2.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "8d7e81bd5ad9d89a47dabedb463b8851bf0c7092eb554d35d83a15a1f81dff5f",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "full": {
+          "path": "media/furniture-zakka/gd_13_3.png",
+          "file_size": 19887,
+          "sha256": "1bd3cdf259283702d367b7b62f3cac8f5b78287aaef9b105add2d494a14a517f",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_13_3_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_13_3.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "38f0162e46a1b5fe0959b5eb141498fa04033eba4f5997ce756141e2f6682914",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        }
+      }
     },
     {
       "id": 22021,
@@ -15451,7 +15672,48 @@
         "source_sha256": "da767cfcb2ce623c1d8bc7754e64d2507f9181a2a42e73913e05b53ef936e5ea",
         "decoder": "Client-compatible XXTEA static image decoder"
       },
-      "ownership": "not_obtained"
+      "ownership": "not_obtained",
+      "variants": {
+        "none": {
+          "path": "media/furniture-zakka/gd_21_1.png",
+          "file_size": 15208,
+          "sha256": "6c18b40b276b0eebd7729151bc49a8a3ea61ad283330dccf809f41a9428f3821",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_21_1_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_21_1.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "661fe75ab698b4c77906078d213b3cbb777c3203de50419f11465ceeabb3fb93",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "have": {
+          "path": "media/furniture-zakka/gd_21_2.png",
+          "file_size": 16090,
+          "sha256": "a2fd3e5f3636bcb513c47cf3dc95efc0c50d96a71cf6900921e22ce5c41d4930",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_21_2_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_21_2.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "a407a11e0f6e229678d1b36e35177448e5912c6d7db3ba7db280f0d8e1e6ae65",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "full": {
+          "path": "media/furniture-zakka/gd_21_3.png",
+          "file_size": 16648,
+          "sha256": "2df55a76fec3906c526b8f8253357522d4433db13dd24648c2e781cabbd0e5ce",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_21_3_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_21_3.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "da767cfcb2ce623c1d8bc7754e64d2507f9181a2a42e73913e05b53ef936e5ea",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        }
+      }
     },
     {
       "id": 22031,
@@ -15471,7 +15733,48 @@
         "source_sha256": "c696b984b82d4716450d97208e5f41ef52c438288555b0b3b19a49392acd269c",
         "decoder": "Client-compatible XXTEA static image decoder"
       },
-      "ownership": "not_obtained"
+      "ownership": "not_obtained",
+      "variants": {
+        "none": {
+          "path": "media/furniture-zakka/gd_31_1.png",
+          "file_size": 13539,
+          "sha256": "cfc06d22ab8d4cd9afe5748de33c53b1300fcdcedf06ce2a4d832c9ddc9ec1f7",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_31_1_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_31_1.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "e86983756db3b90ba10908429c7d4f85c8902079f6581e63c55ccb1a9f376ff4",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "have": {
+          "path": "media/furniture-zakka/gd_31_2.png",
+          "file_size": 14662,
+          "sha256": "2401bd69d068f6dcb5276f63060d510aeaeae2fa82b2d349265282d9cbfb0130",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_31_2_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_31_2.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "51ce9461aef99c0c67517ddf0c8764140869e6cd735e3fdd8bbf04c912887287",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "full": {
+          "path": "media/furniture-zakka/gd_31_3.png",
+          "file_size": 15878,
+          "sha256": "8d367bc341abcb20dfe6710eeec2e853fb600160bc385bdfaaafba50936acfb1",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_31_3_png",
+          "source_kind": "bundled_apk",
+          "source_member": "assets/game/resource/China/images/Scene/Zakka/Pocket/gd_31_3.png",
+          "resource_version": "APK 1.0.20",
+          "source_sha256": "c696b984b82d4716450d97208e5f41ef52c438288555b0b3b19a49392acd269c",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        }
+      }
     },
     {
       "id": 22041,
@@ -15491,7 +15794,48 @@
         "source_sha256": "ef1ca54814976fdcf8976ef4c62287f1dc559e8784e3a7f0d0091f21e9286158",
         "decoder": "Client-compatible XXTEA static image decoder"
       },
-      "ownership": "obtained"
+      "ownership": "obtained",
+      "variants": {
+        "none": {
+          "path": "media/furniture-zakka/gd_41_1.png",
+          "file_size": 14435,
+          "sha256": "7783658b493d5a2f6a2d80d10e2baf332dfa1bd820d6e76d4a93894d1b7d6a37",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_41_1_png",
+          "source_kind": "hot_update_cache",
+          "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Zakka/Pocket/gd_41_1.png#/5ef95f5ae29771f12803ed8a3b89344e",
+          "resource_version": 1073,
+          "source_sha256": "35f0ddc73c553e8d083c420c82e142ed41497e626fe1db7f6c6d9a36973b4f74",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "have": {
+          "path": "media/furniture-zakka/gd_41_2.png",
+          "file_size": 16054,
+          "sha256": "3e42ee6dc3487923a913115f114675754d1c8851d941d568a030999a41f1079b",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_41_2_png",
+          "source_kind": "hot_update_cache",
+          "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Zakka/Pocket/gd_41_2.png#/68460dda68ef77b0a10bb46bb82138f0",
+          "resource_version": 1073,
+          "source_sha256": "ea4e469a5c44f1f9223c51cf4d43ca837f6f43f9ee70636acdc069f4c453e7d8",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        },
+        "full": {
+          "path": "media/furniture-zakka/gd_41_3.png",
+          "file_size": 16523,
+          "sha256": "6a1dbcf6f4c9ea1c94e5e815e7dda814350855a5deae67a2bc66803d89eca512",
+          "width": 250,
+          "height": 250,
+          "resource_key": "gd_41_3_png",
+          "source_kind": "hot_update_cache",
+          "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/Zakka/Pocket/gd_41_3.png#/6058c198596d8e5e4432721c48c3c235",
+          "resource_version": 1073,
+          "source_sha256": "ef1ca54814976fdcf8976ef4c62287f1dc559e8784e3a7f0d0091f21e9286158",
+          "decoder": "Client-compatible XXTEA static image decoder"
+        }
+      }
     },
     {
       "id": 23001,
@@ -22116,6 +22460,178 @@
             "z": 26000
           }
         ]
+      },
+      "hour_names": {
+        "1": "白天",
+        "2": "傍晚",
+        "3": "夜晚",
+        "4": "深夜"
+      },
+      "window_backgrounds": {
+        "day": [
+          {
+            "image": {
+              "path": "media/furniture-house/mainin_ch_bt1.png",
+              "file_size": 13671,
+              "sha256": "235f5b2aa1dc4598e1d20ab9c949e5fe8036c905ed159c5005541ed5e1349822",
+              "width": 202,
+              "height": 198,
+              "resource_key": "mainin_ch_bt1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/images/Scene/Furniture/mainin_ch_bt1.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": 124,
+            "vertical_center": -463,
+            "z": 3999
+          },
+          {
+            "image": {
+              "path": "media/furniture-house/mainin_ch_bt2.png",
+              "file_size": 8646,
+              "sha256": "ceace8a60813b7728fe7b3f54cece540f63d1e689cb7d7d4e1384a16004c0043",
+              "width": 180,
+              "height": 180,
+              "resource_key": "mainin_ch_bt2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/images/Scene/Furniture/mainin_ch_bt2.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": -244,
+            "vertical_center": -80,
+            "z": 3999
+          }
+        ],
+        "night": [
+          {
+            "image": {
+              "path": "media/furniture-house/mainin_ch_hy1.png",
+              "file_size": 16654,
+              "sha256": "e56529c17f00eb15d4d8779ac313d593b0f584ead914d0d721c1a7d7c7a73d81",
+              "width": 202,
+              "height": 198,
+              "resource_key": "mainin_ch_hy1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/images/Scene/Furniture/mainin_ch_hy1.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": 124,
+            "vertical_center": -463,
+            "z": 3999
+          },
+          {
+            "image": {
+              "path": "media/furniture-house/mainin_ch_hy2.png",
+              "file_size": 14193,
+              "sha256": "90a6d310be4440238c082c8bcbaa76edc9affa1ec98c368f42694e8d3a0ea405",
+              "width": 180,
+              "height": 180,
+              "resource_key": "mainin_ch_hy2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/images/Scene/Furniture/mainin_ch_hy2.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": -244,
+            "vertical_center": -80,
+            "z": 3999
+          }
+        ]
+      },
+      "night": {
+        "default_color_matrix": [
+          0.8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.8,
+          0,
+          8,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "light_color_matrix": [
+          0.8,
+          0,
+          0,
+          0,
+          20,
+          0,
+          0.8,
+          0,
+          0,
+          10,
+          0,
+          0,
+          0.8,
+          0,
+          9,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "shadow": {
+          "image": {
+            "path": "media/furniture-house/mainin_mask_night_shadow.png",
+            "file_size": 250547,
+            "sha256": "2a53297506942b1d65cef864ac4078d91d714a434c6bee30e17fce3a3ea817b2",
+            "width": 854,
+            "height": 1420,
+            "resource_key": "mainin_mask_night_shadow_png",
+            "source_kind": "bundled_apk",
+            "source_member": "assets/game/resource/China/images/Back/Mainin/mainin_mask_night_shadow.png",
+            "resource_version": "APK 1.0.20"
+          },
+          "horizontal_center": 0,
+          "vertical_center": 0
+        },
+        "lights": [
+          {
+            "slot": 1,
+            "image": {
+              "path": "media/furniture-house/mainin_mask_night_light_1.png",
+              "file_size": 125161,
+              "sha256": "fc37e766bfe844577b5c84d80d4be5278cd155f1899154c06d32657ee07055af",
+              "width": 552,
+              "height": 436,
+              "resource_key": "mainin_mask_night_light_1_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/images/Back/Mainin/mainin_mask_night_light_1.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": 189,
+            "vertical_center": 572
+          },
+          {
+            "slot": 2,
+            "image": {
+              "path": "media/furniture-house/mainin_mask_night_light_2.png",
+              "file_size": 265990,
+              "sha256": "ea40ab4e7fdc1aabcc13c4ab5f324d47f549ef0099d7a61a4a4dc20f6debccd7",
+              "width": 782,
+              "height": 876,
+              "resource_key": "mainin_mask_night_light_2_png",
+              "source_kind": "bundled_apk",
+              "source_member": "assets/game/resource/China/images/Back/Mainin/mainin_mask_night_light_2.png",
+              "resource_version": "APK 1.0.20"
+            },
+            "horizontal_center": -17,
+            "vertical_center": 166
+          }
+        ],
+        "source": "MainInView.updateSeason_updateLight_and_MainIn_theme"
       },
       "vase": {
         "flowers": [
