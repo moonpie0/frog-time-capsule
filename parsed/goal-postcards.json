@@ -8,7 +8,10 @@
   "normal_category_count": 19,
   "normal_scene_count": 39,
   "normal_asset_count": 256,
-  "postcard_count": 780,
+  "tool_category_count": 7,
+  "tool_postcard_count": 88,
+  "tool_source_asset_count": 94,
+  "postcard_count": 868,
   "fixed_location_count": 4,
   "coordinate_rule": {
     "origin": "canvas center",
@@ -19548,6 +19551,6269 @@
     }
   },
   "normal_coordinate_note": "常规照片最终图层坐标由服务器随照片返回；静态配置只含角色坐标。生成器使用原始图层和代表性随机取景，不冒充账号实际照片。",
+  "tool_categories": [
+    {
+      "key": "p_wet",
+      "name": "纸伞 · 雨中",
+      "order": 0,
+      "postcard_count": 8,
+      "pose_count": 4,
+      "associated_item_ids": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    {
+      "key": "p_fuza",
+      "name": "睡垫 · 蘑菇下",
+      "order": 1,
+      "postcard_count": 8,
+      "pose_count": 4,
+      "associated_item_ids": [
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "key": "p_dry",
+      "name": "水壶 · 饮水",
+      "order": 2,
+      "postcard_count": 8,
+      "pose_count": 4,
+      "associated_item_ids": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "key": "p_town",
+      "name": "围巾 · 公园",
+      "order": 3,
+      "postcard_count": 16,
+      "pose_count": 4,
+      "associated_item_ids": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "p_town1",
+      "name": "围巾 · 婚纱店",
+      "order": 4,
+      "postcard_count": 16,
+      "pose_count": 4,
+      "associated_item_ids": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "p_town2",
+      "name": "围巾 · 橱窗",
+      "order": 5,
+      "postcard_count": 16,
+      "pose_count": 4,
+      "associated_item_ids": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "p_town3",
+      "name": "围巾 · 街道",
+      "order": 6,
+      "postcard_count": 16,
+      "pose_count": 4,
+      "associated_item_ids": [
+        2009,
+        2010,
+        2011
+      ]
+    }
+  ],
+  "tool_postcards": [
+    {
+      "kind": "tool",
+      "picture_id": 1000,
+      "internal_name": "wet",
+      "title": "纸伞 · 雨中 · 无纸伞（荷叶） · 青蛙单人",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无纸伞（荷叶）",
+      "tool_item_id": null,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_wet/1000_wet_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 165322,
+      "sha256": "3956353aa00ed2a9eab900145d47baf4a1724d99fe39e3db19b522d8e95cbfb9",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet0.png",
+          "top_left": [
+            222,
+            137
+          ],
+          "size": [
+            178,
+            134
+          ],
+          "sha256": "0e83f912c5f55fbb4886c0edc0323981a555bb9b7210602fcb511f93c8228313",
+          "config_position": {
+            "x": 61,
+            "y": -29
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet0_1.png",
+          "top_left": [
+            206,
+            99
+          ],
+          "size": [
+            148,
+            78
+          ],
+          "sha256": "17e39e54ba91c89d1768f144feb126744a30401ef4c8cff17f35d7f4b4164ec1",
+          "position_source": "依据用户提供的游戏参考图校准"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1000,
+      "internal_name": "wet",
+      "title": "纸伞 · 雨中 · 无纸伞（荷叶） · 青蛙 + 萤火虫",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无纸伞（荷叶）",
+      "tool_item_id": null,
+      "variant_order": 1,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_wet/1000_wet_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 176997,
+      "sha256": "7289f930d2056ebe615c9465619ecbaa62d4b3ca4e49a0635de03a4ff4142fdc",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet0.png",
+          "top_left": [
+            222,
+            137
+          ],
+          "size": [
+            178,
+            134
+          ],
+          "sha256": "0e83f912c5f55fbb4886c0edc0323981a555bb9b7210602fcb511f93c8228313",
+          "config_position": {
+            "x": 61,
+            "y": -29
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "wet_yhc.png",
+          "top_left": [
+            133,
+            116
+          ],
+          "size": [
+            256,
+            179
+          ],
+          "sha256": "8d77b95d93c89ba9acae5fcc30af17da902cee183c9d1745fedf06ac344bc31d",
+          "config_position": {
+            "x": 11,
+            "y": -30
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet0_1.png",
+          "top_left": [
+            206,
+            99
+          ],
+          "size": [
+            148,
+            78
+          ],
+          "sha256": "17e39e54ba91c89d1768f144feb126744a30401ef4c8cff17f35d7f4b4164ec1",
+          "position_source": "依据用户提供的游戏参考图校准"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1001,
+      "internal_name": "wet1",
+      "title": "纸伞 · 雨中 · 朴素纸伞 · 青蛙单人",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "朴素纸伞",
+      "tool_item_id": 2003,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_wet/1001_wet1_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 170878,
+      "sha256": "52b10f998e3fb10c01bd62598cf6d3c87158ce2470140473121ec6c3b50be91e",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet1.png",
+          "top_left": [
+            180,
+            80
+          ],
+          "size": [
+            211,
+            199
+          ],
+          "sha256": "b2999ad5c488f1e35408ec0cc82197f2e6ff9faee720aa1bf113292e86eed9fb",
+          "config_position": {
+            "x": 36,
+            "y": -5
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet1_1.png",
+          "top_left": [
+            180,
+            80
+          ],
+          "size": [
+            217,
+            83
+          ],
+          "sha256": "b7b7bc7124102cc65b9e769db2035d9a1b021614ed83bdc1273677bd8202126e"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1001,
+      "internal_name": "wet1",
+      "title": "纸伞 · 雨中 · 朴素纸伞 · 青蛙 + 萤火虫",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "朴素纸伞",
+      "tool_item_id": 2003,
+      "variant_order": 1,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_wet/1001_wet1_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 184181,
+      "sha256": "2d5531781a4c690461c52fba0ae8f6caab1e6f126b3b55a631a3a215c2e9e063",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet1.png",
+          "top_left": [
+            180,
+            80
+          ],
+          "size": [
+            211,
+            199
+          ],
+          "sha256": "b2999ad5c488f1e35408ec0cc82197f2e6ff9faee720aa1bf113292e86eed9fb",
+          "config_position": {
+            "x": 36,
+            "y": -5
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "wet_yhc.png",
+          "top_left": [
+            122,
+            112
+          ],
+          "size": [
+            256,
+            179
+          ],
+          "sha256": "8d77b95d93c89ba9acae5fcc30af17da902cee183c9d1745fedf06ac344bc31d",
+          "config_position": {
+            "x": 0,
+            "y": -27
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet1_1.png",
+          "top_left": [
+            180,
+            80
+          ],
+          "size": [
+            217,
+            83
+          ],
+          "sha256": "b7b7bc7124102cc65b9e769db2035d9a1b021614ed83bdc1273677bd8202126e"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1002,
+      "internal_name": "wet2",
+      "title": "纸伞 · 雨中 · 自然纸伞 · 青蛙单人",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "自然纸伞",
+      "tool_item_id": 2004,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_wet/1002_wet2_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 178483,
+      "sha256": "738e61712348a15bc452c4c262e44f9951cd9ee8c4ae935df8058c5e9882d4a6",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet2.png",
+          "top_left": [
+            178,
+            80
+          ],
+          "size": [
+            211,
+            199
+          ],
+          "sha256": "c38e7949eac6adc90a96db8e1c8049e626d1bfd57b6cd493b8e7ce5c3ec50bf1",
+          "config_position": {
+            "x": 34,
+            "y": -4
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet2_1.png",
+          "top_left": [
+            178,
+            80
+          ],
+          "size": [
+            218,
+            193
+          ],
+          "sha256": "3267bae43a6d6ea8ff54d38333109656181a314d3d08de748de6b3e4897dca3d"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1002,
+      "internal_name": "wet2",
+      "title": "纸伞 · 雨中 · 自然纸伞 · 青蛙 + 萤火虫",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "自然纸伞",
+      "tool_item_id": 2004,
+      "variant_order": 1,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_wet/1002_wet2_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 190306,
+      "sha256": "7456c0941f8bb218715086a3f34b97b98081fc158ca63ec112cfde5eae9b1a0c",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet2.png",
+          "top_left": [
+            178,
+            80
+          ],
+          "size": [
+            211,
+            199
+          ],
+          "sha256": "c38e7949eac6adc90a96db8e1c8049e626d1bfd57b6cd493b8e7ce5c3ec50bf1",
+          "config_position": {
+            "x": 34,
+            "y": -4
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "wet_yhc.png",
+          "top_left": [
+            122,
+            112
+          ],
+          "size": [
+            256,
+            179
+          ],
+          "sha256": "8d77b95d93c89ba9acae5fcc30af17da902cee183c9d1745fedf06ac344bc31d",
+          "config_position": {
+            "x": 0,
+            "y": -27
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet2_1.png",
+          "top_left": [
+            178,
+            80
+          ],
+          "size": [
+            218,
+            193
+          ],
+          "sha256": "3267bae43a6d6ea8ff54d38333109656181a314d3d08de748de6b3e4897dca3d"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1003,
+      "internal_name": "wet3",
+      "title": "纸伞 · 雨中 · 水墨纸伞 · 青蛙单人",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "水墨纸伞",
+      "tool_item_id": 2005,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_wet/1003_wet3_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 174654,
+      "sha256": "64c48eafa7a47657f3b3a9e044ee2cb454144a2eccb951ce6549d7a9450de8bd",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet3.png",
+          "top_left": [
+            174,
+            98
+          ],
+          "size": [
+            215,
+            181
+          ],
+          "sha256": "95eb0cf2bf5ea005d55dd3b0a2e379d8a2f6795fd7eafb3c625f027eb8cbd0c5",
+          "config_position": {
+            "x": 31,
+            "y": -14
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet3_1.png",
+          "top_left": [
+            174,
+            98
+          ],
+          "size": [
+            217,
+            80
+          ],
+          "sha256": "5483393c61573d50977d180aaba098df6098a77708ebb1e360bddd782814b3ab"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1003,
+      "internal_name": "wet3",
+      "title": "纸伞 · 雨中 · 水墨纸伞 · 青蛙 + 萤火虫",
+      "category_key": "p_wet",
+      "category_name": "纸伞 · 雨中",
+      "category_order": 0,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "水墨纸伞",
+      "tool_item_id": 2005,
+      "variant_order": 1,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_wet/1003_wet3_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 186764,
+      "sha256": "319499e2b54eceeaecb1ae553c314a6ede04e9c422ac4da4f58a0222e11d37d9",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "wet_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "43243e86a36955c4bf878aa9b43deb679bf7c188bc74469b68999d2b53aa34d1"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "wet3.png",
+          "top_left": [
+            174,
+            98
+          ],
+          "size": [
+            215,
+            181
+          ],
+          "sha256": "95eb0cf2bf5ea005d55dd3b0a2e379d8a2f6795fd7eafb3c625f027eb8cbd0c5",
+          "config_position": {
+            "x": 31,
+            "y": -14
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "wet_yhc.png",
+          "top_left": [
+            122,
+            112
+          ],
+          "size": [
+            256,
+            179
+          ],
+          "sha256": "8d77b95d93c89ba9acae5fcc30af17da902cee183c9d1745fedf06ac344bc31d",
+          "config_position": {
+            "x": 0,
+            "y": -27
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "wet3_1.png",
+          "top_left": [
+            174,
+            98
+          ],
+          "size": [
+            217,
+            80
+          ],
+          "sha256": "5483393c61573d50977d180aaba098df6098a77708ebb1e360bddd782814b3ab"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1004,
+      "internal_name": "fuza",
+      "title": "睡垫 · 蘑菇下 · 无睡垫 · 青蛙单人",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无睡垫",
+      "tool_item_id": null,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_fuza/1004_fuza_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204882,
+      "sha256": "1cf0e08b4db9129eebebe094fa7e0d282c81b5bc704bc3fb144b97ddc6ec46dd",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza0.png",
+          "top_left": [
+            29,
+            44
+          ],
+          "size": [
+            494,
+            329
+          ],
+          "sha256": "622d70e7838ed1c508baf6a5e6f36d067847077e507eaa1d47cd46225818a48c",
+          "config_position": {
+            "x": 26,
+            "y": -34
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1004,
+      "internal_name": "fuza",
+      "title": "睡垫 · 蘑菇下 · 无睡垫 · 青蛙 + 壁虎",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无睡垫",
+      "tool_item_id": null,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_fuza/1004_fuza_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 213184,
+      "sha256": "ff23575903253c986272ab1018ede2b89a827f2340e71c5cfb447f69f786951c",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza0.png",
+          "top_left": [
+            29,
+            44
+          ],
+          "size": [
+            494,
+            329
+          ],
+          "sha256": "622d70e7838ed1c508baf6a5e6f36d067847077e507eaa1d47cd46225818a48c",
+          "config_position": {
+            "x": 26,
+            "y": -34
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "fuza_bh.png",
+          "top_left": [
+            41,
+            119
+          ],
+          "size": [
+            188,
+            202
+          ],
+          "sha256": "ff5bdc2151d80313c44a97837cbd2f478678887f6f366dab7a746c3764349f59",
+          "config_position": {
+            "x": -115,
+            "y": -45
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1005,
+      "internal_name": "fuza1",
+      "title": "睡垫 · 蘑菇下 · 简易睡垫 · 青蛙单人",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "简易睡垫",
+      "tool_item_id": 2006,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_fuza/1005_fuza1_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 206555,
+      "sha256": "ab486a66cc7b1899f90b1d7ea89bc5aed129391a45b157f07e3181f6a4900f35",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza1.png",
+          "top_left": [
+            37,
+            162
+          ],
+          "size": [
+            426,
+            152
+          ],
+          "sha256": "63e1a25c9d298df2d938f5af2eeb04ee280019ff327b3681a55f2e269b56dbec",
+          "config_position": {
+            "x": 0,
+            "y": -63
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1005,
+      "internal_name": "fuza1",
+      "title": "睡垫 · 蘑菇下 · 简易睡垫 · 青蛙 + 壁虎",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "简易睡垫",
+      "tool_item_id": 2006,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_fuza/1005_fuza1_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 216759,
+      "sha256": "fa3a9363ddd138c5c7a45e6d7dea616de02adf85684a89e366110e15ec8b1f8b",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza1.png",
+          "top_left": [
+            37,
+            162
+          ],
+          "size": [
+            426,
+            152
+          ],
+          "sha256": "63e1a25c9d298df2d938f5af2eeb04ee280019ff327b3681a55f2e269b56dbec",
+          "config_position": {
+            "x": 0,
+            "y": -63
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "fuza_bh.png",
+          "top_left": [
+            18,
+            135
+          ],
+          "size": [
+            188,
+            202
+          ],
+          "sha256": "ff5bdc2151d80313c44a97837cbd2f478678887f6f366dab7a746c3764349f59",
+          "config_position": {
+            "x": -138,
+            "y": -61
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1006,
+      "internal_name": "fuza2",
+      "title": "睡垫 · 蘑菇下 · 时尚睡垫 · 青蛙单人",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "时尚睡垫",
+      "tool_item_id": 2007,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_fuza/1006_fuza2_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 207743,
+      "sha256": "0446ab8a76a282bcd4cfcf4d21a33f122d8814573a4bd8b45b3d2f360e87a22b",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza2.png",
+          "top_left": [
+            4,
+            158
+          ],
+          "size": [
+            491,
+            159
+          ],
+          "sha256": "b2591026e0f29e98388ad07feda6b97f097a43b54d4e76cd9e85f85b6b975c97",
+          "config_position": {
+            "x": 0,
+            "y": -63
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1006,
+      "internal_name": "fuza2",
+      "title": "睡垫 · 蘑菇下 · 时尚睡垫 · 青蛙 + 壁虎",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "时尚睡垫",
+      "tool_item_id": 2007,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_fuza/1006_fuza2_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 216774,
+      "sha256": "178e35bde7e3533b59bf1cc9127b5f380a2afbabc6e0b33626fadc8050336472",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza2.png",
+          "top_left": [
+            4,
+            158
+          ],
+          "size": [
+            491,
+            159
+          ],
+          "sha256": "b2591026e0f29e98388ad07feda6b97f097a43b54d4e76cd9e85f85b6b975c97",
+          "config_position": {
+            "x": 0,
+            "y": -63
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "fuza_bh.png",
+          "top_left": [
+            18,
+            135
+          ],
+          "size": [
+            188,
+            202
+          ],
+          "sha256": "ff5bdc2151d80313c44a97837cbd2f478678887f6f366dab7a746c3764349f59",
+          "config_position": {
+            "x": -138,
+            "y": -61
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1007,
+      "internal_name": "fuza3",
+      "title": "睡垫 · 蘑菇下 · 高级睡垫 · 青蛙单人",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "高级睡垫",
+      "tool_item_id": 2008,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_fuza/1007_fuza3_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 207763,
+      "sha256": "17cfa53c0d99d773e65c84fd6b7d3b78e2cdd0cb3d14976430cc459f2b13ca27",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza3.png",
+          "top_left": [
+            22,
+            154
+          ],
+          "size": [
+            456,
+            168
+          ],
+          "sha256": "7d67cac42758572aead8a1438d20daed07bfbaefdef9f6a49aee1527eebe5b1b",
+          "config_position": {
+            "x": 0,
+            "y": -63
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1007,
+      "internal_name": "fuza3",
+      "title": "睡垫 · 蘑菇下 · 高级睡垫 · 青蛙 + 壁虎",
+      "category_key": "p_fuza",
+      "category_name": "睡垫 · 蘑菇下",
+      "category_order": 1,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "高级睡垫",
+      "tool_item_id": 2008,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_fuza/1007_fuza3_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 218603,
+      "sha256": "11d2b0eb9676d99d67a3b56e5fe6614065815c5a79f80f8a760a7a6160f611cc",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "fuza_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "c4869b6fc4174f932e73154598969a7a89df6a7f6b671e5b6ef4f893c0e76ebd"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "fuza3.png",
+          "top_left": [
+            22,
+            154
+          ],
+          "size": [
+            456,
+            168
+          ],
+          "sha256": "7d67cac42758572aead8a1438d20daed07bfbaefdef9f6a49aee1527eebe5b1b",
+          "config_position": {
+            "x": 0,
+            "y": -63
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "fuza_bh.png",
+          "top_left": [
+            18,
+            135
+          ],
+          "size": [
+            188,
+            202
+          ],
+          "sha256": "ff5bdc2151d80313c44a97837cbd2f478678887f6f366dab7a746c3764349f59",
+          "config_position": {
+            "x": -138,
+            "y": -61
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "fuza_fw1.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "b77c5d8823fb555cd7194e1fc447e9948c9d99b5094b08af215c6da2b52e0222"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1008,
+      "internal_name": "dry",
+      "title": "水壶 · 饮水 · 无水壶 · 青蛙单人",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无水壶",
+      "tool_item_id": null,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_dry/1008_dry_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 160192,
+      "sha256": "14a061dc01afddadf47b1adc3140cea661f7c17ee9a38a5f4c26b91ba0a2810b",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry0.png",
+          "top_left": [
+            92,
+            160
+          ],
+          "size": [
+            269,
+            159
+          ],
+          "sha256": "890004fe11e58d3a0eda9ceedb6eab3fa0081ff0a7c79451cc06f6be2dc96901",
+          "config_position": {
+            "x": -24,
+            "y": -65
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1008,
+      "internal_name": "dry",
+      "title": "水壶 · 饮水 · 无水壶 · 青蛙 + 刺猬",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无水壶",
+      "tool_item_id": null,
+      "variant_order": 1,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_dry/1008_dry_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 171165,
+      "sha256": "088319e70f7cdd7eb52bfeccf866a147f320386f92f2cfb3cd412db73d0b48f2",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry0.png",
+          "top_left": [
+            92,
+            160
+          ],
+          "size": [
+            269,
+            159
+          ],
+          "sha256": "890004fe11e58d3a0eda9ceedb6eab3fa0081ff0a7c79451cc06f6be2dc96901",
+          "config_position": {
+            "x": -24,
+            "y": -65
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dry_cw.png",
+          "top_left": [
+            274,
+            187
+          ],
+          "size": [
+            127,
+            148
+          ],
+          "sha256": "e36bb54387f3e157e796de47e32086c5d51ae832003de99ea31c61f3a889d687",
+          "config_position": {
+            "x": 87,
+            "y": -86
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1009,
+      "internal_name": "dry1",
+      "title": "水壶 · 饮水 · 竹筒 · 青蛙单人",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "竹筒",
+      "tool_item_id": 2000,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_dry/1009_dry1_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 162876,
+      "sha256": "0d4acdbd8bfedabb3de7f21ed883f20967bd418d10732e15fd306d74720a5d74",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry1.png",
+          "top_left": [
+            45,
+            122
+          ],
+          "size": [
+            336,
+            215
+          ],
+          "sha256": "dffdf79b67a3fee9da2016427e53fc7d19e241a2f42b5811d201cea5bcb5071b",
+          "config_position": {
+            "x": -37,
+            "y": -54
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1009,
+      "internal_name": "dry1",
+      "title": "水壶 · 饮水 · 竹筒 · 青蛙 + 刺猬",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "竹筒",
+      "tool_item_id": 2000,
+      "variant_order": 1,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_dry/1009_dry1_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 172789,
+      "sha256": "77ed45dc2990b6295fb3435786cba15c5c1ce9a439040d1605de9023d9ffb67e",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry1.png",
+          "top_left": [
+            55,
+            116
+          ],
+          "size": [
+            336,
+            215
+          ],
+          "sha256": "dffdf79b67a3fee9da2016427e53fc7d19e241a2f42b5811d201cea5bcb5071b",
+          "config_position": {
+            "x": -27,
+            "y": -49
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dry_cw.png",
+          "top_left": [
+            266,
+            186
+          ],
+          "size": [
+            127,
+            148
+          ],
+          "sha256": "e36bb54387f3e157e796de47e32086c5d51ae832003de99ea31c61f3a889d687",
+          "config_position": {
+            "x": 79,
+            "y": -85
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1010,
+      "internal_name": "dry2",
+      "title": "水壶 · 饮水 · 葫芦 · 青蛙单人",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "葫芦",
+      "tool_item_id": 2001,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_dry/1010_dry2_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 166495,
+      "sha256": "36f6320bbf0782eca181feacd5cbce483bda53d81d0b52d1c644a2995e391d2f",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry2.png",
+          "top_left": [
+            70,
+            172
+          ],
+          "size": [
+            320,
+            201
+          ],
+          "sha256": "9d3df42edcba0078142b31ef4c6cd6b87f79800045222507f89bd34469ce3cb6",
+          "config_position": {
+            "x": -20,
+            "y": -98
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1010,
+      "internal_name": "dry2",
+      "title": "水壶 · 饮水 · 葫芦 · 青蛙 + 刺猬",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "葫芦",
+      "tool_item_id": 2001,
+      "variant_order": 1,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_dry/1010_dry2_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 176343,
+      "sha256": "3ec942e5a9c2b0eb622e0d6a561ee8f9bbfbe69d59e80b007572470ec16d355c",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry2.png",
+          "top_left": [
+            65,
+            168
+          ],
+          "size": [
+            320,
+            201
+          ],
+          "sha256": "9d3df42edcba0078142b31ef4c6cd6b87f79800045222507f89bd34469ce3cb6",
+          "config_position": {
+            "x": -25,
+            "y": -93
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dry_cw.png",
+          "top_left": [
+            264,
+            190
+          ],
+          "size": [
+            127,
+            148
+          ],
+          "sha256": "e36bb54387f3e157e796de47e32086c5d51ae832003de99ea31c61f3a889d687",
+          "config_position": {
+            "x": 78,
+            "y": -89
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1011,
+      "internal_name": "dry3",
+      "title": "水壶 · 饮水 · 水壶 · 青蛙单人",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "水壶",
+      "tool_item_id": 2002,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_dry/1011_dry3_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 163814,
+      "sha256": "d94b0c55e82a11dec37ddab6d6a076253ac214005dedd511bde14152972d2029",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry3.png",
+          "top_left": [
+            72,
+            150
+          ],
+          "size": [
+            320,
+            201
+          ],
+          "sha256": "0f582767273d66eb2cffdaec06fba3c682a003937483683ad93c3b0d64a8d829",
+          "config_position": {
+            "x": -18,
+            "y": -76
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1011,
+      "internal_name": "dry3",
+      "title": "水壶 · 饮水 · 水壶 · 青蛙 + 刺猬",
+      "category_key": "p_dry",
+      "category_name": "水壶 · 饮水",
+      "category_order": 2,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "水壶",
+      "tool_item_id": 2002,
+      "variant_order": 1,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_dry/1011_dry3_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 173800,
+      "sha256": "8e4f0e8c09560c815b435e0b84dfa1a59f7299f1cfa9d097e96b6c3a0171910c",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dry_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f627171bee5d4b691a36e8e0b41f903c1dc8d23b9f89aee0c95e0bb6e3d7606c"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dry3.png",
+          "top_left": [
+            67,
+            150
+          ],
+          "size": [
+            320,
+            201
+          ],
+          "sha256": "0f582767273d66eb2cffdaec06fba3c682a003937483683ad93c3b0d64a8d829",
+          "config_position": {
+            "x": -23,
+            "y": -76
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dry_cw.png",
+          "top_left": [
+            264,
+            196
+          ],
+          "size": [
+            127,
+            148
+          ],
+          "sha256": "e36bb54387f3e157e796de47e32086c5d51ae832003de99ea31c61f3a889d687",
+          "config_position": {
+            "x": 78,
+            "y": -95
+          }
+        },
+        {
+          "role": "前景",
+          "source_asset": "dry_fw.png",
+          "top_left": [
+            258,
+            0
+          ],
+          "size": [
+            242,
+            219
+          ],
+          "sha256": "86ce439a4202050b8dd7b2433dc833c62ea80e19c8a9ff3c4bc981dad5fe87e7"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1012,
+      "internal_name": "Town",
+      "title": "围巾 · 公园 · 无围巾 · 青蛙单人",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town/1012_town_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 227845,
+      "sha256": "e8b00e01a670dc1d43a5a905d8731ba33f743c5b9a6337baeea29c033842b3cc",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_0_qw.png",
+          "top_left": [
+            168,
+            28
+          ],
+          "size": [
+            129,
+            72
+          ],
+          "sha256": "7db6db00b01be582f3ff9316243b7f6b8b8003f4e3cc30a24dc6d689e04f20b8",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1012,
+      "internal_name": "Town",
+      "title": "围巾 · 公园 · 无围巾 · 青蛙 + 壁虎",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town/1012_town_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 235039,
+      "sha256": "690c76ffc2cb2f7d1e821b0eec87504049a65c28820b1445b2d8055b89e23583",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_0_qw.png",
+          "top_left": [
+            168,
+            28
+          ],
+          "size": [
+            129,
+            72
+          ],
+          "sha256": "7db6db00b01be582f3ff9316243b7f6b8b8003f4e3cc30a24dc6d689e04f20b8",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "gy_0_bh.png",
+          "top_left": [
+            249,
+            208
+          ],
+          "size": [
+            146,
+            119
+          ],
+          "sha256": "ec70ea6e8d7ec4f4689a5241ccce4eec84fbe79eb05a0170ebcf1205b0c8fd82",
+          "config_position": {
+            "x": 72,
+            "y": -93
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1012,
+      "internal_name": "Town",
+      "title": "围巾 · 公园 · 无围巾 · 青蛙 + 刺猬",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town/1012_town_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 233123,
+      "sha256": "315fc52db87f1c51688e05fe54d014f723f2f77bba905aa0e529ee1ad24b703b",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_0_qw.png",
+          "top_left": [
+            168,
+            28
+          ],
+          "size": [
+            129,
+            72
+          ],
+          "sha256": "7db6db00b01be582f3ff9316243b7f6b8b8003f4e3cc30a24dc6d689e04f20b8",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "gy_0_cw.png",
+          "top_left": [
+            236,
+            186
+          ],
+          "size": [
+            104,
+            123
+          ],
+          "sha256": "349511054d4ac8edf9caa1d49e9fe897b35c0d6ad1f9316af95c26235e77d7b4",
+          "config_position": {
+            "x": 38,
+            "y": -72
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1012,
+      "internal_name": "Town",
+      "title": "围巾 · 公园 · 无围巾 · 青蛙 + 萤火虫",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town/1012_town_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 236237,
+      "sha256": "f9b31e3dc39dc4bcbde24277db7d65b4b986eec55f80d8a4ce99b09298eb70a9",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_0_qw.png",
+          "top_left": [
+            168,
+            28
+          ],
+          "size": [
+            129,
+            72
+          ],
+          "sha256": "7db6db00b01be582f3ff9316243b7f6b8b8003f4e3cc30a24dc6d689e04f20b8",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "gy_0_yhc.png",
+          "top_left": [
+            2,
+            36
+          ],
+          "size": [
+            126,
+            137
+          ],
+          "sha256": "b651a75fe849867f52fa100a71139bbca9745a2dc2cbf7d52f5bf992d383e262",
+          "config_position": {
+            "x": -185,
+            "y": 70
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1013,
+      "internal_name": "Town1",
+      "title": "围巾 · 公园 · 围巾~纯色~ · 青蛙单人",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town/1013_town1_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 226961,
+      "sha256": "5aeb9f4623464bc069f3574ffce240b280eb13b44193d3b5664e73c71c4480b9",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_1_qw.png",
+          "top_left": [
+            176,
+            30
+          ],
+          "size": [
+            113,
+            67
+          ],
+          "sha256": "eb0e6ab7232edd471b29329b4cc8ca7867b0738aca64fbf15587bc4dfcc7b84f",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1013,
+      "internal_name": "Town1",
+      "title": "围巾 · 公园 · 围巾~纯色~ · 青蛙 + 壁虎",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town/1013_town1_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 233590,
+      "sha256": "809e3546ce3e73a74e239ba5b90ef9982ba67dcd36b55c0ce9488134a4f71b23",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_1_qw.png",
+          "top_left": [
+            176,
+            30
+          ],
+          "size": [
+            113,
+            67
+          ],
+          "sha256": "eb0e6ab7232edd471b29329b4cc8ca7867b0738aca64fbf15587bc4dfcc7b84f",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "gy_1_bh.png",
+          "top_left": [
+            260,
+            226
+          ],
+          "size": [
+            123,
+            85
+          ],
+          "sha256": "38d7b9474d8e475460653f96a8a6a7cd0878cd8d757a0ec17d708aec8b01518b",
+          "config_position": {
+            "x": 72,
+            "y": -93
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1013,
+      "internal_name": "Town1",
+      "title": "围巾 · 公园 · 围巾~纯色~ · 青蛙 + 刺猬",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town/1013_town1_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 231382,
+      "sha256": "3ad583e29707e445bce4739ba82523f9bdfbdc4ec6c1fc2eb6e22aa05af7fdc6",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_1_qw.png",
+          "top_left": [
+            176,
+            30
+          ],
+          "size": [
+            113,
+            67
+          ],
+          "sha256": "eb0e6ab7232edd471b29329b4cc8ca7867b0738aca64fbf15587bc4dfcc7b84f",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "gy_1_cw.png",
+          "top_left": [
+            237,
+            186
+          ],
+          "size": [
+            102,
+            121
+          ],
+          "sha256": "f4e1367dbc32040efafde8ead27774e2e8c25b8973b918eeb775d08236ae58ac",
+          "config_position": {
+            "x": 38,
+            "y": -72
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1013,
+      "internal_name": "Town1",
+      "title": "围巾 · 公园 · 围巾~纯色~ · 青蛙 + 萤火虫",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town/1013_town1_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 233249,
+      "sha256": "8483750fa852679e55da7f8a8a90e340cd14d2dc46d2515aa5f9f0839f15f84d",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_1_qw.png",
+          "top_left": [
+            176,
+            30
+          ],
+          "size": [
+            113,
+            67
+          ],
+          "sha256": "eb0e6ab7232edd471b29329b4cc8ca7867b0738aca64fbf15587bc4dfcc7b84f",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "gy_1_yhc.png",
+          "top_left": [
+            -2,
+            30
+          ],
+          "size": [
+            131,
+            153
+          ],
+          "sha256": "3ed7831151b99f65e556339a7da749ad08b925a47df09c3586ecd30b22b0fbdd",
+          "config_position": {
+            "x": -186,
+            "y": 68
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1014,
+      "internal_name": "Town2",
+      "title": "围巾 · 公园 · 围巾~雪花~ · 青蛙单人",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town/1014_town2_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 227427,
+      "sha256": "3cceef8df9a5d4fe0b37c253577b60034ce05d104695bf9495eefa2ddceaee74",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_2_qw.png",
+          "top_left": [
+            174,
+            31
+          ],
+          "size": [
+            115,
+            66
+          ],
+          "sha256": "32f2565a3a59b5b94de290c9e6581103cfaca6c6c19d787efbe7750a9b5a203b",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1014,
+      "internal_name": "Town2",
+      "title": "围巾 · 公园 · 围巾~雪花~ · 青蛙 + 壁虎",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town/1014_town2_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 234634,
+      "sha256": "2fee1f55c5c66329dbc861dc39f4d193a2e5d1f4f2513f860e3dc3d2be7103a4",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_2_qw.png",
+          "top_left": [
+            174,
+            31
+          ],
+          "size": [
+            115,
+            66
+          ],
+          "sha256": "32f2565a3a59b5b94de290c9e6581103cfaca6c6c19d787efbe7750a9b5a203b",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "gy_2_bh.png",
+          "top_left": [
+            262,
+            226
+          ],
+          "size": [
+            121,
+            85
+          ],
+          "sha256": "faf37d39fa1943e69345e63d7fee78fbf4982eaa3f9f4621eb55fd9cbc545517",
+          "config_position": {
+            "x": 72,
+            "y": -93
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1014,
+      "internal_name": "Town2",
+      "title": "围巾 · 公园 · 围巾~雪花~ · 青蛙 + 刺猬",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town/1014_town2_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 232610,
+      "sha256": "0567cf4efd18a61e9bc181db0f9ddf1afa305beada47fba24662d1433ac72a53",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_2_qw.png",
+          "top_left": [
+            174,
+            31
+          ],
+          "size": [
+            115,
+            66
+          ],
+          "sha256": "32f2565a3a59b5b94de290c9e6581103cfaca6c6c19d787efbe7750a9b5a203b",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "gy_2_cw.png",
+          "top_left": [
+            236,
+            186
+          ],
+          "size": [
+            103,
+            122
+          ],
+          "sha256": "233708655fd502d30b9bdd595d2f3eaafad3df1c277d0d11e12fb77f656cf5f7",
+          "config_position": {
+            "x": 38,
+            "y": -72
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1014,
+      "internal_name": "Town2",
+      "title": "围巾 · 公园 · 围巾~雪花~ · 青蛙 + 萤火虫",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town/1014_town2_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 234855,
+      "sha256": "9305ef932e36c71554027f85fdb5e62eafe7e29f76184a2960cfc454d9e2ed6f",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_2_qw.png",
+          "top_left": [
+            174,
+            31
+          ],
+          "size": [
+            115,
+            66
+          ],
+          "sha256": "32f2565a3a59b5b94de290c9e6581103cfaca6c6c19d787efbe7750a9b5a203b",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "gy_2_yhc.png",
+          "top_left": [
+            4,
+            45
+          ],
+          "size": [
+            123,
+            126
+          ],
+          "sha256": "9cb4e32fbcb83623da8a5b2e571a24d57a6b30c93f79ca09ea8956e55703c52b",
+          "config_position": {
+            "x": -185,
+            "y": 67
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1015,
+      "internal_name": "Town3",
+      "title": "围巾 · 公园 · 围巾~云纹~ · 青蛙单人",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town/1015_town3_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 227383,
+      "sha256": "ce14fd8d055cd011dcb0b2792c6c30d5e4f3fdfdd22a03999416c57abc47809c",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_3_qw.png",
+          "top_left": [
+            175,
+            31
+          ],
+          "size": [
+            114,
+            66
+          ],
+          "sha256": "fe04ca3442055afae96609331ea2e1170da76983fc1184a498aa66fef2911ee1",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1015,
+      "internal_name": "Town3",
+      "title": "围巾 · 公园 · 围巾~云纹~ · 青蛙 + 壁虎",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town/1015_town3_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 234573,
+      "sha256": "424f95dc479e757e7c6eecfb8c3d5a4b9c3cac8c660a83ce758de60bab4e1c8f",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_3_qw.png",
+          "top_left": [
+            175,
+            31
+          ],
+          "size": [
+            114,
+            66
+          ],
+          "sha256": "fe04ca3442055afae96609331ea2e1170da76983fc1184a498aa66fef2911ee1",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "gy_3_bh.png",
+          "top_left": [
+            261,
+            226
+          ],
+          "size": [
+            122,
+            85
+          ],
+          "sha256": "56356b893714088fb4af5021ab005bc7632536c8120d6340f4dc69338651bf87",
+          "config_position": {
+            "x": 72,
+            "y": -93
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1015,
+      "internal_name": "Town3",
+      "title": "围巾 · 公园 · 围巾~云纹~ · 青蛙 + 刺猬",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town/1015_town3_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 232756,
+      "sha256": "1cb874356be84918855955949e7230cc701ee4036412f573d722197a6d3c3d03",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_3_qw.png",
+          "top_left": [
+            175,
+            31
+          ],
+          "size": [
+            114,
+            66
+          ],
+          "sha256": "fe04ca3442055afae96609331ea2e1170da76983fc1184a498aa66fef2911ee1",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "gy_3_cw.png",
+          "top_left": [
+            237,
+            189
+          ],
+          "size": [
+            102,
+            116
+          ],
+          "sha256": "356628ecc5d1d0b05f54e749e32f3f8d2ba59b61220c1505f2369ef86439a315",
+          "config_position": {
+            "x": 38,
+            "y": -72
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1015,
+      "internal_name": "Town3",
+      "title": "围巾 · 公园 · 围巾~云纹~ · 青蛙 + 萤火虫",
+      "category_key": "p_town",
+      "category_name": "围巾 · 公园",
+      "category_order": 3,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town/1015_town3_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 235272,
+      "sha256": "a6b0e25b9e669d6afb40582aa1a743746c99cb9e4532f64564c7fb7326670042",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "gy_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "928aaf00db9fc5aae77fcddd42db5af4ea974a2a8a16bcfa31b0ce1757318773"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "gy_3_qw.png",
+          "top_left": [
+            175,
+            31
+          ],
+          "size": [
+            114,
+            66
+          ],
+          "sha256": "fe04ca3442055afae96609331ea2e1170da76983fc1184a498aa66fef2911ee1",
+          "config_position": {
+            "x": -18,
+            "y": 111
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "gy_3_yhc.png",
+          "top_left": [
+            18,
+            38
+          ],
+          "size": [
+            123,
+            138
+          ],
+          "sha256": "661cf2365115280d4c8fa0a409b00a35f354bbd1a41859cd34c6769afcaa11f9",
+          "config_position": {
+            "x": -171,
+            "y": 68
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1016,
+      "internal_name": "Town1_0",
+      "title": "围巾 · 婚纱店 · 无围巾 · 青蛙单人",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town1/1016_town1_0_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 159402,
+      "sha256": "6f69a7e020ea32cc88177e677777b62f618b565da437c01c532dfa629a0aa9c6",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_0_qw.png",
+          "top_left": [
+            90,
+            198
+          ],
+          "size": [
+            92,
+            120
+          ],
+          "sha256": "6a528ce5101e1daaa08c0d59c011f5ef88eb3f63a25a8215714e5a4fdf062f31",
+          "config_position": {
+            "x": -114,
+            "y": -83
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1016,
+      "internal_name": "Town1_0",
+      "title": "围巾 · 婚纱店 · 无围巾 · 青蛙 + 壁虎",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town1/1016_town1_0_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 174139,
+      "sha256": "877257ebc32eee7ec6ee635a9d3e0a22a782e0ab4a964d06ce70fa1e00f94f20",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_0_qw.png",
+          "top_left": [
+            170,
+            199
+          ],
+          "size": [
+            92,
+            120
+          ],
+          "sha256": "6a528ce5101e1daaa08c0d59c011f5ef88eb3f63a25a8215714e5a4fdf062f31",
+          "config_position": {
+            "x": -34,
+            "y": -84
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "hunsha_0_bh.png",
+          "top_left": [
+            253,
+            212
+          ],
+          "size": [
+            170,
+            162
+          ],
+          "sha256": "8888a3172a2f5960d307f274add9cc7d0dc7d0a93e28b1eb32ad38fbc77290a4",
+          "config_position": {
+            "x": 88,
+            "y": -118
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1016,
+      "internal_name": "Town1_0",
+      "title": "围巾 · 婚纱店 · 无围巾 · 青蛙 + 刺猬",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town1/1016_town1_0_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 170150,
+      "sha256": "8318d562529bd67e95f400810c8683f58e6d540768e1e61629825cd31875e0cc",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_0_qw.png",
+          "top_left": [
+            170,
+            199
+          ],
+          "size": [
+            92,
+            120
+          ],
+          "sha256": "6a528ce5101e1daaa08c0d59c011f5ef88eb3f63a25a8215714e5a4fdf062f31",
+          "config_position": {
+            "x": -34,
+            "y": -84
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "hunsha_0_cw.png",
+          "top_left": [
+            265,
+            208
+          ],
+          "size": [
+            110,
+            121
+          ],
+          "sha256": "dbfa893c5414253d1614e9f535b36a0ecea299ac0ce02ceda48be95fd279e57c",
+          "config_position": {
+            "x": 70,
+            "y": -94
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1016,
+      "internal_name": "Town1_0",
+      "title": "围巾 · 婚纱店 · 无围巾 · 青蛙 + 萤火虫",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town1/1016_town1_0_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 173895,
+      "sha256": "961b75dc5a9877f278cfb50a1fa37ce4499d88f4ad73ebf444c7120e533605c5",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_0_qw.png",
+          "top_left": [
+            170,
+            199
+          ],
+          "size": [
+            92,
+            120
+          ],
+          "sha256": "6a528ce5101e1daaa08c0d59c011f5ef88eb3f63a25a8215714e5a4fdf062f31",
+          "config_position": {
+            "x": -34,
+            "y": -84
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "hunsha_0_yhc.png",
+          "top_left": [
+            256,
+            161
+          ],
+          "size": [
+            164,
+            168
+          ],
+          "sha256": "0bf9af830ab4c217d90e8c33676cf5be922baaaea86328e31fbd717310e5173d",
+          "config_position": {
+            "x": 88,
+            "y": -70
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1017,
+      "internal_name": "Town1_1",
+      "title": "围巾 · 婚纱店 · 围巾~纯色~ · 青蛙单人",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town1/1017_town1_1_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 157359,
+      "sha256": "8ac8f48713eb3e3ecc3b51e21919c722ac0e3fd5c3be3c34800539ea460e0bc7",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_1_qw.png",
+          "top_left": [
+            92,
+            236
+          ],
+          "size": [
+            92,
+            83
+          ],
+          "sha256": "a8a9c6640f7f9e5aac2e0b612c7187c2ee10535755e3ddf725bcfee15b3890c2",
+          "config_position": {
+            "x": -112,
+            "y": -102
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1017,
+      "internal_name": "Town1_1",
+      "title": "围巾 · 婚纱店 · 围巾~纯色~ · 青蛙 + 壁虎",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town1/1017_town1_1_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 168142,
+      "sha256": "2e9f68f388eab2dab0811dedf9fcb0950f8df8cbc2b7828b9c56083f0428f751",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_1_qw.png",
+          "top_left": [
+            169,
+            236
+          ],
+          "size": [
+            92,
+            83
+          ],
+          "sha256": "a8a9c6640f7f9e5aac2e0b612c7187c2ee10535755e3ddf725bcfee15b3890c2",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "hunsha_1_bh.png",
+          "top_left": [
+            269,
+            244
+          ],
+          "size": [
+            118,
+            119
+          ],
+          "sha256": "d519366a229a2c243273bde1fb589352a75a3e51c4dc849223047d53f6c7f50c",
+          "config_position": {
+            "x": 78,
+            "y": -128
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1017,
+      "internal_name": "Town1_1",
+      "title": "围巾 · 婚纱店 · 围巾~纯色~ · 青蛙 + 刺猬",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town1/1017_town1_1_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 165606,
+      "sha256": "b4eefab7d7b3bffa03f62bad25c3b8da212301fa8f8d165cd5bcc993e3ef4303",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_1_qw.png",
+          "top_left": [
+            169,
+            236
+          ],
+          "size": [
+            92,
+            83
+          ],
+          "sha256": "a8a9c6640f7f9e5aac2e0b612c7187c2ee10535755e3ddf725bcfee15b3890c2",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "hunsha_1_cw.png",
+          "top_left": [
+            274,
+            221
+          ],
+          "size": [
+            92,
+            104
+          ],
+          "sha256": "b19259a711dc19e28400ed5018ed36f916fe0080140bc40dd94e3f551257f79d",
+          "config_position": {
+            "x": 70,
+            "y": -98
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1017,
+      "internal_name": "Town1_1",
+      "title": "围巾 · 婚纱店 · 围巾~纯色~ · 青蛙 + 萤火虫",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town1/1017_town1_1_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 167268,
+      "sha256": "5296f7d1c89f57b374817c562530b5206f6d9812c16889917f5384b52f8a7c69",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_1_qw.png",
+          "top_left": [
+            169,
+            236
+          ],
+          "size": [
+            92,
+            83
+          ],
+          "sha256": "a8a9c6640f7f9e5aac2e0b612c7187c2ee10535755e3ddf725bcfee15b3890c2",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "hunsha_1_yhc.png",
+          "top_left": [
+            264,
+            144
+          ],
+          "size": [
+            145,
+            171
+          ],
+          "sha256": "3360b8adbe3bcee4973dbe5202981ba15c3cb0f985df72111c67e324269a9ea2",
+          "config_position": {
+            "x": 86,
+            "y": -55
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1018,
+      "internal_name": "Town1_2",
+      "title": "围巾 · 婚纱店 · 围巾~雪花~ · 青蛙单人",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town1/1018_town1_2_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 157393,
+      "sha256": "272a16a0eedb4b27a5ac7fb62ee1fb62b8dda482f23ce3e8ffc6809c8d33df79",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_2_qw.png",
+          "top_left": [
+            91,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "13a74084ae971cc11abe2eb35ebf47e4db4d95eec9ebde3ac3b5ef8be5a909c6",
+          "config_position": {
+            "x": -112,
+            "y": -102
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1018,
+      "internal_name": "Town1_2",
+      "title": "围巾 · 婚纱店 · 围巾~雪花~ · 青蛙 + 壁虎",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town1/1018_town1_2_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 168585,
+      "sha256": "99d27be413f449cedcda6cf133625c09bb2f6df196e1bfcba00b7fc7af9ee1ce",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_2_qw.png",
+          "top_left": [
+            168,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "13a74084ae971cc11abe2eb35ebf47e4db4d95eec9ebde3ac3b5ef8be5a909c6",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "hunsha_2_bh.png",
+          "top_left": [
+            258,
+            244
+          ],
+          "size": [
+            130,
+            120
+          ],
+          "sha256": "4504c452725df4d88894f6c6793b6b8094f9aabe242ed8f297794d4544ae5753",
+          "config_position": {
+            "x": 73,
+            "y": -129
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1018,
+      "internal_name": "Town1_2",
+      "title": "围巾 · 婚纱店 · 围巾~雪花~ · 青蛙 + 刺猬",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town1/1018_town1_2_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 165908,
+      "sha256": "b796faf96bce74c7765ac34a803c7ab295f2cbe120ccc908ed68d499b6cf2262",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_2_qw.png",
+          "top_left": [
+            168,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "13a74084ae971cc11abe2eb35ebf47e4db4d95eec9ebde3ac3b5ef8be5a909c6",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "hunsha_2_cw.png",
+          "top_left": [
+            274,
+            220
+          ],
+          "size": [
+            92,
+            105
+          ],
+          "sha256": "6bfaf900d521caefeed7d34525caf5b37df235ae3545d4f62ce7e53a4bf290b1",
+          "config_position": {
+            "x": 70,
+            "y": -98
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1018,
+      "internal_name": "Town1_2",
+      "title": "围巾 · 婚纱店 · 围巾~雪花~ · 青蛙 + 萤火虫",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town1/1018_town1_2_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 168230,
+      "sha256": "22407be3a7748b15f6e5897aee15732695ccd66da20bf68130d399302afe4fc5",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_2_qw.png",
+          "top_left": [
+            168,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "13a74084ae971cc11abe2eb35ebf47e4db4d95eec9ebde3ac3b5ef8be5a909c6",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "hunsha_2_yhc.png",
+          "top_left": [
+            264,
+            141
+          ],
+          "size": [
+            145,
+            178
+          ],
+          "sha256": "015a4ba90cd63813ac43cc5682250154f833f82eee73b27a33425a91786e3519",
+          "config_position": {
+            "x": 86,
+            "y": -55
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1019,
+      "internal_name": "Town1_3",
+      "title": "围巾 · 婚纱店 · 围巾~云纹~ · 青蛙单人",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town1/1019_town1_3_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 157118,
+      "sha256": "b749c75dc827f9398838a6ef0a8e6aa4eb66726cd50aca8b1b96242d0319bcd8",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_3_qw.png",
+          "top_left": [
+            91,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "36de889169edd0bac3d4ae51404984585ada3c6c7dc51276ccef51258be0ac38",
+          "config_position": {
+            "x": -112,
+            "y": -102
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1019,
+      "internal_name": "Town1_3",
+      "title": "围巾 · 婚纱店 · 围巾~云纹~ · 青蛙 + 壁虎",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town1/1019_town1_3_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 168455,
+      "sha256": "4bd1a703b5925997c75ec8d1331475fa1edc46e5f1af480aec5b29d628210edb",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_3_qw.png",
+          "top_left": [
+            168,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "36de889169edd0bac3d4ae51404984585ada3c6c7dc51276ccef51258be0ac38",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "hunsha_3_bh.png",
+          "top_left": [
+            269,
+            244
+          ],
+          "size": [
+            118,
+            119
+          ],
+          "sha256": "cf3c6e80dfeb8e0c817a9bb6675df37ee8b3d2e028e9ed5b23b1884889cbe00d",
+          "config_position": {
+            "x": 78,
+            "y": -128
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1019,
+      "internal_name": "Town1_3",
+      "title": "围巾 · 婚纱店 · 围巾~云纹~ · 青蛙 + 刺猬",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town1/1019_town1_3_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 166015,
+      "sha256": "80ad96c05644a7452cd2f109d5cf94074c9a033bbb931af125be78cca0b09f21",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_3_qw.png",
+          "top_left": [
+            168,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "36de889169edd0bac3d4ae51404984585ada3c6c7dc51276ccef51258be0ac38",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "hunsha_3_cw.png",
+          "top_left": [
+            274,
+            221
+          ],
+          "size": [
+            92,
+            104
+          ],
+          "sha256": "2ca301c9aa8ae8013636469cc3033025d2593358c87c72b0153b0d12056f2bdb",
+          "config_position": {
+            "x": 70,
+            "y": -98
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1019,
+      "internal_name": "Town1_3",
+      "title": "围巾 · 婚纱店 · 围巾~云纹~ · 青蛙 + 萤火虫",
+      "category_key": "p_town1",
+      "category_name": "围巾 · 婚纱店",
+      "category_order": 4,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town1/1019_town1_3_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 168110,
+      "sha256": "a354fb4a25d6b88758c5f596fa6b1ff32a81d064f0d6ff8a4a61cedd44a0d03d",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "hunsha_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "3ee5e30a7b9f5d79fda6f650af1acee8b8174f0d35639d433057ac8cdace7c6a"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "hunsha_3_qw.png",
+          "top_left": [
+            168,
+            235
+          ],
+          "size": [
+            94,
+            84
+          ],
+          "sha256": "36de889169edd0bac3d4ae51404984585ada3c6c7dc51276ccef51258be0ac38",
+          "config_position": {
+            "x": -35,
+            "y": -102
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "hunsha_3_yhc.png",
+          "top_left": [
+            263,
+            172
+          ],
+          "size": [
+            146,
+            148
+          ],
+          "sha256": "172fb98828cae84eda0f21ce9d984307353b549ae72823d404b7a2f299d4de70",
+          "config_position": {
+            "x": 86,
+            "y": -71
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1020,
+      "internal_name": "Town2_0",
+      "title": "围巾 · 橱窗 · 无围巾 · 青蛙单人",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town2/1020_town2_0_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 199325,
+      "sha256": "774ff1130b802113f31f0c28bb4dd9b211612aa40e8798386c1c0afcfc1e9e71",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_0_qw.png",
+          "top_left": [
+            230,
+            150
+          ],
+          "size": [
+            139,
+            97
+          ],
+          "sha256": "682323cf5185faeb42c9e78ee21099f70bdfb4aff05ecf7d1fa9a31dd57541c4",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1020,
+      "internal_name": "Town2_0",
+      "title": "围巾 · 橱窗 · 无围巾 · 青蛙 + 壁虎",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town2/1020_town2_0_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 209358,
+      "sha256": "cefc444360b28102b027d9053e03c4582ae50bae8a3b5f8541f729fa6f5f6ea9",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_0_qw.png",
+          "top_left": [
+            230,
+            150
+          ],
+          "size": [
+            139,
+            97
+          ],
+          "sha256": "682323cf5185faeb42c9e78ee21099f70bdfb4aff05ecf7d1fa9a31dd57541c4",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "jingmian_0_bh.png",
+          "top_left": [
+            132,
+            182
+          ],
+          "size": [
+            155,
+            97
+          ],
+          "sha256": "100902d083d16538d913354a2e3d3260094ee718b426b65d0ac8e28b2d5a3ed6",
+          "config_position": {
+            "x": -41,
+            "y": -55
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1020,
+      "internal_name": "Town2_0",
+      "title": "围巾 · 橱窗 · 无围巾 · 青蛙 + 刺猬",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town2/1020_town2_0_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204121,
+      "sha256": "cb6ed18840c94268d118ae70995e1c2a649b52d0759f576376e721bcebc23257",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_0_qw.png",
+          "top_left": [
+            230,
+            150
+          ],
+          "size": [
+            139,
+            97
+          ],
+          "sha256": "682323cf5185faeb42c9e78ee21099f70bdfb4aff05ecf7d1fa9a31dd57541c4",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "jingmian_0_cw.png",
+          "top_left": [
+            338,
+            94
+          ],
+          "size": [
+            134,
+            91
+          ],
+          "sha256": "bf41e242c122b157f2e56fce42a8c5243c057e4a8e7d715b177647a95c60d349",
+          "config_position": {
+            "x": 155,
+            "y": 36
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1020,
+      "internal_name": "Town2_0",
+      "title": "围巾 · 橱窗 · 无围巾 · 青蛙 + 萤火虫",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town2/1020_town2_0_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 213301,
+      "sha256": "fef9f3eda97f50d491054ad828df84a6b76c741fac5671472b980eac852d6946",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_0_qw.png",
+          "top_left": [
+            230,
+            150
+          ],
+          "size": [
+            139,
+            97
+          ],
+          "sha256": "682323cf5185faeb42c9e78ee21099f70bdfb4aff05ecf7d1fa9a31dd57541c4",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "jingmian_0_yhc.png",
+          "top_left": [
+            134,
+            30
+          ],
+          "size": [
+            232,
+            112
+          ],
+          "sha256": "3474f3ab2895e21cdbfe6676b5e1a99716d1e1eaaaf3b6dc615e35b16261e047",
+          "config_position": {
+            "x": 0,
+            "y": 89
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1021,
+      "internal_name": "Town2_1",
+      "title": "围巾 · 橱窗 · 围巾~纯色~ · 青蛙单人",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town2/1021_town2_1_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 199482,
+      "sha256": "09718c6d7c49b854a99c1869fe229243389d517930728ba65b4b0ae77df734a5",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_1_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "0be50ef268e84104191fa0090925188fa751e82d07d71b05b699ab8ce0819b28",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1021,
+      "internal_name": "Town2_1",
+      "title": "围巾 · 橱窗 · 围巾~纯色~ · 青蛙 + 壁虎",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town2/1021_town2_1_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 210269,
+      "sha256": "cf04ab769a593a04e976d947ee41a6b7a11731cb259282a6e6127f0b8a41b43e",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_1_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "0be50ef268e84104191fa0090925188fa751e82d07d71b05b699ab8ce0819b28",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "jingmian_1_bh.png",
+          "top_left": [
+            132,
+            181
+          ],
+          "size": [
+            155,
+            98
+          ],
+          "sha256": "0815f6fc6e2190766d0ec6d74738140900e66ec0e886f01c71966f36bdd4bcfa",
+          "config_position": {
+            "x": -41,
+            "y": -55
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1021,
+      "internal_name": "Town2_1",
+      "title": "围巾 · 橱窗 · 围巾~纯色~ · 青蛙 + 刺猬",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town2/1021_town2_1_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 205027,
+      "sha256": "9c8d125a1e5d81d7a8a1faff3f22f49346c92110d287c33ac3d92a314cf3de74",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_1_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "0be50ef268e84104191fa0090925188fa751e82d07d71b05b699ab8ce0819b28",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "jingmian_1_cw.png",
+          "top_left": [
+            338,
+            93
+          ],
+          "size": [
+            134,
+            92
+          ],
+          "sha256": "a7d6b9c4dd8773e952ad618dde79bb4e72c9bf9bc583b324803525b4390d2868",
+          "config_position": {
+            "x": 155,
+            "y": 36
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1021,
+      "internal_name": "Town2_1",
+      "title": "围巾 · 橱窗 · 围巾~纯色~ · 青蛙 + 萤火虫",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town2/1021_town2_1_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 214848,
+      "sha256": "40a68cc5fba20df6686839aeb22991ef9b8f42b998108f77dae8e2da5a867c72",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_1_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "0be50ef268e84104191fa0090925188fa751e82d07d71b05b699ab8ce0819b28",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "jingmian_1_yhc.png",
+          "top_left": [
+            133,
+            29
+          ],
+          "size": [
+            234,
+            114
+          ],
+          "sha256": "13c3bf2ccba954370bb819daf2897f986b49bb0aee39e2778320eca2e15de649",
+          "config_position": {
+            "x": 0,
+            "y": 89
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1022,
+      "internal_name": "Town2_2",
+      "title": "围巾 · 橱窗 · 围巾~雪花~ · 青蛙单人",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town2/1022_town2_2_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 200433,
+      "sha256": "f00bd6a96d25009b53182524d7454a7430d7b067db54d82bd4bcd9d8bc3392dd",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_2_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d15faaf8760ca60a6022dc90b23f3019f658bfc9b48b02759f7e41743c5db6af",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1022,
+      "internal_name": "Town2_2",
+      "title": "围巾 · 橱窗 · 围巾~雪花~ · 青蛙 + 壁虎",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town2/1022_town2_2_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 211677,
+      "sha256": "c2a037494f0749e310c2a29379c370329a3cd0ab4cbb9289612631bbd4304351",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_2_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d15faaf8760ca60a6022dc90b23f3019f658bfc9b48b02759f7e41743c5db6af",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "jingmian_2_bh.png",
+          "top_left": [
+            132,
+            181
+          ],
+          "size": [
+            155,
+            98
+          ],
+          "sha256": "438b071ca5fbc4d44dac6ca9c47b20e0ca86becf38103aa4da7fa7efea5b9c25",
+          "config_position": {
+            "x": -41,
+            "y": -55
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1022,
+      "internal_name": "Town2_2",
+      "title": "围巾 · 橱窗 · 围巾~雪花~ · 青蛙 + 刺猬",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town2/1022_town2_2_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 207034,
+      "sha256": "3a46143e8c582096474cb3690df204c037373fcc92248923c8a3bc8e10e5adab",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_2_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d15faaf8760ca60a6022dc90b23f3019f658bfc9b48b02759f7e41743c5db6af",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "jingmian_2_cw.png",
+          "top_left": [
+            338,
+            93
+          ],
+          "size": [
+            134,
+            92
+          ],
+          "sha256": "d661e5a9107b42c67373f15f38290627769bd21ea353ee310269cf9154c67f8a",
+          "config_position": {
+            "x": 155,
+            "y": 36
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1022,
+      "internal_name": "Town2_2",
+      "title": "围巾 · 橱窗 · 围巾~雪花~ · 青蛙 + 萤火虫",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town2/1022_town2_2_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 216727,
+      "sha256": "638d41f827b62ad3fa9ef2ebe028a2000c253b4d6e4f185ea0ea6aa252836399",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_2_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d15faaf8760ca60a6022dc90b23f3019f658bfc9b48b02759f7e41743c5db6af",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "jingmian_2_yhc.png",
+          "top_left": [
+            133,
+            29
+          ],
+          "size": [
+            234,
+            114
+          ],
+          "sha256": "9c0f0408ae6caccb52d6f7fa980b213376ed92469a5fa50e990a65eee1204bff",
+          "config_position": {
+            "x": 0,
+            "y": 89
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1023,
+      "internal_name": "Town2_3",
+      "title": "围巾 · 橱窗 · 围巾~云纹~ · 青蛙单人",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town2/1023_town2_3_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 200444,
+      "sha256": "ab144bc1112dbd39df4dec2bc513542817dd2a145c93a0a98991b676fa8ab73a",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_3_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d7ffe2d8eeee9d371cad0bd3628ba56ae7dd7de2de57c736695c2dc9d269eb42",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1023,
+      "internal_name": "Town2_3",
+      "title": "围巾 · 橱窗 · 围巾~云纹~ · 青蛙 + 壁虎",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town2/1023_town2_3_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 211772,
+      "sha256": "638abd07e48e6e02098beee1d0eb09861ed6dc51d69592a4e7570391a5f20668",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_3_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d7ffe2d8eeee9d371cad0bd3628ba56ae7dd7de2de57c736695c2dc9d269eb42",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "jingmian_3_bh.png",
+          "top_left": [
+            132,
+            181
+          ],
+          "size": [
+            155,
+            98
+          ],
+          "sha256": "b834a9d85384f5dfd7a64177f873807d8566d7da4a6765e1a0e51a1d111594b5",
+          "config_position": {
+            "x": -41,
+            "y": -55
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1023,
+      "internal_name": "Town2_3",
+      "title": "围巾 · 橱窗 · 围巾~云纹~ · 青蛙 + 刺猬",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town2/1023_town2_3_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 206956,
+      "sha256": "a37076162996bb989469b25a5dc6714aafd089e33a8ee4b62d06d8d47aed1601",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_3_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d7ffe2d8eeee9d371cad0bd3628ba56ae7dd7de2de57c736695c2dc9d269eb42",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "jingmian_3_cw.png",
+          "top_left": [
+            338,
+            93
+          ],
+          "size": [
+            134,
+            92
+          ],
+          "sha256": "d8ba913ae5172dc95319c450fa34ad880950a734a2834eef6d85e34274e20118",
+          "config_position": {
+            "x": 155,
+            "y": 36
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1023,
+      "internal_name": "Town2_3",
+      "title": "围巾 · 橱窗 · 围巾~云纹~ · 青蛙 + 萤火虫",
+      "category_key": "p_town2",
+      "category_name": "围巾 · 橱窗",
+      "category_order": 5,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town2/1023_town2_3_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 216562,
+      "sha256": "3de1d62c1d8c510fcbee8543344457fda4684dc4550c0473469f17454901bfa5",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "jingmian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "027c276bacc0ba0a436baba218943d556a78c293fc68e7f5413b1fe1c128c388"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "jingmian_3_qw.png",
+          "top_left": [
+            230,
+            149
+          ],
+          "size": [
+            139,
+            98
+          ],
+          "sha256": "d7ffe2d8eeee9d371cad0bd3628ba56ae7dd7de2de57c736695c2dc9d269eb42",
+          "config_position": {
+            "x": 50,
+            "y": -23
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "jingmian_3_yhc.png",
+          "top_left": [
+            133,
+            29
+          ],
+          "size": [
+            234,
+            114
+          ],
+          "sha256": "d1d07e2a8fb3e5750b509a2959aaf04e68c4840705102076a9aceb031d0b0194",
+          "config_position": {
+            "x": 0,
+            "y": 89
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1024,
+      "internal_name": "Town3_0",
+      "title": "围巾 · 街道 · 无围巾 · 青蛙单人",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town3/1024_town3_0_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 202067,
+      "sha256": "060113f4604e5be05c81f59c75b36bee29636cfe89a3e0d440f8aa970b69c480",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_0_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "76d782db49a5eba8948da65875f2664728722027036083d950cecb798a741fd0",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1024,
+      "internal_name": "Town3_0",
+      "title": "围巾 · 街道 · 无围巾 · 青蛙 + 壁虎",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town3/1024_town3_0_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204157,
+      "sha256": "0184afd5f66f171495d694ddd5f66eebd18ff057f5ef16bcf6b471d4751802ec",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_0_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "76d782db49a5eba8948da65875f2664728722027036083d950cecb798a741fd0",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "dimian_0_bh.png",
+          "top_left": [
+            40,
+            298
+          ],
+          "size": [
+            35,
+            45
+          ],
+          "sha256": "4115432c7615b99af30db3e694f6e0d123d8b78f5b97dc6c5585e147796da90c",
+          "config_position": {
+            "x": -193,
+            "y": -146
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1024,
+      "internal_name": "Town3_0",
+      "title": "围巾 · 街道 · 无围巾 · 青蛙 + 刺猬",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town3/1024_town3_0_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 203692,
+      "sha256": "58d80ec4f9ae737fb92ca647ef2434f32e31582f453461f49e1ff3fa285b3f99",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_0_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "76d782db49a5eba8948da65875f2664728722027036083d950cecb798a741fd0",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dimian_0_cw.png",
+          "top_left": [
+            38,
+            306
+          ],
+          "size": [
+            45,
+            33
+          ],
+          "sha256": "b6b8cfd045dee5a0e5562a53e95d5cd670b5b4141e8a2f9a35afb031ceea09ca",
+          "config_position": {
+            "x": -189,
+            "y": -147
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1024,
+      "internal_name": "Town3_0",
+      "title": "围巾 · 街道 · 无围巾 · 青蛙 + 萤火虫",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 0,
+      "pose_order": 0,
+      "pose_label": "无围巾",
+      "tool_item_id": null,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town3/1024_town3_0_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204930,
+      "sha256": "328406fd5b12f0453fca6db3ec340077c5eec414a02282cba154b0f1ad87dd56",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_0_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "76d782db49a5eba8948da65875f2664728722027036083d950cecb798a741fd0",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "dimian_0_yhc.png",
+          "top_left": [
+            36,
+            232
+          ],
+          "size": [
+            41,
+            50
+          ],
+          "sha256": "8536aac4b4a169dd24173bf0b3315f142368eb10437e346b04ae2fa8bb03f921",
+          "config_position": {
+            "x": -194,
+            "y": -82
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1025,
+      "internal_name": "Town3_1",
+      "title": "围巾 · 街道 · 围巾~纯色~ · 青蛙单人",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town3/1025_town3_1_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 202127,
+      "sha256": "c3949d8659281a4c1b9732ef0fdae88f9c2426b53486d1960b1a9b2f3dba41ac",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_1_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e36bc87ebadbd3a61b4a43f4058aa894daa49853a1c2dc93f35ead6a58b7db93",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1025,
+      "internal_name": "Town3_1",
+      "title": "围巾 · 街道 · 围巾~纯色~ · 青蛙 + 壁虎",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town3/1025_town3_1_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204219,
+      "sha256": "2286f2ae874469accbfc17ea6c80d0f81592ba1e2d379b99fa8901efe5ddb0ba",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_1_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e36bc87ebadbd3a61b4a43f4058aa894daa49853a1c2dc93f35ead6a58b7db93",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "dimian_1_bh.png",
+          "top_left": [
+            40,
+            298
+          ],
+          "size": [
+            35,
+            45
+          ],
+          "sha256": "f0ac876fc5b377a55e8ab7c89648d987e62a26f72e1a15d6bf9b12d46b7f366e",
+          "config_position": {
+            "x": -193,
+            "y": -146
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1025,
+      "internal_name": "Town3_1",
+      "title": "围巾 · 街道 · 围巾~纯色~ · 青蛙 + 刺猬",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town3/1025_town3_1_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 203966,
+      "sha256": "41c0df9d5616d255c84fd73fdb9e8aa6524bdb62ab5b6610a6772b2a9cd0378d",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_1_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e36bc87ebadbd3a61b4a43f4058aa894daa49853a1c2dc93f35ead6a58b7db93",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dimian_1_cw.png",
+          "top_left": [
+            38,
+            306
+          ],
+          "size": [
+            45,
+            33
+          ],
+          "sha256": "63962dc7fa30786b0c3bd4fcd33bb0a3b3d9ca1a483eb2471d209f429334b167",
+          "config_position": {
+            "x": -189,
+            "y": -147
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1025,
+      "internal_name": "Town3_1",
+      "title": "围巾 · 街道 · 围巾~纯色~ · 青蛙 + 萤火虫",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 1,
+      "pose_order": 1,
+      "pose_label": "围巾~纯色~",
+      "tool_item_id": 2009,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town3/1025_town3_1_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 205163,
+      "sha256": "b65148e364fa976ed11368f3e82e9d70ced724dc5ca3f379a9e9c69e64bc1c9d",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_1_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e36bc87ebadbd3a61b4a43f4058aa894daa49853a1c2dc93f35ead6a58b7db93",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "dimian_1_yhc.png",
+          "top_left": [
+            34,
+            232
+          ],
+          "size": [
+            43,
+            50
+          ],
+          "sha256": "91afb856a045fb445e32164c8dd8f200740b9520218e8ea9cd2346b6a6a79ab4",
+          "config_position": {
+            "x": -194,
+            "y": -82
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1026,
+      "internal_name": "Town3_2",
+      "title": "围巾 · 街道 · 围巾~雪花~ · 青蛙单人",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town3/1026_town3_2_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 202131,
+      "sha256": "3116415ae35da3edebc06a51336907a8098d0b2dbc29cc195759113653c6e6d6",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_2_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "6bd4b9f6b799f268fbbbdd5be58f44a8762fcbb158f9644e5534c8ae7817ccd7",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1026,
+      "internal_name": "Town3_2",
+      "title": "围巾 · 街道 · 围巾~雪花~ · 青蛙 + 壁虎",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town3/1026_town3_2_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204345,
+      "sha256": "f59cc306d6fd91264e83916507e76a37fb9897ec378552d06263e61aa08b3d49",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_2_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "6bd4b9f6b799f268fbbbdd5be58f44a8762fcbb158f9644e5534c8ae7817ccd7",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "dimian_2_bh.png",
+          "top_left": [
+            40,
+            298
+          ],
+          "size": [
+            35,
+            45
+          ],
+          "sha256": "6b6590e4d499f1c4b43df64cfe2a89c92671a06601c0e2b6eb303a620c7fc170",
+          "config_position": {
+            "x": -193,
+            "y": -146
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1026,
+      "internal_name": "Town3_2",
+      "title": "围巾 · 街道 · 围巾~雪花~ · 青蛙 + 刺猬",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town3/1026_town3_2_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204020,
+      "sha256": "6aaf87faa5428296b5b846b101a8cbca2c806c46ce6f964f5605ee35ba4dbf4f",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_2_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "6bd4b9f6b799f268fbbbdd5be58f44a8762fcbb158f9644e5534c8ae7817ccd7",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dimian_2_cw.png",
+          "top_left": [
+            38,
+            306
+          ],
+          "size": [
+            45,
+            33
+          ],
+          "sha256": "aa5d0358efb75cc96d13dc6d43a2ec991ba614aeaed75ae0d75aad8da6d6ba24",
+          "config_position": {
+            "x": -189,
+            "y": -147
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1026,
+      "internal_name": "Town3_2",
+      "title": "围巾 · 街道 · 围巾~雪花~ · 青蛙 + 萤火虫",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 2,
+      "pose_order": 2,
+      "pose_label": "围巾~雪花~",
+      "tool_item_id": 2010,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town3/1026_town3_2_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 205176,
+      "sha256": "bc82c056307b22eee534714879e962dbf9913a77845674be21a0038e9a542d2e",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_2_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "6bd4b9f6b799f268fbbbdd5be58f44a8762fcbb158f9644e5534c8ae7817ccd7",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "dimian_2_yhc.png",
+          "top_left": [
+            34,
+            232
+          ],
+          "size": [
+            43,
+            50
+          ],
+          "sha256": "c41ee474fac86109aa6c74e79e238c7c55371680c67c533ae77d04e63d21fa64",
+          "config_position": {
+            "x": -194,
+            "y": -82
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1027,
+      "internal_name": "Town3_3",
+      "title": "围巾 · 街道 · 围巾~云纹~ · 青蛙单人",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/tool-postcards/p_town3/1027_town3_3_solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 202146,
+      "sha256": "44b0788b4e780da073780431f2c80ac34bb650ff8426855f09e753f7e3ac5d34",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_3_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e75306921995ee3090fc872ec545217868b4e0a0b62bb353ae3860301573bacf",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1027,
+      "internal_name": "Town3_3",
+      "title": "围巾 · 街道 · 围巾~云纹~ · 青蛙 + 壁虎",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/tool-postcards/p_town3/1027_town3_3_bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204328,
+      "sha256": "7947ff4c28fa65e930327d199ee1421ad5582d110921ac5ac2a26a226b5097a2",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_3_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e75306921995ee3090fc872ec545217868b4e0a0b62bb353ae3860301573bacf",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "壁虎",
+          "source_asset": "dimian_3_bh.png",
+          "top_left": [
+            40,
+            298
+          ],
+          "size": [
+            35,
+            45
+          ],
+          "sha256": "3d37f973d31254cdaf427ffb35b2c6eec912b5f1148c9353a1e59d2c7215f2a2",
+          "config_position": {
+            "x": -193,
+            "y": -146
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1027,
+      "internal_name": "Town3_3",
+      "title": "围巾 · 街道 · 围巾~云纹~ · 青蛙 + 刺猬",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/tool-postcards/p_town3/1027_town3_3_cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 204051,
+      "sha256": "c662855d24e3967ca4b79f970a9fd48ad2a0f735e9e2c4d33d18d230086498a0",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_3_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e75306921995ee3090fc872ec545217868b4e0a0b62bb353ae3860301573bacf",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "刺猬",
+          "source_asset": "dimian_3_cw.png",
+          "top_left": [
+            38,
+            306
+          ],
+          "size": [
+            45,
+            33
+          ],
+          "sha256": "ec196b124b8192eed40d53f748e5c2a5422d7d3f38a43d1efa46e87d6e0bbc7c",
+          "config_position": {
+            "x": -189,
+            "y": -147
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "tool",
+      "picture_id": 1027,
+      "internal_name": "Town3_3",
+      "title": "围巾 · 街道 · 围巾~云纹~ · 青蛙 + 萤火虫",
+      "category_key": "p_town3",
+      "category_name": "围巾 · 街道",
+      "category_order": 6,
+      "scene_order": 3,
+      "pose_order": 3,
+      "pose_label": "围巾~云纹~",
+      "tool_item_id": 2011,
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/tool-postcards/p_town3/1027_town3_3_yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 205258,
+      "sha256": "96a455931b350239066176cc4cd6f0c710a516e291d905dca6a27bc64e7a47c0",
+      "source_type": "Tools",
+      "layers": [
+        {
+          "role": "背景",
+          "source_asset": "dimian_back.png",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "f66e0e25137d239beeb08ef173cba85352c719609cf87a4fee285108baeff551"
+        },
+        {
+          "role": "青蛙",
+          "source_asset": "dimian_3_qw.png",
+          "top_left": [
+            64,
+            295
+          ],
+          "size": [
+            53,
+            42
+          ],
+          "sha256": "e75306921995ee3090fc872ec545217868b4e0a0b62bb353ae3860301573bacf",
+          "config_position": {
+            "x": -160,
+            "y": -141
+          }
+        },
+        {
+          "role": "萤火虫",
+          "source_asset": "dimian_3_yhc.png",
+          "top_left": [
+            34,
+            232
+          ],
+          "size": [
+            43,
+            50
+          ],
+          "sha256": "b689a5fe2d2f897e565fc24f2a6cd28e3f99dc888a739137decf52df6c3ce798",
+          "config_position": {
+            "x": -194,
+            "y": -82
+          }
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    }
+  ],
+  "tool_coordinate_note": "每个 Tools 标签按四种道具状态与配置支持的单人／旅友组合发布静态照片。角色坐标来自 Picture 配置；分类关联的是旅行道具类型，不代表账号曾生成这些照片。",
   "postcards": [
     {
       "picture_id": 2000,

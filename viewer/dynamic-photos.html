@@ -1,5 +1,5 @@
 <!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; script-src 'self' 'unsafe-inline'; worker-src blob:; style-src 'unsafe-inline'; connect-src 'none'; base-uri 'none'; form-action 'none'"><title>动态照片</title><style>
-:root{font-family:'Segoe UI','Microsoft YaHei',sans-serif;color:#262b2a;background:#f5f7f6;letter-spacing:0;color-scheme:light}
+:root{font-family:'Segoe UI','Microsoft YaHei',sans-serif;color:#262b2a;background:#f5f7f6;letter-spacing:0;color-scheme:light;scrollbar-gutter:stable}
 .composer-toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:10px;border-bottom:1px solid #dce2df;padding-bottom:10px;margin-bottom:14px;min-width:0}.composer-toolbar .normal-editor-tabs,.composer-toolbar .tumbler-tabs{border:0;padding:0;margin:0;min-width:0}.composer-toolbar .composer-actions{margin:0 0 0 auto;flex:none;gap:8px}.composer-actions button{white-space:nowrap}
 *{box-sizing:border-box}body{margin:0}button,input,select{font:inherit}button,a,input,select{touch-action:manipulation}
 button,a{color:inherit}button{cursor:pointer}a{color:#21674d}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #c28b26;outline-offset:3px}
@@ -25,7 +25,7 @@ dialog{border:1px solid #bdc8c0;border-radius:6px;padding:0;width:min(1080px,96v
 .postcard-tabs button[aria-selected=true]{border-bottom-color:#2d6a4f;color:#21593e}.postcard-tabs button:hover{background:#edf2ef}
 .normal-postcards-actions{display:flex;gap:8px;flex-wrap:wrap}.normal-postcards-actions button{padding:9px 13px;border:1px solid #c5d1ca;background:#fff;border-radius:4px;font-size:13px}.normal-postcards-actions .primary{background:#27634d;color:#fff;border-color:#27634d}.normal-postcards-actions button:disabled,#normal-postcards-panel button:disabled{opacity:.4;cursor:default}
 .location-postcards-layout{min-width:0}
-.location-region-tabs button{white-space:nowrap}.location-region-tabs button:hover{background:#edf2ef}
+.location-region-tabs button{white-space:nowrap}.location-region-tabs button:hover{background:#edf2ef}.normal-category-tabs.location-region-tabs button[aria-selected=true]{background:transparent}.location-region-tabs button:focus-visible{outline:0;outline-offset:0;box-shadow:inset 0 -2px #21674d}
 .goal-postcards-toolbar{margin-top:0;justify-content:flex-end}.goal-postcards-gallery{grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}
 .goal-postcards-gallery .photo-open{aspect-ratio:10/7;background:#e9eeeb}.goal-postcards-gallery .caption strong{font-size:14px}.goal-postcards-gallery .caption span{display:block;color:#65706b;margin-top:3px}
 #goal-postcards-dialog .light-image{background:#e9eeeb}.goal-layer-list{padding-left:20px;line-height:1.8}.goal-layer-list code{font-size:11px}
