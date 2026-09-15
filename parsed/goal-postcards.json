@@ -1,9 +1,9 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "status": "complete",
-  "generated_at": "2026-09-10T11:30:34+08:00",
-  "location_count": 144,
-  "location_postcard_count": 564,
+  "generated_at": "2026-09-15T11:12:55+08:00",
+  "location_count": 156,
+  "location_postcard_count": 612,
   "special_count": 177,
   "normal_category_count": 19,
   "normal_scene_count": 39,
@@ -11,7 +11,7 @@
   "tool_category_count": 7,
   "tool_postcard_count": 88,
   "tool_source_asset_count": 94,
-  "postcard_count": 868,
+  "postcard_count": 916,
   "fixed_location_count": 4,
   "coordinate_rule": {
     "origin": "canvas center",
@@ -112,7 +112,7 @@
       "key": "g_zhangjiajie",
       "name": "张家界",
       "order": 13,
-      "location_count": 3
+      "location_count": 4
     },
     {
       "key": "g_wuhan",
@@ -136,25 +136,25 @@
       "key": "g_jiuquan",
       "name": "酒泉",
       "order": 17,
-      "location_count": 3
+      "location_count": 4
     },
     {
       "key": "g_yunnan",
       "name": "云南",
       "order": 18,
-      "location_count": 3
+      "location_count": 5
     },
     {
       "key": "g_lasa",
       "name": "拉萨",
       "order": 19,
-      "location_count": 4
+      "location_count": 5
     },
     {
       "key": "g_shanghai",
       "name": "上海",
       "order": 20,
-      "location_count": 3
+      "location_count": 4
     },
     {
       "key": "g_hainan",
@@ -166,13 +166,13 @@
       "key": "g_guizhou",
       "name": "贵州",
       "order": 22,
-      "location_count": 4
+      "location_count": 7
     },
     {
       "key": "g_ningxia",
       "name": "宁夏",
       "order": 23,
-      "location_count": 3
+      "location_count": 6
     },
     {
       "key": "g_fujian",
@@ -2543,6 +2543,51 @@
       ]
     },
     {
+      "picture_id": 2043,
+      "internal_name": "zhangjiajie1",
+      "location": "湖南·张家界·通天大道",
+      "place_id": null,
+      "region_key": "g_zhangjiajie",
+      "region_name": "张家界",
+      "region_order": 13,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_zhangjiajie1"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_zhangjiajie1",
+      "frog_pose_solo": "pose_zhangjiajie1",
+      "frog_position": {
+        "x": -146,
+        "y": -86
+      },
+      "frog_position_solo": {
+        "x": -146,
+        "y": -86
+      },
+      "traveler_poses": [
+        "pose_zhangjiajie1",
+        "pose_zhangjiajie1",
+        "pose_zhangjiajie1"
+      ],
+      "traveler_positions": [
+        {
+          "x": -32,
+          "y": -102
+        },
+        {
+          "x": -18,
+          "y": -92
+        },
+        {
+          "x": -26,
+          "y": 31
+        }
+      ]
+    },
+    {
       "picture_id": 2047,
       "location": "湖北·武汉·荻海絮语",
       "internal_name": "wuhan1",
@@ -3218,6 +3263,51 @@
       ]
     },
     {
+      "picture_id": 2058,
+      "internal_name": "jiuquan2",
+      "location": "甘肃·敦煌·阳关",
+      "place_id": null,
+      "region_key": "g_jiuquan",
+      "region_name": "酒泉",
+      "region_order": 17,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_jiuquan2"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_jiuquan2",
+      "frog_pose_solo": "pose_jiuquan2",
+      "frog_position": {
+        "x": 50,
+        "y": -131
+      },
+      "frog_position_solo": {
+        "x": 50,
+        "y": -131
+      },
+      "traveler_poses": [
+        "pose_jiuquan2",
+        "pose_jiuquan2",
+        "pose_jiuquan2"
+      ],
+      "traveler_positions": [
+        {
+          "x": 169,
+          "y": -121
+        },
+        {
+          "x": 179,
+          "y": -108
+        },
+        {
+          "x": 149,
+          "y": -58
+        }
+      ]
+    },
+    {
       "picture_id": 2061,
       "location": "云南·大理·红龙井",
       "internal_name": "yunnan2",
@@ -3347,6 +3437,96 @@
         {
           "x": -155,
           "y": -137
+        },
+        {
+          "x": -122,
+          "y": -77
+        }
+      ]
+    },
+    {
+      "picture_id": 2062,
+      "internal_name": "yunnan3",
+      "location": "云南·大理·崇圣寺三塔",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_yunnan3"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_yunnan3",
+      "frog_pose_solo": "pose_yunnan3",
+      "frog_position": {
+        "x": -183,
+        "y": -96
+      },
+      "frog_position_solo": {
+        "x": -183,
+        "y": -96
+      },
+      "traveler_poses": [
+        "pose_yunnan3",
+        "pose_yunnan3",
+        "pose_yunnan3"
+      ],
+      "traveler_positions": [
+        {
+          "x": -87,
+          "y": -154
+        },
+        {
+          "x": -131,
+          "y": -126
+        },
+        {
+          "x": 11,
+          "y": -45
+        }
+      ]
+    },
+    {
+      "picture_id": 2063,
+      "internal_name": "yunnan4",
+      "location": "云南·大理·小普陀",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_yunnan4"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_yunnan4",
+      "frog_pose_solo": "pose_yunnan4",
+      "frog_position": {
+        "x": -74,
+        "y": -124
+      },
+      "frog_position_solo": {
+        "x": -74,
+        "y": -124
+      },
+      "traveler_poses": [
+        "pose_yunnan4",
+        "pose_yunnan4",
+        "pose_yunnan4"
+      ],
+      "traveler_positions": [
+        {
+          "x": -105,
+          "y": -116
+        },
+        {
+          "x": -155,
+          "y": -139
         },
         {
           "x": -122,
@@ -3535,6 +3715,51 @@
       ]
     },
     {
+      "picture_id": 2067,
+      "internal_name": "lasa4",
+      "location": "西藏·拉萨·经幡",
+      "place_id": null,
+      "region_key": "g_lasa",
+      "region_name": "拉萨",
+      "region_order": 19,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_lasa4"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_lasa4",
+      "frog_pose_solo": "pose_lasa4",
+      "frog_position": {
+        "x": -149,
+        "y": -116
+      },
+      "frog_position_solo": {
+        "x": -149,
+        "y": -116
+      },
+      "traveler_poses": [
+        "pose_lasa4",
+        "pose_lasa4",
+        "pose_lasa4"
+      ],
+      "traveler_positions": [
+        {
+          "x": -66,
+          "y": -131
+        },
+        {
+          "x": -82,
+          "y": -114
+        },
+        {
+          "x": -66,
+          "y": -105
+        }
+      ]
+    },
+    {
       "picture_id": 2069,
       "location": "上海·黄浦区·外滩",
       "internal_name": "shanghai1",
@@ -3666,6 +3891,51 @@
         {
           "x": -131,
           "y": -28
+        }
+      ]
+    },
+    {
+      "picture_id": 2070,
+      "internal_name": "shanghai2",
+      "location": "上海·石库门里弄",
+      "place_id": null,
+      "region_key": "g_shanghai",
+      "region_name": "上海",
+      "region_order": 20,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_shanghai2"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_shanghai2",
+      "frog_pose_solo": "pose_shanghai2",
+      "frog_position": {
+        "x": -138,
+        "y": -107
+      },
+      "frog_position_solo": {
+        "x": -138,
+        "y": -107
+      },
+      "traveler_poses": [
+        "pose_shanghai2",
+        "pose_shanghai2",
+        "pose_shanghai2"
+      ],
+      "traveler_positions": [
+        {
+          "x": -183,
+          "y": -36
+        },
+        {
+          "x": -177,
+          "y": -116
+        },
+        {
+          "x": -91,
+          "y": -62
         }
       ]
     },
@@ -3987,6 +4257,141 @@
       ]
     },
     {
+      "picture_id": 2081,
+      "internal_name": "guizhou1",
+      "location": "贵州·黔东南·肇兴侗寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_guizhou1"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_guizhou1",
+      "frog_pose_solo": "pose_guizhou1",
+      "frog_position": {
+        "x": -125,
+        "y": -118
+      },
+      "frog_position_solo": {
+        "x": -125,
+        "y": -118
+      },
+      "traveler_poses": [
+        "pose_guizhou1",
+        "pose_guizhou1",
+        "pose_guizhou1"
+      ],
+      "traveler_positions": [
+        {
+          "x": -42,
+          "y": -136
+        },
+        {
+          "x": -61,
+          "y": -107
+        },
+        {
+          "x": -57,
+          "y": -107
+        }
+      ]
+    },
+    {
+      "picture_id": 2082,
+      "internal_name": "guizhou2",
+      "location": "贵州·凯里·麻塘革家寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_guizhou2"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_guizhou2",
+      "frog_pose_solo": "pose_guizhou2",
+      "frog_position": {
+        "x": -88,
+        "y": -33
+      },
+      "frog_position_solo": {
+        "x": -88,
+        "y": -33
+      },
+      "traveler_poses": [
+        "pose_guizhou2",
+        "pose_guizhou2",
+        "pose_guizhou2"
+      ],
+      "traveler_positions": [
+        {
+          "x": -31,
+          "y": -36
+        },
+        {
+          "x": -41,
+          "y": -33
+        },
+        {
+          "x": -42,
+          "y": -26
+        }
+      ]
+    },
+    {
+      "picture_id": 2083,
+      "internal_name": "guizhou3",
+      "location": "贵州贵阳·花溪夜郎谷",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 6,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_guizhou3"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_guizhou3",
+      "frog_pose_solo": "pose_guizhou3",
+      "frog_position": {
+        "x": -82,
+        "y": -66
+      },
+      "frog_position_solo": {
+        "x": -82,
+        "y": -66
+      },
+      "traveler_poses": [
+        "pose_guizhou3",
+        "pose_guizhou3",
+        "pose_guizhou3"
+      ],
+      "traveler_positions": [
+        {
+          "x": -173,
+          "y": 25
+        },
+        {
+          "x": -166,
+          "y": 21
+        },
+        {
+          "x": -114,
+          "y": 57
+        }
+      ]
+    },
+    {
       "picture_id": 2095,
       "location": "宁夏·银川·宁夏博物馆",
       "internal_name": "ningxia4",
@@ -4118,6 +4523,141 @@
         {
           "x": -121,
           "y": 52
+        }
+      ]
+    },
+    {
+      "picture_id": 2084,
+      "internal_name": "ningxia1",
+      "location": "宁夏·银川·水洞沟",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_ningxia1"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_ningxia1",
+      "frog_pose_solo": "pose_ningxia1",
+      "frog_position": {
+        "x": -148,
+        "y": 32
+      },
+      "frog_position_solo": {
+        "x": -148,
+        "y": 32
+      },
+      "traveler_poses": [
+        "pose_ningxia1",
+        "pose_ningxia1",
+        "pose_ningxia1"
+      ],
+      "traveler_positions": [
+        {
+          "x": -185,
+          "y": 46
+        },
+        {
+          "x": -185,
+          "y": 49
+        },
+        {
+          "x": -114,
+          "y": 69
+        }
+      ]
+    },
+    {
+      "picture_id": 2085,
+      "internal_name": "ningxia2",
+      "location": "宁夏·银川·龙门客栈",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_ningxia2"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_ningxia2",
+      "frog_pose_solo": "pose_ningxia2",
+      "frog_position": {
+        "x": 66,
+        "y": -77
+      },
+      "frog_position_solo": {
+        "x": 66,
+        "y": -77
+      },
+      "traveler_poses": [
+        "pose_ningxia2",
+        "pose_ningxia2",
+        "pose_ningxia2"
+      ],
+      "traveler_positions": [
+        {
+          "x": 105,
+          "y": -66
+        },
+        {
+          "x": 110,
+          "y": -70
+        },
+        {
+          "x": 79,
+          "y": -15
+        }
+      ]
+    },
+    {
+      "picture_id": 2086,
+      "internal_name": "ningxia3",
+      "location": "宁夏·银川·宁夏博物馆",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "fixed_composition": false,
+      "background_resources": [
+        "back_g_ningxia3"
+      ],
+      "foreground_resources": [],
+      "frog_pose": "pose_ningxia3",
+      "frog_pose_solo": "pose_ningxia3",
+      "frog_position": {
+        "x": 135,
+        "y": -34
+      },
+      "frog_position_solo": {
+        "x": 135,
+        "y": -34
+      },
+      "traveler_poses": [
+        "pose_ningxia3",
+        "pose_ningxia3",
+        "pose_ningxia3"
+      ],
+      "traveler_positions": [
+        {
+          "x": 181,
+          "y": -23
+        },
+        {
+          "x": 181,
+          "y": -19
+        },
+        {
+          "x": 181,
+          "y": 28
         }
       ]
     },
@@ -6777,32 +7317,7 @@
       ]
     }
   ],
-  "unavailable_locations": [
-    {
-      "picture_id": 2040,
-      "internal_name": "changbaishan1",
-      "location": "吉林·长白山",
-      "region_key": "g_changbaishan",
-      "region_name": "长白山",
-      "reason": "当前提取的客户端资源中没有对应底图"
-    },
-    {
-      "picture_id": 2041,
-      "internal_name": "changbaishan2",
-      "location": "吉林·长白山",
-      "region_key": "g_changbaishan",
-      "region_name": "长白山",
-      "reason": "当前提取的客户端资源中没有对应底图"
-    },
-    {
-      "picture_id": 2042,
-      "internal_name": "changbaishan3",
-      "location": "吉林·长白山",
-      "region_key": "g_changbaishan",
-      "region_name": "长白山",
-      "reason": "当前提取的客户端资源中没有对应底图"
-    }
-  ],
+  "unavailable_locations": [],
   "specials": [
     {
       "kind": "special",
@@ -19550,7 +20065,7 @@
       "resource_version": "APK 1.0.20"
     }
   },
-  "normal_coordinate_note": "常规照片最终图层坐标由服务器随照片返回；静态配置只含角色坐标。生成器使用原始图层和代表性随机取景，不冒充账号实际照片。",
+  "normal_coordinate_note": "随机照片最终图层坐标由服务器随照片返回；静态配置只含角色坐标。生成器使用原始图层和代表性随机取景，不冒充账号实际照片。",
   "tool_categories": [
     {
       "key": "p_wet",
@@ -40010,6 +40525,296 @@
       ]
     },
     {
+      "kind": "location",
+      "picture_id": 2043,
+      "goal_id": "zhangjiajie1",
+      "internal_name": "zhangjiajie1",
+      "location": "湖南·张家界·通天大道",
+      "place_id": null,
+      "region_key": "g_zhangjiajie",
+      "region_name": "张家界",
+      "region_order": 13,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2043_zhangjiajie1/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 129622,
+      "sha256": "ce1ca092eb3f6d16202715e5078171f18ec9230dae036ff9bd721cb29d94577c",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "4ef4119feebd1bc2247527474ec92d3c6ea774b55af2fdaf4bf706a6fa061d9d",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_zhangjiajie1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            36,
+            209
+          ],
+          "size": [
+            137,
+            104
+          ],
+          "sha256": "0831e57abbf067bb27f96275280026d1c01f32a4b2fdfcf211062d43e04a3448",
+          "config_position": {
+            "x": -146,
+            "y": -86
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "ZJJ1_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2043,
+      "goal_id": "zhangjiajie1",
+      "internal_name": "zhangjiajie1",
+      "location": "湖南·张家界·通天大道",
+      "place_id": null,
+      "region_key": "g_zhangjiajie",
+      "region_name": "张家界",
+      "region_order": 13,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2043_zhangjiajie1/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 138696,
+      "sha256": "cbeafc91a8506e252238da46e8a040188cfd12105adc8e7977f3bd25e6ef0f71",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "4ef4119feebd1bc2247527474ec92d3c6ea774b55af2fdaf4bf706a6fa061d9d",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_zhangjiajie1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            36,
+            209
+          ],
+          "size": [
+            137,
+            104
+          ],
+          "sha256": "0831e57abbf067bb27f96275280026d1c01f32a4b2fdfcf211062d43e04a3448",
+          "config_position": {
+            "x": -146,
+            "y": -86
+          },
+          "config_field": "frogPos",
+          "source_asset": "ZJJ1_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            147,
+            224
+          ],
+          "size": [
+            142,
+            105
+          ],
+          "sha256": "33e3819071af9300831d7135bd1b937d07313e98913a054f470944008923d087",
+          "config_position": {
+            "x": -32,
+            "y": -102
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "ZJJ1_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2043,
+      "goal_id": "zhangjiajie1",
+      "internal_name": "zhangjiajie1",
+      "location": "湖南·张家界·通天大道",
+      "place_id": null,
+      "region_key": "g_zhangjiajie",
+      "region_name": "张家界",
+      "region_order": 13,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2043_zhangjiajie1/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 136418,
+      "sha256": "63844a080e25fa821d8f92f015bda384e40f749e2669385b31408e1dc30bf0ff",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "4ef4119feebd1bc2247527474ec92d3c6ea774b55af2fdaf4bf706a6fa061d9d",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_zhangjiajie1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            36,
+            209
+          ],
+          "size": [
+            137,
+            104
+          ],
+          "sha256": "0831e57abbf067bb27f96275280026d1c01f32a4b2fdfcf211062d43e04a3448",
+          "config_position": {
+            "x": -146,
+            "y": -86
+          },
+          "config_field": "frogPos",
+          "source_asset": "ZJJ1_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            178,
+            212
+          ],
+          "size": [
+            107,
+            109
+          ],
+          "sha256": "24a14cece32009f737829dc7ba33f0095342dad1112485e93cd9635000d68544",
+          "config_position": {
+            "x": -18,
+            "y": -92
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "ZJJ1_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2043,
+      "goal_id": "zhangjiajie1",
+      "internal_name": "zhangjiajie1",
+      "location": "湖南·张家界·通天大道",
+      "place_id": null,
+      "region_key": "g_zhangjiajie",
+      "region_name": "张家界",
+      "region_order": 13,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2043_zhangjiajie1/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 145106,
+      "sha256": "f13f968c8a191a71784c5e2a1d7191c49b9ab9fcc68bc5494362850b569280c4",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "4ef4119feebd1bc2247527474ec92d3c6ea774b55af2fdaf4bf706a6fa061d9d",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_zhangjiajie1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            36,
+            209
+          ],
+          "size": [
+            137,
+            104
+          ],
+          "sha256": "0831e57abbf067bb27f96275280026d1c01f32a4b2fdfcf211062d43e04a3448",
+          "config_position": {
+            "x": -146,
+            "y": -86
+          },
+          "config_field": "frogPos",
+          "source_asset": "ZJJ1_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            142,
+            58
+          ],
+          "size": [
+            163,
+            171
+          ],
+          "sha256": "b9f300bef4efc5b429a2ee0d185ac8b48b37251aa0b5521ac7f3bed3251c8196",
+          "config_position": {
+            "x": -26,
+            "y": 31
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "ZJJ1_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
       "picture_id": 2047,
       "goal_id": "wuhan1",
       "location": "湖北·武汉·荻海絮语",
@@ -44300,6 +45105,296 @@
       ]
     },
     {
+      "kind": "location",
+      "picture_id": 2058,
+      "goal_id": "jiuquan2",
+      "internal_name": "jiuquan2",
+      "location": "甘肃·敦煌·阳关",
+      "place_id": null,
+      "region_key": "g_jiuquan",
+      "region_name": "酒泉",
+      "region_order": 17,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2058_jiuquan2/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 137687,
+      "sha256": "4154595a2038fbc73fef528bba7fc100836ea90ba4350c3d5b063b446b5c7ea3",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "7c9df655a4610f2612a32c314c7e775388b5e996444e7b59eb3fce2948fc24e5",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_jiuquan2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            250,
+            266
+          ],
+          "size": [
+            101,
+            79
+          ],
+          "sha256": "5745d8a16583af1c80d74753f45fbf1f14852ef22c2729154fcc62cd2f0158eb",
+          "config_position": {
+            "x": 50,
+            "y": -131
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "JQ2_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2058,
+      "goal_id": "jiuquan2",
+      "internal_name": "jiuquan2",
+      "location": "甘肃·敦煌·阳关",
+      "place_id": null,
+      "region_key": "g_jiuquan",
+      "region_name": "酒泉",
+      "region_order": 17,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2058_jiuquan2/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 143611,
+      "sha256": "0a39441765f15dd337053bf801dcbc1fd0744a53021b2ce643b7bc0e88b572c0",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "7c9df655a4610f2612a32c314c7e775388b5e996444e7b59eb3fce2948fc24e5",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_jiuquan2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            250,
+            266
+          ],
+          "size": [
+            101,
+            79
+          ],
+          "sha256": "5745d8a16583af1c80d74753f45fbf1f14852ef22c2729154fcc62cd2f0158eb",
+          "config_position": {
+            "x": 50,
+            "y": -131
+          },
+          "config_field": "frogPos",
+          "source_asset": "JQ2_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            356,
+            241
+          ],
+          "size": [
+            125,
+            110
+          ],
+          "sha256": "a7e4033ae660b3fe8f189fca6cdb2aa5904951d3652e5cd43beff55b2557f205",
+          "config_position": {
+            "x": 169,
+            "y": -121
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "JQ2_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2058,
+      "goal_id": "jiuquan2",
+      "internal_name": "jiuquan2",
+      "location": "甘肃·敦煌·阳关",
+      "place_id": null,
+      "region_key": "g_jiuquan",
+      "region_name": "酒泉",
+      "region_order": 17,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2058_jiuquan2/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 142912,
+      "sha256": "01ed3a51c455d4da5d8a9a446be9732fba508f1a9dbf7e4a69e18d1246c7461b",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "7c9df655a4610f2612a32c314c7e775388b5e996444e7b59eb3fce2948fc24e5",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_jiuquan2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            250,
+            266
+          ],
+          "size": [
+            101,
+            79
+          ],
+          "sha256": "5745d8a16583af1c80d74753f45fbf1f14852ef22c2729154fcc62cd2f0158eb",
+          "config_position": {
+            "x": 50,
+            "y": -131
+          },
+          "config_field": "frogPos",
+          "source_asset": "JQ2_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            374,
+            230
+          ],
+          "size": [
+            110,
+            107
+          ],
+          "sha256": "45e207ba17ccfe8d2f3dfe55ccfbd52738bf7e9375797d7036b0c4508989635d",
+          "config_position": {
+            "x": 179,
+            "y": -108
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "JQ2_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2058,
+      "goal_id": "jiuquan2",
+      "internal_name": "jiuquan2",
+      "location": "甘肃·敦煌·阳关",
+      "place_id": null,
+      "region_key": "g_jiuquan",
+      "region_name": "酒泉",
+      "region_order": 17,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2058_jiuquan2/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 147391,
+      "sha256": "3161ad77002be97e0b0c5a1e49cb45e7f866b1ac9f76ab21e427b5d67a7929d0",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "7c9df655a4610f2612a32c314c7e775388b5e996444e7b59eb3fce2948fc24e5",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_jiuquan2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            250,
+            266
+          ],
+          "size": [
+            101,
+            79
+          ],
+          "sha256": "5745d8a16583af1c80d74753f45fbf1f14852ef22c2729154fcc62cd2f0158eb",
+          "config_position": {
+            "x": 50,
+            "y": -131
+          },
+          "config_field": "frogPos",
+          "source_asset": "JQ2_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            308,
+            160
+          ],
+          "size": [
+            182,
+            145
+          ],
+          "sha256": "5ef969fc20cb433c6d89ee89923b083afc910c1e71f760e77ea2304aa5b43207",
+          "config_position": {
+            "x": 149,
+            "y": -58
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "JQ2_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
       "picture_id": 2061,
       "goal_id": "yunnan2",
       "location": "云南·大理·红龙井",
@@ -45212,6 +46307,586 @@
           "source_asset": "YN5_YHC.png"
         }
       ]
+    },
+    {
+      "kind": "location",
+      "picture_id": 2062,
+      "goal_id": "yunnan3",
+      "internal_name": "yunnan3",
+      "location": "云南·大理·崇圣寺三塔",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2062_yunnan3/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 202438,
+      "sha256": "98253b8cee36d3d120b7fd64e826a93fe57423fec37c22e52f0f06f746b6c397",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "6d4f59263d46e0a2dbb74eabf667c0690df68ff3350be4eeb4ec35b3ddb0a1ae",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            18,
+            232
+          ],
+          "size": [
+            98,
+            78
+          ],
+          "sha256": "a2094d46d46b52f8c7043634c88e4b7cb7aaa107cad176358e6d30f39a480917",
+          "config_position": {
+            "x": -183,
+            "y": -96
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "YN3_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2062,
+      "goal_id": "yunnan3",
+      "internal_name": "yunnan3",
+      "location": "云南·大理·崇圣寺三塔",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2062_yunnan3/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 205960,
+      "sha256": "577f7399fddb6579e51c73616b13872eb1455d161ca2b7af50b3de027c101f61",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "6d4f59263d46e0a2dbb74eabf667c0690df68ff3350be4eeb4ec35b3ddb0a1ae",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            18,
+            232
+          ],
+          "size": [
+            98,
+            78
+          ],
+          "sha256": "a2094d46d46b52f8c7043634c88e4b7cb7aaa107cad176358e6d30f39a480917",
+          "config_position": {
+            "x": -183,
+            "y": -96
+          },
+          "config_field": "frogPos",
+          "source_asset": "YN3_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            113,
+            279
+          ],
+          "size": [
+            100,
+            100
+          ],
+          "sha256": "5568447dd33de50c0400e796c41b57fb3a961a0eaa186ec129cd37cd5b25522d",
+          "config_position": {
+            "x": -87,
+            "y": -154
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "YN3_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2062,
+      "goal_id": "yunnan3",
+      "internal_name": "yunnan3",
+      "location": "云南·大理·崇圣寺三塔",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2062_yunnan3/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 205741,
+      "sha256": "994992a0a0d34b7a8f0942a6611973263410a5514675332d4e8172f87396ff6e",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "6d4f59263d46e0a2dbb74eabf667c0690df68ff3350be4eeb4ec35b3ddb0a1ae",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            18,
+            232
+          ],
+          "size": [
+            98,
+            78
+          ],
+          "sha256": "a2094d46d46b52f8c7043634c88e4b7cb7aaa107cad176358e6d30f39a480917",
+          "config_position": {
+            "x": -183,
+            "y": -96
+          },
+          "config_field": "frogPos",
+          "source_asset": "YN3_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            68,
+            250
+          ],
+          "size": [
+            101,
+            101
+          ],
+          "sha256": "1865e4e109488047ea5c5af613a3d5a5de640b2332b3cbf5f985825cb8557020",
+          "config_position": {
+            "x": -131,
+            "y": -126
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "YN3_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2062,
+      "goal_id": "yunnan3",
+      "internal_name": "yunnan3",
+      "location": "云南·大理·崇圣寺三塔",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2062_yunnan3/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 211441,
+      "sha256": "1c313eb671654762d40357e64a63394173e4d4efcaaacdb9c8b7421263ef4ac5",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "6d4f59263d46e0a2dbb74eabf667c0690df68ff3350be4eeb4ec35b3ddb0a1ae",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            18,
+            232
+          ],
+          "size": [
+            98,
+            78
+          ],
+          "sha256": "a2094d46d46b52f8c7043634c88e4b7cb7aaa107cad176358e6d30f39a480917",
+          "config_position": {
+            "x": -183,
+            "y": -96
+          },
+          "config_field": "frogPos",
+          "source_asset": "YN3_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            198,
+            150
+          ],
+          "size": [
+            125,
+            139
+          ],
+          "sha256": "84892d1ed5af58ebb749fd01411d0e317f25446f0025b8c1b4e8a7ed658a4b90",
+          "config_position": {
+            "x": 11,
+            "y": -45
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "YN3_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2063,
+      "goal_id": "yunnan4",
+      "internal_name": "yunnan4",
+      "location": "云南·大理·小普陀",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2063_yunnan4/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 185847,
+      "sha256": "a1c20c6fa4bec072df4dee856afcce133e4ff79b63b0d454045d24b5f003b821",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "59ac0cb724c30ec5754a83a495c4ae73f8c8f9615ef87f3c65316b79dabb2d31",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            156,
+            280
+          ],
+          "size": [
+            41,
+            37
+          ],
+          "sha256": "f7e06b684efb2e9d96430c9b6a2bf08ee0c25b044f5d61b07b2c213fcebdd7a6",
+          "config_position": {
+            "x": -74,
+            "y": -124
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "YN4_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2063,
+      "goal_id": "yunnan4",
+      "internal_name": "yunnan4",
+      "location": "云南·大理·小普陀",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2063_yunnan4/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 187509,
+      "sha256": "5a8d060d8b97a5266999b702066fd8f6d7425b610a08c39e2fe3c8a5d1d07a7b",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "59ac0cb724c30ec5754a83a495c4ae73f8c8f9615ef87f3c65316b79dabb2d31",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            156,
+            280
+          ],
+          "size": [
+            41,
+            37
+          ],
+          "sha256": "f7e06b684efb2e9d96430c9b6a2bf08ee0c25b044f5d61b07b2c213fcebdd7a6",
+          "config_position": {
+            "x": -74,
+            "y": -124
+          },
+          "config_field": "frogPos",
+          "source_asset": "YN4_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            130,
+            271
+          ],
+          "size": [
+            29,
+            40
+          ],
+          "sha256": "f73b10a57d1b4b226275ed44c1ad52b2bd660dade18f7eeed898e94dda8edcf0",
+          "config_position": {
+            "x": -105,
+            "y": -116
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "YN4_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2063,
+      "goal_id": "yunnan4",
+      "internal_name": "yunnan4",
+      "location": "云南·大理·小普陀",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2063_yunnan4/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 187589,
+      "sha256": "e2071fd5db29e1f7e3c664d86103f85f511fac79e8e14c779f5bbb035c0b1611",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "59ac0cb724c30ec5754a83a495c4ae73f8c8f9615ef87f3c65316b79dabb2d31",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            156,
+            280
+          ],
+          "size": [
+            41,
+            37
+          ],
+          "sha256": "f7e06b684efb2e9d96430c9b6a2bf08ee0c25b044f5d61b07b2c213fcebdd7a6",
+          "config_position": {
+            "x": -74,
+            "y": -124
+          },
+          "config_field": "frogPos",
+          "source_asset": "YN4_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            75,
+            295
+          ],
+          "size": [
+            40,
+            38
+          ],
+          "sha256": "caac020a03d5279efea1d7d3ed9fd412635e83b825e5ff23778c06647c72c645",
+          "config_position": {
+            "x": -155,
+            "y": -139
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "YN4_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2063,
+      "goal_id": "yunnan4",
+      "internal_name": "yunnan4",
+      "location": "云南·大理·小普陀",
+      "place_id": null,
+      "region_key": "g_yunnan",
+      "region_name": "云南",
+      "region_order": 18,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2063_yunnan4/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 188697,
+      "sha256": "476bccc2850fae15a85686b9e9bdd8f46cb003e42528d2315f79054360a8f3b1",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "59ac0cb724c30ec5754a83a495c4ae73f8c8f9615ef87f3c65316b79dabb2d31",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_yunnan4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            156,
+            280
+          ],
+          "size": [
+            41,
+            37
+          ],
+          "sha256": "f7e06b684efb2e9d96430c9b6a2bf08ee0c25b044f5d61b07b2c213fcebdd7a6",
+          "config_position": {
+            "x": -74,
+            "y": -124
+          },
+          "config_field": "frogPos",
+          "source_asset": "YN4_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            105,
+            222
+          ],
+          "size": [
+            46,
+            59
+          ],
+          "sha256": "a4f93c1dc6da9fe9f19868d964cb3e3ac63df954edd7b750427c26faadfbbf0d",
+          "config_position": {
+            "x": -122,
+            "y": -77
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "YN4_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
     },
     {
       "picture_id": 2064,
@@ -46358,6 +48033,296 @@
       ]
     },
     {
+      "kind": "location",
+      "picture_id": 2067,
+      "goal_id": "lasa4",
+      "internal_name": "lasa4",
+      "location": "西藏·拉萨·经幡",
+      "place_id": null,
+      "region_key": "g_lasa",
+      "region_name": "拉萨",
+      "region_order": 19,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2067_lasa4/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 274886,
+      "sha256": "368fcf452adc8816beb789fd2e013d0090f10a6eb036a5d072ef686aa9393715",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "48d645a0b5a422168d83793a17c45c10c3f08ff192126c2d4773b2edb241a917",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_lasa4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            40,
+            258
+          ],
+          "size": [
+            121,
+            66
+          ],
+          "sha256": "8c241d53aea57f09af995cf7f9979187d8e02bf19893f314a6499a4739c96e17",
+          "config_position": {
+            "x": -149,
+            "y": -116
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "LS4_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2067,
+      "goal_id": "lasa4",
+      "internal_name": "lasa4",
+      "location": "西藏·拉萨·经幡",
+      "place_id": null,
+      "region_key": "g_lasa",
+      "region_name": "拉萨",
+      "region_order": 19,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2067_lasa4/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 277881,
+      "sha256": "86d41887772cca95efa2249b3a7f01f6d2d9ba2fcd894506829af5e866c6276d",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "48d645a0b5a422168d83793a17c45c10c3f08ff192126c2d4773b2edb241a917",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_lasa4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            40,
+            258
+          ],
+          "size": [
+            121,
+            66
+          ],
+          "sha256": "8c241d53aea57f09af995cf7f9979187d8e02bf19893f314a6499a4739c96e17",
+          "config_position": {
+            "x": -149,
+            "y": -116
+          },
+          "config_field": "frogPos",
+          "source_asset": "LS4_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            127,
+            276
+          ],
+          "size": [
+            114,
+            59
+          ],
+          "sha256": "dfa8f479ed47ee80d4fb1c68408c0a739aa3d44197129c93f16afc28a697d852",
+          "config_position": {
+            "x": -66,
+            "y": -131
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "LS4_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2067,
+      "goal_id": "lasa4",
+      "internal_name": "lasa4",
+      "location": "西藏·拉萨·经幡",
+      "place_id": null,
+      "region_key": "g_lasa",
+      "region_name": "拉萨",
+      "region_order": 19,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2067_lasa4/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 277268,
+      "sha256": "e491d78e32b5b57d62e3d7f6f419a8e7b85bd51324e12146cf6ec80f984e9901",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "48d645a0b5a422168d83793a17c45c10c3f08ff192126c2d4773b2edb241a917",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_lasa4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            40,
+            258
+          ],
+          "size": [
+            121,
+            66
+          ],
+          "sha256": "8c241d53aea57f09af995cf7f9979187d8e02bf19893f314a6499a4739c96e17",
+          "config_position": {
+            "x": -149,
+            "y": -116
+          },
+          "config_field": "frogPos",
+          "source_asset": "LS4_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            140,
+            258
+          ],
+          "size": [
+            57,
+            61
+          ],
+          "sha256": "3449f41fb1ea2af7026fe45d8366f6a709f5a67fc098730b9d58848808998843",
+          "config_position": {
+            "x": -82,
+            "y": -114
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "LS4_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2067,
+      "goal_id": "lasa4",
+      "internal_name": "lasa4",
+      "location": "西藏·拉萨·经幡",
+      "place_id": null,
+      "region_key": "g_lasa",
+      "region_name": "拉萨",
+      "region_order": 19,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2067_lasa4/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 280215,
+      "sha256": "8699e3c9068e694b8d6a08dc1e4b3cafb07d13a9be3dd5ad68c5a7ed4b970390",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "48d645a0b5a422168d83793a17c45c10c3f08ff192126c2d4773b2edb241a917",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_lasa4.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            40,
+            258
+          ],
+          "size": [
+            121,
+            66
+          ],
+          "sha256": "8c241d53aea57f09af995cf7f9979187d8e02bf19893f314a6499a4739c96e17",
+          "config_position": {
+            "x": -149,
+            "y": -116
+          },
+          "config_field": "frogPos",
+          "source_asset": "LS4_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            118,
+            222
+          ],
+          "size": [
+            133,
+            115
+          ],
+          "sha256": "79ae7cab8be4fa067bb81987e3ca4e360a7a332da36c4d8b1edb13ceaf49a66c",
+          "config_position": {
+            "x": -66,
+            "y": -105
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "LS4_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
       "picture_id": 2069,
       "goal_id": "shanghai1",
       "location": "上海·黄浦区·外滩",
@@ -47214,6 +49179,296 @@
           "source_asset": "SH3_YHC.png"
         }
       ]
+    },
+    {
+      "kind": "location",
+      "picture_id": 2070,
+      "goal_id": "shanghai2",
+      "internal_name": "shanghai2",
+      "location": "上海·石库门里弄",
+      "place_id": null,
+      "region_key": "g_shanghai",
+      "region_name": "上海",
+      "region_order": 20,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2070_shanghai2/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 221517,
+      "sha256": "9f4c7f8d89c57d0f5a485b96f933366ad4c0e1f33d4f7f5ea74869eb39d12895",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "73af04ecf67d33b73bfd56a1f495e5f5e733c77f71bc9988198fe0d7c0a6069f",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_shanghai2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            92,
+            266
+          ],
+          "size": [
+            40,
+            33
+          ],
+          "sha256": "a278a4a29f29ff88be943922c1d10a165e7cca045bd352c4ee92456103c0a156",
+          "config_position": {
+            "x": -138,
+            "y": -107
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "SH2_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2070,
+      "goal_id": "shanghai2",
+      "internal_name": "shanghai2",
+      "location": "上海·石库门里弄",
+      "place_id": null,
+      "region_key": "g_shanghai",
+      "region_name": "上海",
+      "region_order": 20,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2070_shanghai2/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 223020,
+      "sha256": "439b2a87869a14f0457881e383a1e630264f98daa75f959c046947d54c4340ad",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "73af04ecf67d33b73bfd56a1f495e5f5e733c77f71bc9988198fe0d7c0a6069f",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_shanghai2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            92,
+            266
+          ],
+          "size": [
+            40,
+            33
+          ],
+          "sha256": "a278a4a29f29ff88be943922c1d10a165e7cca045bd352c4ee92456103c0a156",
+          "config_position": {
+            "x": -138,
+            "y": -107
+          },
+          "config_field": "frogPos",
+          "source_asset": "SH2_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            46,
+            195
+          ],
+          "size": [
+            41,
+            32
+          ],
+          "sha256": "a0527be28bcd6f24102450fe9684dafb3360fdb4ccba858d4c52a7ea5230494e",
+          "config_position": {
+            "x": -183,
+            "y": -36
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "SH2_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2070,
+      "goal_id": "shanghai2",
+      "internal_name": "shanghai2",
+      "location": "上海·石库门里弄",
+      "place_id": null,
+      "region_key": "g_shanghai",
+      "region_name": "上海",
+      "region_order": 20,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2070_shanghai2/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 222707,
+      "sha256": "4aa99cf4222a340c3ffb1368ee977d5ff273750f4fc608d808ad72c8a6f01c05",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "73af04ecf67d33b73bfd56a1f495e5f5e733c77f71bc9988198fe0d7c0a6069f",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_shanghai2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            92,
+            266
+          ],
+          "size": [
+            40,
+            33
+          ],
+          "sha256": "a278a4a29f29ff88be943922c1d10a165e7cca045bd352c4ee92456103c0a156",
+          "config_position": {
+            "x": -138,
+            "y": -107
+          },
+          "config_field": "frogPos",
+          "source_asset": "SH2_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            58,
+            275
+          ],
+          "size": [
+            30,
+            32
+          ],
+          "sha256": "f0ad87ccf15f9be0a6e7428e3b0f92607ee09c35681aa022719bdd68942d92e5",
+          "config_position": {
+            "x": -177,
+            "y": -116
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "SH2_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2070,
+      "goal_id": "shanghai2",
+      "internal_name": "shanghai2",
+      "location": "上海·石库门里弄",
+      "place_id": null,
+      "region_key": "g_shanghai",
+      "region_name": "上海",
+      "region_order": 20,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2070_shanghai2/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 224437,
+      "sha256": "0cf77da4503e8906282b7d53c46404d46fea9a97e3d3f9d27d9ac4d23baa56d3",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "73af04ecf67d33b73bfd56a1f495e5f5e733c77f71bc9988198fe0d7c0a6069f",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_shanghai2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            92,
+            266
+          ],
+          "size": [
+            40,
+            33
+          ],
+          "sha256": "a278a4a29f29ff88be943922c1d10a165e7cca045bd352c4ee92456103c0a156",
+          "config_position": {
+            "x": -138,
+            "y": -107
+          },
+          "config_field": "frogPos",
+          "source_asset": "SH2_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            132,
+            212
+          ],
+          "size": [
+            54,
+            51
+          ],
+          "sha256": "e792228616bf45bba976e7ccead69fb3716a3a5ad85eb035cad1b9cc5fd53d31",
+          "config_position": {
+            "x": -91,
+            "y": -62
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "SH2_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
     },
     {
       "picture_id": 2073,
@@ -49274,6 +51529,876 @@
       ]
     },
     {
+      "kind": "location",
+      "picture_id": 2081,
+      "goal_id": "guizhou1",
+      "internal_name": "guizhou1",
+      "location": "贵州·黔东南·肇兴侗寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2081_guizhou1/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 207929,
+      "sha256": "298a9abf51f252b49d052b524efc5a739878e9898103c4be742e50a9ab27ae9c",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "adc53a082a2f9292b28be98456d5750c42b82bc1a35158385bed51e8e01ab069",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            76,
+            246
+          ],
+          "size": [
+            97,
+            95
+          ],
+          "sha256": "c1c1bb1ddf000dfda3e56aa46d98f23c0f087e6ad6930ddf36868f22707b54f2",
+          "config_position": {
+            "x": -125,
+            "y": -118
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "GUIZ1_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2081,
+      "goal_id": "guizhou1",
+      "internal_name": "guizhou1",
+      "location": "贵州·黔东南·肇兴侗寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2081_guizhou1/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 211061,
+      "sha256": "08960018938003708211f246840834b209b2165d517db2c32d0fe79694fb5aea",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "adc53a082a2f9292b28be98456d5750c42b82bc1a35158385bed51e8e01ab069",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            76,
+            246
+          ],
+          "size": [
+            97,
+            95
+          ],
+          "sha256": "c1c1bb1ddf000dfda3e56aa46d98f23c0f087e6ad6930ddf36868f22707b54f2",
+          "config_position": {
+            "x": -125,
+            "y": -118
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ1_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            156,
+            244
+          ],
+          "size": [
+            104,
+            135
+          ],
+          "sha256": "0f494c8a06c95ec35090ff4fb5c6f8526eebf05496a4cff4077953801974a5a5",
+          "config_position": {
+            "x": -42,
+            "y": -136
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "GUIZ1_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2081,
+      "goal_id": "guizhou1",
+      "internal_name": "guizhou1",
+      "location": "贵州·黔东南·肇兴侗寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2081_guizhou1/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 206446,
+      "sha256": "885a5d3b8539654965f001d3b89a27839749b119cdd9ca01b32a571d348553f9",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "adc53a082a2f9292b28be98456d5750c42b82bc1a35158385bed51e8e01ab069",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            76,
+            246
+          ],
+          "size": [
+            97,
+            95
+          ],
+          "sha256": "c1c1bb1ddf000dfda3e56aa46d98f23c0f087e6ad6930ddf36868f22707b54f2",
+          "config_position": {
+            "x": -125,
+            "y": -118
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ1_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            148,
+            224
+          ],
+          "size": [
+            82,
+            115
+          ],
+          "sha256": "4dd9a374bb3ccf53ab8f166f35f81d7b24700347b1f0383b76b96750802dd3ed",
+          "config_position": {
+            "x": -61,
+            "y": -107
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "GUIZ1_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2081,
+      "goal_id": "guizhou1",
+      "internal_name": "guizhou1",
+      "location": "贵州·黔东南·肇兴侗寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2081_guizhou1/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 210245,
+      "sha256": "d5f947ffdcddb66080478ca0601af01b23132f943c59991d0033efc92c664ad8",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "adc53a082a2f9292b28be98456d5750c42b82bc1a35158385bed51e8e01ab069",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            76,
+            246
+          ],
+          "size": [
+            97,
+            95
+          ],
+          "sha256": "c1c1bb1ddf000dfda3e56aa46d98f23c0f087e6ad6930ddf36868f22707b54f2",
+          "config_position": {
+            "x": -125,
+            "y": -118
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ1_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            137,
+            208
+          ],
+          "size": [
+            112,
+            147
+          ],
+          "sha256": "2cce67c7bdad09cdafb807de644a0546d72e2016077ea94dcf7b3224e9647114",
+          "config_position": {
+            "x": -57,
+            "y": -107
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "GUIZ1_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2082,
+      "goal_id": "guizhou2",
+      "internal_name": "guizhou2",
+      "location": "贵州·凯里·麻塘革家寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2082_guizhou2/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 264004,
+      "sha256": "892944e43aa88c6804711552861e200e0c9c5c7a2445d93fd8be5db74adbb5a5",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "aef90b55499514b0f63b2ef0279f21944a5bb997f7b020c71b21429ab17244ce",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            140,
+            187
+          ],
+          "size": [
+            44,
+            42
+          ],
+          "sha256": "ea85abe547f6bf663c3564003d24f2c7cd00913b1f635590eb3f6cd795f018c2",
+          "config_position": {
+            "x": -88,
+            "y": -33
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "GUIZ2_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2082,
+      "goal_id": "guizhou2",
+      "internal_name": "guizhou2",
+      "location": "贵州·凯里·麻塘革家寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2082_guizhou2/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 265819,
+      "sha256": "4c7b94d94f8e6d07bc388bbf5382a20a345b4b117bcc245b70a416e7d3c98c5f",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "aef90b55499514b0f63b2ef0279f21944a5bb997f7b020c71b21429ab17244ce",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            140,
+            187
+          ],
+          "size": [
+            44,
+            42
+          ],
+          "sha256": "ea85abe547f6bf663c3564003d24f2c7cd00913b1f635590eb3f6cd795f018c2",
+          "config_position": {
+            "x": -88,
+            "y": -33
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ2_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            180,
+            194
+          ],
+          "size": [
+            78,
+            35
+          ],
+          "sha256": "d4b8bbdb741f7b4407b8a9d67c3fd5d4d6f77dfb2062e1e8cbd26066ebf1ed5a",
+          "config_position": {
+            "x": -31,
+            "y": -36
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "GUIZ2_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2082,
+      "goal_id": "guizhou2",
+      "internal_name": "guizhou2",
+      "location": "贵州·凯里·麻塘革家寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2082_guizhou2/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 265851,
+      "sha256": "e5c2c757af575db659af711e9a9404b42fe56ded6e310b837e6dbc378daaf4b5",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "aef90b55499514b0f63b2ef0279f21944a5bb997f7b020c71b21429ab17244ce",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            140,
+            187
+          ],
+          "size": [
+            44,
+            42
+          ],
+          "sha256": "ea85abe547f6bf663c3564003d24f2c7cd00913b1f635590eb3f6cd795f018c2",
+          "config_position": {
+            "x": -88,
+            "y": -33
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ2_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            189,
+            186
+          ],
+          "size": [
+            40,
+            44
+          ],
+          "sha256": "686e81a02a2f40dd5572db05a374906b57db57608eb7a796d8bbba6a4e6394ef",
+          "config_position": {
+            "x": -41,
+            "y": -33
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "GUIZ2_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2082,
+      "goal_id": "guizhou2",
+      "internal_name": "guizhou2",
+      "location": "贵州·凯里·麻塘革家寨",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2082_guizhou2/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 266677,
+      "sha256": "01d8719b4c9d3e06d3846e0bfacaf1164da875a80f7f70cb27fa0795f4ae26e4",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "aef90b55499514b0f63b2ef0279f21944a5bb997f7b020c71b21429ab17244ce",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            140,
+            187
+          ],
+          "size": [
+            44,
+            42
+          ],
+          "sha256": "ea85abe547f6bf663c3564003d24f2c7cd00913b1f635590eb3f6cd795f018c2",
+          "config_position": {
+            "x": -88,
+            "y": -33
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ2_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            179,
+            170
+          ],
+          "size": [
+            58,
+            62
+          ],
+          "sha256": "a8e1c6d26f89b7f2c7a803259ad0928138c300e734f2ca45175b5d8b273ec3f0",
+          "config_position": {
+            "x": -42,
+            "y": -26
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "GUIZ2_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2083,
+      "goal_id": "guizhou3",
+      "internal_name": "guizhou3",
+      "location": "贵州贵阳·花溪夜郎谷",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 6,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2083_guizhou3/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 222364,
+      "sha256": "468275b1a3ec283cf48a43595d235267d50b39cdc9cc72a24e4eb17eaf8975cd",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "02610265937dbb308f1b3b5a350871ec0711a0919521b1c540bb107fb27150da",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            129,
+            212
+          ],
+          "size": [
+            78,
+            57
+          ],
+          "sha256": "115a1390fe36af24b0da3371920670846cf227ce498d5412bc47526a233ca480",
+          "config_position": {
+            "x": -82,
+            "y": -66
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "GUIZ3_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2083,
+      "goal_id": "guizhou3",
+      "internal_name": "guizhou3",
+      "location": "贵州贵阳·花溪夜郎谷",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 6,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2083_guizhou3/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 228025,
+      "sha256": "177f648ffa67fae1eadceecdf3f16f43fb8797322a714503773a22965755b03f",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "02610265937dbb308f1b3b5a350871ec0711a0919521b1c540bb107fb27150da",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            129,
+            212
+          ],
+          "size": [
+            78,
+            57
+          ],
+          "sha256": "115a1390fe36af24b0da3371920670846cf227ce498d5412bc47526a233ca480",
+          "config_position": {
+            "x": -82,
+            "y": -66
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ3_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            30,
+            122
+          ],
+          "size": [
+            93,
+            57
+          ],
+          "sha256": "8a019411fd071e6469f9a86cb209eb8de07f7d70f2fa5a5b89e16a1dcf930dfb",
+          "config_position": {
+            "x": -173,
+            "y": 25
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "GUIZ3_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2083,
+      "goal_id": "guizhou3",
+      "internal_name": "guizhou3",
+      "location": "贵州贵阳·花溪夜郎谷",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 6,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2083_guizhou3/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 225642,
+      "sha256": "c8257532c5ef1780ce48e4ddd95bd83d022397edc8bbe52a4c0520d02ea93406",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "02610265937dbb308f1b3b5a350871ec0711a0919521b1c540bb107fb27150da",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            129,
+            212
+          ],
+          "size": [
+            78,
+            57
+          ],
+          "sha256": "115a1390fe36af24b0da3371920670846cf227ce498d5412bc47526a233ca480",
+          "config_position": {
+            "x": -82,
+            "y": -66
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ3_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            56,
+            132
+          ],
+          "size": [
+            56,
+            45
+          ],
+          "sha256": "c18bfaff2a83797786ac10a28da5ca31fcc2ecbd457eaec4724c3c3260933d33",
+          "config_position": {
+            "x": -166,
+            "y": 21
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "GUIZ3_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2083,
+      "goal_id": "guizhou3",
+      "internal_name": "guizhou3",
+      "location": "贵州贵阳·花溪夜郎谷",
+      "place_id": null,
+      "region_key": "g_guizhou",
+      "region_name": "贵州",
+      "region_order": 22,
+      "location_order": 6,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2083_guizhou3/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 230139,
+      "sha256": "f7f2a7c525bb49c3e4cb7b8057cdf22ddd62a84d8d5ac0b8e8e77358df9aefbd",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "02610265937dbb308f1b3b5a350871ec0711a0919521b1c540bb107fb27150da",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_guizhou3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            129,
+            212
+          ],
+          "size": [
+            78,
+            57
+          ],
+          "sha256": "115a1390fe36af24b0da3371920670846cf227ce498d5412bc47526a233ca480",
+          "config_position": {
+            "x": -82,
+            "y": -66
+          },
+          "config_field": "frogPos",
+          "source_asset": "GUIZ3_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            96,
+            66
+          ],
+          "size": [
+            79,
+            105
+          ],
+          "sha256": "9f010f1ced2e36fc1ff87f8b44caa941b71c4c207df372ee46f4d0325683074b",
+          "config_position": {
+            "x": -114,
+            "y": 57
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "GUIZ3_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
       "picture_id": 2095,
       "goal_id": "ningxia4",
       "location": "宁夏·银川·宁夏博物馆",
@@ -50130,6 +53255,876 @@
           "source_asset": "NX6_YHC.png"
         }
       ]
+    },
+    {
+      "kind": "location",
+      "picture_id": 2084,
+      "goal_id": "ningxia1",
+      "internal_name": "ningxia1",
+      "location": "宁夏·银川·水洞沟",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2084_ningxia1/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 232472,
+      "sha256": "c6d35f098cb3fbab69d2943ec1b15af750e28309c2f6b18a24d6347e0050f85d",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "ef1b3d304be3f322c93d3ce6ce5a18180cc62e7df537ca678633bacb41056b48",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            83,
+            134
+          ],
+          "size": [
+            38,
+            19
+          ],
+          "sha256": "8e73211fd6821b806a135da776d788722f37025cfd35d6695cf9ebd8afd434a1",
+          "config_position": {
+            "x": -148,
+            "y": 32
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "NX1_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2084,
+      "goal_id": "ningxia1",
+      "internal_name": "ningxia1",
+      "location": "宁夏·银川·水洞沟",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2084_ningxia1/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 234185,
+      "sha256": "4b50e739403bbbb2ee3bc50cdd65b58618bc33011c3554bc8c39cb45b839a911",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "ef1b3d304be3f322c93d3ce6ce5a18180cc62e7df537ca678633bacb41056b48",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            83,
+            134
+          ],
+          "size": [
+            38,
+            19
+          ],
+          "sha256": "8e73211fd6821b806a135da776d788722f37025cfd35d6695cf9ebd8afd434a1",
+          "config_position": {
+            "x": -148,
+            "y": 32
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX1_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            52,
+            110
+          ],
+          "size": [
+            27,
+            38
+          ],
+          "sha256": "1e6b9330bf679570b9c3e54b9e91843d0eb1946fdf27f59e9695dbc4c7bbe1b9",
+          "config_position": {
+            "x": -185,
+            "y": 46
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "NX1_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2084,
+      "goal_id": "ningxia1",
+      "internal_name": "ningxia1",
+      "location": "宁夏·银川·水洞沟",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2084_ningxia1/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 234144,
+      "sha256": "2a7c94125a1cc62a6f800498b49cbe674c3a3656c3844699919d1157c27b054b",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "ef1b3d304be3f322c93d3ce6ce5a18180cc62e7df537ca678633bacb41056b48",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            83,
+            134
+          ],
+          "size": [
+            38,
+            19
+          ],
+          "sha256": "8e73211fd6821b806a135da776d788722f37025cfd35d6695cf9ebd8afd434a1",
+          "config_position": {
+            "x": -148,
+            "y": 32
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX1_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            51,
+            110
+          ],
+          "size": [
+            28,
+            33
+          ],
+          "sha256": "5c2b2a91fa91776d8bb929804e0db0ff0aa4864527068c8aeb477b6719dec44d",
+          "config_position": {
+            "x": -185,
+            "y": 49
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "NX1_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2084,
+      "goal_id": "ningxia1",
+      "internal_name": "ningxia1",
+      "location": "宁夏·银川·水洞沟",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 3,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2084_ningxia1/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 234622,
+      "sha256": "4388c7d305bb2cbbcd75d90d6b87e7ef0f93f8209be72224f20a6d4c571f56b6",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "ef1b3d304be3f322c93d3ce6ce5a18180cc62e7df537ca678633bacb41056b48",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia1.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            83,
+            134
+          ],
+          "size": [
+            38,
+            19
+          ],
+          "sha256": "8e73211fd6821b806a135da776d788722f37025cfd35d6695cf9ebd8afd434a1",
+          "config_position": {
+            "x": -148,
+            "y": 32
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX1_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            113,
+            79
+          ],
+          "size": [
+            46,
+            54
+          ],
+          "sha256": "1d1f6896da08e537c667ea34eb5e69c30520ae8cc990bba96114e79d3f180c73",
+          "config_position": {
+            "x": -114,
+            "y": 69
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "NX1_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2085,
+      "goal_id": "ningxia2",
+      "internal_name": "ningxia2",
+      "location": "宁夏·银川·龙门客栈",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2085_ningxia2/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 216060,
+      "sha256": "bc005a54e3937514b57e3f41b6f0a73e5588067b4d2d267191ebcd3f414ac739",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "bd53cb0c1c0c14e6dda3b4f41eccc5769a45ed789ebd2ce562c42aae2b739c7b",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            293,
+            230
+          ],
+          "size": [
+            46,
+            43
+          ],
+          "sha256": "eccb3ccf252a21fb1d471a2659a5443f9f34abc0f0f143ed4f578de2375ec9f2",
+          "config_position": {
+            "x": 66,
+            "y": -77
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "NX2_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2085,
+      "goal_id": "ningxia2",
+      "internal_name": "ningxia2",
+      "location": "宁夏·银川·龙门客栈",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2085_ningxia2/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 218553,
+      "sha256": "f1fc0992b3e1ce9efb1c51ad1e7e0ad60abecaceb58bae2b70dbdbc35ac277df",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "bd53cb0c1c0c14e6dda3b4f41eccc5769a45ed789ebd2ce562c42aae2b739c7b",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            293,
+            230
+          ],
+          "size": [
+            46,
+            43
+          ],
+          "sha256": "eccb3ccf252a21fb1d471a2659a5443f9f34abc0f0f143ed4f578de2375ec9f2",
+          "config_position": {
+            "x": 66,
+            "y": -77
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX2_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            326,
+            218
+          ],
+          "size": [
+            58,
+            45
+          ],
+          "sha256": "bd1dbcc68c00a30e8460a03665a5ef2c2892be91aff6e76de49e36ef71ba5cc3",
+          "config_position": {
+            "x": 105,
+            "y": -66
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "NX2_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2085,
+      "goal_id": "ningxia2",
+      "internal_name": "ningxia2",
+      "location": "宁夏·银川·龙门客栈",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2085_ningxia2/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 218183,
+      "sha256": "b8553839ee0734d8c3d596c052f2aed2693644021ad27b60acd547666f647bb0",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "bd53cb0c1c0c14e6dda3b4f41eccc5769a45ed789ebd2ce562c42aae2b739c7b",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            293,
+            230
+          ],
+          "size": [
+            46,
+            43
+          ],
+          "sha256": "eccb3ccf252a21fb1d471a2659a5443f9f34abc0f0f143ed4f578de2375ec9f2",
+          "config_position": {
+            "x": 66,
+            "y": -77
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX2_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            342,
+            228
+          ],
+          "size": [
+            37,
+            35
+          ],
+          "sha256": "4388793b64bc8213dc77624b444fe1fc0d4de92029864b275d46031d17e7583e",
+          "config_position": {
+            "x": 110,
+            "y": -70
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "NX2_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2085,
+      "goal_id": "ningxia2",
+      "internal_name": "ningxia2",
+      "location": "宁夏·银川·龙门客栈",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 4,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2085_ningxia2/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 221185,
+      "sha256": "076ec6d80608773e45bb720f545226d0633c5aeb0e3084c4fc3fac5b180fe56d",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "bd53cb0c1c0c14e6dda3b4f41eccc5769a45ed789ebd2ce562c42aae2b739c7b",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia2.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            293,
+            230
+          ],
+          "size": [
+            46,
+            43
+          ],
+          "sha256": "eccb3ccf252a21fb1d471a2659a5443f9f34abc0f0f143ed4f578de2375ec9f2",
+          "config_position": {
+            "x": 66,
+            "y": -77
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX2_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            304,
+            153
+          ],
+          "size": [
+            51,
+            74
+          ],
+          "sha256": "84e16019a8f595483184d8e6b38a1e9606959287e0decdf0f4d0eacd53e8ec2f",
+          "config_position": {
+            "x": 79,
+            "y": -15
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "NX2_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2086,
+      "goal_id": "ningxia3",
+      "internal_name": "ningxia3",
+      "location": "宁夏·银川·宁夏博物馆",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 0,
+      "variant_id": "solo",
+      "variant_label": "青蛙单人",
+      "path": "media/goal-postcards/2086_ningxia3/solo.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 183034,
+      "sha256": "28bf66006a0fc35657ffab042bb15eb31bcf923f6bd87b52737920fb554fabe9",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "0af77c5e64ae388d639e0958df83b7fa84b4b9cd2be99d922a7cf3f2647db4e7",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            360,
+            187
+          ],
+          "size": [
+            49,
+            44
+          ],
+          "sha256": "c90be85172d262ea9a787efcc2d25b5ef2a341d8b66f8fe40f3b9169872e18c0",
+          "config_position": {
+            "x": 135,
+            "y": -34
+          },
+          "config_field": "frogPos_s",
+          "source_asset": "NX3_QW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2086,
+      "goal_id": "ningxia3",
+      "internal_name": "ningxia3",
+      "location": "宁夏·银川·宁夏博物馆",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 1,
+      "variant_id": "bh",
+      "variant_label": "青蛙 + 壁虎",
+      "path": "media/goal-postcards/2086_ningxia3/bh.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 185068,
+      "sha256": "ece01dca83982c774f27b31183d670bf8d9d81f24480d0f1501fbfe89cf02a77",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "0af77c5e64ae388d639e0958df83b7fa84b4b9cd2be99d922a7cf3f2647db4e7",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            360,
+            187
+          ],
+          "size": [
+            49,
+            44
+          ],
+          "sha256": "c90be85172d262ea9a787efcc2d25b5ef2a341d8b66f8fe40f3b9169872e18c0",
+          "config_position": {
+            "x": 135,
+            "y": -34
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX3_QW.png"
+        },
+        {
+          "role": "壁虎",
+          "top_left": [
+            412,
+            172
+          ],
+          "size": [
+            39,
+            52
+          ],
+          "sha256": "5fdf088875ea35d608c6df5f4a3e3d9ff462856deca92c031fc03956d112b366",
+          "config_position": {
+            "x": 181,
+            "y": -23
+          },
+          "config_field": "travelerPos[0]",
+          "source_asset": "NX3_BH.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2086,
+      "goal_id": "ningxia3",
+      "internal_name": "ningxia3",
+      "location": "宁夏·银川·宁夏博物馆",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 2,
+      "variant_id": "cw",
+      "variant_label": "青蛙 + 刺猬",
+      "path": "media/goal-postcards/2086_ningxia3/cw.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 184301,
+      "sha256": "ab852d8dd121655061f55f4bae7915c1631589e8738f564ae55132c06f8bdc45",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "0af77c5e64ae388d639e0958df83b7fa84b4b9cd2be99d922a7cf3f2647db4e7",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            360,
+            187
+          ],
+          "size": [
+            49,
+            44
+          ],
+          "sha256": "c90be85172d262ea9a787efcc2d25b5ef2a341d8b66f8fe40f3b9169872e18c0",
+          "config_position": {
+            "x": 135,
+            "y": -34
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX3_QW.png"
+        },
+        {
+          "role": "刺猬",
+          "top_left": [
+            409,
+            168
+          ],
+          "size": [
+            44,
+            51
+          ],
+          "sha256": "f3b0a8299cee757e00b53251e5837d27ebeefea0b18e1c9c731396ea8723d0a5",
+          "config_position": {
+            "x": 181,
+            "y": -19
+          },
+          "config_field": "travelerPos[1]",
+          "source_asset": "NX3_CW.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
+    },
+    {
+      "kind": "location",
+      "picture_id": 2086,
+      "goal_id": "ningxia3",
+      "internal_name": "ningxia3",
+      "location": "宁夏·银川·宁夏博物馆",
+      "place_id": null,
+      "region_key": "g_ningxia",
+      "region_name": "宁夏",
+      "region_order": 23,
+      "location_order": 5,
+      "picture_type": "Goal",
+      "variant_order": 3,
+      "variant_id": "yhc",
+      "variant_label": "青蛙 + 萤火虫",
+      "path": "media/goal-postcards/2086_ningxia3/yhc.png",
+      "width": 500,
+      "height": 350,
+      "file_size": 188831,
+      "sha256": "2201c546e039bc1acf1a3e195837620d75b0e2d4a1652e5aedaddb10199cb56f",
+      "layers": [
+        {
+          "role": "背景",
+          "top_left": [
+            0,
+            0
+          ],
+          "size": [
+            500,
+            350
+          ],
+          "sha256": "0af77c5e64ae388d639e0958df83b7fa84b4b9cd2be99d922a7cf3f2647db4e7",
+          "rendered_size": [
+            500,
+            350
+          ],
+          "source_asset": "g_ningxia3.png"
+        },
+        {
+          "role": "青蛙",
+          "top_left": [
+            360,
+            187
+          ],
+          "size": [
+            49,
+            44
+          ],
+          "sha256": "c90be85172d262ea9a787efcc2d25b5ef2a341d8b66f8fe40f3b9169872e18c0",
+          "config_position": {
+            "x": 135,
+            "y": -34
+          },
+          "config_field": "frogPos",
+          "source_asset": "NX3_QW.png"
+        },
+        {
+          "role": "萤火虫",
+          "top_left": [
+            398,
+            108
+          ],
+          "size": [
+            67,
+            77
+          ],
+          "sha256": "757be1d2669799f2e63f29f310ee3acbde1ab574b75e718ffaff2add3839dace",
+          "config_position": {
+            "x": 181,
+            "y": 28
+          },
+          "config_field": "travelerPos[2]",
+          "source_asset": "NX3_YHC.png"
+        }
+      ],
+      "ownership_status": "客户端静态资源组合，不代表账号已拥有或曾生成此照片"
     },
     {
       "picture_id": 2087,

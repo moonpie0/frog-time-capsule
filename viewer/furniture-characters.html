@@ -63,6 +63,10 @@ async function loadDragon(name, armature, animation, position) {
   if(!(factory.getTextureAtlasData(name) || []).length) { const texture=new egret.Texture(); texture.bitmapData=new egret.BitmapData(img); factory.parseTextureAtlasData(tex,texture,name); }
   const display=factory.buildArmatureDisplay(armature,name); if(!display) throw new Error('DragonBones 骨架缺失：'+name);
   display.x=position.x; display.y=position.y; display.animation.play(animation);
+  if(name==='LW_writing') {
+    const penSlot=display.armature.getSlot('pen');
+    if(penSlot) penSlot.displayIndex=armature==='write' ? 0 : 1;
+  }
   return display;
 }
 
@@ -100,6 +104,9 @@ async function applyState(state) {
     current={...state, anm:nextAnm}; anmFrame=0; anmContext.clearRect(0,0,anmCanvas.width,anmCanvas.height);
     document.body.dataset.area=state.area;
     document.body.dataset.frog=state.frog || '';
+    document.body.dataset.pen=state.area==='house' && state.frog==='hikki_ie' ? (state.pen || 'write') : '';
+    const penSlot=state.area==='house' && state.frog==='hikki_ie' ? dragonDisplays[0]?.armature?.getSlot('pen') : null;
+    document.body.dataset.penDisplay=penSlot?.childArmature?.armatureData?.name || '';
     document.body.dataset.friend=state.area==='courtyard' ? state.friend : '';
     document.body.dataset.weather=state.area==='courtyard' ? String(state.weather) : '';
     document.body.dataset.ready='true'; window.parent.postMessage({type:'frog-furniture-characters-ready'},'*'); resume();
