@@ -168,8 +168,8 @@
         "animation": "animation",
         "container": "sleep",
         "offset": [
-          0,
-          0
+          -130,
+          40
         ]
       },
       {
