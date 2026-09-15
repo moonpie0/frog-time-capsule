@@ -1,0 +1,1193 @@
+{
+  "schema_version": 1,
+  "status": "available",
+  "resource_version": 1088,
+  "source": "verified_client_Item_config_and_ToolBagView_grouping",
+  "categories": [
+    {
+      "name": "工具",
+      "count": 17
+    },
+    {
+      "name": "材料",
+      "count": 23
+    },
+    {
+      "name": "庭院",
+      "count": 17
+    },
+    {
+      "name": "其他",
+      "count": 4
+    }
+  ],
+  "count": 61,
+  "records": [
+    {
+      "id": 7000,
+      "category": "工具",
+      "order": 0,
+      "name": "手工品制作工具",
+      "description": "有了制作工具 接下来就是备好材料了",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/c5f79f94136a10c112aa2e28afd62c629e1d585f40cfeb7cea8aabd0cf833195.png",
+        "file_size": 13176,
+        "sha256": "c5f79f94136a10c112aa2e28afd62c629e1d585f40cfeb7cea8aabd0cf833195",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_42_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 7001,
+      "category": "工具",
+      "order": 1,
+      "name": "友情绘本",
+      "description": "绘有小伙伴的空画本 似乎藏着什么大惊喜",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/ecb794dab82f26917bcfc4ec5d0fa60f118e9c1062729ab83440b50a06db1139.png",
+        "file_size": 28179,
+        "sha256": "ecb794dab82f26917bcfc4ec5d0fa60f118e9c1062729ab83440b50a06db1139",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_60_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 10201,
+      "category": "工具",
+      "order": 2,
+      "name": "简易锯子",
+      "description": "看起来像是一把弓 但并不是",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_1_1.png",
+        "file_size": 15061,
+        "sha256": "0417b52c103d754eb8e9ef522b237d49cfa2e9502ded2d1e8b679ef05f4201e8",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_1_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_1_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10202,
+      "category": "工具",
+      "order": 3,
+      "name": "简易毛刷",
+      "description": "软软的毛长长的刷 一定很好用吧",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_2_1.png",
+        "file_size": 18255,
+        "sha256": "f2f4fdcfa515b1a5efd4e80fc3ae84b60e48be6f3ad00cb5acb347e75364942c",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_2_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_2_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10203,
+      "category": "工具",
+      "order": 4,
+      "name": "简易锤子",
+      "description": "石头上的气孔有点像一种食物 但这不影响使用",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_3_1.png",
+        "file_size": 18870,
+        "sha256": "efbfc1052630ad79209ca6116941d28360ac91ed171b309417e807e6e979c851",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_3_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_3_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10204,
+      "category": "工具",
+      "order": 5,
+      "name": "简易棒针",
+      "description": "用来做筷子也不是不行 当然这其实是一种工具",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_4_1.png",
+        "file_size": 15617,
+        "sha256": "7ec20c5874312cf98cc119d8ef0327ce685aa23a0a8875fff65ddc209b0f9425",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_4_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_4_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10205,
+      "category": "工具",
+      "order": 6,
+      "name": "简易小刀",
+      "description": "虽然不算锋利 但是用来裁剪布料和纸是足够了",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_5_1.png",
+        "file_size": 12122,
+        "sha256": "8326e7230473cfc58e5bec885a0ea45f07afcbf91fc8a0bfb805f51c2938bb8f",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_5_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_5_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10211,
+      "category": "工具",
+      "order": 7,
+      "name": "实用锯子",
+      "description": "弓弦拉紧一点 可以锯快一点多一点",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_1_2.png",
+        "file_size": 13021,
+        "sha256": "3fd2eec76a0037a558b0d0a05db642b9c1845699204f94afb2c68f91e5386898",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_1_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_1_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10212,
+      "category": "工具",
+      "order": 8,
+      "name": "实用毛刷",
+      "description": "刷子大一些 刷得快一些又多一些",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_2_2.png",
+        "file_size": 19069,
+        "sha256": "854f05f898c79df66ef9a0e28caedb80831936173ac6c27b759253f880b21310",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_2_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_2_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10213,
+      "category": "工具",
+      "order": 9,
+      "name": "实用锤子",
+      "description": "锤子磨平再加固 抡起来更顺手也更快了",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_3_2.png",
+        "file_size": 21855,
+        "sha256": "cacfe8fe49c66ab6f77323e023740c30e6ee83db3ff9e1250b15a7358108e945",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_3_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_3_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10214,
+      "category": "工具",
+      "order": 10,
+      "name": "实用棒针",
+      "description": "把棒针打磨光滑 编织得更快更多了",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_4_2.png",
+        "file_size": 13483,
+        "sha256": "a767f819da123fdffd523227886fed58e45ac9377894f7f5785c5cea0afd9fff",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_4_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_4_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10215,
+      "category": "工具",
+      "order": 11,
+      "name": "实用小刀",
+      "description": "打磨过的切口 裁剪起来就平整多了",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_5_2.png",
+        "file_size": 13216,
+        "sha256": "4fe78ad1d1c4a4b5a8ead1dfc1ef3008be14c83a8dfec6f1654be79c832527a5",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_5_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_5_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10221,
+      "category": "工具",
+      "order": 12,
+      "name": "精制锯子",
+      "description": "不起眼 却又可以开天辟地",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_1_1.png",
+        "file_size": 15061,
+        "sha256": "0417b52c103d754eb8e9ef522b237d49cfa2e9502ded2d1e8b679ef05f4201e8",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_1_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_1_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10222,
+      "category": "工具",
+      "order": 13,
+      "name": "精制毛刷",
+      "description": "不起眼 却又可以开天辟地",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_2_1.png",
+        "file_size": 18255,
+        "sha256": "f2f4fdcfa515b1a5efd4e80fc3ae84b60e48be6f3ad00cb5acb347e75364942c",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_2_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_2_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10223,
+      "category": "工具",
+      "order": 14,
+      "name": "精制锤子",
+      "description": "不起眼 却又可以开天辟地",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_3_1.png",
+        "file_size": 18870,
+        "sha256": "efbfc1052630ad79209ca6116941d28360ac91ed171b309417e807e6e979c851",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_3_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_3_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10224,
+      "category": "工具",
+      "order": 15,
+      "name": "精制棒针",
+      "description": "不起眼 却又可以开天辟地",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_4_1.png",
+        "file_size": 15617,
+        "sha256": "7ec20c5874312cf98cc119d8ef0327ce685aa23a0a8875fff65ddc209b0f9425",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_4_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_4_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10225,
+      "category": "工具",
+      "order": 16,
+      "name": "精制小刀",
+      "description": "不起眼 却又可以开天辟地",
+      "price": 0,
+      "image": {
+        "path": "media/tools/gongju_5_1.png",
+        "file_size": 12122,
+        "sha256": "8326e7230473cfc58e5bec885a0ea45f07afcbf91fc8a0bfb805f51c2938bb8f",
+        "width": 170,
+        "height": 170,
+        "resource_key": "gongju_5_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/gongju_5_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 8000,
+      "category": "材料",
+      "order": 17,
+      "name": "手工品材料",
+      "description": "准备好材料后 就等着蛙蛙大显身手了",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/afdba1017cd39414284197d963b57c77a9cd3c161f8cc5db8229051eab9bedd5.png",
+        "file_size": 22200,
+        "sha256": "afdba1017cd39414284197d963b57c77a9cd3c161f8cc5db8229051eab9bedd5",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_43_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 8001,
+      "category": "材料",
+      "order": 18,
+      "name": "朽木",
+      "description": "树皮裂开的老木头 不做手工还瞧不出树芯的好坏",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/e10931924d6c23199931cbe6749473fd3b01f7a048761dcff792427286e965f3.png",
+        "file_size": 20296,
+        "sha256": "e10931924d6c23199931cbe6749473fd3b01f7a048761dcff792427286e965f3",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_94_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 8002,
+      "category": "材料",
+      "order": 19,
+      "name": "单色显影液",
+      "description": "一种新奇的液体 用在制作动态照片时略有效果",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/fb443c83a475f1ac399498494b6740fbf970e8dff909f72c4366a09a70ce3288.png",
+        "file_size": 9819,
+        "sha256": "fb443c83a475f1ac399498494b6740fbf970e8dff909f72c4366a09a70ce3288",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_601_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 8003,
+      "category": "材料",
+      "order": 20,
+      "name": "双色显影液",
+      "description": "一种新奇的液体 用在制作动态照片时真有效果",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/887ef66064f2475a1c378b6614fc600f3ea61ce4d302a03c5cbbb965ddbbef65.png",
+        "file_size": 11471,
+        "sha256": "887ef66064f2475a1c378b6614fc600f3ea61ce4d302a03c5cbbb965ddbbef65",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_602_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 8004,
+      "category": "材料",
+      "order": 21,
+      "name": "多色显影液",
+      "description": "一种新奇的液体 用在制作动态照片时效果显著",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/083caf1031689be7f21d257c878a638e2cc8d7d5a27f11f1ae3b4c566da134a9.png",
+        "file_size": 13420,
+        "sha256": "083caf1031689be7f21d257c878a638e2cc8d7d5a27f11f1ae3b4c566da134a9",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_603_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 10001,
+      "category": "材料",
+      "order": 22,
+      "name": "松木",
+      "description": "原始的木料 树皮都还在",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_putong_1.png",
+        "file_size": 20769,
+        "sha256": "8b371eceda193e384f105665939e21ec1f3b4ab809ae012024131f548e28793b",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_putong_1_png",
+        "source_kind": "hot_update_cache",
+        "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+        "resource_version": 1078,
+        "source_entry": "texture/furniture/cailiao_putong_1.png"
+      }
+    },
+    {
+      "id": 10002,
+      "category": "材料",
+      "order": 23,
+      "name": "楠竹",
+      "description": "新鲜的竹子 能闻到竹林的味道",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_putong_2.png",
+        "file_size": 14076,
+        "sha256": "3b7b1fddbd179becb7dd771a9d49daec7390c35e8294d24a18cc9398368f0aaf",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_putong_2_png",
+        "source_kind": "hot_update_cache",
+        "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+        "resource_version": 1078,
+        "source_entry": "texture/furniture/cailiao_putong_2.png"
+      }
+    },
+    {
+      "id": 10003,
+      "category": "材料",
+      "order": 24,
+      "name": "砂石",
+      "description": "不起眼的石头 却是很好用的材料",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_putong_3.png",
+        "file_size": 14249,
+        "sha256": "96b3f0ee5fcae8913169cf2c958812ed3c8a0386b539cf81bc59864b4efd172c",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_putong_3_png",
+        "source_kind": "hot_update_cache",
+        "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+        "resource_version": 1078,
+        "source_entry": "texture/furniture/cailiao_putong_3.png"
+      }
+    },
+    {
+      "id": 10004,
+      "category": "材料",
+      "order": 25,
+      "name": "灯芯草",
+      "description": "虽然中间是空心的 但是却很坚韧",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_putong_4.png",
+        "file_size": 18580,
+        "sha256": "f4fdd89b8c5ae54bf675bf082138bc474c09525a4bf88d7d32404fc8ee94bcbf",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_putong_4_png",
+        "source_kind": "hot_update_cache",
+        "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+        "resource_version": 1078,
+        "source_entry": "texture/furniture/cailiao_putong_4.png"
+      }
+    },
+    {
+      "id": 10005,
+      "category": "材料",
+      "order": 26,
+      "name": "粗布",
+      "description": "很普通的布料 适合印染裁缝",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_putong_5.png",
+        "file_size": 14438,
+        "sha256": "ab9f5bc24b49cb2cfa27a722bcf40cc170ff2f1562bd775ee96e31b90dfd55f5",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_putong_5_png",
+        "source_kind": "hot_update_cache",
+        "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+        "resource_version": 1078,
+        "source_entry": "texture/furniture/cailiao_putong_5.png"
+      }
+    },
+    {
+      "id": 10006,
+      "category": "材料",
+      "order": 27,
+      "name": "毛边纸",
+      "description": "有点粗糙的 但是不影响书写",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_putong_6.png",
+        "file_size": 16061,
+        "sha256": "7f4d2c753567b7ec1b08f4bff06385f182e8044f667fd4a09943072767a2054c",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_putong_6_png",
+        "source_kind": "hot_update_cache",
+        "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+        "resource_version": 1078,
+        "source_entry": "texture/furniture/cailiao_putong_6.png"
+      }
+    },
+    {
+      "id": 10007,
+      "category": "材料",
+      "order": 28,
+      "name": "铜块",
+      "description": "红色的矿石 放在潮湿空气中会变绿",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_putong_7.png",
+        "file_size": 17135,
+        "sha256": "1d1de49beed17c9421d7308c9cd706a6167be9fdbe14959c81ae865161301f2f",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_putong_7_png",
+        "source_kind": "hot_update_cache",
+        "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+        "resource_version": 1078,
+        "source_entry": "texture/furniture/cailiao_putong_7.png"
+      }
+    },
+    {
+      "id": 10101,
+      "category": "材料",
+      "order": 29,
+      "name": "岩纹石",
+      "description": "有着天然岩石纹理的石块 是原始的气息",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_1.png",
+        "file_size": 20579,
+        "sha256": "72a9a3c67ec5f17fc1e0c3a068cfeaa503a01d43dd37696afa610c59f7ea1bcc",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10102,
+      "category": "材料",
+      "order": 30,
+      "name": "正丹纸",
+      "description": "不易褪色的万年红 装点起来迎接新年",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_2.png",
+        "file_size": 25856,
+        "sha256": "6c2c1b746fbbe9940cc0859b12cf8230bcaf4cd0f044fa08478c46f0d05bd0ec",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10103,
+      "category": "材料",
+      "order": 31,
+      "name": "棕榈叶",
+      "description": "来自雨林的树叶 带来一阵清凉的风",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_3.png",
+        "file_size": 26913,
+        "sha256": "6a67d0e65520ea60534f9b86ae8d90952659d5be85b11409888efc91a21f3ea9",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_3_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_3.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10104,
+      "category": "材料",
+      "order": 32,
+      "name": "海螺贝",
+      "description": "可以听到浪花的声音 有种海风吹过的感觉",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_4.png",
+        "file_size": 21207,
+        "sha256": "1a2bc46005a26576fb28efbea5160023b69827a4a7e4375238c2fc8fb7a6bd1b",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_4_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_4.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10105,
+      "category": "材料",
+      "order": 33,
+      "name": "紫檀木",
+      "description": "坚硬而珍稀的紫红色木料 泛着古典的微光",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_5.png",
+        "file_size": 24882,
+        "sha256": "0749677981a43e2de9e9487cb02a6ffd27dc33c75428a78aabf98e0cc1896f87",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_5_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_5.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10106,
+      "category": "材料",
+      "order": 34,
+      "name": "细篷布",
+      "description": "防水防晒又坚韧 很适合户外使用",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_6.png",
+        "file_size": 22852,
+        "sha256": "f5a99b64e0dd6716775a47f92361d833ea3ac896bb0eb57668770ac6c741042e",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_6_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_6.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10107,
+      "category": "材料",
+      "order": 35,
+      "name": "秋芦荻",
+      "description": "秋天的野草 带来了丰收的灵感",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_7.png",
+        "file_size": 22209,
+        "sha256": "0a0a046d70f74601c84d5ca68f1f0d193098cddc128967db1ca41de609b33e5b",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_7_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_7.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 10108,
+      "category": "材料",
+      "order": 36,
+      "name": "织彩带",
+      "description": "用缤纷彩带 编织一场梦幻庆典吧",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_8.png",
+        "file_size": 30612,
+        "sha256": "b8a895a063b395d910dafb0c9aa9cde15df9ca0654cd927a360e0026b9fe6c3b",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_8_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_8.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 11001,
+      "category": "材料",
+      "order": 37,
+      "name": "植物果实",
+      "description": "有一颗种子 就可以期待一个奇迹",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_1001.png",
+        "file_size": 20970,
+        "sha256": "218388f0289fe8ff3de9f216ba9cacd1ea42808993e1e9d802364ed755407851",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_1001_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_1001.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 11101,
+      "category": "材料",
+      "order": 38,
+      "name": "手工合页",
+      "description": "转动一下 便是一片新的天地",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_1101.png",
+        "file_size": 27955,
+        "sha256": "aa7ec31fdf242903f4e20acef2f36366e7b9e7cb2f66c2189f21846dd167d9bc",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_1101_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_1101.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 11102,
+      "category": "材料",
+      "order": 39,
+      "name": "彩色编绳",
+      "description": "把忙碌的日子 编进一个挂兜里",
+      "price": 0,
+      "image": {
+        "path": "media/tools/cailiao_teshu_1102.png",
+        "file_size": 26143,
+        "sha256": "dd3cbc4d13270c98dda02ce3d7d82642c03e08cf950c1e7123749981d8cb6b70",
+        "width": 170,
+        "height": 170,
+        "resource_key": "cailiao_teshu_1102_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_1102.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20001,
+      "category": "庭院",
+      "order": 40,
+      "name": "一号水溶肥",
+      "description": "快速溶解释放一些肥力 肥效较短",
+      "price": 0,
+      "image": {
+        "path": "media/tools/dfx_srf_1.png",
+        "file_size": 23323,
+        "sha256": "969715c58ff7f39a711dc5b51f12f78d222e804e3e97d49171111f80c5cb4f72",
+        "width": 250,
+        "height": 250,
+        "resource_key": "dfx_srf_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/dfx_srf_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20002,
+      "category": "庭院",
+      "order": 41,
+      "name": "二号水溶肥",
+      "description": "快速溶解释放较多肥力 肥效较短",
+      "price": 0,
+      "image": {
+        "path": "media/tools/dfx_srf_2.png",
+        "file_size": 26445,
+        "sha256": "c57fb3b7649aef26302fb7e5ee9834656ad90ad9437e53cb626c89c19ba45d6e",
+        "width": 250,
+        "height": 250,
+        "resource_key": "dfx_srf_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/dfx_srf_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20003,
+      "category": "庭院",
+      "order": 42,
+      "name": "三号水溶肥",
+      "description": "快速溶解释放大量肥力 肥效较短",
+      "price": 0,
+      "image": {
+        "path": "media/tools/dfx_srf_3.png",
+        "file_size": 25956,
+        "sha256": "db51bb7f043b9b660972b55db9b77c89f9649d9686bf1e535c7c4e32d7dcb1d8",
+        "width": 250,
+        "height": 250,
+        "resource_key": "dfx_srf_3_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/dfx_srf_3.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20004,
+      "category": "庭院",
+      "order": 43,
+      "name": "缓释肥一号",
+      "description": "缓慢释放一些肥力 肥效较为持久",
+      "price": 0,
+      "image": {
+        "path": "media/tools/dfx_hsf_1.png",
+        "file_size": 36508,
+        "sha256": "e37fdc8051b3fc906fe149ab943c16a46e6406d49177c3eea7ca45d1e5a81038",
+        "width": 250,
+        "height": 250,
+        "resource_key": "dfx_hsf_1_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/dfx_hsf_1.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20005,
+      "category": "庭院",
+      "order": 44,
+      "name": "缓释肥二号",
+      "description": "缓慢释放较多肥力 肥效较为持久",
+      "price": 0,
+      "image": {
+        "path": "media/tools/dfx_hsf_2.png",
+        "file_size": 41951,
+        "sha256": "2033062fe552f899946d6e8a6f2805e1dbf7648b44d63ec7469bfcc8f85e99eb",
+        "width": 250,
+        "height": 250,
+        "resource_key": "dfx_hsf_2_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/dfx_hsf_2.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20006,
+      "category": "庭院",
+      "order": 45,
+      "name": "缓释肥三号",
+      "description": "缓慢释放大量肥力 肥效较为持久",
+      "price": 0,
+      "image": {
+        "path": "media/tools/dfx_hsf_3.png",
+        "file_size": 48597,
+        "sha256": "22dd66126b66acdbcf0e6d036c2115d80be970fa1e75d363fff27d04baca2a34",
+        "width": 250,
+        "height": 250,
+        "resource_key": "dfx_hsf_3_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/dfx_hsf_3.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20101,
+      "category": "庭院",
+      "order": 46,
+      "name": "种子·角堇",
+      "description": "草本植物的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_jiaojin.png",
+        "file_size": 31532,
+        "sha256": "3a778ca87f25964cc4fa313489c10152ddc34d64f1c290401e778b7612af5022",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_jiaojin_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_jiaojin.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20102,
+      "category": "庭院",
+      "order": 47,
+      "name": "种球·葡萄风信子",
+      "description": "球根植物的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_pufeng.png",
+        "file_size": 31750,
+        "sha256": "97bc45d63231f4292cbf9f33877617672f5ecb8d3ad98ce500305919bd7ba717",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_pufeng_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_pufeng.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20103,
+      "category": "庭院",
+      "order": 48,
+      "name": "种子·拇指萝卜",
+      "description": "瓜果蔬菜的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_huluobo.png",
+        "file_size": 30207,
+        "sha256": "b513adca79aa14992163810f030fe2f1174c31122652d59c440521607b48ad73",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_huluobo_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_huluobo.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20104,
+      "category": "庭院",
+      "order": 49,
+      "name": "种球·风信子",
+      "description": "球根植物的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_fengxinzi.png",
+        "file_size": 31516,
+        "sha256": "cfd942f945c4d6446c38a144ac63fbb20a6a10488f14edadb58dcad9d658393b",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_fengxinzi_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_fengxinzi.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20105,
+      "category": "庭院",
+      "order": 50,
+      "name": "种球·网脉鸢尾",
+      "description": "球根植物的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_wmyuanwei.png",
+        "file_size": 31229,
+        "sha256": "dfcd17a2d5bd13815b205c64216377e23119e32efd4734db3821f287e2438663",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_wmyuanwei_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_wmyuanwei.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20106,
+      "category": "庭院",
+      "order": 51,
+      "name": "种球·郁金香",
+      "description": "球根植物的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_yujinxiang.png",
+        "file_size": 30801,
+        "sha256": "94f826e996635a3738e582c915327b61b677abb416df4d6552ace542f05c744d",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_yujinxiang_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_yujinxiang.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20107,
+      "category": "庭院",
+      "order": 52,
+      "name": "种子·樱桃萝卜",
+      "description": "瓜果蔬菜的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_ytluobo.png",
+        "file_size": 30680,
+        "sha256": "6f17e2b01a6c3fe0785b19959909d4775e0dfdd79d4563af6a14cf6b90b79f3f",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_ytluobo_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_ytluobo.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20108,
+      "category": "庭院",
+      "order": 53,
+      "name": "种子·樱桃番茄",
+      "description": "瓜果蔬菜的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_ytfanqie.png",
+        "file_size": 31159,
+        "sha256": "b3809aa078ffe6e123b513f4e55119be7727a4508d747dcaf095a113f49d58d7",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_ytfanqie_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_ytfanqie.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20109,
+      "category": "庭院",
+      "order": 54,
+      "name": "种子·草莓",
+      "description": "瓜果蔬菜的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_caomei.png",
+        "file_size": 30539,
+        "sha256": "4d618ae8e43ba3403e8e7901acaec923256b104c17ea29f0d06814dd63aa3bd8",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_caomei_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_caomei.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20110,
+      "category": "庭院",
+      "order": 55,
+      "name": "种子·迷你南瓜",
+      "description": "瓜果蔬菜的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_nangua.png",
+        "file_size": 30596,
+        "sha256": "b2f6caba1996ef1752e813792d82d8f7c9c6bdb2bb5ca527add359cbe5a8c626",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_nangua_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_nangua.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 20111,
+      "category": "庭院",
+      "order": 56,
+      "name": "种球·铃兰",
+      "description": "球根植物的种子 来访的邻居似乎很感兴趣",
+      "price": 0,
+      "image": {
+        "path": "media/tools/seed_linglan.png",
+        "file_size": 31170,
+        "sha256": "203a2007bf476e0fb16cd82fc2299b0a8e0b3dda9205b3e14e7161b003f7f2b1",
+        "width": 250,
+        "height": 250,
+        "resource_key": "seed_linglan_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/texture/courtyard/seed_linglan.png",
+        "resource_version": "APK 1.0.20"
+      }
+    },
+    {
+      "id": 5502,
+      "category": "其他",
+      "order": 57,
+      "name": "木制护符的三拼技巧",
+      "description": "等待凑齐后的拼接 希望可以求个好运吧",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/274e8547606d91bfeda102d6b1c750db6f2c662c3893fd0f5fad6f325129ac88.png",
+        "file_size": 22661,
+        "sha256": "274e8547606d91bfeda102d6b1c750db6f2c662c3893fd0f5fad6f325129ac88",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_250_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 9000,
+      "category": "其他",
+      "order": 58,
+      "name": "相册扩容",
+      "description": "相册的烦恼 又远离了一点点",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/269f4c67ec0638e219947e79d49989e1201f5f6bff1e7cad31aa2089180ef186.png",
+        "file_size": 24965,
+        "sha256": "269f4c67ec0638e219947e79d49989e1201f5f6bff1e7cad31aa2089180ef186",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_39_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 9001,
+      "category": "其他",
+      "order": 59,
+      "name": "动态相框",
+      "description": "特殊的相框 是制作动态照片的保障",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/390286259b7cee7e68513095c11809d62b126ddb1d9b44293aaefe988aab10ad.png",
+        "file_size": 16739,
+        "sha256": "390286259b7cee7e68513095c11809d62b126ddb1d9b44293aaefe988aab10ad",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_604_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    },
+    {
+      "id": 9002,
+      "category": "其他",
+      "order": 60,
+      "name": "照片存储开启物",
+      "description": "有了这个 就能凑照片图集了",
+      "price": 0,
+      "image": {
+        "path": "media/resource-catalog/images/5a3529791f1ab98bbdeb52fbc5419ce81dcbd521fbe08485dbfbf239095aed93.png",
+        "file_size": 16823,
+        "sha256": "5a3529791f1ab98bbdeb52fbc5419ce81dcbd521fbe08485dbfbf239095aed93",
+        "width": 170,
+        "height": 170,
+        "resource_key": "goods_605_png",
+        "source_kind": "resource_catalog",
+        "source_member": "media/resource-catalog/raw/43af5957dd9cf27e2c3f8624f4898de0025d71711d5ec9c0a4d929b0540ef0bc.png",
+        "resource_version": 1079
+      }
+    }
+  ]
+}
