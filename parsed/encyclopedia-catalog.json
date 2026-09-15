@@ -5967,7 +5967,9 @@
         "category": "食物",
         "name": "华夫饼",
         "sub_name": "奶油华夫饼",
+        "inventory_name": "奶油华夫饼",
         "info": "只能拿来垫垫肚子的点心 闲逛时候的随身零食",
+        "price": 10,
         "description": [
           "可从商店购得",
           "便宜但是走不远",
@@ -6006,7 +6008,9 @@
         "category": "食物",
         "name": "可丽饼",
         "sub_name": "草莓可丽饼",
+        "inventory_name": "草莓可丽饼",
         "info": "刚好可以吃饱的卷饼小吃 短途观光的美味餐点",
+        "price": 30,
         "description": [
           "可从商店购得",
           "抵达不了太远的远方",
@@ -6045,7 +6049,9 @@
         "category": "食物",
         "name": "皮塔饼",
         "sub_name": "沙拉皮塔饼",
+        "inventory_name": "沙拉皮塔饼",
         "info": "分量相当充足的夹心面包 出门远行的最佳选择",
+        "price": 50,
         "description": [
           "可从商店购得",
           "适合一日来回的行程",
@@ -6084,7 +6090,9 @@
         "category": "食物",
         "name": "蛋包饭",
         "sub_name": "茄汁蛋包饭",
+        "inventory_name": "茄汁蛋包饭",
         "info": "美味又暖心的家常料理 吃了会分外想家",
+        "price": 80,
         "description": [
           "可从商店购得",
           "走得远也走得快",
@@ -6123,7 +6131,9 @@
         "category": "食物",
         "name": "烤包子",
         "sub_name": "香葱烤包子",
+        "inventory_name": "香葱烤包子",
         "info": "馕坑里烤出的美味包子 在沙漠享用味道更佳",
+        "price": 100,
         "description": [
           "可从商店购得",
           "大概率可以抵达西部",
@@ -6162,7 +6172,9 @@
         "category": "食物",
         "name": "煎豆腐",
         "sub_name": "海苔煎豆腐",
+        "inventory_name": "海苔煎豆腐",
         "info": "包裹着一层海苔的豆腐 在海边享用味道更佳",
+        "price": 100,
         "description": [
           "可从商店购得",
           "有较大概率去往沿海",
@@ -6201,7 +6213,9 @@
         "category": "食物",
         "name": "蒸米糕",
         "sub_name": "桂花蒸米糕",
+        "inventory_name": "桂花蒸米糕",
         "info": "散发着桂花清香的米糕 在水乡享用味道更佳",
+        "price": 100,
         "description": [
           "可从商店购得",
           "大概率前往江南水乡",
@@ -6240,7 +6254,9 @@
         "category": "食物",
         "name": "烙蛋饼",
         "sub_name": "彩椒烙蛋饼",
+        "inventory_name": "彩椒烙蛋饼",
         "info": "满载着彩椒的鸡蛋烙饼 在雪地享用味道更佳",
+        "price": 100,
         "description": [
           "可从商店购得",
           "有较大概率往北走",
@@ -6279,7 +6295,9 @@
         "category": "食物",
         "name": "饺子",
         "sub_name": "饺子",
+        "inventory_name": "饺子",
         "info": "形状像元宝的可爱饺子 吃了不怕冻耳朵哦",
+        "price": 90,
         "description": [
           "可从商店购得",
           "可能会遇到冬天的花",
@@ -6318,7 +6336,9 @@
         "category": "食物",
         "name": "沙拉",
         "sub_name": "水果沙拉",
+        "inventory_name": "水果沙拉",
         "info": "新鲜美味的混合果块 在山丘享用味道更佳",
+        "price": 100,
         "description": [
           "可从商店购得",
           "有较大概率前往山区",
@@ -6357,7 +6377,9 @@
         "category": "食物",
         "name": "棒棒糖",
         "sub_name": "棒棒糖",
+        "inventory_name": "棒棒糖",
         "info": "有着彩虹纹路的可爱糖果 深受小朋友的喜爱",
+        "price": 100,
         "description": [
           "稀有食物",
           "可能遇见特定故事",
@@ -6396,7 +6418,9 @@
         "category": "食物",
         "name": "鲜果茶",
         "sub_name": "伴柠伴桔",
+        "inventory_name": "伴柠伴桔",
         "info": "柠檬与青桔的完美融合 喝一口可以清凉整个夏天",
+        "price": 100,
         "description": [
           "稀有食物",
           "概率获得特定稀有照",
@@ -6435,7 +6459,9 @@
         "category": "食物",
         "name": "多士",
         "sub_name": "蜂蜜厚多士",
+        "inventory_name": "蜂蜜厚多士",
         "info": "给冰淇淋厚多士淋上蜂蜜 任谁都会被它的香甜气味所吸引",
+        "price": 100,
         "description": [
           "稀有食物",
           "概率获得特定稀有照",
@@ -6474,7 +6500,9 @@
         "category": "食物",
         "name": "茶",
         "sub_name": "知音茶",
+        "inventory_name": "知音茶",
         "info": "纯厚质朴的口感 品味出高山流水之意",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "概率获得特定稀有照",
@@ -6513,7 +6541,9 @@
         "category": "食物",
         "name": "枫叶糖",
         "sub_name": "枫叶糖",
+        "inventory_name": "枫叶糖",
         "info": "枫叶形状的糖果 和小伙伴一起分享会更好吃",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "概率获得秋天稀有照",
@@ -6552,7 +6582,9 @@
         "category": "食物",
         "name": "饺子",
         "sub_name": "吉祥饺子",
+        "inventory_name": "吉祥饺子",
         "info": "由蛙蛙和小伙伴制作 传说吃下后会有好事发生",
+        "price": 100,
         "description": [
           "新年活动特有食物",
           "概率获得特定稀有照",
@@ -6591,7 +6623,9 @@
         "category": "食物",
         "name": "森之国度",
         "sub_name": "小鱼饼干",
+        "inventory_name": "森之国度·小鱼饼干",
         "info": "森之国度的食物 前往未知的世界",
+        "price": 100,
         "description": [
           "森之国度联动",
           "概率获得特定稀有照",
@@ -6630,7 +6664,9 @@
         "category": "食物",
         "name": "蛋糕",
         "sub_name": "庆典蛋糕",
+        "inventory_name": "庆典蛋糕",
         "info": "满怀心意的蛋糕 和伙伴们一起分享吧",
+        "price": 100,
         "description": [
           "周年活动特有食物",
           "概率获得特定稀有照",
@@ -6669,7 +6705,9 @@
         "category": "食物",
         "name": "立春",
         "sub_name": "三鲜素春卷",
+        "inventory_name": "三鲜素春卷",
         "info": "咬春吃春 金黄香脆的外皮包裹着小白菜的鲜甜",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6708,7 +6746,9 @@
         "category": "食物",
         "name": "雨水",
         "sub_name": "泡椒春笋",
+        "inventory_name": "泡椒春笋",
         "info": "鲜爽脆嫩酸辣开胃 咬一口就是春天的滋味",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6747,7 +6787,9 @@
         "category": "食物",
         "name": "惊蛰",
         "sub_name": "银耳炖雪梨",
+        "inventory_name": "银耳炖雪梨",
         "info": "惊蛰气候干燥 正适合来一碗润肺止咳的梨汤",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6786,7 +6828,9 @@
         "category": "食物",
         "name": "春分",
         "sub_name": "桃花酥",
+        "inventory_name": "桃花酥",
         "info": "一口桃花一口酥 人间有味是清欢",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6825,7 +6869,9 @@
         "category": "食物",
         "name": "清明",
         "sub_name": "艾草青团",
+        "inventory_name": "艾草青团",
         "info": "艾蒿嫩芽与糯米同舂 藏下清香软糯的春天",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6864,7 +6910,9 @@
         "category": "食物",
         "name": "谷雨",
         "sub_name": "香椿拌豆腐",
+        "inventory_name": "香椿拌豆腐",
         "info": "南有谷雨茶 北有食香椿",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6903,7 +6951,9 @@
         "category": "食物",
         "name": "立夏",
         "sub_name": "立夏饭",
+        "inventory_name": "立夏饭",
         "info": "吃过兜夏夏米 一年健康又平安",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6942,7 +6992,9 @@
         "category": "食物",
         "name": "小满",
         "sub_name": "蜜渍枇杷",
+        "inventory_name": "蜜渍枇杷",
         "info": "小满枇杷半坡黄 夏初之味里品到了四时的清甜",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -6981,7 +7033,9 @@
         "category": "食物",
         "name": "芒种",
         "sub_name": "芒种梅",
+        "inventory_name": "芒种梅",
         "info": "加点时光进去 酿出岁月的风味",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7020,7 +7074,9 @@
         "category": "食物",
         "name": "夏至",
         "sub_name": "蒜蓉蒸丝瓜",
+        "inventory_name": "蒜蓉蒸丝瓜",
         "info": "夏至炎热 吃瓜解暑",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7059,7 +7115,9 @@
         "category": "食物",
         "name": "小暑",
         "sub_name": "红豆烧仙草",
+        "inventory_name": "烧仙草",
         "info": "吃上滑溜溜的一口 炎热也随之消散",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7098,7 +7156,9 @@
         "category": "食物",
         "name": "大暑",
         "sub_name": "西瓜冰沙",
+        "inventory_name": "西瓜冰沙",
         "info": "大暑天来一勺西瓜冰沙 就感觉不到酷热了",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7137,7 +7197,9 @@
         "category": "食物",
         "name": "立秋",
         "sub_name": "地三鲜",
+        "inventory_name": "地三鲜",
         "info": "暑去秋伊始 炒一道地三鲜为自己贴点膘",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7176,7 +7238,9 @@
         "category": "食物",
         "name": "处暑",
         "sub_name": "莲子百合糖水",
+        "inventory_name": "莲子百合糕",
         "info": "一口清润滋补甘甜 度过最后的暑热",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7215,7 +7279,9 @@
         "category": "食物",
         "name": "白露",
         "sub_name": "桂花糯米藕",
+        "inventory_name": "桂花糯米藕",
         "info": "白露时节暑气消 丹桂飘香秋藕熟",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7254,7 +7320,9 @@
         "category": "食物",
         "name": "秋分",
         "sub_name": "野苋菜汤",
+        "inventory_name": "野苋菜汤",
         "info": "俗话说秋分吃秋菜 是时候来一次寻菜之旅",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7293,7 +7361,9 @@
         "category": "食物",
         "name": "寒露",
         "sub_name": "冰糖葫芦",
+        "inventory_name": "冰糖葫芦",
         "info": "寒露凝糖衣 晶莹又透红",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7332,7 +7402,9 @@
         "category": "食物",
         "name": "霜降",
         "sub_name": "蓝莓山药泥",
+        "inventory_name": "蓝莓山药泥",
         "info": "顺着霜降入寒冬 有一种吃到冰淇淋的感觉",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7371,7 +7443,9 @@
         "category": "食物",
         "name": "立冬",
         "sub_name": "甘蔗马蹄水",
+        "inventory_name": "甘蔗马蹄水",
         "info": "立冬喝糖水 暖身又暖胃",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7410,7 +7484,9 @@
         "category": "食物",
         "name": "小雪",
         "sub_name": "红糖糍粑",
+        "inventory_name": "红糖糍粑",
         "info": "静待雪花飘落的日子 惦记着那一口糍粑",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7449,7 +7525,9 @@
         "category": "食物",
         "name": "大雪",
         "sub_name": "白玉蒸蛋",
+        "inventory_name": "白玉蒸蛋",
         "info": "大雪寒冬 白玉护体",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7488,7 +7566,9 @@
         "category": "食物",
         "name": "冬至",
         "sub_name": "南瓜排叉素饺子",
+        "inventory_name": "南瓜排叉素饺子",
         "info": "这一口咸香酥脆 吃过冬至便是年",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7527,7 +7607,9 @@
         "category": "食物",
         "name": "小寒",
         "sub_name": "核桃枣泥糕",
+        "inventory_name": "核桃枣泥糕",
         "info": "无风自寒小寒天 枣泥核桃三冬暖",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7566,7 +7648,9 @@
         "category": "食物",
         "name": "大寒",
         "sub_name": "腊八粥",
+        "inventory_name": "腊八粥",
         "info": "大寒养生粥 年味渐渐浓",
+        "price": 100,
         "description": [
           "旅行商人节气限定",
           "概率获得节气稀有照",
@@ -7605,7 +7689,9 @@
         "category": "食物",
         "name": "枣花酥",
         "sub_name": "枣花酥",
+        "inventory_name": "枣花酥",
         "info": "古代宫廷美食的味道 吃一口就想进京",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7644,7 +7730,9 @@
         "category": "食物",
         "name": "龙眼酥",
         "sub_name": "龙眼酥",
+        "inventory_name": "龙眼酥",
         "info": "长得像龙的眼睛的美食 吃一口就想入川",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7683,7 +7771,9 @@
         "category": "食物",
         "name": "土沱麻饼",
         "sub_name": "土沱麻饼",
+        "inventory_name": "土沱麻饼",
         "info": "甜香酥脆的芝麻饼 吃一口就想来渝",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7722,7 +7812,9 @@
         "category": "食物",
         "name": "糖不甩",
         "sub_name": "糖不甩",
+        "inventory_name": "糖不甩",
         "info": "姜汁加入糯米粉团子 吃一口就想赴粤",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7761,7 +7853,9 @@
         "category": "食物",
         "name": "白糤",
         "sub_name": "白糤",
+        "inventory_name": "白糤",
         "info": "白糖白米花做个大圆盘 吃一口就想入桂",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7800,7 +7894,9 @@
         "category": "食物",
         "name": "龙井茶糕",
         "sub_name": "龙井茶糕",
+        "inventory_name": "龙井茶糕",
         "info": "江南诗意中的茶韵 赴一场浙的约会",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7839,7 +7935,9 @@
         "category": "食物",
         "name": "车轮饼",
         "sub_name": "车轮饼",
+        "inventory_name": "车轮饼",
         "info": "每个车轮饼都是个故事 去听苏的故事",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7878,7 +7976,9 @@
         "category": "食物",
         "name": "驴打滚",
         "sub_name": "驴打滚",
+        "inventory_name": "驴打滚",
         "info": "一口底蕴深厚的香糯 便沉醉在津的传统之中",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7917,7 +8017,9 @@
         "category": "食物",
         "name": "凤梨酥",
         "sub_name": "凤梨酥",
+        "inventory_name": "凤梨酥",
         "info": "热带水果特有的香甜 是台的温柔味觉旋律",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7956,7 +8058,9 @@
         "category": "食物",
         "name": "肇东烤饼",
         "sub_name": "肇东烤饼",
+        "inventory_name": "肇东烤饼",
         "info": "撒上辣椒烤酥的外皮 包裹了黑的特有香脆",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -7995,7 +8099,9 @@
         "category": "食物",
         "name": "乳扇",
         "sub_name": "乳扇",
+        "inventory_name": "乳扇",
         "info": "鲜奶烹调成扇子的形状 吃一口就想入滇",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8034,7 +8140,9 @@
         "category": "食物",
         "name": "椰子糕",
         "sub_name": "椰子糕",
+        "inventory_name": "椰子糕",
         "info": "一口椰子的香浓和甜美 仿佛置身于琼",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8073,7 +8181,9 @@
         "category": "食物",
         "name": "九黄饼",
         "sub_name": "九黄饼",
+        "inventory_name": "九黄饼",
         "info": "九次过罗的细腻面粉 吃一口就想入鄂",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8112,7 +8222,9 @@
         "category": "食物",
         "name": "灯芯糕",
         "sub_name": "灯芯糕",
+        "inventory_name": "灯芯糕",
         "info": "酷似灯芯的柔软糕点 吃一口就想赴湘",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8151,7 +8263,9 @@
         "category": "食物",
         "name": "锅盔",
         "sub_name": "锅盔",
+        "inventory_name": "锅盔",
         "info": "酥脆的外皮包含着丰富的馅料 吃一口就想赴陕",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8190,7 +8304,9 @@
         "category": "食物",
         "name": "南瓜豆沙糕",
         "sub_name": "南瓜豆沙糕",
+        "inventory_name": "南瓜豆沙糕",
         "info": "清香南瓜和细腻豆沙的完美结合 吃一口就想归豫",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8229,7 +8345,9 @@
         "category": "食物",
         "name": "酥圈圈",
         "sub_name": "酥圈圈",
+        "inventory_name": "酥圈圈",
         "info": "仿若小圈的香脆炸物 吃一口就想入陇",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8268,7 +8386,9 @@
         "category": "食物",
         "name": "糌粑",
         "sub_name": "糌粑",
+        "inventory_name": "糌粑",
         "info": "青稞独特的香味包含其中 吃一口就想入藏",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8307,7 +8427,9 @@
         "category": "食物",
         "name": "梅花糕",
         "sub_name": "梅花糕",
+        "inventory_name": "梅花糕",
         "info": "酷似梅花的香甜糕点 吃一口就想赴沪",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8346,7 +8468,9 @@
         "category": "食物",
         "name": "菠萝包",
         "sub_name": "菠萝包",
+        "inventory_name": "菠萝包",
         "info": "口感酥脆的松软面包 吃一口就想赴港",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8385,7 +8509,9 @@
         "category": "食物",
         "name": "枸杞冰沙饼",
         "sub_name": "枸杞冰沙饼",
+        "inventory_name": "枸杞冰沙饼",
         "info": "宁夏枸杞与冰沙饼相结合的健康美食 吃一口就想归宁",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8424,7 +8550,9 @@
         "category": "食物",
         "name": "碗耳糕",
         "sub_name": "碗耳糕",
+        "inventory_name": "碗耳糕",
         "info": "口感软糯甜而不腻 吃一口就想入黔",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8463,7 +8591,9 @@
         "category": "食物",
         "name": "茯苓糕",
         "sub_name": "茯苓糕",
+        "inventory_name": "茯苓糕",
         "info": "茯苓的独特香味扑鼻而来 吃一口就想赴闽",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8502,7 +8632,9 @@
         "category": "食物",
         "name": "酸枣糕",
         "sub_name": "酸枣糕",
+        "inventory_name": "酸枣糕",
         "info": "口感酸甜又兼具糯米的软糯 吃一口就想赴赣",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8541,7 +8673,9 @@
         "category": "食物",
         "name": "大救驾",
         "sub_name": "大救驾",
+        "inventory_name": "大救驾",
         "info": "融合了清新绿豆味和酥松的外皮 吃一口就想入皖",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8580,7 +8714,9 @@
         "category": "食物",
         "name": "葱花缸炉",
         "sub_name": "葱花缸炉",
+        "inventory_name": "葱花缸炉",
         "info": "馅料柔滑绵软，葱香浓郁扑鼻 吃一口就想归辽",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8619,7 +8755,9 @@
         "category": "食物",
         "name": "烧饼",
         "sub_name": "烧饼",
+        "inventory_name": "周村烧饼",
         "info": "撒上芝麻的金黄色烧饼 吃一口就想入鲁",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8658,7 +8796,9 @@
         "category": "食物",
         "name": "太谷饼",
         "sub_name": "太谷饼",
+        "inventory_name": "太谷饼",
         "info": "色泽金黄的圆形大饼 看一眼仿佛就置身于晋",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8697,7 +8837,9 @@
         "category": "食物",
         "name": "粘豆包",
         "sub_name": "粘豆包",
+        "inventory_name": "粘豆包",
         "info": "圆润饱满的金黄粘豆包 尝上一口便想归吉",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8736,7 +8878,9 @@
         "category": "食物",
         "name": "凤凰卷",
         "sub_name": "凤凰卷",
+        "inventory_name": "凤凰卷",
         "info": "蛋卷的酥脆和内馅相互交融 吃一口就想赴澳",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8775,7 +8919,9 @@
         "category": "食物",
         "name": "焜锅馍馍",
         "sub_name": "焜锅馍馍",
+        "inventory_name": "焜锅馍馍",
         "info": "传统焜锅烤制出的美味 尝一口就想赴青",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8814,7 +8960,9 @@
         "category": "食物",
         "name": "丝糕",
         "sub_name": "丝糕",
+        "inventory_name": "丝糕",
         "info": "细腻的质地混合着丝丝甜意 尝一口就想入冀",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8853,7 +9001,9 @@
         "category": "食物",
         "name": "萨木萨",
         "sub_name": "萨木萨",
+        "inventory_name": "萨木萨",
         "info": "香气四溢的特色烤包子 吃一口就想赴新",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8892,7 +9042,9 @@
         "category": "食物",
         "name": "蒙古果子",
         "sub_name": "蒙古果子",
+        "inventory_name": "蒙古果子",
         "info": "散发着浓郁奶香的金黄果子 尝一口就想入蒙",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "目的地指向性食物",
@@ -8931,7 +9083,9 @@
         "category": "食物",
         "name": "花生",
         "sub_name": "椒盐花生",
+        "inventory_name": "椒盐花生",
         "info": "酥脆可口的花生小零食 吃起来咸咸的",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "遇到伙伴概率增加",
@@ -8970,7 +9124,9 @@
         "category": "食物",
         "name": "花生",
         "sub_name": "芥末花生",
+        "inventory_name": "芥末花生",
         "info": "酥脆可口的花生小零食 吃起来辣辣的",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "遇到伙伴概率增加",
@@ -9009,7 +9165,9 @@
         "category": "食物",
         "name": "花生",
         "sub_name": "蜂蜜花生",
+        "inventory_name": "蜂蜜花生",
         "info": "酥脆可口的花生小零食 吃起来甜甜的",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "遇到伙伴概率增加",
@@ -9048,7 +9206,9 @@
         "category": "食物",
         "name": "花生",
         "sub_name": "原味花生",
+        "inventory_name": "原味花生",
         "info": "酥脆可口的花生小零食 原汁原味更健康",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "遇到伙伴概率增加",
@@ -9087,7 +9247,9 @@
         "category": "食物",
         "name": "花生",
         "sub_name": "五香花生",
+        "inventory_name": "五香花生",
         "info": "酥脆可口的花生小零食 香香的很好闻",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "遇到伙伴概率增加",
@@ -9126,7 +9288,9 @@
         "category": "食物",
         "name": "果汁",
         "sub_name": "菠萝汁",
+        "inventory_name": "菠萝汁",
         "info": "新鲜可口的纯天然果汁 浓郁菠萝味",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "大家都喜欢苹果",
@@ -9167,7 +9331,9 @@
         "category": "食物",
         "name": "果汁",
         "sub_name": "草莓汁",
+        "inventory_name": "草莓汁",
         "info": "新鲜可口的纯天然果汁 酸甜草莓味",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "大家都喜欢苹果",
@@ -9208,7 +9374,9 @@
         "category": "食物",
         "name": "果汁",
         "sub_name": "甜椒汁",
+        "inventory_name": "甜椒汁",
         "info": "新鲜可口的纯天然果汁 辛香甜椒味",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "大家都喜欢苹果",
@@ -9249,7 +9417,9 @@
         "category": "食物",
         "name": "果汁",
         "sub_name": "苹果汁",
+        "inventory_name": "苹果汁",
         "info": "新鲜可口的纯天然果汁 清新苹果味",
+        "price": 100,
         "description": [
           "可从兑换券抽奖获得",
           "大家都喜欢苹果",
@@ -9290,7 +9460,9 @@
         "category": "食物",
         "name": "月饼",
         "sub_name": "上海芝麻",
+        "inventory_name": "上海芝麻月饼",
         "info": "香醇软糯的上海月饼 吃完就想去当地瞧一瞧",
+        "price": 100,
         "description": [
           "中秋活动特有食物",
           "中秋纪念品概率提升",
@@ -9330,7 +9502,9 @@
         "category": "食物",
         "name": "月饼",
         "sub_name": "苏式酥皮",
+        "inventory_name": "苏式酥皮月饼",
         "info": "皮层酥松的苏式月饼 吃完就想去当地瞧一瞧",
+        "price": 100,
         "description": [
           "中秋活动特有食物",
           "中秋纪念品概率提升",
@@ -9370,7 +9544,9 @@
         "category": "食物",
         "name": "月饼",
         "sub_name": "京式五仁",
+        "inventory_name": "京式五仁月饼",
         "info": "口感松脆的京式月饼 吃完就想去当地瞧一瞧",
+        "price": 100,
         "description": [
           "中秋活动特有食物",
           "中秋纪念品概率提升",
@@ -9410,7 +9586,9 @@
         "category": "食物",
         "name": "月饼",
         "sub_name": "广式莲蓉双黄",
+        "inventory_name": "广式莲蓉双黄月饼",
         "info": "蛋黄和莲蓉的广式结合 吃完就想去当地瞧一瞧",
+        "price": 100,
         "description": [
           "中秋活动特有食物",
           "中秋纪念品概率提升",
@@ -9450,7 +9628,9 @@
         "category": "食物",
         "name": "月饼",
         "sub_name": "港式冰皮",
+        "inventory_name": "港式冰皮月饼",
         "info": "造型独特的冰皮月饼 吃完就想去当地瞧一瞧",
+        "price": 100,
         "description": [
           "中秋活动特有食物",
           "中秋纪念品概率提升",
@@ -9490,7 +9670,9 @@
         "category": "食物",
         "name": "月饼",
         "sub_name": "晋式混糖",
+        "inventory_name": "晋式混糖月饼",
         "info": "以面为馅的晋式月饼 吃完就想去当地瞧一瞧",
+        "price": 100,
         "description": [
           "中秋活动特有食物",
           "中秋纪念品概率提升",
@@ -9530,7 +9712,9 @@
         "category": "食物",
         "name": "月饼",
         "sub_name": "秦式水晶",
+        "inventory_name": "秦式水晶月饼",
         "info": "晶莹剔透的秦式月饼 吃完就想去当地瞧一瞧",
+        "price": 100,
         "description": [
           "中秋活动特有食物",
           "中秋纪念品概率提升",
@@ -9570,7 +9754,9 @@
         "category": "护身符",
         "name": "四叶草",
         "sub_name": "四叶草",
+        "inventory_name": "四叶草",
         "info": "稀有的四叶草 据说会带来好运哦",
+        "price": 0,
         "description": [
           "庭院三叶草田概率长出",
           "概率前往未拓展区域",
@@ -9609,7 +9795,9 @@
         "category": "护身符",
         "name": "玉佩",
         "sub_name": "玉佩",
+        "inventory_name": "玉佩",
         "info": "看上去很像锦鲤的玉佩 听说可以带来好运",
+        "price": 3000,
         "description": [
           "可从商店购得",
           "概率前往未拓展区域",
@@ -9648,7 +9836,9 @@
         "category": "护身符",
         "name": "康乃馨",
         "sub_name": "康乃馨",
+        "inventory_name": "康乃馨",
         "info": "温柔恬静的花朵 淡淡的馨香沁人心脾",
+        "price": 0,
         "description": [
           "稀有护身符",
           "概率前往未拓展区域",
@@ -9687,7 +9877,9 @@
         "category": "护身符",
         "name": "小纸船",
         "sub_name": "小纸船",
+        "inventory_name": "小纸船",
         "info": "承载着友谊的手工小纸船 让旅途不再孤单",
+        "price": 100,
         "description": [
           "旅行商人概率刷新",
           "提升故事概率"
@@ -9725,7 +9917,9 @@
         "category": "护身符",
         "name": "心意风铃",
         "sub_name": "心意风铃",
+        "inventory_name": "心意风铃",
         "info": "随风起舞的风铃 向着南面缓缓摇摆",
+        "price": 0,
         "description": [
           "旅行商人概率刷新",
           "提升故事概率",
@@ -9764,7 +9958,9 @@
         "category": "护身符",
         "name": "星星灯",
         "sub_name": "星星灯",
+        "inventory_name": "星星灯",
         "info": "星星串成灯 点亮寻找奇迹的路",
+        "price": 0,
         "description": [
           "稀有护身符",
           "濒危动物照概率提升",
@@ -9803,7 +9999,9 @@
         "category": "护身符",
         "name": "森之国度",
         "sub_name": "猫猫信纸",
+        "inventory_name": "森之国度·猫猫信纸",
         "info": "来自森之国度的信物 与猫猫同行或许有好事发生",
+        "price": 0,
         "description": [
           "森之国度联动",
           "获得联动限定照片",
@@ -9842,7 +10040,9 @@
         "category": "护身符",
         "name": "彩叶幸运草",
         "sub_name": "彩叶幸运草",
+        "inventory_name": "彩叶幸运草",
         "info": "稀有的彩色四叶草 据说会带来彩色的好运哦",
+        "price": 0,
         "description": [
           "旅行商人概率刷新",
           "配合特殊食物使用",
@@ -9881,7 +10081,9 @@
         "category": "护身符",
         "name": "铃铛",
         "sub_name": "绿色铃铛",
+        "inventory_name": "绿色铃铛",
         "info": "摇起来清脆作响的铃铛 往东走或许有好事发生",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "绿色向东，白色向西",
@@ -9921,7 +10123,9 @@
         "category": "护身符",
         "name": "铃铛",
         "sub_name": "白色铃铛",
+        "inventory_name": "白色铃铛",
         "info": "摇起来清脆作响的铃铛 往西走或许有好事发生",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "绿色向东，白色向西",
@@ -9961,7 +10165,9 @@
         "category": "护身符",
         "name": "铃铛",
         "sub_name": "红色铃铛",
+        "inventory_name": "红色铃铛",
         "info": "摇起来清脆作响的铃铛 往南走或许有好事发生",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "绿色向东，白色向西",
@@ -10001,7 +10207,9 @@
         "category": "护身符",
         "name": "铃铛",
         "sub_name": "蓝色铃铛",
+        "inventory_name": "蓝色铃铛",
         "info": "摇起来清脆作响的铃铛 往北走或许有好事发生",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "绿色向东，白色向西",
@@ -10041,7 +10249,9 @@
         "category": "护身符",
         "name": "铃铛",
         "sub_name": "桃色铃铛",
+        "inventory_name": "桃色铃铛",
         "info": "摇起来清脆作响的铃铛 或许可以发现新地点",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "绿色向东，白色向西",
@@ -10081,7 +10291,9 @@
         "category": "护身符",
         "name": "千纸鹤",
         "sub_name": "绿色千纸鹤",
+        "inventory_name": "绿色千纸鹤",
         "info": "可以实现愿望的千纸鹤 仿佛要飞往东边",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "不同颜色指向四个方向",
@@ -10121,7 +10333,9 @@
         "category": "护身符",
         "name": "千纸鹤",
         "sub_name": "白色千纸鹤",
+        "inventory_name": "白色千纸鹤",
         "info": "可以实现愿望的千纸鹤 仿佛要飞往西边",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "不同颜色指向四个方向",
@@ -10161,7 +10375,9 @@
         "category": "护身符",
         "name": "千纸鹤",
         "sub_name": "红色千纸鹤",
+        "inventory_name": "红色千纸鹤",
         "info": "可以实现愿望的千纸鹤 仿佛要飞往南边",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "不同颜色指向四个方向",
@@ -10201,7 +10417,9 @@
         "category": "护身符",
         "name": "千纸鹤",
         "sub_name": "蓝色千纸鹤",
+        "inventory_name": "蓝色千纸鹤",
         "info": "可以实现愿望的千纸鹤 仿佛要飞往北边",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "不同颜色指向四个方向",
@@ -10241,7 +10459,9 @@
         "category": "护身符",
         "name": "帆船",
         "sub_name": "绿色帆船",
+        "inventory_name": "绿色帆船",
         "info": "友谊的大船向东航行 寻找小伙伴全靠它",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "提升故事概率",
@@ -10281,7 +10501,9 @@
         "category": "护身符",
         "name": "帆船",
         "sub_name": "黄色帆船",
+        "inventory_name": "黄色帆船",
         "info": "友谊的大船向西航行 寻找小伙伴全靠它",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "提升故事概率",
@@ -10321,7 +10543,9 @@
         "category": "护身符",
         "name": "帆船",
         "sub_name": "红色帆船",
+        "inventory_name": "红色帆船",
         "info": "友谊的大船向南航行 寻找小伙伴全靠它",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "提升故事概率",
@@ -10361,7 +10585,9 @@
         "category": "护身符",
         "name": "帆船",
         "sub_name": "蓝色帆船",
+        "inventory_name": "蓝色帆船",
         "info": "友谊的大船向北航行 寻找小伙伴全靠它",
+        "price": 0,
         "description": [
           "可从兑换券抽奖获得",
           "提升故事概率",
@@ -10401,7 +10627,9 @@
         "category": "护身符",
         "name": "博物馆门票",
         "sub_name": "博物馆通票",
+        "inventory_name": "博物馆通票",
         "info": "极具特色的建筑 努力找找肯定可以抵达的",
+        "price": 0,
         "description": [
           "各类活动中概率获得",
           "前往特定博物馆",
@@ -10441,7 +10669,9 @@
         "category": "护身符",
         "name": "博物馆门票",
         "sub_name": "江西省博物馆",
+        "inventory_name": "江西省博物馆门票",
         "info": "极具特色的建筑 努力找找肯定可以抵达的",
+        "price": 0,
         "description": [
           "各类活动中概率获得",
           "前往特定博物馆",
@@ -10481,7 +10711,9 @@
         "category": "护身符",
         "name": "博物馆门票",
         "sub_name": "山东博物馆",
+        "inventory_name": "山东博物馆门票",
         "info": "极具特色的建筑 努力找找肯定可以抵达的",
+        "price": 0,
         "description": [
           "各类活动中概率获得",
           "前往特定博物馆",
@@ -10521,7 +10753,9 @@
         "category": "护身符",
         "name": "博物馆门票",
         "sub_name": "南越王博物院",
+        "inventory_name": "南越王博物院门票",
         "info": "极具特色的建筑 努力找找肯定可以抵达的",
+        "price": 0,
         "description": [
           "各类活动中概率获得",
           "前往特定博物馆",
@@ -10561,7 +10795,9 @@
         "category": "护身符",
         "name": "博物馆门票",
         "sub_name": "吴文化博物馆",
+        "inventory_name": "吴文化博物馆门票",
         "info": "极具特色的建筑 努力找找肯定可以抵达的",
+        "price": 0,
         "description": [
           "各类活动中概率获得",
           "前往特定博物馆",
@@ -10601,7 +10837,9 @@
         "category": "护身符",
         "name": "博物馆门票",
         "sub_name": "山西博物院",
+        "inventory_name": "山西博物院门票",
         "info": "极具特色的建筑 努力找找肯定可以抵达的",
+        "price": 0,
         "description": [
           "各类活动中概率获得",
           "前往特定博物馆",
@@ -10641,7 +10879,9 @@
         "category": "护身符",
         "name": "路标",
         "sub_name": "半成品的路标",
+        "inventory_name": "半成品的路标",
         "info": "从轮廓依稀认出的路标 希望在路上能有点帮助",
+        "price": 0,
         "description": [
           "手工制作获得",
           "指向特定河流区域",
@@ -10680,7 +10920,9 @@
         "category": "护身符",
         "name": "路标",
         "sub_name": "成品的路标",
+        "inventory_name": "成品的路标",
         "info": "没有色彩点缀的路标 或许在路上能够提供帮助",
+        "price": 0,
         "description": [
           "手工制作获得",
           "指向特定河流区域",
@@ -10719,7 +10961,9 @@
         "category": "护身符",
         "name": "路标",
         "sub_name": "完整的路标",
+        "inventory_name": "完整的路标",
         "info": "彩纸装点过的路标 至少在路上能给到帮助",
+        "price": 0,
         "description": [
           "手工制作获得",
           "指向特定河流区域",
@@ -10758,7 +11002,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "蛋黄",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -10791,7 +11037,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "蜜桃糖果盒",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -10824,7 +11072,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "香芋冰淇淋",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -10857,7 +11107,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "铜红",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -10890,7 +11142,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "杏仁冰淇淋",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -10923,7 +11177,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "银环",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -10956,7 +11212,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "芭乐糖果盒",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -10989,7 +11247,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "西柚冰淇淋",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11022,7 +11282,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "霞光",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11055,7 +11317,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "小橘饼",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11088,7 +11352,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "蝴蝶",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11120,7 +11386,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "葡萄糖果盒",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11152,7 +11420,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "奶茶冰淇淋",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11185,7 +11455,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "阳光",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11217,7 +11489,9 @@
         "category": "护身符",
         "name": "幸运花",
         "sub_name": "奶油冰淇淋",
+        "inventory_name": "幸运花",
         "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+        "price": 0,
         "description": [
           "肥沃的土地概率长出",
           "概率前往未拓展区域",
@@ -11250,7 +11524,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "三叶草护符",
+        "inventory_name": "三叶草护符",
         "info": "雕了个三叶草的小护符 希望旅途中能有所收获",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11289,7 +11565,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "微风护符",
+        "inventory_name": "微风护符",
         "info": "雕了个风符号的小护符 希望旅途能一帆风顺",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11328,7 +11606,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "岩纹石护符",
+        "inventory_name": "岩纹石护符",
         "info": "雕了个岩纹石的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11367,7 +11647,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "正丹纸护符",
+        "inventory_name": "正丹纸护符",
         "info": "雕了个正丹纸的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11406,7 +11688,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "棕榈叶护符",
+        "inventory_name": "棕榈叶护符",
         "info": "雕了个棕榈叶的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11445,7 +11729,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "海螺贝护符",
+        "inventory_name": "海螺贝护符",
         "info": "雕了个海螺贝的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11484,7 +11770,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "紫檀木护符",
+        "inventory_name": "紫檀木护符",
         "info": "雕了个紫檀木的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11523,7 +11811,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "细篷布护符",
+        "inventory_name": "细篷布护符",
         "info": "雕了个细篷布的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11562,7 +11852,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "秋芦荻护符",
+        "inventory_name": "秋芦荻护符",
         "info": "雕了个秋芦荻的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11601,7 +11893,9 @@
         "category": "护身符",
         "name": "手工护符",
         "sub_name": "织彩带护符",
+        "inventory_name": "织彩带护符",
         "info": "雕了个织彩带的小护符 希望旅途中能遇见好运",
+        "price": 0,
         "description": [
           "通过合成手工碎片获得",
           "根据花纹有不同的祝福",
@@ -11640,7 +11934,9 @@
         "category": "道具",
         "name": "水壶",
         "sub_name": "竹筒",
+        "inventory_name": "竹筒",
         "info": "野外用来接水的简易竹筒 大热天也不怕中暑了",
+        "price": 300,
         "description": [
           "可从商店购得",
           "利于炎热干燥环境中旅行"
@@ -11678,7 +11974,9 @@
         "category": "道具",
         "name": "水壶",
         "sub_name": "葫芦",
+        "inventory_name": "葫芦",
         "info": "农家小院里种植的天然葫芦 大热天也不怕中暑了",
+        "price": 450,
         "description": [
           "可从商店购得",
           "利于炎热干燥环境中旅行"
@@ -11716,7 +12014,9 @@
         "category": "道具",
         "name": "水壶",
         "sub_name": "金属",
+        "inventory_name": "水壶",
         "info": "户外用品店常见的迷彩水壶 大热天也不怕中暑了",
+        "price": 750,
         "description": [
           "可从商店购得",
           "利于炎热干燥环境中旅行"
@@ -11754,7 +12054,9 @@
         "category": "道具",
         "name": "纸伞",
         "sub_name": "朴素纸伞",
+        "inventory_name": "朴素纸伞",
         "info": "看上去很普通的素色纸伞 遮风挡雨的好帮手",
+        "price": 450,
         "description": [
           "可从商店购得",
           "利于潮湿水域环境中旅行"
@@ -11792,7 +12094,9 @@
         "category": "道具",
         "name": "纸伞",
         "sub_name": "自然纸伞",
+        "inventory_name": "自然纸伞",
         "info": "画着翠绿竹子的小清新纸伞 遮风挡雨的好帮手",
+        "price": 700,
         "description": [
           "可从商店购得",
           "利于潮湿水域环境中旅行"
@@ -11830,7 +12134,9 @@
         "category": "道具",
         "name": "纸伞",
         "sub_name": "水墨纸伞",
+        "inventory_name": "水墨纸伞",
         "info": "文艺青年喜爱的水墨纸伞 遮风挡雨的好帮手",
+        "price": 1200,
         "description": [
           "可从商店购得",
           "利于潮湿水域环境中旅行"
@@ -11868,7 +12174,9 @@
         "category": "道具",
         "name": "睡垫",
         "sub_name": "简易睡垫",
+        "inventory_name": "简易睡垫",
         "info": "质感有些粗糙的经济型睡垫 走累了不妨歇一歇",
+        "price": 600,
         "description": [
           "可从商店购得",
           "利于山地复杂环境中旅行"
@@ -11906,7 +12214,9 @@
         "category": "道具",
         "name": "睡垫",
         "sub_name": "时尚睡垫",
+        "inventory_name": "时尚睡垫",
         "info": "性价比颇高的时尚型睡垫 走累了不妨歇一歇",
+        "price": 900,
         "description": [
           "可从商店购得",
           "利于山地复杂环境中旅行"
@@ -11944,7 +12254,9 @@
         "category": "道具",
         "name": "睡垫",
         "sub_name": "高级睡垫",
+        "inventory_name": "高级睡垫",
         "info": "可以自动充气的高品质睡垫 走累了不妨歇一歇",
+        "price": 1500,
         "description": [
           "可从商店购得",
           "利于山地复杂环境中旅行"
@@ -11982,7 +12294,9 @@
         "category": "道具",
         "name": "围巾",
         "sub_name": "纯色",
+        "inventory_name": "围巾~纯色~",
         "info": "日常穿衣常备的百搭款围巾 上街摆造型的必备单品",
+        "price": 150,
         "description": [
           "可从商店购得",
           "适合普通环境中旅行"
@@ -12020,7 +12334,9 @@
         "category": "道具",
         "name": "围巾",
         "sub_name": "雪花",
+        "inventory_name": "围巾~雪花~",
         "info": "点缀着雪花图案的森系围巾 上街摆造型的必备单品",
+        "price": 250,
         "description": [
           "可从商店购得",
           "适合普通环境中旅行"
@@ -12058,7 +12374,9 @@
         "category": "道具",
         "name": "围巾",
         "sub_name": "云纹",
+        "inventory_name": "围巾~云纹~",
         "info": "透露着贵族气质的优雅围巾 上街摆造型的必备单品",
+        "price": 400,
         "description": [
           "可从商店购得",
           "适合普通环境中旅行"
