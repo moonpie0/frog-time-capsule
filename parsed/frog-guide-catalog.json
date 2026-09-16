@@ -1,0 +1,1838 @@
+{
+  "source": "verified client backup",
+  "config": {
+    "path": "parsed/frog-guide-source/taskData.json",
+    "file_size": 45328,
+    "sha256": "6a16f13edd526a5fa6eb58fd0a939780489b82588427d641c1caa2708401bdbf",
+    "source_entry": "config/Task/taskData.json",
+    "resource_version": 1088
+  },
+  "task_data": {
+    "list_map": {
+      "101": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>不想走太远，就吃个<font color=0x5b93be>【华夫饼】</font>\n华夫饼虽然便宜，但是不耐饿哦！</font></font>",
+        "id": 101,
+        "title": "出门随便逛逛",
+        "type": 1
+      },
+      "102": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>走过相似的风景，<font color=0x5b93be>【目的地】</font>也终将达到\n旅途中，有过路照、特殊照、目的地照，你在期待怎样的风景呢？</font></font>",
+        "id": 102,
+        "title": "有目标一定能到达",
+        "type": 1
+      },
+      "103": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>打开相册里的<font color=0x5b93be>【地图】</font>看看吧\n我们的目标是——走遍大好河山！</font></font>",
+        "id": 103,
+        "title": "去看更大的世界",
+        "type": 1
+      },
+      "201": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>把旅行带回的<font color=0x5b93be>【特产】</font>和邻居分享\n每个邻居性格不同，口味喜好也不同</font></font>",
+        "id": 201,
+        "title": "跟邻居打个招呼",
+        "type": 2
+      },
+      "202": {
+        "count": 100,
+        "desc": "<font color=0x545d4c><font size=18>收<font color=0x5b93be>【100株】</font>三叶草\n最多4个小时草就能长满了，勤快的人会收获更多</font></font>",
+        "id": 202,
+        "title": "等一片草原",
+        "type": 2
+      },
+      "203": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>插到<font color=0x5b93be>【花瓶】</font>里的不是花，而是浪漫\n门前的田地会长出<font color=0x5b93be>野草</font>\n旅行也会带回好看的<font color=0x5b93be>鲜花</font></font></font>",
+        "id": 203,
+        "title": "学着浪漫一点",
+        "type": 2
+      },
+      "204": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>在<font color=0x5b93be>【邮箱-兑换码】</font>中输入<font color=0x5b93be>【给自己的信】</font>\n试着给过去、现在或未来的自己写一封信\n更多福利兑换，可关注社交平台官方号</font></font>",
+        "id": 204,
+        "title": "给自己寄一封信",
+        "type": 2
+      },
+      "205": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>试试带上<font color=0x5b93be>【草莓可丽饼】</font>出门\n准备好一点，会走得更远一些\n虽然不一定能达到\n那就多试几次</font></font>",
+        "id": 205,
+        "title": "这次决定走远一点",
+        "type": 2
+      },
+      "301": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>逛个<font color=0x5b93be>【商店】</font>，买点<font color=0x5b93be>【旅行道具】</font>（围巾/雨伞/睡垫）回来\n道具跟食物不同，道具可以重复使用</font></font>",
+        "id": 301,
+        "title": "找到一个解压的方式",
+        "type": 3
+      },
+      "302": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>带上<font color=0x5b93be>【沙拉皮塔饼】</font>出门\n没有一顿美食治愈不了的心情\n如果不行，那就多吃几个吧</font></font>",
+        "id": 302,
+        "title": "用美食治愈一切",
+        "type": 3
+      },
+      "303": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>带上<font color=0x5b93be>【茄汁蛋包饭】</font>，向目的地进发\n真正温暖你的，无非是一碗人间烟火，吃完早点回家！</font></font>",
+        "id": 303,
+        "title": "吃一顿蛋包饭",
+        "type": 3
+      },
+      "304": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18><font color=0x5b93be>【装满背包】</font>出发吧！\n<font color=0x5b93be>便当</font>是必不可少的\n<font color=0x5b93be>护身符</font>或许可以许愿一个方向\n<font color=0x5b93be>道具</font>可以带来意外的收获</font></font>",
+        "id": 304,
+        "title": "做最好的准备",
+        "type": 3
+      },
+      "305": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>食物、护身符、道具放满整个<font color=0x5b93be>【桌子】</font>\n大概这就是不容错过的安全感吧</font></font>",
+        "id": 305,
+        "title": "可以安排得更周全一点",
+        "type": 3
+      },
+      "306": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>点击阁楼上的<font color=0x5b93be>【书桌】</font>，看看<font color=0x5b93be>【笔记】</font>\n如果还没有获得笔记，那就多出门走走，去寻找灵感</font>",
+        "id": 306,
+        "title": "多记笔记",
+        "type": 3
+      },
+      "401": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>打开<font color=0x5b93be>【小仓库-故事】</font>\n轻点左边的<font color=0x5b93be>【小红心】</font>，是一种缘分的牵绊</font></font>",
+        "id": 401,
+        "title": "有一种安静的牵绊",
+        "type": 4
+      },
+      "402": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>不需要的<font color=0x5b93be>【照片和特产】</font>可以放进<font color=0x5b93be>【小仓库-礼品盒】</font>\n出门时候，顺路<font color=0x5b93be>捎给旅友</font>，分享一份快乐</font></font>",
+        "id": 402,
+        "title": "互助的快乐",
+        "type": 4
+      },
+      "403": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>在<font color=0x5b93be>【商店】</font>中购买<font color=0x5b93be>【友情绘本】</font>\n等待发起的一场<font color=0x5b93be>邻居聚会</font>\n记得不要遗漏在家门口的<font color=0x5b93be>邀请函</font></font></font>",
+        "id": 403,
+        "title": "到邻居家串个门",
+        "type": 4
+      },
+      "404": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>投食小乌龟<font color=0x5b93be>【困困】</font>\n老犯困的小乌龟，来点提神的食物吧</font></font>",
+        "id": 404,
+        "title": "困困的口味是提神的",
+        "type": 4
+      },
+      "405": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>投食猫头鹰<font color=0x5b93be>【胖胖】</font>\n胖胖的愿望是，多吃甜也不胖</font></font>",
+        "id": 405,
+        "title": "胖胖的口味是香甜的",
+        "type": 4
+      },
+      "406": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>投食松鼠<font color=0x5b93be>【跳跳】</font>\n跳跳喜欢吃的东西最简单，树上长的就行</font></font>",
+        "id": 406,
+        "title": "跳跳的口味是新鲜的",
+        "type": 4
+      },
+      "407": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>打开<font color=0x5b93be>【小仓库-日历】</font>\n在节气当日完成任务，可以获得时令美食</font></font>",
+        "id": 407,
+        "title": "时令美食",
+        "type": 4
+      },
+      "408": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>准备<font color=0x5b93be>【香葱烤包子】</font>\n有较大概率可以抵达西部</font></font>",
+        "id": 408,
+        "title": "去看大漠风光",
+        "type": 4
+      },
+      "409": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>准备<font color=0x5b93be>【海苔煎豆腐】</font>\n有较大概率去往沿海</font></font>",
+        "id": 409,
+        "title": "到海边吹吹风",
+        "type": 4
+      },
+      "410": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>准备<font color=0x5b93be>【桂花蒸米糕】</font>\n有较大概率前往江南水乡</font></font>",
+        "id": 410,
+        "title": "看一眼水乡的柔情",
+        "type": 4
+      },
+      "411": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>准备<font color=0x5b93be>【彩椒烙蛋饼】</font>\n有较大概率往北走</font></font>",
+        "id": 411,
+        "title": "寻一片北国雪花",
+        "type": 4
+      },
+      "412": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>准备<font color=0x5b93be>【水果沙拉】</font>\n有较大概率前往山区</font></font>",
+        "id": 412,
+        "title": "到山中避暑",
+        "type": 4
+      },
+      "501": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>去博物馆，需要准备一张<font color=0x5b93be>【门票】</font>\n门票可以放在护身符的位置</font></font>",
+        "id": 501,
+        "title": "去趟博物馆",
+        "type": 5
+      },
+      "502": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>在商店购买<font color=0x5b93be>【手工品制作工具】</font>后开启\n还要再准备点<font color=0x5b93be>【手工品材料】</font>\n制作完成会留在桌上，旅行归来便会<font color=0x5b93be>收纳</font>起来</font></font>",
+        "id": 502,
+        "title": "做一枚绿色印章",
+        "type": 5
+      },
+      "503": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>多做点印章练练手\n不要忘了准备<font color=0x5b93be>【手工品材料】</font></font></font>",
+        "id": 503,
+        "title": "做一枚灰色印章",
+        "type": 5
+      },
+      "504": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>手艺熟练后就可以做祈愿物了</font></font>",
+        "id": 504,
+        "title": "做一枚红色印章",
+        "type": 5
+      },
+      "505": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>祈愿更多的三叶草和兑换券</font></font>",
+        "id": 505,
+        "title": "雕刻一株三叶草",
+        "type": 5
+      },
+      "506": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>祈愿记录旅行的小细节</font></font>",
+        "id": 506,
+        "title": "雕刻一本笔记",
+        "type": 5
+      },
+      "507": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>祈愿和旅友相约</font></font>",
+        "id": 507,
+        "title": "雕刻一个柳环",
+        "type": 5
+      },
+      "508": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>祈愿和旅友交换小礼物</font></font>",
+        "id": 508,
+        "title": "雕刻一个礼品盒",
+        "type": 5
+      },
+      "509": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>祈愿更多的特产</font></font>",
+        "id": 509,
+        "title": "雕刻一个果篮",
+        "type": 5
+      },
+      "510": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>祈愿一个纪念品</font></font>",
+        "id": 510,
+        "title": "雕刻一个中国结",
+        "type": 5
+      },
+      "511": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>祈愿一个特殊的旅行方向</font></font>",
+        "id": 511,
+        "title": "雕刻一个路标",
+        "type": 5
+      },
+      "601": {
+        "count": 5,
+        "desc": "<font color=0x545d4c><font size=18>旅途中遇到合适的材料带回家\n可以省下不少三叶草呢</font></font>",
+        "id": 601,
+        "title": "合适的材料带回家",
+        "type": 6
+      },
+      "602": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>从<font color=0x5b93be>【嘟嘟】</font>处可购买<font color=0x5b93be>【家具图纸】</font>\n嘟嘟是个行程不定的旅行商人\n但是晚饭的时候一般都回来了</font></font>",
+        "id": 602,
+        "title": "学会粉刷墙壁",
+        "type": 6
+      },
+      "603": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>像地板这样的大件\n需要消耗较多<font color=0x5b93be>【普通材料】</font>\n制作的时间也会长一些\n有时候做一半就出门旅行了</font></font>",
+        "id": 603,
+        "title": "学会地板的制作",
+        "type": 6
+      },
+      "604": {
+        "count": 1,
+        "desc": "",
+        "id": 604,
+        "title": "学会阁楼的制作",
+        "type": 6
+      },
+      "605": {
+        "count": 1,
+        "desc": "",
+        "id": 605,
+        "title": "学会制作栏杆",
+        "type": 6
+      },
+      "606": {
+        "count": 1,
+        "desc": "",
+        "id": 606,
+        "title": "学会制作窗户",
+        "type": 6
+      },
+      "607": {
+        "count": 1,
+        "desc": "",
+        "id": 607,
+        "title": "学会制作仓门",
+        "type": 6
+      },
+      "608": {
+        "count": 1,
+        "desc": "",
+        "id": 608,
+        "title": "学会制作帘幕",
+        "type": 6
+      },
+      "609": {
+        "count": 1,
+        "desc": "",
+        "id": 609,
+        "title": "学会装饰地图",
+        "type": 6
+      },
+      "610": {
+        "count": 1,
+        "desc": "",
+        "id": 610,
+        "title": "学会制作床铺",
+        "type": 6
+      },
+      "611": {
+        "count": 1,
+        "desc": "",
+        "id": 611,
+        "title": "学会制作花瓶",
+        "type": 6
+      },
+      "612": {
+        "count": 1,
+        "desc": "",
+        "id": 612,
+        "title": "学会制作便签",
+        "type": 6
+      },
+      "613": {
+        "count": 1,
+        "desc": "",
+        "id": 613,
+        "title": "学会制作书桌",
+        "type": 6
+      },
+      "614": {
+        "count": 1,
+        "desc": "",
+        "id": 614,
+        "title": "学会制作坐垫",
+        "type": 6
+      },
+      "615": {
+        "count": 1,
+        "desc": "",
+        "id": 615,
+        "title": "学会制作储柜",
+        "type": 6
+      },
+      "616": {
+        "count": 1,
+        "desc": "",
+        "id": 616,
+        "title": "学会制作装饰",
+        "type": 6
+      },
+      "617": {
+        "count": 1,
+        "desc": "",
+        "id": 617,
+        "title": "学会制作箱子",
+        "type": 6
+      },
+      "618": {
+        "count": 1,
+        "desc": "",
+        "id": 618,
+        "title": "学会制作餐桌",
+        "type": 6
+      },
+      "619": {
+        "count": 1,
+        "desc": "",
+        "id": 619,
+        "title": "学会制作餐椅",
+        "type": 6
+      },
+      "620": {
+        "count": 1,
+        "desc": "",
+        "id": 620,
+        "title": "学会编织地毯",
+        "type": 6
+      },
+      "621": {
+        "count": 1,
+        "desc": "",
+        "id": 621,
+        "title": "学会搭建厨灶",
+        "type": 6
+      },
+      "622": {
+        "count": 1,
+        "desc": "",
+        "id": 622,
+        "title": "学会整理厨杂",
+        "type": 6
+      },
+      "623": {
+        "count": 1,
+        "desc": "",
+        "id": 623,
+        "title": "学会制作立镜",
+        "type": 6
+      },
+      "624": {
+        "count": 1,
+        "desc": "",
+        "id": 624,
+        "title": "学会制作衣架",
+        "type": 6
+      },
+      "625": {
+        "count": 1,
+        "desc": "",
+        "id": 625,
+        "title": "学会制作屏风",
+        "type": 6
+      },
+      "626": {
+        "count": 1,
+        "desc": "",
+        "id": 626,
+        "title": "学会装置照明",
+        "type": 6
+      },
+      "627": {
+        "count": 1,
+        "desc": "",
+        "id": 627,
+        "title": "学会制作衣柜",
+        "type": 6
+      },
+      "628": {
+        "count": 1,
+        "desc": "",
+        "id": 628,
+        "title": "学会储藏杂物",
+        "type": 6
+      },
+      "629": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>通过<font color=0x5b93be>【聚会】</font>有机会跟邻居学习到<font color=0x5b93be>【庭院物什】</font>的制作\n别忘了带上邻居喜欢的特产</font></font>",
+        "id": 629,
+        "title": "学会制作不倒翁",
+        "type": 6
+      },
+      "630": {
+        "count": 1,
+        "desc": "<font color=0x545d4c><font size=18>聚会归来如果拿到图纸\n还需要准备<font color=0x5b93be>【特殊材料】</font>才可以制作物什\n嘟嘟会售卖一些特价物什材料</font></font>",
+        "id": 630,
+        "title": "学会制作堆肥箱",
+        "type": 6
+      }
+    },
+    "list_type": {
+      "1": {
+        "name": "是日清单",
+        "reward": [
+          1
+        ],
+        "target": [
+          3
+        ]
+      },
+      "2": {
+        "name": "当周计划",
+        "reward": [
+          202103,
+          2
+        ],
+        "target": [
+          2,
+          5
+        ]
+      },
+      "3": {
+        "name": "半月计划",
+        "reward": [
+          3,
+          4
+        ],
+        "target": [
+          3,
+          6
+        ]
+      },
+      "4": {
+        "name": "月度计划",
+        "reward": [
+          5,
+          15,
+          16,
+          33,
+          1104
+        ],
+        "target": [
+          2,
+          4,
+          6,
+          8,
+          12
+        ]
+      },
+      "5": {
+        "name": "当季计划",
+        "reward": [
+          8000,
+          8000,
+          1103
+        ],
+        "target": [
+          3,
+          7,
+          11
+        ]
+      },
+      "6": {
+        "name": "年度计划",
+        "reward": [
+          10103,
+          10104,
+          10106,
+          10102,
+          10105
+        ],
+        "target": [
+          4,
+          9,
+          14,
+          21,
+          30
+        ]
+      }
+    },
+    "task_list": {
+      "1": {
+        "count": 1,
+        "id": 1,
+        "num": 10,
+        "pic": "task_pic_1",
+        "reward_id": 200000,
+        "title": "等蛙旅行回来",
+        "type": 1
+      },
+      "101": {
+        "count": 1,
+        "id": 101,
+        "num": 1,
+        "pic": "task_pic_101",
+        "reward_id": 1000,
+        "title": "旅行有感",
+        "type": 2
+      },
+      "102": {
+        "count": 20,
+        "id": 102,
+        "num": 50,
+        "pic": "task_pic_102",
+        "reward_id": 200000,
+        "title": "一连串的见闻叙事",
+        "type": 2
+      },
+      "103": {
+        "count": 1,
+        "id": 103,
+        "num": 1,
+        "pic": "task_pic_103",
+        "reward_id": 14,
+        "title": "蛙友的结伴记录",
+        "type": 2
+      },
+      "104": {
+        "count": 1,
+        "id": 104,
+        "num": 10,
+        "pic": "task_pic_104",
+        "reward_id": 200000,
+        "title": "蛙友待续的故事",
+        "type": 2
+      },
+      "105": {
+        "count": 1,
+        "id": 105,
+        "num": 1,
+        "pic": "task_pic_105",
+        "reward_id": 17,
+        "title": "见一见旅行的朋友",
+        "type": 2
+      },
+      "2": {
+        "count": 10,
+        "id": 2,
+        "num": 1,
+        "pic": "task_pic_2",
+        "reward_id": 14,
+        "title": "旅行成了常态",
+        "type": 1
+      },
+      "201": {
+        "count": 1,
+        "id": 201,
+        "num": 1,
+        "pic": "task_pic_201",
+        "reward_id": 8000,
+        "title": "材料不可缺",
+        "type": 3
+      },
+      "202": {
+        "count": 1,
+        "id": 202,
+        "num": 20,
+        "pic": "task_pic_202",
+        "reward_id": 200000,
+        "title": "祈愿旅行~棒棒的",
+        "type": 3
+      },
+      "203": {
+        "count": 10,
+        "id": 203,
+        "num": 1,
+        "pic": "task_pic_203",
+        "reward_id": 8000,
+        "title": "祈愿物雕刻老手",
+        "type": 3
+      },
+      "204": {
+        "count": 1,
+        "id": 204,
+        "num": 20,
+        "pic": "task_pic_204",
+        "reward_id": 200000,
+        "title": "瞧~手工印章",
+        "type": 3
+      },
+      "205": {
+        "count": 10,
+        "id": 205,
+        "num": 1,
+        "pic": "task_pic_205",
+        "reward_id": 8000,
+        "title": "盖了好多个章",
+        "type": 3
+      },
+      "3": {
+        "count": 1,
+        "id": 3,
+        "num": 10,
+        "pic": "task_pic_3",
+        "reward_id": 200000,
+        "title": "回家还带吃的",
+        "type": 1
+      },
+      "301": {
+        "count": 1,
+        "id": 301,
+        "num": 10,
+        "pic": "task_pic_301",
+        "reward_id": 200000,
+        "title": "蛙~做什么工作呀",
+        "type": 4
+      },
+      "302": {
+        "count": 5,
+        "id": 302,
+        "num": 20,
+        "pic": "task_pic_302",
+        "reward_id": 200000,
+        "title": "买了肯定有用",
+        "type": 4
+      },
+      "303": {
+        "count": 1,
+        "id": 303,
+        "num": 10,
+        "pic": "task_pic_303",
+        "reward_id": 200000,
+        "title": "开始装饰小屋",
+        "type": 4
+      },
+      "304": {
+        "count": 1,
+        "id": 304,
+        "num": 1,
+        "pic": "task_pic_304",
+        "reward_id": 9000,
+        "title": "整套风格真好看",
+        "type": 4
+      },
+      "4": {
+        "count": 10,
+        "id": 4,
+        "num": 1,
+        "pic": "task_pic_4",
+        "reward_id": 18,
+        "title": "吃不完就是囤",
+        "type": 1
+      },
+      "401": {
+        "count": 1,
+        "id": 401,
+        "num": 10,
+        "pic": "task_pic_401",
+        "reward_id": 200000,
+        "title": "门口的小卡片",
+        "type": 5
+      },
+      "402": {
+        "count": 1,
+        "id": 402,
+        "num": 20,
+        "pic": "task_pic_402",
+        "reward_id": 200000,
+        "title": "揭秘~小伙伴身份",
+        "type": 5
+      },
+      "403": {
+        "count": 1,
+        "id": 403,
+        "num": 20,
+        "pic": "task_pic_403",
+        "reward_id": 200000,
+        "title": "等一个聚会惊喜",
+        "type": 5
+      },
+      "5": {
+        "count": 1,
+        "id": 5,
+        "num": 1,
+        "pic": "task_pic_5",
+        "reward_id": 1000,
+        "title": "途中淘了个纪念品",
+        "type": 1
+      },
+      "6": {
+        "count": 6,
+        "id": 6,
+        "num": 30,
+        "pic": "task_pic_6",
+        "reward_id": 200000,
+        "title": "一屋子的纪念品",
+        "type": 1
+      },
+      "7": {
+        "count": 1,
+        "id": 7,
+        "num": 1,
+        "pic": "task_pic_7",
+        "reward_id": 1000,
+        "title": "照片里有蛙",
+        "type": 1
+      },
+      "8": {
+        "count": 20,
+        "id": 8,
+        "num": 1,
+        "pic": "task_pic_8",
+        "reward_id": 9000,
+        "title": "这些照片都有蛙",
+        "type": 1
+      },
+      "9": {
+        "count": 1,
+        "id": 9,
+        "num": 1,
+        "pic": "task_pic_9",
+        "reward_id": 1012,
+        "title": "蛙蛙联合做大事",
+        "type": 1
+      },
+      "901": {
+        "count": 200,
+        "id": 901,
+        "num": 1,
+        "pic": "task_pic_901",
+        "reward_id": 1,
+        "title": "屯点家底",
+        "type": 9
+      },
+      "902": {
+        "count": 25,
+        "id": 902,
+        "num": 1,
+        "pic": "task_pic_902",
+        "reward_id": 1000,
+        "title": "攒点运气",
+        "type": 9
+      },
+      "903": {
+        "count": 1,
+        "id": 903,
+        "num": 1,
+        "pic": "task_pic_903",
+        "reward_id": 1000,
+        "title": "日历里的时光美食",
+        "type": 9
+      },
+      "904": {
+        "count": 1,
+        "id": 904,
+        "num": 10,
+        "pic": "task_pic_904",
+        "reward_id": 200000,
+        "title": "相册~急需扩容",
+        "type": 9
+      }
+    },
+    "task_type": {
+      "1": {
+        "desc": "为每一次旅行做点准备，然后期待青蛙回家后的分享吧",
+        "icon": [
+          "fuza_fw2"
+        ],
+        "limit": [
+          "找到属于你的蛙"
+        ],
+        "name": "旅行",
+        "type": 1,
+        "unlock": [
+          "快去准备旅行用的背包吧"
+        ]
+      },
+      "2": {
+        "desc": "青蛙在旅行时可能遇到有趣的事情，回家后会以笔记的形式记录下来",
+        "icon": [
+          "note_150_150",
+          "gift_150_150"
+        ],
+        "limit": [
+          "还未获得一篇笔记呢",
+          "还未获得一篇有关旅友的笔记呢"
+        ],
+        "name": "旅行笔记",
+        "type": 2,
+        "unlock": [
+          "可以到阁楼书桌查看喔",
+          "可以到阁楼礼品盒查看喔"
+        ]
+      },
+      "3": {
+        "desc": "心灵手巧的青蛙也需要一个称手的工具，来祈愿接下来的旅行顺顺利利",
+        "icon": [
+          "goods_42"
+        ],
+        "limit": [
+          "到商店找一个手工品工具吧"
+        ],
+        "name": "手工品",
+        "type": 3,
+        "unlock": [
+          "有材料后，记得留意桌上"
+        ]
+      },
+      "4": {
+        "desc": "见识过许多风景后，看着家里都有新想法了",
+        "icon": [
+          "furniture_150_150",
+          "icon_tuzhi",
+          "icon_tuzhi_401",
+          "icon_tuzhi_501"
+        ],
+        "limit": [
+          "多出去旅行寻找家具灵感",
+          "没图纸就做不了家具",
+          "聚会里跟邻居学习做不倒翁吧",
+          "聚会里跟邻居学习做堆肥箱吧"
+        ],
+        "name": "家具",
+        "type": 4,
+        "unlock": [
+          "工具、材料、图纸都不可少",
+          "缺什么，找嘟嘟就没错了",
+          "没有植物果实可开不了工",
+          "没有手工合页可开不了工"
+        ]
+      },
+      "5": {
+        "desc": "来自一份聚会的邀请，走进了邻居的世界",
+        "icon": [
+          "goods_60",
+          "invite_wugui"
+        ],
+        "limit": [
+          "到商店找一个友情绘本吧",
+          "等待邻居们的聚会邀请"
+        ],
+        "name": "友情绘本",
+        "type": 5,
+        "unlock": [
+          "等待邻居们的聚会邀请",
+          "为赴约做好准备"
+        ]
+      },
+      "9": {
+        "desc": "乱糟糟的东西，凑出了一个大问号",
+        "icon": [
+          "7_role"
+        ],
+        "limit": [
+          "找到属于你的蛙"
+        ],
+        "name": "杂七杂八",
+        "type": 9,
+        "unlock": [
+          "有疑问时就看看指南吧"
+        ]
+      }
+    }
+  },
+  "images": {
+    "btn_return_png": {
+      "path": "media/frog-guide/btn_return.png",
+      "file_size": 2837,
+      "sha256": "79b5574ee18c3957db1a36dee50b55afafd0eaec94c7750faca3071720df686d",
+      "width": 50,
+      "height": 50,
+      "resource_key": "btn_return_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/btn_return.png",
+      "source_kind": "bundled_apk"
+    },
+    "btn_unlock_info_png": {
+      "path": "media/frog-guide/btn_unlock_info.png",
+      "file_size": 2412,
+      "sha256": "b73949102567fdc4cb27c9f31dc7a0af4a1ed310409e070b6d874a03dcf06e41",
+      "width": 50,
+      "height": 50,
+      "resource_key": "btn_unlock_info_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/btn_unlock_info.png",
+      "source_kind": "bundled_apk"
+    },
+    "function_unlock_bg_png": {
+      "path": "media/frog-guide/function_unlock_bg.png",
+      "file_size": 1292,
+      "sha256": "78e183c381ab64e7b8db4d676dbac63b94a57c6d20702b9660385d64f9d4f993",
+      "width": 40,
+      "height": 40,
+      "resource_key": "function_unlock_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/function_unlock_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "function_unlock_off_png": {
+      "path": "media/frog-guide/function_unlock_off.png",
+      "file_size": 1293,
+      "sha256": "3b03805b8801e857b3daa96c82c57e879224f141dde923a234e6819f10c591c2",
+      "width": 40,
+      "height": 40,
+      "resource_key": "function_unlock_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/function_unlock_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "function_unlock_on_png": {
+      "path": "media/frog-guide/function_unlock_on.png",
+      "file_size": 1300,
+      "sha256": "31b927cc55db8e21f17aa0a16f07b8426f94f9706298d3eef2782b3837b4bdf0",
+      "width": 40,
+      "height": 40,
+      "resource_key": "function_unlock_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/function_unlock_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_get_off_png": {
+      "path": "media/frog-guide/task_get_off.png",
+      "file_size": 1761,
+      "sha256": "ac8040273fd641fbc6a314e62b1efd08a561696475cdb31abdcd38dfacab4f9c",
+      "width": 31,
+      "height": 32,
+      "resource_key": "task_get_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_get_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_get_on_png": {
+      "path": "media/frog-guide/task_get_on.png",
+      "file_size": 1556,
+      "sha256": "f84cbdf5ac50ed275f92ae426ffdfafbf486ae44e728f6e56370fd1841262534",
+      "width": 31,
+      "height": 32,
+      "resource_key": "task_get_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_get_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_get_top_png": {
+      "path": "media/frog-guide/task_get_top.png",
+      "file_size": 3348,
+      "sha256": "6926baa93361847fa7c3c3538a850448d50b7b2edad116230480ffd14b120884",
+      "width": 31,
+      "height": 32,
+      "resource_key": "task_get_top_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_get_top.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_got_png": {
+      "path": "media/frog-guide/task_got.png",
+      "file_size": 24292,
+      "sha256": "f63532d354e93280ef1fe9202cb852b6712b8b783e852739db377ca80ecff183",
+      "width": 472,
+      "height": 126,
+      "resource_key": "task_got_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_got.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_list_notice_png": {
+      "path": "media/frog-guide/task_list_notice.png",
+      "file_size": 2009,
+      "sha256": "f5d263468b15e349340ff0c1ae7f4b2e34b9643d3481261c921057f29cf35e7f",
+      "width": 60,
+      "height": 51,
+      "resource_key": "task_list_notice_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_list_notice.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_list_order_png": {
+      "path": "media/frog-guide/task_list_order.png",
+      "file_size": 4743,
+      "sha256": "6f4a7b4923abcb0fea45cbed54d362399acf7b9e8807dc8c2dd162c156814249",
+      "width": 104,
+      "height": 41,
+      "resource_key": "task_list_order_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_list_order.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_mian_bg_png": {
+      "path": "media/frog-guide/task_mian_bg.png",
+      "file_size": 106957,
+      "sha256": "156c51363ba13a8620916dc38208478add894c2be2c6ff645ad58401da47d6f9",
+      "width": 500,
+      "height": 855,
+      "resource_key": "task_mian_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_mian_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_progress_off_png": {
+      "path": "media/frog-guide/task_progress_off.png",
+      "file_size": 1582,
+      "sha256": "59a399050c522aa24e25a588c54716104b96211c26a6153cfc929b37a1f343e0",
+      "width": 46,
+      "height": 26,
+      "resource_key": "task_progress_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_progress_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_progress_on_png": {
+      "path": "media/frog-guide/task_progress_on.png",
+      "file_size": 1617,
+      "sha256": "a9cc14bd2d76dca0d74b1ab1b0dabdde41ee0b73f6a14e44578b455c03ce98ed",
+      "width": 46,
+      "height": 26,
+      "resource_key": "task_progress_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_progress_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_tips_png": {
+      "path": "media/frog-guide/task_tips.png",
+      "file_size": 2183,
+      "sha256": "51bfb7efad913b1a2372c677f86b991aa587fd568de1f360b1fdb841ea053953",
+      "width": 45,
+      "height": 49,
+      "resource_key": "task_tips_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_tips.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_title_top_png": {
+      "path": "media/frog-guide/task_title_top.png",
+      "file_size": 6285,
+      "sha256": "2623cd7359f3a442e4569a735239cc1f01f7bba016ea3fb46e723164ae2fe2a9",
+      "width": 500,
+      "height": 81,
+      "resource_key": "task_title_top_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_title_top.png",
+      "source_kind": "bundled_apk"
+    },
+    "text_task_png": {
+      "path": "media/frog-guide/text_task.png",
+      "file_size": 4334,
+      "sha256": "5056bc384998021bd54422e8d0cb63ec3c0ed449c930ab0eec3112b7759e5b99",
+      "width": 329,
+      "height": 19,
+      "resource_key": "text_task_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/text_task.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_1_1_png": {
+      "path": "media/frog-guide/task_type_1_1.png",
+      "file_size": 1297,
+      "sha256": "2d7a1a4107540b36ebb571195962333ca9000246fe27a326e89b48353f8f4427",
+      "width": 33,
+      "height": 16,
+      "resource_key": "task_type_1_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_1_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_1_bg_png": {
+      "path": "media/frog-guide/task_type_1_bg.png",
+      "file_size": 8684,
+      "sha256": "202a58f1cfe6a7bc19e83f1970b2fe4eab4f20fca70456cb35100bf1967025ce",
+      "width": 500,
+      "height": 782,
+      "resource_key": "task_type_1_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_1_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_1_off_png": {
+      "path": "media/frog-guide/task_type_1_off.png",
+      "file_size": 20796,
+      "sha256": "00f7854037803e54685cdcfb38f35175c1d2beedb5be4bff8c8def5f1c9cfa86",
+      "width": 500,
+      "height": 175,
+      "resource_key": "task_type_1_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_1_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_1_on_png": {
+      "path": "media/frog-guide/task_type_1_on.png",
+      "file_size": 19018,
+      "sha256": "a8703317ceb66102c617e61eadc99579ede8d197932f61831e9fc40b806376f1",
+      "width": 454,
+      "height": 215,
+      "resource_key": "task_type_1_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_1_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_1_png": {
+      "path": "media/frog-guide/task_type_1.png",
+      "file_size": 21924,
+      "sha256": "f538c944ebfd35c568d8c74d923985b956b9c564165785df74c214ee38d1b422",
+      "width": 156,
+      "height": 123,
+      "resource_key": "task_type_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_2_1_png": {
+      "path": "media/frog-guide/task_type_2_1.png",
+      "file_size": 1298,
+      "sha256": "dedbcfd9b9b9370b80ef25dc792b5521433029dec5cf748f11f20291ef2c998f",
+      "width": 33,
+      "height": 16,
+      "resource_key": "task_type_2_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_2_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_2_bg_png": {
+      "path": "media/frog-guide/task_type_2_bg.png",
+      "file_size": 7640,
+      "sha256": "be2ca2694d2f99312821aad0c7a1e1cae9b1548651615c1a22a7163ee75af7a3",
+      "width": 500,
+      "height": 782,
+      "resource_key": "task_type_2_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_2_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_2_off_png": {
+      "path": "media/frog-guide/task_type_2_off.png",
+      "file_size": 22204,
+      "sha256": "db24ed5289559d76587b9d89ff9586a193c2603685689e7414a24e200bb13b21",
+      "width": 500,
+      "height": 175,
+      "resource_key": "task_type_2_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_2_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_2_on_png": {
+      "path": "media/frog-guide/task_type_2_on.png",
+      "file_size": 17847,
+      "sha256": "7ac42106afbe85ab8947de28bed2e081d89bc017ee0dd29419c0f598152c8e83",
+      "width": 454,
+      "height": 215,
+      "resource_key": "task_type_2_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_2_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_2_other1_png": {
+      "path": "media/frog-guide/task_type_2_other1.png",
+      "file_size": 7243,
+      "sha256": "193e3f2bd987ae01502ac8539ef6e3650bb11554f566585d4905261077974489",
+      "width": 79,
+      "height": 73,
+      "resource_key": "task_type_2_other1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_2_other1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_2_png": {
+      "path": "media/frog-guide/task_type_2.png",
+      "file_size": 19127,
+      "sha256": "d94e401ae54dc406e1df172c47fbd9ebcb870038ea5053577c96d98ae7e65d09",
+      "width": 152,
+      "height": 113,
+      "resource_key": "task_type_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_2.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_3_1_png": {
+      "path": "media/frog-guide/task_type_3_1.png",
+      "file_size": 1300,
+      "sha256": "d7fbb91bb13c89eb31b434fd47cbdb760e360ad3fb71adb7a246597d39e3efb0",
+      "width": 33,
+      "height": 16,
+      "resource_key": "task_type_3_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_3_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_3_bg_png": {
+      "path": "media/frog-guide/task_type_3_bg.png",
+      "file_size": 7897,
+      "sha256": "3c60037f1f25057c06f7ef1f1e0aef0fe0a693c04eac39e2eaa62e3a424a5953",
+      "width": 500,
+      "height": 782,
+      "resource_key": "task_type_3_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_3_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_3_off_png": {
+      "path": "media/frog-guide/task_type_3_off.png",
+      "file_size": 24748,
+      "sha256": "dd287231459d8a57a2fe77d2437f69a7050f6e50577a7c1cf8ede114ae6058ed",
+      "width": 500,
+      "height": 175,
+      "resource_key": "task_type_3_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_3_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_3_on_png": {
+      "path": "media/frog-guide/task_type_3_on.png",
+      "file_size": 16082,
+      "sha256": "4ee77b4f273075f684710e628ddb6e1f0c604508f95ef3bc392388c0ff875182",
+      "width": 454,
+      "height": 215,
+      "resource_key": "task_type_3_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_3_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_3_png": {
+      "path": "media/frog-guide/task_type_3.png",
+      "file_size": 20290,
+      "sha256": "6b6012e94882f23afd8004a14032df62d3b5d746ef1407cbaa2f466847105cc0",
+      "width": 157,
+      "height": 132,
+      "resource_key": "task_type_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_3.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_1_png": {
+      "path": "media/frog-guide/task_type_4_1.png",
+      "file_size": 1299,
+      "sha256": "3e5cebbbabed8b8b2f4eacd8ca2473ce3c961820a9b8b5dfea7d89654796e0cd",
+      "width": 33,
+      "height": 16,
+      "resource_key": "task_type_4_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_bg_png": {
+      "path": "media/frog-guide/task_type_4_bg.png",
+      "file_size": 7447,
+      "sha256": "3139d52c9c7de1af4ad728db4dee523cddba853c6e9e128b94580c95cae428ff",
+      "width": 500,
+      "height": 782,
+      "resource_key": "task_type_4_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_off_png": {
+      "path": "media/frog-guide/task_type_4_off.png",
+      "file_size": 32648,
+      "sha256": "fe5697a44621881ba54938a918bc77dd9ffe70f6209f7fa1381e03b1f3f4f275",
+      "width": 500,
+      "height": 175,
+      "resource_key": "task_type_4_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_on_png": {
+      "path": "media/frog-guide/task_type_4_on.png",
+      "file_size": 25111,
+      "sha256": "ee7276da719b99a27de1479d8bf3566c2f6d2f6036c9b38171c01d972275fb5c",
+      "width": 454,
+      "height": 215,
+      "resource_key": "task_type_4_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_other1_png": {
+      "path": "media/frog-guide/task_type_4_other1.png",
+      "file_size": 8228,
+      "sha256": "f2a99c88dcbb9994fa9921291e7647f12135d1caad1a13cdf936b77c2c72c989",
+      "width": 86,
+      "height": 78,
+      "resource_key": "task_type_4_other1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4_other1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_other2_png": {
+      "path": "media/frog-guide/task_type_4_other2.png",
+      "file_size": 6227,
+      "sha256": "1383687e4cfce830c9c5219b1846f31c6ec09cc8b244cf3331208f75e79ba8f7",
+      "width": 72,
+      "height": 69,
+      "resource_key": "task_type_4_other2_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4_other2.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_other3_png": {
+      "path": "media/frog-guide/task_type_4_other3.png",
+      "file_size": 8587,
+      "sha256": "9d08e4c9763373817504166d7a20a97699f70f496a080f32ceab6da9eb5a663e",
+      "width": 85,
+      "height": 77,
+      "resource_key": "task_type_4_other3_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4_other3.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_4_png": {
+      "path": "media/frog-guide/task_type_4.png",
+      "file_size": 18300,
+      "sha256": "0171dfd79fb277d8c482ba6d4d163570f40f0392b2e3ec82fc5e2a58a80f139e",
+      "width": 152,
+      "height": 105,
+      "resource_key": "task_type_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_4.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_5_1_png": {
+      "path": "media/frog-guide/task_type_5_1.png",
+      "file_size": 1297,
+      "sha256": "8075c1e4d0b060625fb5e9c87fff4edcdc07edb87ab28dd957688532dad1c60d",
+      "width": 33,
+      "height": 16,
+      "resource_key": "task_type_5_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_5_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_5_bg_png": {
+      "path": "media/frog-guide/task_type_5_bg.png",
+      "file_size": 7076,
+      "sha256": "c3a593d37ef0138850de85ae1790e7eac866e224c03d5233e68cd7e3ef039bd3",
+      "width": 500,
+      "height": 782,
+      "resource_key": "task_type_5_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_5_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_5_off_png": {
+      "path": "media/frog-guide/task_type_5_off.png",
+      "file_size": 27229,
+      "sha256": "3087efc7d75aea5d9f77e2e11fe272b9532281b1c7a08b00dee1f90b0e691830",
+      "width": 500,
+      "height": 175,
+      "resource_key": "task_type_5_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_5_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_5_on_png": {
+      "path": "media/frog-guide/task_type_5_on.png",
+      "file_size": 14758,
+      "sha256": "5655fac72da8d81b11b0a3a8a8d26e4269227f5e0144e984d45e72f151ed12f9",
+      "width": 454,
+      "height": 215,
+      "resource_key": "task_type_5_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_5_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_5_other1_png": {
+      "path": "media/frog-guide/task_type_5_other1.png",
+      "file_size": 7901,
+      "sha256": "8403dfaa44eb75fb598cb9d5943f086c304902128ed9053285abd709850812e9",
+      "width": 88,
+      "height": 69,
+      "resource_key": "task_type_5_other1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_5_other1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_5_png": {
+      "path": "media/frog-guide/task_type_5.png",
+      "file_size": 17801,
+      "sha256": "5e535dc96b7c66f014b37c68a7f897f9f0d647cef77b5e49e052557cf6b2e254",
+      "width": 138,
+      "height": 108,
+      "resource_key": "task_type_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_5.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_9_1_png": {
+      "path": "media/frog-guide/task_type_9_1.png",
+      "file_size": 1289,
+      "sha256": "2b8c2d868f1a76cb2b20fd0085655be892b089cf6baa13df1174f4b26ba0e48f",
+      "width": 33,
+      "height": 16,
+      "resource_key": "task_type_9_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_9_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_9_bg_png": {
+      "path": "media/frog-guide/task_type_9_bg.png",
+      "file_size": 7742,
+      "sha256": "983ec7ccb8a7e31e5bca048baf034f5bbfb84381370cb07d1617d2cf08d42124",
+      "width": 500,
+      "height": 782,
+      "resource_key": "task_type_9_bg_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_9_bg.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_9_off_png": {
+      "path": "media/frog-guide/task_type_9_off.png",
+      "file_size": 25910,
+      "sha256": "c34549cacabebe8ba06c395399d5d133a9d3ab76fe9d8838a12f005323b75ba0",
+      "width": 500,
+      "height": 175,
+      "resource_key": "task_type_9_off_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_9_off.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_9_on_png": {
+      "path": "media/frog-guide/task_type_9_on.png",
+      "file_size": 17505,
+      "sha256": "7a5657a6f32f5315be6dd256a588108366f8dafbc7bf6e2ce066ba55341c3f77",
+      "width": 454,
+      "height": 215,
+      "resource_key": "task_type_9_on_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_9_on.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_type_9_png": {
+      "path": "media/frog-guide/task_type_9.png",
+      "file_size": 15829,
+      "sha256": "b50bddf836750ede48a411effb8f320fa4beb56d7292fd742420105a6ba2e276",
+      "width": 127,
+      "height": 110,
+      "resource_key": "task_type_9_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/Bg_ui/task_type_9.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_png": {
+      "path": "media/frog-guide/task.png",
+      "file_size": 6805,
+      "sha256": "c07f5532e05c6110d1101c3ab31230fba982af69fc1081c4e342fba3d7379970",
+      "width": 232,
+      "height": 52,
+      "resource_key": "task_png",
+      "source_member": "assets/game/resource/China/images/System/Text/task.png",
+      "source_kind": "bundled_apk"
+    },
+    "page_01_png": {
+      "path": "media/frog-guide/page_01.png",
+      "file_size": 616,
+      "sha256": "29938704ef7da10bae18e4687cbc5882af449eeae6631e8b30ac2144c5969cf5",
+      "width": 18,
+      "height": 36,
+      "resource_key": "page_01_png",
+      "source_member": "assets/game/resource/China/images/System/Num/page_01.png",
+      "source_kind": "bundled_apk"
+    },
+    "summary_page2_png": {
+      "path": "media/frog-guide/summary_page2.png",
+      "file_size": 6878,
+      "sha256": "2c9f2e0b8620c5217c618de11aedb75c637bc6e7522f10e6c67c546ceb1ba62f",
+      "width": 131,
+      "height": 96,
+      "resource_key": "summary_page2_png",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Bg_ui/summary_page2.png",
+      "source_kind": "bundled_apk"
+    },
+    "frame_11_png": {
+      "path": "media/frog-guide/frame_11.png",
+      "file_size": 1108,
+      "sha256": "68dee77caca2484bdfe56001ef4fc5f06a462fb3cdbc7d3ad57ca3ca3e288404",
+      "width": 50,
+      "height": 50,
+      "resource_key": "frame_11_png",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/system.eab#/ecadcbc55fdf0f0c6dbfc69b568b3fb2",
+      "source_kind": "hot_update_cache",
+      "resource_version": 1078,
+      "source_entry": "images/System/Window/frame_11.png"
+    },
+    "close_png": {
+      "path": "media/frog-guide/close.png",
+      "file_size": 1488,
+      "sha256": "e7a164122114b5dfdbd993588b20b416cbedb7e26a4996e5b9272716b6ae7694",
+      "width": 50,
+      "height": 50,
+      "resource_key": "close_png",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/system.eab#/ecadcbc55fdf0f0c6dbfc69b568b3fb2",
+      "source_kind": "hot_update_cache",
+      "resource_version": 1078,
+      "source_entry": "images/System/Window/close.png"
+    },
+    "task_pic_1_png": {
+      "path": "media/frog-guide/task_pic_1.png",
+      "file_size": 109428,
+      "sha256": "f407fc183da9918dac4f03f93c715867c125527d6d2190c657236481a1feab39",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_1_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_1.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_2_png": {
+      "path": "media/frog-guide/task_pic_2.png",
+      "file_size": 129317,
+      "sha256": "3207f5ad5bc56fcebc0e8a12b665103605076a92b5ee92a9976e5832a61e2f88",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_2_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_2.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_3_png": {
+      "path": "media/frog-guide/task_pic_3.png",
+      "file_size": 98724,
+      "sha256": "4ba1ba193adc018a1b47044d2e92070d5acb5117e7b0dcea7d835e55c4248f27",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_3_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_3.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_4_png": {
+      "path": "media/frog-guide/task_pic_4.png",
+      "file_size": 98512,
+      "sha256": "70214e28e5f33eb59245db3ce4eceac2034bd40bd2d1389068420fe0cc4bccbb",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_4_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_4.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_5_png": {
+      "path": "media/frog-guide/task_pic_5.png",
+      "file_size": 105189,
+      "sha256": "b695c2700c363807234131dbfa6ae9e9dd8f055b7e752f8df3e314f489a19f26",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_5_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_5.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_6_png": {
+      "path": "media/frog-guide/task_pic_6.png",
+      "file_size": 86787,
+      "sha256": "16c9e941a21a17fd7cf35e9a6bf3aa6e489f1ced3aa7488ac993f3a35e7863a5",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_6_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_6.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_7_png": {
+      "path": "media/frog-guide/task_pic_7.png",
+      "file_size": 75482,
+      "sha256": "131bc6839a3a5c45497f92e030fba397feab8ee34b0a101d72d6df53d02f702d",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_7_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_7.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_8_png": {
+      "path": "media/frog-guide/task_pic_8.png",
+      "file_size": 120854,
+      "sha256": "82df8412f4964e63727d569742422ecbc985c99e35bad60fd816be9995e171a5",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_8_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_8.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_9_png": {
+      "path": "media/frog-guide/task_pic_9.png",
+      "file_size": 102869,
+      "sha256": "404cf3ff3c339aa5ec4e17cf17d7d66077c708d90b035904d5cbd98421604318",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_9_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_9.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_101_png": {
+      "path": "media/frog-guide/task_pic_101.png",
+      "file_size": 58090,
+      "sha256": "50f9ed69e7a5b91ed2fb5c7f590407fce5076bb63398b315205bb4a3e2ca446b",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_101_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_101.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_102_png": {
+      "path": "media/frog-guide/task_pic_102.png",
+      "file_size": 64767,
+      "sha256": "414a7174e96d1c4146729ee5ee72b6ddf213787cdf7f34f08ef9ea60831a37ab",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_102_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_102.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_103_png": {
+      "path": "media/frog-guide/task_pic_103.png",
+      "file_size": 81463,
+      "sha256": "dfe5d0c6568ed2e7505178e343268c938b594772a2e43af424e0d7c3df80ed82",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_103_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_103.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_104_png": {
+      "path": "media/frog-guide/task_pic_104.png",
+      "file_size": 56477,
+      "sha256": "6d5d891d4075a324db7162bb5768ad533b08bd58df4c58ed822b63c3e1c09731",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_104_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_104.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_105_png": {
+      "path": "media/frog-guide/task_pic_105.png",
+      "file_size": 90447,
+      "sha256": "2fd08f43aeaa900640386b2b55c1f76d9c9609882f7641577398bbd0b248b555",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_105_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_105.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_201_png": {
+      "path": "media/frog-guide/task_pic_201.png",
+      "file_size": 56204,
+      "sha256": "8a4c6cd277053a09b9796d52e4bf53edc97dc53e3bcbf44385bda7fe2bb0e1c5",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_201_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_201.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_202_png": {
+      "path": "media/frog-guide/task_pic_202.png",
+      "file_size": 107217,
+      "sha256": "03f3b8c290ce893e2dd8fa0a4d6c908c8730b00049f659857a21bd55e18597f7",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_202_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_202.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_203_png": {
+      "path": "media/frog-guide/task_pic_203.png",
+      "file_size": 80194,
+      "sha256": "a483447ace54405f14e60ad3c20ffe0d6e8fdd3f27fd4a8293444e6a4e47cf23",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_203_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_203.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_204_png": {
+      "path": "media/frog-guide/task_pic_204.png",
+      "file_size": 101803,
+      "sha256": "98163ddc950ea9f0621628571cb6db5b7b9bd1829e92602333385a41f43bb565",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_204_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_204.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_205_png": {
+      "path": "media/frog-guide/task_pic_205.png",
+      "file_size": 81622,
+      "sha256": "59cb7409f000b62d29275da711b4e08d279bf93fe70dd8c4ce8622a7a86ed527",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_205_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_205.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_301_png": {
+      "path": "media/frog-guide/task_pic_301.png",
+      "file_size": 99968,
+      "sha256": "87ea188090a1ec185acf4670f5d6d1a7d42ecf483ab6ee2145e9c3b1ff043ffb",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_301_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_301.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_302_png": {
+      "path": "media/frog-guide/task_pic_302.png",
+      "file_size": 126289,
+      "sha256": "d37aabdfb60fe8c1dffa6e8e34c1f5fae4f7c59f01173af7a5520c2919ac2bc9",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_302_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_302.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_303_png": {
+      "path": "media/frog-guide/task_pic_303.png",
+      "file_size": 113460,
+      "sha256": "ab1ab2b5962ae433e2de6b9b9634bad0f1fbb2f536c259f802d3cded958ae1c8",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_303_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_303.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_304_png": {
+      "path": "media/frog-guide/task_pic_304.png",
+      "file_size": 134462,
+      "sha256": "3b77a6a23a2be0d89669bda64f1c3dc9a5959a7d9d673ddc538c4c238eba8a75",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_304_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_304.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_401_png": {
+      "path": "media/frog-guide/task_pic_401.png",
+      "file_size": 138451,
+      "sha256": "6e233b9b2afbb1579c4e56f32720d830007ff030201033b4b2c7143ba49bf206",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_401_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_401.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_402_png": {
+      "path": "media/frog-guide/task_pic_402.png",
+      "file_size": 104226,
+      "sha256": "7f474e1adada1b67d22910d5fb4784b37af389da657bc48b221000081cd31780",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_402_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_402.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_403_png": {
+      "path": "media/frog-guide/task_pic_403.png",
+      "file_size": 102131,
+      "sha256": "99e3fbf3559c94f3e64f6db6dcd37fab74d305f1b6a5da135e4885ad0322aab2",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_403_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_403.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_901_png": {
+      "path": "media/frog-guide/task_pic_901.png",
+      "file_size": 161035,
+      "sha256": "6c8302b8109406aea3f7480767e5d83fba53a1535e44977a291379f8bdf38e57",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_901_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_901.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_902_png": {
+      "path": "media/frog-guide/task_pic_902.png",
+      "file_size": 145344,
+      "sha256": "a52832128736e448e1d9910b8ed5bb154fed8ce3d40a2b8a985c49868d339f72",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_902_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_902.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_903_png": {
+      "path": "media/frog-guide/task_pic_903.png",
+      "file_size": 104046,
+      "sha256": "502f9d31a87cf7281b8d2f6501f504c770fc8020a58e1386a294842086803d0a",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_903_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_903.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_pic_904_png": {
+      "path": "media/frog-guide/task_pic_904.png",
+      "file_size": 82274,
+      "sha256": "5ccf226b152d67ea7ba6d4db2398d879176ecb6f4deb5c90cd724ba8f659c221",
+      "width": 500,
+      "height": 600,
+      "resource_key": "task_pic_904_png",
+      "source_member": "assets/game/resource/China/images/Scene/HelpTask/task_pic/task_pic_904.png",
+      "source_kind": "bundled_apk"
+    },
+    "task_list_order_ani_ske_json": {
+      "path": "media/frog-guide/task_list_order_ani_ske.json",
+      "file_size": 928,
+      "sha256": "5edfc59a440fcc73137d46751c9700d4cff091ad972ca224bc5b6bd92a48c49c",
+      "resource_key": "task_list_order_ani_ske_json",
+      "source_member": "assets/game/resource/China/animation/ux/task_list_order_ani_ske.json",
+      "source_kind": "bundled_apk"
+    },
+    "task_list_order_ani_tex_json": {
+      "path": "media/frog-guide/task_list_order_ani_tex.json",
+      "file_size": 296,
+      "sha256": "fab518ca9caa9f5a81a5a44a4fd19576508d5c4d2fd5e5caf1b4426c2d1cc4de",
+      "resource_key": "task_list_order_ani_tex_json",
+      "source_member": "assets/game/resource/China/animation/ux/task_list_order_ani_tex.json",
+      "source_kind": "bundled_apk"
+    },
+    "task_list_order_ani_tex_png": {
+      "path": "media/frog-guide/task_list_order_ani_tex.png",
+      "file_size": 6684,
+      "sha256": "116537c3b4a489f59ecb74027c03ce80f00642209bc4f090312af6f360e6d174",
+      "width": 128,
+      "height": 128,
+      "resource_key": "task_list_order_ani_tex_png",
+      "source_member": "assets/game/resource/China/animation/ux/task_list_order_ani_tex.png",
+      "source_kind": "bundled_apk"
+    }
+  }
+}
