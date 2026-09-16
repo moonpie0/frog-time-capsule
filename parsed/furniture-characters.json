@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "status": "available",
   "source": "verified_static_client_config_and_local_backup",
   "source_backup_sha256": "fc7fe7f037f5f5e68aef7594089313629ff566495a292cfa9519f1511e868553",
@@ -436,6 +436,22 @@
           "x": 576,
           "y": 710
         }
+      }
+    },
+    "firefly": {
+      "id": 201,
+      "name": "萤火虫",
+      "resource": "egg_201_firefly",
+      "animation": "1",
+      "position": {
+        "x": 576,
+        "y": 1110
+      },
+      "condition": "EasterEgg.FireFly",
+      "source": "MainOutView.updateEgg",
+      "source_position": {
+        "horizontal_center": 0,
+        "vertical_center": 400
       }
     }
   },
@@ -909,6 +925,38 @@
       "resource_version": "APK 1.0.20",
       "width": 1253,
       "height": 1117
+    },
+    "egg_201_firefly_atlas": {
+      "path": "media/furniture-characters/spine/egg_201_firefly.atlas",
+      "file_size": 182,
+      "sha256": "b43fb87ec574e40e74664afe0b36839b8c7d366bd03eba6f4b0bb0698ed4958f",
+      "resource_key": "egg_201_firefly_atlas",
+      "source_entry": "animation/game_egg/egg_201_firefly.atlas",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_201_firefly.atlas",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_201_firefly_json": {
+      "path": "media/furniture-characters/spine/egg_201_firefly.json",
+      "file_size": 4419,
+      "sha256": "cf87f6a95a411e13b9794559068be38d5ee6dcb93192e6c99a366438a98abdfd",
+      "resource_key": "egg_201_firefly_json",
+      "source_entry": "animation/game_egg/egg_201_firefly.json",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_201_firefly.json",
+      "resource_version": "APK 1.0.20"
+    },
+    "egg_201_firefly_png": {
+      "path": "media/furniture-characters/spine/egg_201_firefly.png",
+      "file_size": 2234,
+      "sha256": "36929f363ffa4d6eff0ddbc407bdd718cd5aa6f5cb70b61493a6355d99ddf9c9",
+      "resource_key": "egg_201_firefly_png",
+      "source_entry": "animation/game_egg/egg_201_firefly.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/animation/game_egg/egg_201_firefly.png",
+      "resource_version": "APK 1.0.20",
+      "width": 37,
+      "height": 39
     },
     "LW_writing_ske_json": {
       "path": "media/furniture-characters/dragonbones/LW_writing/LW_writing_ske.json",
