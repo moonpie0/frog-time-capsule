@@ -7,6 +7,7 @@
 - 在本地工作区中，生成器源码位于仓库的上一级目录：`../viewer_template.py`、`../goal_postcards_viewer.py`、`../goal_postcards_app.js`、`../tumbler_viewer.py` 和 `../tumbler_app.js`。
 - 应修改对应生成器源码，再重新生成页面。生成器可用时，不要只修改生成后的 `viewer/index.html`。单独克隆的仓库可能不包含上级目录中的工具，遇到这种情况应如实说明。
 - 在上一级工作区中，使用已安装 Pillow 的 Python 环境运行 `python capsule.py generate --output GameTimeCapsule`，重新生成页面。
+- 相册“美好瞬间”由 `parsed/moments-catalog.json` 生成，只展示 `is_show=1` 的项目，并保留客户端原始描述与换行。
 
 ## 界面规则
 
