@@ -1,0 +1,1136 @@
+{
+  "schema_version": 1,
+  "source": "static_client_assets_and_compiled_client_logic",
+  "resource_version": 1088,
+  "server_fields": [
+    "create_time",
+    "travel_num",
+    "pic_num",
+    "stamp_num",
+    "wish_num",
+    "fur_num",
+    "note_num",
+    "spe_num",
+    "col_num",
+    "first_col",
+    "story_num",
+    "first_story",
+    "clover",
+    "visit_num",
+    "page_num",
+    "first_guest",
+    "login_day",
+    "theme",
+    "is_share"
+  ],
+  "server_data_recovered": false,
+  "theme_count": 12,
+  "images": {
+    "10_desc_png": {
+      "path": "media/annual-review/themes/10_desc.png",
+      "file_size": 28668,
+      "sha256": "026ee52b1dfe0b0d5cf9e3e0c463528d4f54fe3a204914873cadf4b410300676",
+      "width": 494,
+      "height": 205,
+      "resource_key": "10_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/10_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "10_role_png": {
+      "path": "media/annual-review/themes/10_role.png",
+      "file_size": 21419,
+      "sha256": "146e9d190e3ebfc6cb1fbaabe60e62a83d764615f41a46b39f23d11add7faff7",
+      "width": 208,
+      "height": 204,
+      "resource_key": "10_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/10_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "10_title_png": {
+      "path": "media/annual-review/themes/10_title.png",
+      "file_size": 2776,
+      "sha256": "0c5ccc35fc8808c9b4ed31c1589067c8abcbe77755b584ceb7747e21f29692b2",
+      "width": 201,
+      "height": 62,
+      "resource_key": "10_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/10_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "11_desc_png": {
+      "path": "media/annual-review/themes/11_desc.png",
+      "file_size": 30526,
+      "sha256": "4c1c215762d0d5ac9b57766f9cef742d359b19e5086ff09e95e9d35d152a5851",
+      "width": 494,
+      "height": 205,
+      "resource_key": "11_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/11_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "11_role_png": {
+      "path": "media/annual-review/themes/11_role.png",
+      "file_size": 26189,
+      "sha256": "f9b1797f929169c56493ef87dd0b979cdc26732b329efb49d0e850433bc27ab2",
+      "width": 208,
+      "height": 204,
+      "resource_key": "11_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/11_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "11_title_png": {
+      "path": "media/annual-review/themes/11_title.png",
+      "file_size": 3070,
+      "sha256": "f45e7a56e5352f353941917a4c6012f352702185ac9c8ad3bc0568829cec1a37",
+      "width": 155,
+      "height": 51,
+      "resource_key": "11_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/11_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "12_desc_png": {
+      "path": "media/annual-review/themes/12_desc.png",
+      "file_size": 31383,
+      "sha256": "afc9b5c92c66acffe6fdb86ac5f3f5d13c4b858678566bd553c55556ad8082f7",
+      "width": 494,
+      "height": 205,
+      "resource_key": "12_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/12_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "12_role_png": {
+      "path": "media/annual-review/themes/12_role.png",
+      "file_size": 25942,
+      "sha256": "ce7cfb39ed8032adca070e51916a6045fa2a87b6b64d67018351901c9149bfcc",
+      "width": 208,
+      "height": 204,
+      "resource_key": "12_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/12_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "12_title_png": {
+      "path": "media/annual-review/themes/12_title.png",
+      "file_size": 3750,
+      "sha256": "e37aa90c07242818eb684b90345196167294390db6552c87704609ce345352f3",
+      "width": 200,
+      "height": 63,
+      "resource_key": "12_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/12_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "1_desc_png": {
+      "path": "media/annual-review/themes/1_desc.png",
+      "file_size": 26734,
+      "sha256": "3f8d02d9048300181ad57a9bd0edbd87b231fcb7506b455a606f8f8e01a4cbae",
+      "width": 494,
+      "height": 205,
+      "resource_key": "1_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/1_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "1_role_png": {
+      "path": "media/annual-review/themes/1_role.png",
+      "file_size": 36890,
+      "sha256": "daca5bdbc8c63a234aa985dc829f0d222bc9c7fa271c7eecced8620fff74b82f",
+      "width": 208,
+      "height": 204,
+      "resource_key": "1_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/1_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "1_title_png": {
+      "path": "media/annual-review/themes/1_title.png",
+      "file_size": 3596,
+      "sha256": "0a16e71daf15fedb411850c1e52bc2900e92e4849f7c0250c019f34a77a54b67",
+      "width": 233,
+      "height": 55,
+      "resource_key": "1_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/1_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "2_desc_png": {
+      "path": "media/annual-review/themes/2_desc.png",
+      "file_size": 28371,
+      "sha256": "3ced5080f226e2f16f7cd6c56fe5b11ccc0549fa4eb8df184d31d46fa28b64a5",
+      "width": 494,
+      "height": 205,
+      "resource_key": "2_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/2_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "2_role_png": {
+      "path": "media/annual-review/themes/2_role.png",
+      "file_size": 23857,
+      "sha256": "87424d1a905bc9fe27fbdfcf111bba08d19c234bba89d1a8f64ff9aa34db9669",
+      "width": 208,
+      "height": 204,
+      "resource_key": "2_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/2_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "2_title_png": {
+      "path": "media/annual-review/themes/2_title.png",
+      "file_size": 3838,
+      "sha256": "35bd958f41618295ca423b8469c27918d83dffd859566fb42cb6ec1d78e09d2a",
+      "width": 263,
+      "height": 51,
+      "resource_key": "2_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/2_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "3_desc_png": {
+      "path": "media/annual-review/themes/3_desc.png",
+      "file_size": 29830,
+      "sha256": "0827b399c7e3d4cec091157ff8c3a6107126e3e51decfc5dfcdb83291eb4a33c",
+      "width": 494,
+      "height": 205,
+      "resource_key": "3_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/3_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "3_role_png": {
+      "path": "media/annual-review/themes/3_role.png",
+      "file_size": 16226,
+      "sha256": "c772b8c25d518c5dd9eaf74fdac6bcd100c85617b0a03797dd1e00994076c3f5",
+      "width": 208,
+      "height": 204,
+      "resource_key": "3_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/3_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "3_title_png": {
+      "path": "media/annual-review/themes/3_title.png",
+      "file_size": 3463,
+      "sha256": "72d3e9086a48e5b7bd94f077dc293aafecd9ff70143364f061f12c3c886b295e",
+      "width": 200,
+      "height": 64,
+      "resource_key": "3_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/3_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "4_desc_png": {
+      "path": "media/annual-review/themes/4_desc.png",
+      "file_size": 34105,
+      "sha256": "f46c997155f7b6c21928f962c8d438da2c6a5927b478d036c2c7ca3d224d96dd",
+      "width": 494,
+      "height": 205,
+      "resource_key": "4_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/4_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "4_role_png": {
+      "path": "media/annual-review/themes/4_role.png",
+      "file_size": 17474,
+      "sha256": "bd3b2624756a9c1c23ce4fd97f01e91293884fab2816d68205dffe23f4844383",
+      "width": 208,
+      "height": 204,
+      "resource_key": "4_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/4_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "4_title_png": {
+      "path": "media/annual-review/themes/4_title.png",
+      "file_size": 3704,
+      "sha256": "bf231580a738fd9d62e193cb4d7795fec8d9ebfb5e523a50c8c190f79c5de228",
+      "width": 202,
+      "height": 62,
+      "resource_key": "4_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/4_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "5_desc_png": {
+      "path": "media/annual-review/themes/5_desc.png",
+      "file_size": 30783,
+      "sha256": "10960e157c2ad9448773fbebe4e4212051cbabe4442e3ab73c654d6185ef0732",
+      "width": 494,
+      "height": 205,
+      "resource_key": "5_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/5_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "5_role_png": {
+      "path": "media/annual-review/themes/5_role.png",
+      "file_size": 24993,
+      "sha256": "ebf589e1db260ab7d8714fb3723afc80473a4211559393c8f466a892ffb66852",
+      "width": 208,
+      "height": 204,
+      "resource_key": "5_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/5_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "5_title_png": {
+      "path": "media/annual-review/themes/5_title.png",
+      "file_size": 3114,
+      "sha256": "be5ce3be6734580269125b8f6cb71158169515ea48fa398a8e3dd2a29904df59",
+      "width": 200,
+      "height": 63,
+      "resource_key": "5_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/5_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "6_desc_png": {
+      "path": "media/annual-review/themes/6_desc.png",
+      "file_size": 32952,
+      "sha256": "bbcdc9f465036c363392487fdf3766987a8e1bac56b57094aa24d80561a4d9b3",
+      "width": 494,
+      "height": 205,
+      "resource_key": "6_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/6_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "6_role_png": {
+      "path": "media/annual-review/themes/6_role.png",
+      "file_size": 29169,
+      "sha256": "e39b8e4ff2bafe39c9becfa68fc90a27b82102a7732bb055583296cca91c2108",
+      "width": 208,
+      "height": 204,
+      "resource_key": "6_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/6_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "6_title_png": {
+      "path": "media/annual-review/themes/6_title.png",
+      "file_size": 3701,
+      "sha256": "25a5e1d49aaa0cc0709b99dae0a61037bb6336678dc00baa1ed0293274354235",
+      "width": 201,
+      "height": 64,
+      "resource_key": "6_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/6_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "7_desc_png": {
+      "path": "media/annual-review/themes/7_desc.png",
+      "file_size": 30440,
+      "sha256": "0a5935b9293225c84ef161136acaa20a44cf75e7c18ece0bb4568e36d5e37faf",
+      "width": 494,
+      "height": 205,
+      "resource_key": "7_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/7_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "7_role_png": {
+      "path": "media/annual-review/themes/7_role.png",
+      "file_size": 31694,
+      "sha256": "acaf4063a9e31991b1c1400d5a3062e79abb9656bfe9edb45fc836bbbbb02040",
+      "width": 208,
+      "height": 204,
+      "resource_key": "7_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/7_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "7_title_png": {
+      "path": "media/annual-review/themes/7_title.png",
+      "file_size": 3600,
+      "sha256": "ae65cf673cf9db61276a194a22f3446051c35131829b8848250e8c81c9b80d2f",
+      "width": 203,
+      "height": 63,
+      "resource_key": "7_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/7_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "8_desc_png": {
+      "path": "media/annual-review/themes/8_desc.png",
+      "file_size": 30568,
+      "sha256": "b13a8d9a70565d5c47bfa7a6a4e23ed94f8574e521cd174ef363ec06eb572a81",
+      "width": 494,
+      "height": 205,
+      "resource_key": "8_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/8_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "8_role_png": {
+      "path": "media/annual-review/themes/8_role.png",
+      "file_size": 23577,
+      "sha256": "692ced5cf63339ec8bef8716c1db7008125cb3269f3036bc702694234b117ad1",
+      "width": 208,
+      "height": 204,
+      "resource_key": "8_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/8_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "8_title_png": {
+      "path": "media/annual-review/themes/8_title.png",
+      "file_size": 3875,
+      "sha256": "a4da32a8e6bfd8b9239ab1eb1c90d58faf36dd072feee959829d790a0501ffe6",
+      "width": 201,
+      "height": 65,
+      "resource_key": "8_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/8_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "9_desc_png": {
+      "path": "media/annual-review/themes/9_desc.png",
+      "file_size": 29107,
+      "sha256": "7e7aa7b549fc719944ace182df2a1c7226779ac74a38f00d8369e4657e704aec",
+      "width": 494,
+      "height": 205,
+      "resource_key": "9_desc_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/9_desc.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "9_role_png": {
+      "path": "media/annual-review/themes/9_role.png",
+      "file_size": 26056,
+      "sha256": "a397cf54c24b6d8ddb63ab599590d19aa72e0cb0c7bc27187896cf0acf4741ab",
+      "width": 208,
+      "height": 204,
+      "resource_key": "9_role_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/9_role.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "9_title_png": {
+      "path": "media/annual-review/themes/9_title.png",
+      "file_size": 2434,
+      "sha256": "d7a9be1036e4a872df28f9c2a24cf00fd75eadbf1379b64519f0789ca70bbba9",
+      "width": 155,
+      "height": 64,
+      "resource_key": "9_title_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/9_title.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "back_84_88_png": {
+      "path": "media/annual-review/flow/back_84_88.png",
+      "file_size": 7188,
+      "sha256": "d89206b03f0b0ba5ad3199af9e3f3b7daa6287e09d453f4ee7ea34824e0f9bbc",
+      "width": 84,
+      "height": 88,
+      "resource_key": "back_84_88_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/eab/mainout.eab",
+      "resource_version": "APK 1.0.20",
+      "source_entry": "images/Scene/Present/back_84_88.png"
+    },
+    "back_summary1_png": {
+      "path": "media/annual-review/flow/back_summary1.png",
+      "file_size": 279869,
+      "sha256": "a1d5e0b924f80cc8c35da26272cbbf30da3af9494feb8de7a5c668ce8c9cf0ad",
+      "width": 854,
+      "height": 1420,
+      "resource_key": "back_summary1_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Back/back_summary1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "back_summary2_png": {
+      "path": "media/annual-review/flow/back_summary2.png",
+      "file_size": 229864,
+      "sha256": "ed2d7cc2a69038de62aba175c4cb0f1111201662d17f110a8736d1177a61697e",
+      "width": 854,
+      "height": 1420,
+      "resource_key": "back_summary2_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Back/back_summary2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "back_summary3_png": {
+      "path": "media/annual-review/flow/back_summary3.png",
+      "file_size": 261412,
+      "sha256": "9d50bb8a06587517886cde615270fd97834a87d6c35b557311241e649e0e4ce4",
+      "width": 854,
+      "height": 1420,
+      "resource_key": "back_summary3_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Back/back_summary3.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "summary_logo_png": {
+      "path": "media/annual-review/flow/summary_logo.png",
+      "file_size": 16437,
+      "sha256": "e8aba3ae934bf39b29bc4f79e59ffe097329ad9f75df5f59ecf65bd0a8ed5cf5",
+      "width": 178,
+      "height": 89,
+      "resource_key": "summary_logo_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Bg_ui/summary_logo.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "summary_page1_1_png": {
+      "path": "media/annual-review/flow/summary_page1_1.png",
+      "file_size": 19436,
+      "sha256": "3463cb307ddecbf50ac74f2a639fa6d73237a94430bf53340bb7e727016079b0",
+      "width": 298,
+      "height": 167,
+      "resource_key": "summary_page1_1_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1073/resource/China/images/Scene/YearSummary/Bg_ui/summary_page1_1.png#/e8feff236133dd34aab9abee1ad46395",
+      "resource_version": 1073
+    },
+    "summary_page1_2_png": {
+      "path": "media/annual-review/flow/summary_page1_2.png",
+      "file_size": 13273,
+      "sha256": "ee45dd88286ce2e6a8b3f0746eb8971140cd16525f2565ec172a4db5b17ef564",
+      "width": 307,
+      "height": 141,
+      "resource_key": "summary_page1_2_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Bg_ui/summary_page1_2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "summary_page1_3_png": {
+      "path": "media/annual-review/flow/summary_page1_3.png",
+      "file_size": 5340,
+      "sha256": "d867d90e1125bd8faed776e2359f1dcac23f8fde81548cd91535c9433756b6ca",
+      "width": 163,
+      "height": 106,
+      "resource_key": "summary_page1_3_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Bg_ui/summary_page1_3.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "summary_page1_4_png": {
+      "path": "media/annual-review/flow/summary_page1_4.png",
+      "file_size": 16928,
+      "sha256": "a2bbab37ac0004d37f72a5f825c66dc97f489508484c5a80a75882f01ceea42b",
+      "width": 225,
+      "height": 225,
+      "resource_key": "summary_page1_4_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Bg_ui/summary_page1_4.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "summary_page2_png": {
+      "path": "media/annual-review/flow/summary_page2.png",
+      "file_size": 6878,
+      "sha256": "2c9f2e0b8620c5217c618de11aedb75c637bc6e7522f10e6c67c546ceb1ba62f",
+      "width": 131,
+      "height": 96,
+      "resource_key": "summary_page2_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Bg_ui/summary_page2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "summary_paper_size1_png": {
+      "path": "media/annual-review/flow/summary_paper_size1.png",
+      "file_size": 4008,
+      "sha256": "45c5946dda53cb5ab4b34edcb3ee03629521313e24cdf5e6e7ec31cb72f95189",
+      "width": 469,
+      "height": 128,
+      "resource_key": "summary_paper_size1_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+      "resource_version": 1078,
+      "source_entry": "images/Scene/YearSummary/Bg_ui/summary_paper_size1.png"
+    },
+    "summary_paper_size2_png": {
+      "path": "media/annual-review/flow/summary_paper_size2.png",
+      "file_size": 4298,
+      "sha256": "916d4804ffa5968775a21ef366654aee31313143254b4cef5b8c033e6f84586e",
+      "width": 469,
+      "height": 174,
+      "resource_key": "summary_paper_size2_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+      "resource_version": 1078,
+      "source_entry": "images/Scene/YearSummary/Bg_ui/summary_paper_size2.png"
+    },
+    "summary_paper_size3_png": {
+      "path": "media/annual-review/flow/summary_paper_size3.png",
+      "file_size": 4953,
+      "sha256": "9eab42cb10af0a18a783745da16db68cbfb2393fbf5c391b5cb9dac8ecc71467",
+      "width": 469,
+      "height": 255,
+      "resource_key": "summary_paper_size3_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+      "resource_version": 1078,
+      "source_entry": "images/Scene/YearSummary/Bg_ui/summary_paper_size3.png"
+    },
+    "summary_qr_code_png": {
+      "path": "media/annual-review/flow/summary_qr_code.png",
+      "file_size": 38255,
+      "sha256": "c444f5df3fabfed78d3d3a4a4180034ba9413ae501f72a6e643af504649dda9f",
+      "width": 175,
+      "height": 145,
+      "resource_key": "summary_qr_code_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/YearSummary/Bg_ui/summary_qr_code.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "year_summary_png": {
+      "path": "media/annual-review/flow/year_summary.png",
+      "file_size": 35350,
+      "sha256": "7b75bf2e85609dbb9d3900805ba2a5e155106a3922e2723c35e82df009f6431d",
+      "width": 482,
+      "height": 132,
+      "resource_key": "year_summary_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/system.eab#/ecadcbc55fdf0f0c6dbfc69b568b3fb2",
+      "resource_version": 1078,
+      "source_entry": "images/System/Button/year_summary.png"
+    },
+    "year_summary_review_png": {
+      "path": "media/annual-review/flow/year_summary_review.png",
+      "file_size": 2270,
+      "sha256": "186eba5aacd4d16557d6092b88eb8a34698fae01d0759278066684fb9f800e36",
+      "width": 131,
+      "height": 40,
+      "resource_key": "year_summary_review_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/system.eab#/ecadcbc55fdf0f0c6dbfc69b568b3fb2",
+      "resource_version": 1078,
+      "source_entry": "images/System/Button/year_summary_review.png"
+    },
+    "year_summary_share_png": {
+      "path": "media/annual-review/flow/year_summary_share.png",
+      "file_size": 6452,
+      "sha256": "2f57dc6747b507e2f3b474a89c7dad92bae714d76150888f22a7dfb451a25f0c",
+      "width": 238,
+      "height": 37,
+      "resource_key": "year_summary_share_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/system.eab#/ecadcbc55fdf0f0c6dbfc69b568b3fb2",
+      "resource_version": 1078,
+      "source_entry": "images/System/Button/year_summary_share.png"
+    }
+  },
+  "themes": [
+    {
+      "id": 1,
+      "role": {
+        "path": "media/annual-review/themes/1_role.png",
+        "file_size": 36890,
+        "sha256": "daca5bdbc8c63a234aa985dc829f0d222bc9c7fa271c7eecced8620fff74b82f",
+        "width": 208,
+        "height": 204,
+        "resource_key": "1_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/1_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/1_title.png",
+        "file_size": 3596,
+        "sha256": "0a16e71daf15fedb411850c1e52bc2900e92e4849f7c0250c019f34a77a54b67",
+        "width": 233,
+        "height": 55,
+        "resource_key": "1_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/1_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/1_desc.png",
+        "file_size": 26734,
+        "sha256": "3f8d02d9048300181ad57a9bd0edbd87b231fcb7506b455a606f8f8e01a4cbae",
+        "width": 494,
+        "height": 205,
+        "resource_key": "1_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/1_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 2,
+      "role": {
+        "path": "media/annual-review/themes/2_role.png",
+        "file_size": 23857,
+        "sha256": "87424d1a905bc9fe27fbdfcf111bba08d19c234bba89d1a8f64ff9aa34db9669",
+        "width": 208,
+        "height": 204,
+        "resource_key": "2_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/2_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/2_title.png",
+        "file_size": 3838,
+        "sha256": "35bd958f41618295ca423b8469c27918d83dffd859566fb42cb6ec1d78e09d2a",
+        "width": 263,
+        "height": 51,
+        "resource_key": "2_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/2_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/2_desc.png",
+        "file_size": 28371,
+        "sha256": "3ced5080f226e2f16f7cd6c56fe5b11ccc0549fa4eb8df184d31d46fa28b64a5",
+        "width": 494,
+        "height": 205,
+        "resource_key": "2_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/2_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 3,
+      "role": {
+        "path": "media/annual-review/themes/3_role.png",
+        "file_size": 16226,
+        "sha256": "c772b8c25d518c5dd9eaf74fdac6bcd100c85617b0a03797dd1e00994076c3f5",
+        "width": 208,
+        "height": 204,
+        "resource_key": "3_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/3_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/3_title.png",
+        "file_size": 3463,
+        "sha256": "72d3e9086a48e5b7bd94f077dc293aafecd9ff70143364f061f12c3c886b295e",
+        "width": 200,
+        "height": 64,
+        "resource_key": "3_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/3_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/3_desc.png",
+        "file_size": 29830,
+        "sha256": "0827b399c7e3d4cec091157ff8c3a6107126e3e51decfc5dfcdb83291eb4a33c",
+        "width": 494,
+        "height": 205,
+        "resource_key": "3_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/3_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 4,
+      "role": {
+        "path": "media/annual-review/themes/4_role.png",
+        "file_size": 17474,
+        "sha256": "bd3b2624756a9c1c23ce4fd97f01e91293884fab2816d68205dffe23f4844383",
+        "width": 208,
+        "height": 204,
+        "resource_key": "4_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/4_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/4_title.png",
+        "file_size": 3704,
+        "sha256": "bf231580a738fd9d62e193cb4d7795fec8d9ebfb5e523a50c8c190f79c5de228",
+        "width": 202,
+        "height": 62,
+        "resource_key": "4_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/4_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/4_desc.png",
+        "file_size": 34105,
+        "sha256": "f46c997155f7b6c21928f962c8d438da2c6a5927b478d036c2c7ca3d224d96dd",
+        "width": 494,
+        "height": 205,
+        "resource_key": "4_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/4_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 5,
+      "role": {
+        "path": "media/annual-review/themes/5_role.png",
+        "file_size": 24993,
+        "sha256": "ebf589e1db260ab7d8714fb3723afc80473a4211559393c8f466a892ffb66852",
+        "width": 208,
+        "height": 204,
+        "resource_key": "5_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/5_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/5_title.png",
+        "file_size": 3114,
+        "sha256": "be5ce3be6734580269125b8f6cb71158169515ea48fa398a8e3dd2a29904df59",
+        "width": 200,
+        "height": 63,
+        "resource_key": "5_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/5_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/5_desc.png",
+        "file_size": 30783,
+        "sha256": "10960e157c2ad9448773fbebe4e4212051cbabe4442e3ab73c654d6185ef0732",
+        "width": 494,
+        "height": 205,
+        "resource_key": "5_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/5_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 6,
+      "role": {
+        "path": "media/annual-review/themes/6_role.png",
+        "file_size": 29169,
+        "sha256": "e39b8e4ff2bafe39c9becfa68fc90a27b82102a7732bb055583296cca91c2108",
+        "width": 208,
+        "height": 204,
+        "resource_key": "6_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/6_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/6_title.png",
+        "file_size": 3701,
+        "sha256": "25a5e1d49aaa0cc0709b99dae0a61037bb6336678dc00baa1ed0293274354235",
+        "width": 201,
+        "height": 64,
+        "resource_key": "6_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/6_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/6_desc.png",
+        "file_size": 32952,
+        "sha256": "bbcdc9f465036c363392487fdf3766987a8e1bac56b57094aa24d80561a4d9b3",
+        "width": 494,
+        "height": 205,
+        "resource_key": "6_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/6_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 7,
+      "role": {
+        "path": "media/annual-review/themes/7_role.png",
+        "file_size": 31694,
+        "sha256": "acaf4063a9e31991b1c1400d5a3062e79abb9656bfe9edb45fc836bbbbb02040",
+        "width": 208,
+        "height": 204,
+        "resource_key": "7_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/7_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/7_title.png",
+        "file_size": 3600,
+        "sha256": "ae65cf673cf9db61276a194a22f3446051c35131829b8848250e8c81c9b80d2f",
+        "width": 203,
+        "height": 63,
+        "resource_key": "7_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/7_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/7_desc.png",
+        "file_size": 30440,
+        "sha256": "0a5935b9293225c84ef161136acaa20a44cf75e7c18ece0bb4568e36d5e37faf",
+        "width": 494,
+        "height": 205,
+        "resource_key": "7_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/7_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 8,
+      "role": {
+        "path": "media/annual-review/themes/8_role.png",
+        "file_size": 23577,
+        "sha256": "692ced5cf63339ec8bef8716c1db7008125cb3269f3036bc702694234b117ad1",
+        "width": 208,
+        "height": 204,
+        "resource_key": "8_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/8_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/8_title.png",
+        "file_size": 3875,
+        "sha256": "a4da32a8e6bfd8b9239ab1eb1c90d58faf36dd072feee959829d790a0501ffe6",
+        "width": 201,
+        "height": 65,
+        "resource_key": "8_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/8_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/8_desc.png",
+        "file_size": 30568,
+        "sha256": "b13a8d9a70565d5c47bfa7a6a4e23ed94f8574e521cd174ef363ec06eb572a81",
+        "width": 494,
+        "height": 205,
+        "resource_key": "8_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/8_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 9,
+      "role": {
+        "path": "media/annual-review/themes/9_role.png",
+        "file_size": 26056,
+        "sha256": "a397cf54c24b6d8ddb63ab599590d19aa72e0cb0c7bc27187896cf0acf4741ab",
+        "width": 208,
+        "height": 204,
+        "resource_key": "9_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/9_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/9_title.png",
+        "file_size": 2434,
+        "sha256": "d7a9be1036e4a872df28f9c2a24cf00fd75eadbf1379b64519f0789ca70bbba9",
+        "width": 155,
+        "height": 64,
+        "resource_key": "9_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/9_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/9_desc.png",
+        "file_size": 29107,
+        "sha256": "7e7aa7b549fc719944ace182df2a1c7226779ac74a38f00d8369e4657e704aec",
+        "width": 494,
+        "height": 205,
+        "resource_key": "9_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/9_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 10,
+      "role": {
+        "path": "media/annual-review/themes/10_role.png",
+        "file_size": 21419,
+        "sha256": "146e9d190e3ebfc6cb1fbaabe60e62a83d764615f41a46b39f23d11add7faff7",
+        "width": 208,
+        "height": 204,
+        "resource_key": "10_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/10_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/10_title.png",
+        "file_size": 2776,
+        "sha256": "0c5ccc35fc8808c9b4ed31c1589067c8abcbe77755b584ceb7747e21f29692b2",
+        "width": 201,
+        "height": 62,
+        "resource_key": "10_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/10_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/10_desc.png",
+        "file_size": 28668,
+        "sha256": "026ee52b1dfe0b0d5cf9e3e0c463528d4f54fe3a204914873cadf4b410300676",
+        "width": 494,
+        "height": 205,
+        "resource_key": "10_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/10_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 11,
+      "role": {
+        "path": "media/annual-review/themes/11_role.png",
+        "file_size": 26189,
+        "sha256": "f9b1797f929169c56493ef87dd0b979cdc26732b329efb49d0e850433bc27ab2",
+        "width": 208,
+        "height": 204,
+        "resource_key": "11_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/11_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/11_title.png",
+        "file_size": 3070,
+        "sha256": "f45e7a56e5352f353941917a4c6012f352702185ac9c8ad3bc0568829cec1a37",
+        "width": 155,
+        "height": 51,
+        "resource_key": "11_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/11_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/11_desc.png",
+        "file_size": 30526,
+        "sha256": "4c1c215762d0d5ac9b57766f9cef742d359b19e5086ff09e95e9d35d152a5851",
+        "width": 494,
+        "height": 205,
+        "resource_key": "11_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/11_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    },
+    {
+      "id": 12,
+      "role": {
+        "path": "media/annual-review/themes/12_role.png",
+        "file_size": 25942,
+        "sha256": "ce7cfb39ed8032adca070e51916a6045fa2a87b6b64d67018351901c9149bfcc",
+        "width": 208,
+        "height": 204,
+        "resource_key": "12_role_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/12_role.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title_image": {
+        "path": "media/annual-review/themes/12_title.png",
+        "file_size": 3750,
+        "sha256": "e37aa90c07242818eb684b90345196167294390db6552c87704609ce345352f3",
+        "width": 200,
+        "height": 63,
+        "resource_key": "12_title_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/12_title.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "description_image": {
+        "path": "media/annual-review/themes/12_desc.png",
+        "file_size": 31383,
+        "sha256": "afc9b5c92c66acffe6fdb86ac5f3f5d13c4b858678566bd553c55556ad8082f7",
+        "width": 494,
+        "height": 205,
+        "resource_key": "12_desc_png",
+        "source_kind": "bundled_apk",
+        "source_member": "assets/game/resource/China/images/Scene/YearSummary/Theme/12_desc.png",
+        "resource_version": "APK 1.0.20"
+      },
+      "title": null,
+      "description": null
+    }
+  ],
+  "source_files": {
+    "program": {
+      "path": "parsed/annual-review-source/AnnualReview.js",
+      "file_size": 485705,
+      "sha256": "540bb89cc3142dcf8e82d773f39a9ea9bdc248ef1fe5320ce97b2a57b9af144f",
+      "source_file": "_local_backup_audit/raw/static-program/a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1.js",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "character_start": 84138,
+      "character_end": 523266
+    },
+    "skins": {
+      "AnnualReviewSkin": {
+        "path": "parsed/annual-review-source/AnnualReviewSkin.js",
+        "file_size": 1798,
+        "sha256": "9e5ebcc4ea92668fe2cbcc96d1abe464f2c2b2f51d981f77a3ea4b8e74e8df9a",
+        "source_file": "_local_backup_audit/stories/raw/skin/default.thm.js",
+        "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+        "character_start": 96532,
+        "character_end": 98330
+      },
+      "AnnualReviewStartPageSkin": {
+        "path": "parsed/annual-review-source/AnnualReviewStartPageSkin.js",
+        "file_size": 6609,
+        "sha256": "d6e542f92e03cfbff982fba85421343e1cc9fce3b26c7ea566b8c14bed4b24bd",
+        "source_file": "_local_backup_audit/stories/raw/skin/default.thm.js",
+        "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+        "character_start": 98330,
+        "character_end": 104939
+      },
+      "AnnualReviewChatPageSkin": {
+        "path": "parsed/annual-review-source/AnnualReviewChatPageSkin.js",
+        "file_size": 10409,
+        "sha256": "eb80473219322ee68278ddb1f2b6246b2e7e259c29b21edfb0177bdcb73aa2a4",
+        "source_file": "_local_backup_audit/stories/raw/skin/default.thm.js",
+        "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+        "character_start": 76033,
+        "character_end": 86442
+      },
+      "AnnualReviewFinishPageSkin": {
+        "path": "parsed/annual-review-source/AnnualReviewFinishPageSkin.js",
+        "file_size": 10090,
+        "sha256": "4fcffc276266391ea269670e7987e51014133a11f6933bf2b4a42c6c160f41d9",
+        "source_file": "_local_backup_audit/stories/raw/skin/default.thm.js",
+        "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+        "character_start": 86442,
+        "character_end": 96532
+      }
+    }
+  },
+  "source_counts": {
+    "bundled_apk": 46,
+    "hot_update_cache": 7
+  },
+  "notes": [
+    "AnnualReviewModel obtains personal values from the annual_load server response.",
+    "The client selects one of twelve themes with the server-provided theme key.",
+    "No personal AnnualReview server response was recovered; Viewer placeholders must stay blank."
+  ]
+}
