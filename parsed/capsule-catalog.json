@@ -1,0 +1,1092 @@
+{
+  "activity": "Capsule",
+  "source": "verified local client backup",
+  "asset_count": 33,
+  "asset_source_counts": {
+    "hot_update_cache": 23,
+    "bundled_apk": 10
+  },
+  "config": {
+    "path": "parsed/capsule-source/capsuleData.json",
+    "file_size": 9805,
+    "sha256": "37bce6e68dbbf188939726861ca8ea3e2954c49a6c48be681c339d93d7ad8df3",
+    "source_entry": "config/Capsule/capsuleData.json",
+    "resource_version": 1088
+  },
+  "source_files": {
+    "CapsuleEventType": {
+      "path": "parsed/capsule-source/CapsuleEventType.min.js",
+      "file_size": 190,
+      "sha256": "ec114fceb8d203504be3c38cab0090b062ec53eca70fff57c0adc9bd22a3fb9c",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 89126,
+      "character_end": 89316
+    },
+    "CapsuleModel": {
+      "path": "parsed/capsule-source/CapsuleModel.min.js",
+      "file_size": 3302,
+      "sha256": "f13f369c8b7e832639e9561d84640ba9721987c1903fd7a9f013a23dffb5f941",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 89317,
+      "character_end": 92603
+    },
+    "CapsuleHistoryViewControl": {
+      "path": "parsed/capsule-source/CapsuleHistoryViewControl.min.js",
+      "file_size": 348,
+      "sha256": "6d655e192d43764fbf90aa598c2eb54b1582886d923972f3ee233c020edbf7b9",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 534527,
+      "character_end": 534875
+    },
+    "CapsuleHistoryView": {
+      "path": "parsed/capsule-source/CapsuleHistoryView.min.js",
+      "file_size": 1955,
+      "sha256": "767727f82a8c6d9131c92eeb6c4ed454f64d78087d363dde3b95b988ec7ec059",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 534876,
+      "character_end": 536831
+    },
+    "CapsuleTaskView": {
+      "path": "parsed/capsule-source/CapsuleTaskView.min.js",
+      "file_size": 1193,
+      "sha256": "ec16f55f6cb3f1cf8323c0b902dda47bd975601ec35b303b625b16bebae19fda",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 536832,
+      "character_end": 537985
+    },
+    "CapsuleViewControl": {
+      "path": "parsed/capsule-source/CapsuleViewControl.min.js",
+      "file_size": 705,
+      "sha256": "64c84f136aea6414622c74176f03694bffeadeab0398b5d61f074bbe947fc56e",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 538607,
+      "character_end": 539312
+    },
+    "CapsuleView": {
+      "path": "parsed/capsule-source/CapsuleView.min.js",
+      "file_size": 5579,
+      "sha256": "539f6c48cb8af42f235e4d04925cc5dc0bb5503c5e52cd35a4ec6528d1435b88",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 539313,
+      "character_end": 544764
+    },
+    "CapsuleShareView": {
+      "path": "parsed/capsule-source/CapsuleShareView.min.js",
+      "file_size": 2192,
+      "sha256": "953341ce5fad5e7bb3943a2dd6df6d5fafa88e542b9b18b33b0f8190f89f1a08",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 1067337,
+      "character_end": 1069519
+    },
+    "CapsuleUtils": {
+      "path": "parsed/capsule-source/CapsuleUtils.min.js",
+      "file_size": 621,
+      "sha256": "f2cfff7a50a26d245a0a832239f729adea6090998a85ae457e9de80d4b3094a2",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/main.min.js#/9161863afd5844ef5bc1cea9e59d45e2",
+      "source_file_sha256": "a2738634bcf9e4af2f49f06b27b1d616ef47296a02d965439882119da206e9b1",
+      "resource_version": 1083,
+      "character_start": 537986,
+      "character_end": 538607
+    },
+    "Capsule-CapsuleHistorySkin": {
+      "path": "parsed/capsule-source/Capsule-CapsuleHistorySkin.compiled.js",
+      "file_size": 5001,
+      "sha256": "57d90fcbff49e5c3687963cfc1f8e4863394970da3ab39233762b4a854537d05",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/default.thm.js#/97f3ea8c97828f262acf0d24b3974b5f",
+      "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+      "resource_version": 1083,
+      "character_start": 129397,
+      "character_end": 134398
+    },
+    "Capsule-CapsuleSkin": {
+      "path": "parsed/capsule-source/Capsule-CapsuleSkin.compiled.js",
+      "file_size": 17699,
+      "sha256": "5a839beda1b98109a3ec3b42743156988c6a725baa1697ee328fa1835076ac7b",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/default.thm.js#/97f3ea8c97828f262acf0d24b3974b5f",
+      "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+      "resource_version": 1083,
+      "character_start": 134398,
+      "character_end": 152091
+    },
+    "Capsule-CapsuleTaskSkin": {
+      "path": "parsed/capsule-source/Capsule-CapsuleTaskSkin.compiled.js",
+      "file_size": 2514,
+      "sha256": "2ca617bc357c7f34dcb76e30ba3d2086d3c24ad79ff68e1c5e691d6c8ca3eeb0",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/default.thm.js#/97f3ea8c97828f262acf0d24b3974b5f",
+      "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+      "resource_version": 1083,
+      "character_start": 152091,
+      "character_end": 154605
+    },
+    "Share-CapsuleShareSkin": {
+      "path": "parsed/capsule-source/Share-CapsuleShareSkin.compiled.js",
+      "file_size": 5603,
+      "sha256": "2659629e997af5e16d27814e3289e46039c7eda104c0b38714cfed9b0abf85a4",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1083/js/default.thm.js#/97f3ea8c97828f262acf0d24b3974b5f",
+      "source_file_sha256": "8d5838720ffb874ed58120e8e15e69f4cd697ef1e428d949f96dd90c2739c531",
+      "resource_version": 1083,
+      "character_start": 1209273,
+      "character_end": 1214858
+    }
+  },
+  "images": {
+    "back_capsule_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/back_capsule.png",
+      "file_size": 150002,
+      "sha256": "3cd7ae7c7d809f61e4710d5f0a16ccd98ce38bbff0b8ad05ac2d224ac2bdf5b6",
+      "width": 854,
+      "height": 1420,
+      "resource_key": "back_capsule_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/back_capsule.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/back_capsule.png#/69787612e53d56a69779d49ad9192f59",
+      "resource_version": 1078
+    },
+    "back_capsule_score_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/back_capsule_score.png",
+      "file_size": 99213,
+      "sha256": "eb0d01667869202426fd825fcfcfb995649d6972a1c4d3245a26f4f8b18078b5",
+      "width": 854,
+      "height": 1420,
+      "resource_key": "back_capsule_score_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/back_capsule_score.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/back_capsule_score.png#/010e0ed5a45d6ee93db3417f2a13d9b8",
+      "resource_version": 1078
+    },
+    "back_capsule_share_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/back_capsule_share.png",
+      "file_size": 266471,
+      "sha256": "53e3a721cde911ada60e350d758b3822c98b57491ed988bef07241016cfd9f84",
+      "width": 854,
+      "height": 1420,
+      "resource_key": "back_capsule_share_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/back_capsule_share.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/back_capsule_share.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "bg_capsule_score_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/bg_capsule_score.png",
+      "file_size": 26919,
+      "sha256": "06d94f696b73dc7dbf58232b5ba12f35a5ed09eda31dbcd08bb81221612796b8",
+      "width": 262,
+      "height": 279,
+      "resource_key": "bg_capsule_score_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/bg_capsule_score.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1075/resource/China/images/Scene/Capsule/Bg_ui/bg_capsule_score.png#/8473d9b0fc06eb952baef353a4ed0217",
+      "resource_version": 1075
+    },
+    "bg_capsule_task_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/bg_capsule_task.png",
+      "file_size": 6871,
+      "sha256": "66e662d21f799ecfeedbd6eba418a47db75e9686ec9bd980a5f527ea4b777e3d",
+      "width": 257,
+      "height": 212,
+      "resource_key": "bg_capsule_task_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/bg_capsule_task.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/bg_capsule_task.png#/cfb79b0a1c4ee73eb9a2484fffb1b9fb",
+      "resource_version": 1078
+    },
+    "capsule_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule.png",
+      "file_size": 6720,
+      "sha256": "3569c852086738d01aee8840a3d6c8cccfc4cb8c94455d1469997b82361dd20c",
+      "width": 253,
+      "height": 55,
+      "resource_key": "capsule_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/capsule.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "capsule_coin_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_coin.png",
+      "file_size": 5397,
+      "sha256": "8807d62707fdfa6c57bba0a80667fc1643d1937530e39fe26a5e2d0ec0619ec7",
+      "width": 38,
+      "height": 38,
+      "resource_key": "capsule_coin_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_coin.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_coin.png#/18071c924e1bd93207f17e626aa28ca2",
+      "resource_version": 1078
+    },
+    "capsule_info_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_info.png",
+      "file_size": 24794,
+      "sha256": "2be1d667b73f38acba29546ee5fa550665d0d63d6544ffd6c47fa48ebbec792c",
+      "width": 600,
+      "height": 405,
+      "resource_key": "capsule_info_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_info.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_info.png#/915bd68805624c66bbb0a4a506f67648",
+      "resource_version": 1078
+    },
+    "capsule_line_1_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_line_1.png",
+      "file_size": 9630,
+      "sha256": "e23bdca97272ea579c4008edc80df7a3beaa1adb0ce6c1f412b4a23194590d09",
+      "width": 125,
+      "height": 114,
+      "resource_key": "capsule_line_1_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_line_1.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_line_1.png#/7641d490b24926c848eb863315c031cc",
+      "resource_version": 1078
+    },
+    "capsule_line_2_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_line_2.png",
+      "file_size": 9617,
+      "sha256": "d55194dbcf8f8e831d72d848a1642b44e3de7be915201bd007f18fb05b88f33b",
+      "width": 125,
+      "height": 114,
+      "resource_key": "capsule_line_2_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_line_2.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_line_2.png#/05b7414d9c377afcb74d0234ca9e61eb",
+      "resource_version": 1078
+    },
+    "capsule_line_3_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_line_3.png",
+      "file_size": 9576,
+      "sha256": "767dd187f055c83ef96e45e2f61be9350c39ee7d7c533ac9d027a90573f6face",
+      "width": 125,
+      "height": 114,
+      "resource_key": "capsule_line_3_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_line_3.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_line_3.png#/3953e77adf1251ea7218640b61c24a33",
+      "resource_version": 1078
+    },
+    "capsule_machine_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_machine.png",
+      "file_size": 37656,
+      "sha256": "0673c71b68a69e28faf6caa61f44f963d597af5f895499a852f07982c818452f",
+      "width": 386,
+      "height": 503,
+      "resource_key": "capsule_machine_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_machine.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_machine.png#/58a2915e4dd5a168e475611c2c3e7f06",
+      "resource_version": 1078
+    },
+    "capsule_machine_bg_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_machine_bg.png",
+      "file_size": 1915,
+      "sha256": "07ab1191acf1a71b5f5a1adf7517579bccd0926e07c147b0035a2db16e3d2d14",
+      "width": 107,
+      "height": 105,
+      "resource_key": "capsule_machine_bg_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_machine_bg.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_machine_bg.png#/94a91a7ec110470f63bf0adc623f8479",
+      "resource_version": 1078
+    },
+    "capsule_machine_cover_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_machine_cover.png",
+      "file_size": 354,
+      "sha256": "5936227a6141af82ba5fc8cd15ca28c3dfaa53d55eb294ffe231b95ca66ab37c",
+      "width": 147,
+      "height": 21,
+      "resource_key": "capsule_machine_cover_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_machine_cover.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_machine_cover.png#/7b38a4c89694c2ef61a52406e181b270",
+      "resource_version": 1078
+    },
+    "capsule_point_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_point.png",
+      "file_size": 967,
+      "sha256": "a829a64fffd579f1078b5a80db35f42026f95b3e3e89ae4cc67ac9463189075e",
+      "width": 22,
+      "height": 21,
+      "resource_key": "capsule_point_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_point.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/capsule_point.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "capsule_score_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_score.png",
+      "file_size": 6682,
+      "sha256": "bbd6bf80008346dd6e577c8ca96d7d86eaa31981c48c924a41240ceded23b5af",
+      "width": 202,
+      "height": 55,
+      "resource_key": "capsule_score_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_score.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/capsule_score.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "capsule_state_1_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_state_1.png",
+      "file_size": 85691,
+      "sha256": "47f858f6f5a92f906c784932174a7966d9378cfe654923536daa2caf0ccdc6a5",
+      "width": 291,
+      "height": 210,
+      "resource_key": "capsule_state_1_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_state_1.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_state_1.png#/a2a42734a8fc6c2b7d0e797b3902e54b",
+      "resource_version": 1078
+    },
+    "capsule_state_2_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_state_2.png",
+      "file_size": 74293,
+      "sha256": "e2dc6ad02d1fb2f1f36f7293e830b6a895ddcfd894b917517d5955540ce50b59",
+      "width": 291,
+      "height": 210,
+      "resource_key": "capsule_state_2_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_state_2.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_state_2.png#/7abee9f2fadd3036b1df0f718d986cf3",
+      "resource_version": 1078
+    },
+    "capsule_state_3_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_state_3.png",
+      "file_size": 64759,
+      "sha256": "dbf73be33e96c6f1eff869f0c4a1acbc39a08a8095d0f66199c79a2b7edbd435",
+      "width": 291,
+      "height": 210,
+      "resource_key": "capsule_state_3_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_state_3.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_state_3.png#/5868a07e5daf43dbc648830214a0cfb1",
+      "resource_version": 1078
+    },
+    "capsule_state_4_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_state_4.png",
+      "file_size": 49778,
+      "sha256": "2a940b16c0c153ce9a4c4a32ec861a46a409e73b98bcde82798497da76b505cf",
+      "width": 291,
+      "height": 210,
+      "resource_key": "capsule_state_4_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_state_4.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_state_4.png#/07a7eed739178ef8b94d174effc04e09",
+      "resource_version": 1078
+    },
+    "capsule_state_5_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_state_5.png",
+      "file_size": 31073,
+      "sha256": "7a0454e76f9fb5b867207c136c387da6841e12bb1de9a707d78201a1586df4c2",
+      "width": 291,
+      "height": 210,
+      "resource_key": "capsule_state_5_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_state_5.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_state_5.png#/a4bb29f4d78286f240c47a012b973210",
+      "resource_version": 1078
+    },
+    "capsule_type_1_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_type_1.png",
+      "file_size": 2593,
+      "sha256": "5967f21441569d47e9f954f2748fddaa7bf78bc29cf9576567ad53bef68c6e60",
+      "width": 64,
+      "height": 59,
+      "resource_key": "capsule_type_1_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_type_1.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_type_1.png#/4246ce3e7104670280342d54be5cb76a",
+      "resource_version": 1078
+    },
+    "capsule_type_2_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_type_2.png",
+      "file_size": 3876,
+      "sha256": "2b8767ac057426cc259b14b6ddf9c13d2b5bf188fe871e9bbc533d240ef859db",
+      "width": 64,
+      "height": 59,
+      "resource_key": "capsule_type_2_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_type_2.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_type_2.png#/6075d385e207c87d7b0a21e7c1a5b623",
+      "resource_version": 1078
+    },
+    "capsule_type_3_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/capsule_type_3.png",
+      "file_size": 4666,
+      "sha256": "95555abdac6642b32ae7bc293c58cd36a5269695ee999583139cd88aa930f83d",
+      "width": 64,
+      "height": 59,
+      "resource_key": "capsule_type_3_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/capsule_type_3.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/Bg_ui/capsule_type_3.png#/58d4b44fd9b08e9db42687de846d1ef1",
+      "resource_version": 1078
+    },
+    "task_paper_1_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/task_paper_1.png",
+      "file_size": 1128,
+      "sha256": "e7a8d753588ab19c60cf659022cc331f5669a23734edb8be91295e5f5ab205e1",
+      "width": 226,
+      "height": 62,
+      "resource_key": "task_paper_1_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/task_paper_1.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/task_paper_1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "task_paper_2_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/task_paper_2.png",
+      "file_size": 3268,
+      "sha256": "cbef932457c6d83bbfd302e3eebcdf961c395b11d5749e6203c980bb0da03421",
+      "width": 226,
+      "height": 62,
+      "resource_key": "task_paper_2_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/task_paper_2.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/task_paper_2.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "tips_bg_coin_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/tips_bg_coin.png",
+      "file_size": 1878,
+      "sha256": "87a7ab7a76a6c6c55cc396a0d70f86c045583b1a7bcf575d10ae9183d5d62322",
+      "width": 62,
+      "height": 43,
+      "resource_key": "tips_bg_coin_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/tips_bg_coin.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/tips_bg_coin.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "tips_bg_task_png": {
+      "path": "media/capsule/images/Scene/Capsule/Bg_ui/tips_bg_task.png",
+      "file_size": 2606,
+      "sha256": "827e096d73cb4622789e82edf9c95f4b998c2c568a1445951504e31f5c096974",
+      "width": 110,
+      "height": 59,
+      "resource_key": "tips_bg_task_png",
+      "original_url": "images/Scene/Capsule/Bg_ui/tips_bg_task.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/Bg_ui/tips_bg_task.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "btn_finish_capsule_png": {
+      "path": "media/capsule/images/Scene/Capsule/btn_finish_capsule.png",
+      "file_size": 11892,
+      "sha256": "036801c83e53b9ada71e5c1140ebf53ae876c9191863a99533ab2d110ed289e4",
+      "width": 251,
+      "height": 66,
+      "resource_key": "btn_finish_capsule_png",
+      "original_url": "images/Scene/Capsule/btn_finish_capsule.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Capsule/btn_finish_capsule.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "btn_use_capsule_png": {
+      "path": "media/capsule/images/Scene/Capsule/btn_use_capsule.png",
+      "file_size": 14377,
+      "sha256": "2f371d83ad2ddac705390dd99f1e08b4b5373808017bfbf07ef48f9b98a11f35",
+      "width": 122,
+      "height": 121,
+      "resource_key": "btn_use_capsule_png",
+      "original_url": "images/Scene/Capsule/btn_use_capsule.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/btn_use_capsule.png#/9aaefe72b0fac109953d488cf6261d19",
+      "resource_version": 1078
+    },
+    "capsulescore_84_88_png": {
+      "path": "media/capsule/images/Scene/Capsule/capsulescore_84_88.png",
+      "file_size": 11262,
+      "sha256": "e214944798d84b1624a025a52d0e53a2b2012af3c9021905942ae3211b1764a7",
+      "width": 84,
+      "height": 88,
+      "resource_key": "capsulescore_84_88_png",
+      "original_url": "images/Scene/Capsule/capsulescore_84_88.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/capsulescore_84_88.png#/f4ec2c191acbf83454cfa465cd06735a",
+      "resource_version": 1078
+    },
+    "icon_capsule_84_88_png": {
+      "path": "media/capsule/images/Scene/Capsule/icon_capsule_84_88.png",
+      "file_size": 10680,
+      "sha256": "c97426490f62ab64b18a9e9a7f95714972b2afbb6a53f32710732b4ee5831ebf",
+      "width": 84,
+      "height": 88,
+      "resource_key": "icon_capsule_84_88_png",
+      "original_url": "images/Scene/Capsule/icon_capsule_84_88.png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/images/Scene/Capsule/icon_capsule_84_88.png#/b3583d69b22b2b234aa8c2c0655ff8d9",
+      "resource_version": 1078
+    },
+    "wx_share_gacha_png": {
+      "path": "media/capsule/images/Scene/Share/wx_share_gacha.png",
+      "file_size": 157766,
+      "sha256": "e3275505f6dad3f4d4ce4856e4e5e20bfb9c4424c431dfc4ae7bd98d29dffe90",
+      "width": 500,
+      "height": 400,
+      "resource_key": "wx_share_gacha_png",
+      "original_url": "images/Scene/Share/wx_share_gacha.png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/images/Scene/Share/wx_share_gacha.png",
+      "resource_version": "APK 1.0.20"
+    }
+  },
+  "reward_images": {
+    "1": {
+      "path": "media/resource-catalog/images/b49432274c4e0ed89e6e99c257016f6e97a91338ce90dfbc52ac1c94be9cc8f4.png",
+      "file_size": 22641,
+      "sha256": "b49432274c4e0ed89e6e99c257016f6e97a91338ce90dfbc52ac1c94be9cc8f4",
+      "resource_key": "goods_2_png",
+      "source_kind": "resource_catalog"
+    },
+    "2": {
+      "path": "media/resource-catalog/images/593a5dbf273417612efb9a40b0b877a5085e5166c26ee868afdd74382fc48b13.png",
+      "file_size": 26396,
+      "sha256": "593a5dbf273417612efb9a40b0b877a5085e5166c26ee868afdd74382fc48b13",
+      "resource_key": "goods_3_png",
+      "source_kind": "resource_catalog"
+    },
+    "56": {
+      "path": "media/resource-catalog/images/6368ad0fc155617dabdd7e957e6cc28d43c58f99be1b66a233f2ee9de2b0c8ae.png",
+      "file_size": 21836,
+      "sha256": "6368ad0fc155617dabdd7e957e6cc28d43c58f99be1b66a233f2ee9de2b0c8ae",
+      "resource_key": "goods_96_png",
+      "source_kind": "resource_catalog"
+    },
+    "121": {
+      "path": "media/resource-catalog/images/fe120bf81b573556aac4907702bc48018e208daf57dbffd3d825c60c554c5b85.png",
+      "file_size": 24934,
+      "sha256": "fe120bf81b573556aac4907702bc48018e208daf57dbffd3d825c60c554c5b85",
+      "resource_key": "goods_mdd_21_png",
+      "source_kind": "resource_catalog"
+    },
+    "124": {
+      "path": "media/resource-catalog/images/bd378a3cfd6a1d12a07b5dae997146477dfacc1810120b948bdd9aad313a03d2.png",
+      "file_size": 19921,
+      "sha256": "bd378a3cfd6a1d12a07b5dae997146477dfacc1810120b948bdd9aad313a03d2",
+      "resource_key": "goods_mdd_24_png",
+      "source_kind": "resource_catalog"
+    },
+    "1000": {
+      "path": "media/resource-catalog/images/0ea84b9b1523ea63dd377522f4a4e0ad775449ecfa7a8840265e42a610c38027.png",
+      "file_size": 13261,
+      "sha256": "0ea84b9b1523ea63dd377522f4a4e0ad775449ecfa7a8840265e42a610c38027",
+      "resource_key": "goods_8_png",
+      "source_kind": "resource_catalog"
+    },
+    "1010": {
+      "path": "media/resource-catalog/images/3823efca173f33bee6eb998cb1da78af1fa64aa2b6b8f63caff6d347282e9b71.png",
+      "file_size": 18736,
+      "sha256": "3823efca173f33bee6eb998cb1da78af1fa64aa2b6b8f63caff6d347282e9b71",
+      "resource_key": "goods_0_png",
+      "source_kind": "resource_catalog"
+    },
+    "1011": {
+      "path": "media/resource-catalog/images/1e717836b92c7d0daf4d7e4d4bb51c9f9a3aa63859f2887c410ddcbe86501853.png",
+      "file_size": 27541,
+      "sha256": "1e717836b92c7d0daf4d7e4d4bb51c9f9a3aa63859f2887c410ddcbe86501853",
+      "resource_key": "goods_30_png",
+      "source_kind": "resource_catalog"
+    },
+    "1015": {
+      "path": "media/resource-catalog/images/a739b54bd29bebc68f3a9f6d8ac9a0a62e1fc282992113e0090c4d36ff0a7eb9.png",
+      "file_size": 21182,
+      "sha256": "a739b54bd29bebc68f3a9f6d8ac9a0a62e1fc282992113e0090c4d36ff0a7eb9",
+      "resource_key": "goods_36_png",
+      "source_kind": "resource_catalog"
+    },
+    "1101": {
+      "path": "media/resource-catalog/images/7322d33ba55b5d398c72f33f110526d6da71ae496b4ce4c132a7b5c25af0fc59.png",
+      "file_size": 23472,
+      "sha256": "7322d33ba55b5d398c72f33f110526d6da71ae496b4ce4c132a7b5c25af0fc59",
+      "resource_key": "goods_76_png",
+      "source_kind": "resource_catalog"
+    },
+    "1201": {
+      "path": "media/capsule/rewards/icon_xyh_0.png",
+      "file_size": 15828,
+      "sha256": "4613f585aa90f5935509cd7df207e6920f2be30d5d9fb32cce520ca4fbc6fcbe",
+      "width": 170,
+      "height": 170,
+      "resource_key": "icon_xyh_0_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/courtyard/icon_xyh_0.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "5101": {
+      "path": "media/capsule/rewards/seed_random.png",
+      "file_size": 31544,
+      "sha256": "7e21e938e077cb4a742c9fa1f037ead60e3ffd6ddd1947eafcb29a1088e4ae77",
+      "width": 250,
+      "height": 250,
+      "resource_key": "seed_random_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/courtyard/seed_random.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "8001": {
+      "path": "media/resource-catalog/images/e10931924d6c23199931cbe6749473fd3b01f7a048761dcff792427286e965f3.png",
+      "file_size": 20296,
+      "sha256": "e10931924d6c23199931cbe6749473fd3b01f7a048761dcff792427286e965f3",
+      "resource_key": "goods_94_png",
+      "source_kind": "resource_catalog"
+    },
+    "8002": {
+      "path": "media/resource-catalog/images/fb443c83a475f1ac399498494b6740fbf970e8dff909f72c4366a09a70ce3288.png",
+      "file_size": 9819,
+      "sha256": "fb443c83a475f1ac399498494b6740fbf970e8dff909f72c4366a09a70ce3288",
+      "resource_key": "goods_601_png",
+      "source_kind": "resource_catalog"
+    },
+    "8501": {
+      "path": "media/resource-catalog/images/d89a9a4d8a682af63600a006281853139a70f712c4fcb86a60232818ec1ab4ba.png",
+      "file_size": 14162,
+      "sha256": "d89a9a4d8a682af63600a006281853139a70f712c4fcb86a60232818ec1ab4ba",
+      "resource_key": "goods_251_png",
+      "source_kind": "resource_catalog"
+    },
+    "8502": {
+      "path": "media/resource-catalog/images/93b0e8325dc639b8a4ad859f0b167b6e1679151a507733ea547889ee6a80ee84.png",
+      "file_size": 13293,
+      "sha256": "93b0e8325dc639b8a4ad859f0b167b6e1679151a507733ea547889ee6a80ee84",
+      "resource_key": "goods_252_png",
+      "source_kind": "resource_catalog"
+    },
+    "8503": {
+      "path": "media/resource-catalog/images/e0c2fd8e84d807fca4883f8a566635560e0984bfa78b4ef22fec959da56af543.png",
+      "file_size": 12580,
+      "sha256": "e0c2fd8e84d807fca4883f8a566635560e0984bfa78b4ef22fec959da56af543",
+      "resource_key": "goods_253_png",
+      "source_kind": "resource_catalog"
+    },
+    "10001": {
+      "path": "media/capsule/rewards/cailiao_putong_1.png",
+      "file_size": 20769,
+      "sha256": "8b371eceda193e384f105665939e21ec1f3b4ab809ae012024131f548e28793b",
+      "width": 170,
+      "height": 170,
+      "resource_key": "cailiao_putong_1_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+      "resource_version": 1078,
+      "source_entry": "texture/furniture/cailiao_putong_1.png"
+    },
+    "10002": {
+      "path": "media/capsule/rewards/cailiao_putong_2.png",
+      "file_size": 14076,
+      "sha256": "3b7b1fddbd179becb7dd771a9d49daec7390c35e8294d24a18cc9398368f0aaf",
+      "width": 170,
+      "height": 170,
+      "resource_key": "cailiao_putong_2_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+      "resource_version": 1078,
+      "source_entry": "texture/furniture/cailiao_putong_2.png"
+    },
+    "10003": {
+      "path": "media/capsule/rewards/cailiao_putong_3.png",
+      "file_size": 14249,
+      "sha256": "96b3f0ee5fcae8913169cf2c958812ed3c8a0386b539cf81bc59864b4efd172c",
+      "width": 170,
+      "height": 170,
+      "resource_key": "cailiao_putong_3_png",
+      "source_kind": "hot_update_cache",
+      "source_member": "apps/com.aligames.lxqw.hhb/f/games/https/ali-lxqw-hotfix.ejoy.com/c1_client/release/lingxi/android/1078/resource/China/eab/first.eab#/95ff685b509698f5dd08311439a05bf7",
+      "resource_version": 1078,
+      "source_entry": "texture/furniture/cailiao_putong_3.png"
+    },
+    "11001": {
+      "path": "media/capsule/rewards/cailiao_teshu_1001.png",
+      "file_size": 20970,
+      "sha256": "218388f0289fe8ff3de9f216ba9cacd1ea42808993e1e9d802364ed755407851",
+      "width": 170,
+      "height": 170,
+      "resource_key": "cailiao_teshu_1001_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/furniture/cailiao_teshu_1001.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "20001": {
+      "path": "media/capsule/rewards/dfx_srf_1.png",
+      "file_size": 23323,
+      "sha256": "969715c58ff7f39a711dc5b51f12f78d222e804e3e97d49171111f80c5cb4f72",
+      "width": 250,
+      "height": 250,
+      "resource_key": "dfx_srf_1_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/courtyard/dfx_srf_1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "20004": {
+      "path": "media/capsule/rewards/dfx_hsf_1.png",
+      "file_size": 36508,
+      "sha256": "e37fdc8051b3fc906fe149ab943c16a46e6406d49177c3eea7ca45d1e5a81038",
+      "width": 250,
+      "height": 250,
+      "resource_key": "dfx_hsf_1_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/courtyard/dfx_hsf_1.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "20111": {
+      "path": "media/capsule/rewards/seed_linglan.png",
+      "file_size": 31170,
+      "sha256": "203a2007bf476e0fb16cd82fc2299b0a8e0b3dda9205b3e14e7161b003f7f2b1",
+      "width": 250,
+      "height": 250,
+      "resource_key": "seed_linglan_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/courtyard/seed_linglan.png",
+      "resource_version": "APK 1.0.20"
+    },
+    "200000": {
+      "path": "media/resource-catalog/images/268aeded44de87486b39e3f0d5ef91f66c39b54d232d7df839b5b46552e8a881.png",
+      "file_size": 16856,
+      "sha256": "268aeded44de87486b39e3f0d5ef91f66c39b54d232d7df839b5b46552e8a881",
+      "resource_key": "goods_40_png",
+      "source_kind": "resource_catalog"
+    },
+    "200001": {
+      "path": "media/resource-catalog/images/ba28b51cb6394b42b0e78b2d9ab50f102d06396d6a25d7c5e57fc5a2916f23fc.png",
+      "file_size": 12671,
+      "sha256": "ba28b51cb6394b42b0e78b2d9ab50f102d06396d6a25d7c5e57fc5a2916f23fc",
+      "resource_key": "goods_41_png",
+      "source_kind": "resource_catalog"
+    },
+    "202109": {
+      "path": "media/capsule/rewards/icon_liwu_dingxiang.png",
+      "file_size": 62728,
+      "sha256": "9eb91802deec8862b16abd44e6048462686c443136a1d49dfc6eb9ead175e992",
+      "width": 250,
+      "height": 250,
+      "resource_key": "icon_liwu_dingxiang_png",
+      "source_kind": "bundled_apk",
+      "source_member": "assets/game/resource/China/texture/courtyard/icon_liwu_dingxiang.png",
+      "resource_version": "APK 1.0.20"
+    }
+  },
+  "fast_consume": 30,
+  "tasks": [
+    {
+      "desc": "采摘庭院地里任意一株花草",
+      "id": 1,
+      "name": "采摘花草"
+    },
+    {
+      "desc": "放个食物到背包、桌子或伴手礼内",
+      "id": 2,
+      "name": "准备个食物"
+    },
+    {
+      "desc": "花掉任意数量的三叶草",
+      "id": 3,
+      "name": "花点三叶草"
+    },
+    {
+      "desc": "分享成功一次",
+      "id": 4,
+      "name": "一次分享"
+    },
+    {
+      "desc": "去一趟旅行或是聚会",
+      "id": 5,
+      "name": "出趟远门"
+    },
+    {
+      "desc": "喂食串门的小伙伴一次",
+      "id": 6,
+      "name": "喂个小伙伴"
+    },
+    {
+      "desc": "花掉任意数量的兑换券",
+      "id": 7,
+      "name": "花点兑换券"
+    },
+    {
+      "desc": "保存一张带回来的照片",
+      "id": 8,
+      "name": "保存一张照片"
+    }
+  ],
+  "rewards": [
+    {
+      "id": 200001,
+      "num": 1,
+      "reward_id": 101,
+      "type": 1,
+      "name": "兑奖券",
+      "info": "积攒五张 就能去商店的转盘潇洒一回",
+      "image": "media/resource-catalog/images/ba28b51cb6394b42b0e78b2d9ab50f102d06396d6a25d7c5e57fc5a2916f23fc.png"
+    },
+    {
+      "id": 1,
+      "num": 1,
+      "reward_id": 102,
+      "type": 1,
+      "name": "草莓可丽饼",
+      "info": "刚好可以吃饱的卷饼小吃 短途观光的美味餐点",
+      "image": "media/resource-catalog/images/b49432274c4e0ed89e6e99c257016f6e97a91338ce90dfbc52ac1c94be9cc8f4.png"
+    },
+    {
+      "id": 200000,
+      "num": 10,
+      "reward_id": 103,
+      "type": 1,
+      "name": "三叶草",
+      "info": "必不可少 买这买那都要它",
+      "image": "media/resource-catalog/images/268aeded44de87486b39e3f0d5ef91f66c39b54d232d7df839b5b46552e8a881.png"
+    },
+    {
+      "id": 8001,
+      "num": 1,
+      "reward_id": 104,
+      "type": 1,
+      "name": "朽木",
+      "info": "树皮裂开的老木头 不做手工还瞧不出树芯的好坏",
+      "image": "media/resource-catalog/images/e10931924d6c23199931cbe6749473fd3b01f7a048761dcff792427286e965f3.png"
+    },
+    {
+      "id": 10001,
+      "num": 1,
+      "reward_id": 105,
+      "type": 1,
+      "name": "松木",
+      "info": "原始的木料 树皮都还在",
+      "image": "media/capsule/rewards/cailiao_putong_1.png"
+    },
+    {
+      "id": 10002,
+      "num": 1,
+      "reward_id": 106,
+      "type": 1,
+      "name": "楠竹",
+      "info": "新鲜的竹子 能闻到竹林的味道",
+      "image": "media/capsule/rewards/cailiao_putong_2.png"
+    },
+    {
+      "id": 10003,
+      "num": 1,
+      "reward_id": 107,
+      "type": 1,
+      "name": "砂石",
+      "info": "不起眼的石头 却是很好用的材料",
+      "image": "media/capsule/rewards/cailiao_putong_3.png"
+    },
+    {
+      "id": 2,
+      "num": 1,
+      "reward_id": 201,
+      "type": 2,
+      "name": "沙拉皮塔饼",
+      "info": "分量相当充足的夹心面包 出门远行的最佳选择",
+      "image": "media/resource-catalog/images/593a5dbf273417612efb9a40b0b877a5085e5166c26ee868afdd74382fc48b13.png"
+    },
+    {
+      "id": 1000,
+      "num": 1,
+      "reward_id": 202,
+      "type": 2,
+      "name": "四叶草",
+      "info": "稀有的四叶草 据说会带来好运哦",
+      "image": "media/resource-catalog/images/0ea84b9b1523ea63dd377522f4a4e0ad775449ecfa7a8840265e42a610c38027.png"
+    },
+    {
+      "id": 8501,
+      "num": 1,
+      "reward_id": 203,
+      "type": 2,
+      "name": "木制护符的1号木片",
+      "info": "边角留有榫卯的小木片 看起来是某个组装件的一部分",
+      "image": "media/resource-catalog/images/d89a9a4d8a682af63600a006281853139a70f712c4fcb86a60232818ec1ab4ba.png"
+    },
+    {
+      "id": 8502,
+      "num": 1,
+      "reward_id": 204,
+      "type": 2,
+      "name": "木制护符的2号木片",
+      "info": "边角留有榫卯的小木片 看起来是某个组装件的一部分",
+      "image": "media/resource-catalog/images/93b0e8325dc639b8a4ad859f0b167b6e1679151a507733ea547889ee6a80ee84.png"
+    },
+    {
+      "id": 8503,
+      "num": 1,
+      "reward_id": 205,
+      "type": 2,
+      "name": "木制护符的3号木片",
+      "info": "边角留有榫卯的小木片 看起来是某个组装件的一部分",
+      "image": "media/resource-catalog/images/e0c2fd8e84d807fca4883f8a566635560e0984bfa78b4ef22fec959da56af543.png"
+    },
+    {
+      "id": 5101,
+      "num": 1,
+      "reward_id": 206,
+      "type": 2,
+      "name": "种子盲盒",
+      "info": "搞混了的种子 有两颗种子 ",
+      "image": "media/capsule/rewards/seed_random.png"
+    },
+    {
+      "id": 20001,
+      "num": 1,
+      "reward_id": 207,
+      "type": 2,
+      "name": "一号水溶肥",
+      "info": "快速溶解释放一些肥力 肥效较短",
+      "image": "media/capsule/rewards/dfx_srf_1.png"
+    },
+    {
+      "id": 20004,
+      "num": 1,
+      "reward_id": 208,
+      "type": 2,
+      "name": "缓释肥一号",
+      "info": "缓慢释放一些肥力 肥效较为持久",
+      "image": "media/capsule/rewards/dfx_hsf_1.png"
+    },
+    {
+      "id": 1101,
+      "num": 1,
+      "reward_id": 301,
+      "type": 3,
+      "name": "半成品的路标",
+      "info": "从轮廓依稀认出的路标 希望在路上能有点帮助",
+      "image": "media/resource-catalog/images/7322d33ba55b5d398c72f33f110526d6da71ae496b4ce4c132a7b5c25af0fc59.png"
+    },
+    {
+      "id": 1201,
+      "num": 1,
+      "reward_id": 302,
+      "type": 3,
+      "name": "幸运花",
+      "info": "一定是足够幸运 才会开出一朵美丽的幸运花吧",
+      "image": "media/capsule/rewards/icon_xyh_0.png"
+    },
+    {
+      "id": 202109,
+      "num": 1,
+      "reward_id": 303,
+      "type": 3,
+      "name": "丁香",
+      "info": "捩花目/木犀科/丁香属 纵放繁枝散诞春",
+      "image": "media/capsule/rewards/icon_liwu_dingxiang.png"
+    },
+    {
+      "id": 11001,
+      "num": 1,
+      "reward_id": 304,
+      "type": 3,
+      "name": "植物果实",
+      "info": "有一颗种子 就可以期待一个奇迹",
+      "image": "media/capsule/rewards/cailiao_teshu_1001.png"
+    },
+    {
+      "id": 121,
+      "num": 1,
+      "reward_id": 305,
+      "type": 3,
+      "name": "枸杞冰沙饼",
+      "info": "宁夏枸杞与冰沙饼相结合的健康美食 吃一口就想归宁",
+      "image": "media/resource-catalog/images/fe120bf81b573556aac4907702bc48018e208daf57dbffd3d825c60c554c5b85.png"
+    },
+    {
+      "id": 124,
+      "num": 1,
+      "reward_id": 306,
+      "type": 3,
+      "name": "酸枣糕",
+      "info": "口感酸甜又兼具糯米的软糯 吃一口就想赴赣",
+      "image": "media/resource-catalog/images/bd378a3cfd6a1d12a07b5dae997146477dfacc1810120b948bdd9aad313a03d2.png"
+    },
+    {
+      "id": 8002,
+      "num": 1,
+      "reward_id": 307,
+      "type": 3,
+      "name": "单色显影液",
+      "info": "一种新奇的液体 用在制作动态照片时略有效果",
+      "image": "media/resource-catalog/images/fb443c83a475f1ac399498494b6740fbf970e8dff909f72c4366a09a70ce3288.png"
+    },
+    {
+      "id": 1010,
+      "num": 1,
+      "reward_id": 308,
+      "type": 3,
+      "name": "蓝色千纸鹤",
+      "info": "可以实现愿望的千纸鹤 仿佛要飞往北边",
+      "image": "media/resource-catalog/images/3823efca173f33bee6eb998cb1da78af1fa64aa2b6b8f63caff6d347282e9b71.png"
+    },
+    {
+      "id": 1015,
+      "num": 1,
+      "reward_id": 309,
+      "type": 3,
+      "name": "红色帆船",
+      "info": "友谊的大船向南航行 寻找小伙伴全靠它",
+      "image": "media/resource-catalog/images/a739b54bd29bebc68f3a9f6d8ac9a0a62e1fc282992113e0090c4d36ff0a7eb9.png"
+    },
+    {
+      "id": 20111,
+      "num": 1,
+      "reward_id": 310,
+      "type": 3,
+      "name": "种球·铃兰",
+      "info": "球根植物的种子 来访的邻居似乎很感兴趣",
+      "image": "media/capsule/rewards/seed_linglan.png"
+    }
+  ],
+  "milestones": [
+    {
+      "item_id": 200001,
+      "item_num": 5,
+      "num": 3,
+      "pic": "capsule_state_2",
+      "name": "兑奖券",
+      "info": "积攒五张 就能去商店的转盘潇洒一回",
+      "image": "media/resource-catalog/images/ba28b51cb6394b42b0e78b2d9ab50f102d06396d6a25d7c5e57fc5a2916f23fc.png"
+    },
+    {
+      "item_id": 1011,
+      "item_num": 1,
+      "num": 7,
+      "pic": "capsule_state_3",
+      "name": "康乃馨",
+      "info": "温柔恬静的花朵 淡淡的馨香沁人心脾",
+      "image": "media/resource-catalog/images/1e717836b92c7d0daf4d7e4d4bb51c9f9a3aa63859f2887c410ddcbe86501853.png"
+    },
+    {
+      "item_id": 56,
+      "item_num": 1,
+      "num": 12,
+      "pic": "capsule_state_4",
+      "name": "森之国度·小鱼饼干",
+      "info": "森之国度的食物 前往未知的世界",
+      "image": "media/resource-catalog/images/6368ad0fc155617dabdd7e957e6cc28d43c58f99be1b66a233f2ee9de2b0c8ae.png"
+    }
+  ],
+  "protocols": [
+    "capsule_load",
+    "capsule_load_coin",
+    "capsule_load_task",
+    "capsule_twist",
+    "capsule_patch",
+    "capsule_fast_task",
+    "capsule_get_coin"
+  ],
+  "server_only_data": {
+    "activity_state": "End time, coins, tasks, history and missed-task count are supplied by the server.",
+    "draw_result": "The server selects reward_id; no probability table is present in the client."
+  }
+}
