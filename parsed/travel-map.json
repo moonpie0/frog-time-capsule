@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "ownership_source": "用户提供的游戏截图显示 35 个城市全部打卡",
+  "source_activity": "prism-qingwa-map 1.0.0",
+  "map_bounds": {
+    "min_longitude": 73.0,
+    "max_longitude": 135.5,
+    "min_latitude": 3.5,
+    "max_latitude": 53.8
+  },
+  "cities": [
+    {"id": 1, "key": "g_beijing", "name": "北京", "latitude": 39.852476, "longitude": 116.414668},
+    {"id": 2, "key": "g_tianjin", "name": "天津", "latitude": 38.978269, "longitude": 117.208431},
+    {"id": 3, "key": "g_ningxia", "name": "宁夏", "latitude": 38.375579, "longitude": 106.20741},
+    {"id": 4, "key": "g_qingdao", "name": "青岛", "latitude": 36.073841, "longitude": 120.378102},
+    {"id": 5, "key": "g_chengdu", "name": "成都", "latitude": 30.3935, "longitude": 104.0348},
+    {"id": 6, "key": "g_yunnan", "name": "云南", "latitude": 25.023, "longitude": 102.4218},
+    {"id": 7, "key": "g_lasa", "name": "拉萨", "latitude": 29.39, "longitude": 91.06},
+    {"id": 8, "key": "g_shanghai", "name": "上海", "latitude": 31.1354, "longitude": 121.2811},
+    {"id": 9, "key": "g_suzhou", "name": "苏州", "latitude": 31.272421, "longitude": 120.639194},
+    {"id": 10, "key": "g_hangzhou", "name": "杭州", "latitude": 30.16, "longitude": 120.12},
+    {"id": 11, "key": "g_hainan", "name": "海南", "latitude": 19.259396, "longitude": 109.834981},
+    {"id": 12, "key": "g_guilin", "name": "桂林", "latitude": 25.1404, "longitude": 110.1048},
+    {"id": 13, "key": "g_guangzhou", "name": "广州", "latitude": 23.07, "longitude": 113.15},
+    {"id": 14, "key": "g_xianggang", "name": "香港", "latitude": 22.243194, "longitude": 114.202397},
+    {"id": 15, "key": "g_tw_kending", "name": "垦丁", "latitude": 21.991696, "longitude": 120.803042},
+    {"id": 16, "key": "g_tw_shifen", "name": "十分", "latitude": 24.795443, "longitude": 121.529894},
+    {"id": 17, "key": "g_haerbin", "name": "哈尔滨", "latitude": 45.4805, "longitude": 126.3145},
+    {"id": 18, "key": "g_liaoning", "name": "辽宁", "latitude": 41.4744, "longitude": 123.2653},
+    {"id": 19, "key": "g_zhangjiajie", "name": "张家界", "latitude": 29.0701, "longitude": 110.2844},
+    {"id": 20, "key": "g_wuhan", "name": "武汉", "latitude": 30.35, "longitude": 114.19},
+    {"id": 21, "key": "g_luoyang", "name": "洛阳", "latitude": 34.371, "longitude": 112.2715},
+    {"id": 22, "key": "g_anhui", "name": "安徽", "latitude": 31.51, "longitude": 117.16},
+    {"id": 23, "key": "g_xian", "name": "西安", "latitude": 34.154, "longitude": 108.5633},
+    {"id": 24, "key": "g_jiuquan", "name": "酒泉", "latitude": 39.4402, "longitude": 98.2938},
+    {"id": 25, "key": "g_chongqing", "name": "重庆", "latitude": 29.33, "longitude": 106.33},
+    {"id": 26, "key": "g_guizhou", "name": "贵州", "latitude": 26.3423, "longitude": 106.4222},
+    {"id": 27, "key": "g_fujian", "name": "福建", "latitude": 26.09, "longitude": 119.17},
+    {"id": 28, "key": "g_jiangxi", "name": "江西", "latitude": 28.3649, "longitude": 115.5255},
+    {"id": 29, "key": "g_shanxi", "name": "山西", "latitude": 37.8139, "longitude": 112.5787},
+    {"id": 30, "key": "g_jilin", "name": "吉林", "latitude": 43.8848, "longitude": 125.3548},
+    {"id": 31, "key": "g_aomen", "name": "澳门", "latitude": 22.19, "longitude": 113.54},
+    {"id": 32, "key": "g_qinghai", "name": "青海", "latitude": 36.62, "longitude": 101.78},
+    {"id": 33, "key": "g_hebei", "name": "河北", "latitude": 38.04, "longitude": 114.51},
+    {"id": 34, "key": "g_neimenggu", "name": "内蒙古", "latitude": 40.84, "longitude": 111.75},
+    {"id": 35, "key": "g_xinjiang", "name": "新疆", "latitude": 43.83, "longitude": 87.62}
+  ],
+  "profile": {
+    "display_name": "土特产代购",
+    "character_id": "4345023",
+    "source": "用户提供的游戏截图",
+    "received": [],
+    "comments": [
+      {"date": "2023-02-10", "title": "欢迎来玩～", "city_key": "g_guilin", "author": "呱呱洋洋星", "text": "桂林山水甲天下，等到有能力赚钱那一天一定要去玩呀"},
+      {"date": "2022-07-04", "title": "好美捏", "city_key": "g_luoyang", "author": "蛙蛙", "text": "洛阳城里春光好"},
+      {"date": "2022-03-27", "title": "好可爱！！！", "city_key": "g_zhangjiajie", "author": "芊芊", "text": "一直好想去张家界走一走玻璃栈道，但是疫情一直去不了，QAQ，蛙蛙…"}
+    ],
+    "likes": [
+      {"date": "2026-09-16", "title": "点赞了", "city_key": "g_shanxi", "author": "孤寡沢", "text": "你做了手工换了新家具，特别萌的一只宝宝给自己做新家具我真的很开心…"},
+      {"date": "2024-09-22", "title": "点赞了", "city_key": "g_xian", "author": "满天星", "text": "终于有人陪我的娃子哥了，感动。西安钟楼真的很美哦"},
+      {"date": "2024-09-22", "title": "点赞了", "city_key": "g_haerbin", "author": "一一", "text": "下雪啦下雪啦"}
+    ]
+  },
+  "drift_bottles": [
+    {
+      "title": "",
+      "author": "阿风",
+      "ip_region": "江苏省",
+      "city_key": "g_anhui",
+      "picture_id": 2099,
+      "location": "安徽",
+      "date": "2026-09-15",
+      "text": "亲爱的，以后出去旅行麻麻再也不能给你收拾行李了，你要照顾好自己，出门带够路上的食物，给小水杯接好热水，天黑之前要支好帐篷，走到风大的地方要裹好头巾，下雨的时候要找地方避雨，打好麻麻给你买的小雨伞。\n阿风，希望未来我们还能再见。",
+      "likes": 90,
+      "comments": 7
+    }
+  ]
+}
